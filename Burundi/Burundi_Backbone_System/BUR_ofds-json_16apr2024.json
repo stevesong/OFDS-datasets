@@ -1,8 +1,8 @@
 {
     "networks": [
         {
-            "id": "85352470-1c31-40fc-b21e-aa6a58a5b87e",
-            "name": "NBI Uganda",
+            "id": "0bcd182a-fd3f-410e-b624-4c073d1ed260",
+            "name": "Burundi Backbone System",
             "links": [
                 {
                     "rel": "describedby",
@@ -12,7 +12,7 @@
             "nodes": [
                 {
                     "name": "Gasenyi",
-                    "id": "abfdfd77-c561-48d6-a8f6-bbc73cca8e97",
+                    "id": "15184cfc-f0f7-44b3-8f29-6fde3aa0556a",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -23,7 +23,7 @@
                 },
                 {
                     "name": "Kirundo",
-                    "id": "90d86c7e-4d64-43c0-b882-524c7e77bd30",
+                    "id": "448f49f7-630b-4bee-8047-62667688f359",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -34,7 +34,7 @@
                 },
                 {
                     "name": "Kobero",
-                    "id": "3bcdb2a4-001e-41fe-93ec-8df32e1387f0",
+                    "id": "df9981a9-979f-433a-949b-cf99995c969c",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -45,7 +45,7 @@
                 },
                 {
                     "name": "Muyinga",
-                    "id": "1534ba89-d2fa-4566-bcc9-7aa7b71db5ca",
+                    "id": "3b876c9d-30fd-40dd-95e6-7fecc48b2271",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -56,7 +56,7 @@
                 },
                 {
                     "name": "Karuzi",
-                    "id": "f8a26df9-5416-4f5c-9157-b22b5393cbfc",
+                    "id": "58c4e8e3-e12b-43de-bc9f-484da52a9065",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -67,7 +67,7 @@
                 },
                 {
                     "name": "Ngozi",
-                    "id": "dab2354d-0a3a-46b4-a500-2ac14c6dff3d",
+                    "id": "343ef07e-5370-4947-976e-ea29d9bb0fe2",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -78,7 +78,7 @@
                 },
                 {
                     "name": "Kayanza",
-                    "id": "5f277c46-468a-47f7-aba2-d51ee43cbdff",
+                    "id": "65148174-6038-4b67-ad8e-0384a53939e2",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -89,7 +89,7 @@
                 },
                 {
                     "name": "Cibitoke",
-                    "id": "ebbfe5a4-ecad-4838-bda9-6bb0f6957bd1",
+                    "id": "2291c174-9e94-4ed8-a25b-6cab0d6308a6",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -100,7 +100,7 @@
                 },
                 {
                     "name": "Bubanza",
-                    "id": "56e0bd63-cb88-44f7-8bea-c77c73d227cf",
+                    "id": "4a1a0909-b11d-4159-a898-0419ce7ae4bf",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -111,7 +111,7 @@
                 },
                 {
                     "name": "Muramvya",
-                    "id": "643699fe-80d9-4bea-b142-ee1fbcd8ffb5",
+                    "id": "dc9b5daf-abf3-46a4-83d8-d82684a270c4",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -122,7 +122,7 @@
                 },
                 {
                     "name": "Ruyigi",
-                    "id": "9b1cf669-f257-4037-a82b-4ed96dd10c46",
+                    "id": "83dfd667-5ab2-4ccc-b7a1-8e97c5264189",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -133,7 +133,7 @@
                 },
                 {
                     "name": "Mwaro",
-                    "id": "56e50e93-15be-4421-86b1-8db0bd2f165e",
+                    "id": "49f2face-857b-4992-bf40-385041367cde",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -144,7 +144,7 @@
                 },
                 {
                     "name": "Bujumbura",
-                    "id": "0af94bbd-5b75-4bbd-a3e9-548b0174fd25",
+                    "id": "a406dba1-2b79-4082-a3f9-a85fcd3a141d",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -155,7 +155,7 @@
                 },
                 {
                     "name": "Gitega",
-                    "id": "0825614f-498f-4eea-9cff-fe14642602be",
+                    "id": "27a3baab-feaf-44a8-8125-815b63223e1e",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -166,7 +166,7 @@
                 },
                 {
                     "name": "Mugamba",
-                    "id": "4dcbefb6-cec9-4bf4-a7c6-e57be3b9841a",
+                    "id": "cfb6de97-bc51-43ee-b76a-a32924be04d0",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -177,7 +177,7 @@
                 },
                 {
                     "name": "Matana",
-                    "id": "104176d4-23e9-4741-8741-245337bb30de",
+                    "id": "8eb25246-576e-42bc-a18d-7953592231fe",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -188,7 +188,7 @@
                 },
                 {
                     "name": "Rumonge",
-                    "id": "e4a8a7af-969f-4da9-8767-1f265bda792e",
+                    "id": "6f4824ed-feeb-43be-9e4b-fe0d4528438e",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -199,7 +199,7 @@
                 },
                 {
                     "name": "Gatumba",
-                    "id": "464d5f51-e9e6-4c3d-9458-a5296206e2d9",
+                    "id": "7d0c77e3-81ed-4b4c-a483-a81f732d5a80",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -210,7 +210,7 @@
                 },
                 {
                     "name": "Rutana",
-                    "id": "a2f0fea9-37bd-4eb4-b87a-be1027291487",
+                    "id": "321afa0b-748c-4c36-a5e0-1b47736f6419",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -221,7 +221,7 @@
                 },
                 {
                     "name": "Makamba",
-                    "id": "e741f626-68dc-4b12-9c72-81ab75df739c",
+                    "id": "a0141d9f-5f4c-4c5c-83cb-9ce4b88154d6",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -232,7 +232,7 @@
                 },
                 {
                     "name": "Nyanza-Lac",
-                    "id": "4592daaa-f423-4fec-b7b5-5c1c90dd1fe7",
+                    "id": "36d19c5e-bb35-4a6a-b1ce-3d7d5c726e6a",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -243,7 +243,7 @@
                 },
                 {
                     "name": "Cankuzo",
-                    "id": "6a679268-2053-4d8d-862a-5536a2f6a1b7",
+                    "id": "4d2c845c-f0a0-4dfe-b0ce-6e24141e0202",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -254,7 +254,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "652313c0-cea9-451a-ae7f-b54ed40fd077",
+                    "id": "e7f23edb-ee46-4851-bf24-4edf58c2e973",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -265,7 +265,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "27925a8c-f1bd-45ac-86f0-469c66c5893a",
+                    "id": "8e1d2269-4bc0-4cd8-99c7-25e2661ebb97",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -276,7 +276,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "ed9c2f4a-025b-432c-bf6e-a9684d349e8b",
+                    "id": "717fc1be-3e9c-4146-8b53-e655a4b30b90",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -287,7 +287,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "9f6e9e4f-898a-465e-a02b-c9a4e45b8fee",
+                    "id": "cd88eb53-9e06-41c6-843c-c991eaaac5c4",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -298,7 +298,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "30b5a6e6-91a2-49f0-a76d-0a69b52f518d",
+                    "id": "1d313401-16a9-4f17-8287-b81776e10275",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -309,7 +309,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "7073192a-e5dc-4f00-8ddf-a27c32ee12b2",
+                    "id": "092342f8-76b0-4fca-8a1c-6aa99f2f8000",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -320,7 +320,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "07c9676f-e908-41d8-9b9e-1b610b3f1e86",
+                    "id": "e1befcf3-c3e0-4fb3-b180-59dab584d545",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -331,7 +331,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "15921db4-bf2e-4998-b630-9e0d31ef547d",
+                    "id": "6378992e-717e-44ca-9ace-2fe2a5a967c3",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -342,7 +342,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "584ab082-c7f9-4e97-a832-ed7cbb796251",
+                    "id": "d3b54b2e-c8bf-4cc2-8160-26e3b89792ab",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -353,7 +353,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "92cc7da9-594a-4c99-8661-bd2c54cfe4e1",
+                    "id": "97556906-84e2-4625-a6f1-09bd22ac1ed1",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -364,7 +364,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "a04afa8f-2069-48e5-8ab9-1611295ea8ef",
+                    "id": "1edb03d4-48dd-463d-95ab-0ad5b70a6a88",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -375,7 +375,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "0526b2f5-ab17-46a5-b98c-ec34fb8b76c7",
+                    "id": "b380757d-dee0-4f4f-b8be-1407106043c0",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -386,7 +386,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "5ddcd16e-148a-4080-a859-b7df548a121f",
+                    "id": "234cbd70-9926-456b-b6c5-326aaf95bc66",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -397,7 +397,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "db7cbcb7-e7ac-4c74-b5eb-6fc0266710ea",
+                    "id": "84202fe3-bc92-45e1-9ee2-3dfe102e3e0c",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -408,7 +408,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "83592ade-c3c1-45b0-9ac3-7b47fb14b6ec",
+                    "id": "be3e1468-0c47-4217-9ecc-f5d698126901",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -419,7 +419,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "7e3a4975-bcbe-40e7-abf1-8316e87f8c5f",
+                    "id": "ab6284df-443a-45c6-8175-bd9f4ea4fc7c",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -430,7 +430,7 @@
                 },
                 {
                     "name": "Auto generated missing node",
-                    "id": "f29e9aaf-e4d5-4372-9ed8-a8a1e873446b",
+                    "id": "fd50edaf-5f94-4681-a082-3256141c9048",
                     "location": {
                         "type": "Point",
                         "coordinates": [
@@ -442,11 +442,11 @@
             ],
             "spans": [
                 {
-                    "id": "cfa422a4-8f9a-48f4-9930-bc51778e4ca9",
+                    "id": "ed21aa5f-d33f-4d7e-829e-579678607171",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "abfdfd77-c561-48d6-a8f6-bbc73cca8e97",
-                    "end": "abfdfd77-c561-48d6-a8f6-bbc73cca8e97",
+                    "start": "15184cfc-f0f7-44b3-8f29-6fde3aa0556a",
+                    "end": "15184cfc-f0f7-44b3-8f29-6fde3aa0556a",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -462,11 +462,11 @@
                     }
                 },
                 {
-                    "id": "448321a5-c84d-4915-8561-f8c5225f2e75",
+                    "id": "6b445ba6-2940-40cf-85dc-dbe08b5205d2",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "abfdfd77-c561-48d6-a8f6-bbc73cca8e97",
-                    "end": "1534ba89-d2fa-4566-bcc9-7aa7b71db5ca",
+                    "start": "15184cfc-f0f7-44b3-8f29-6fde3aa0556a",
+                    "end": "3b876c9d-30fd-40dd-95e6-7fecc48b2271",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -502,11 +502,11 @@
                     }
                 },
                 {
-                    "id": "2494ae61-519b-4162-8f90-5037a2c31144",
+                    "id": "c07e02ee-7d83-4438-868c-f005b3e80690",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "1534ba89-d2fa-4566-bcc9-7aa7b71db5ca",
-                    "end": "1534ba89-d2fa-4566-bcc9-7aa7b71db5ca",
+                    "start": "3b876c9d-30fd-40dd-95e6-7fecc48b2271",
+                    "end": "3b876c9d-30fd-40dd-95e6-7fecc48b2271",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -522,11 +522,11 @@
                     }
                 },
                 {
-                    "id": "9afd4be3-9775-4407-941b-354bdaf050cd",
+                    "id": "b8d71ad1-0321-46c8-a8c1-087e98c21b53",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "1534ba89-d2fa-4566-bcc9-7aa7b71db5ca",
-                    "end": "f8a26df9-5416-4f5c-9157-b22b5393cbfc",
+                    "start": "3b876c9d-30fd-40dd-95e6-7fecc48b2271",
+                    "end": "58c4e8e3-e12b-43de-bc9f-484da52a9065",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -602,11 +602,11 @@
                     }
                 },
                 {
-                    "id": "cde0afe6-3dee-468b-8b38-39b6de43e582",
+                    "id": "1b37bcd5-c081-4424-86fb-937f3121bd5a",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "f8a26df9-5416-4f5c-9157-b22b5393cbfc",
-                    "end": "f8a26df9-5416-4f5c-9157-b22b5393cbfc",
+                    "start": "58c4e8e3-e12b-43de-bc9f-484da52a9065",
+                    "end": "58c4e8e3-e12b-43de-bc9f-484da52a9065",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -626,11 +626,11 @@
                     }
                 },
                 {
-                    "id": "8e90d20c-45fb-41c4-93f6-498fba3d0114",
+                    "id": "d35c5a55-aef8-4eb7-b38f-ae066f0ad969",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "f8a26df9-5416-4f5c-9157-b22b5393cbfc",
-                    "end": "56e50e93-15be-4421-86b1-8db0bd2f165e",
+                    "start": "58c4e8e3-e12b-43de-bc9f-484da52a9065",
+                    "end": "49f2face-857b-4992-bf40-385041367cde",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -738,11 +738,11 @@
                     }
                 },
                 {
-                    "id": "7510b8d1-736f-486e-a661-b4fee4ae8187",
+                    "id": "8ab89e99-6178-4e14-aea9-8181e00f4a27",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "56e50e93-15be-4421-86b1-8db0bd2f165e",
-                    "end": "56e50e93-15be-4421-86b1-8db0bd2f165e",
+                    "start": "49f2face-857b-4992-bf40-385041367cde",
+                    "end": "49f2face-857b-4992-bf40-385041367cde",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -758,11 +758,11 @@
                     }
                 },
                 {
-                    "id": "bf1b5d24-fd4d-4001-aa91-dd059d5530a5",
+                    "id": "a1df6311-e9b3-47dc-8bd0-92bf91c5b790",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "56e50e93-15be-4421-86b1-8db0bd2f165e",
-                    "end": "5f277c46-468a-47f7-aba2-d51ee43cbdff",
+                    "start": "49f2face-857b-4992-bf40-385041367cde",
+                    "end": "65148174-6038-4b67-ad8e-0384a53939e2",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -946,11 +946,11 @@
                     }
                 },
                 {
-                    "id": "35c1c1f9-ae46-44b5-a5b1-3f1d01c372d6",
+                    "id": "32420697-9859-42a1-aea7-8ea07d047a02",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "5f277c46-468a-47f7-aba2-d51ee43cbdff",
-                    "end": "5f277c46-468a-47f7-aba2-d51ee43cbdff",
+                    "start": "65148174-6038-4b67-ad8e-0384a53939e2",
+                    "end": "65148174-6038-4b67-ad8e-0384a53939e2",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -966,11 +966,11 @@
                     }
                 },
                 {
-                    "id": "b303ce27-7615-4946-9984-c650ab696dc1",
+                    "id": "443fb9e5-c21b-4084-8e7d-6423038be3f1",
                     "name": "Kobero - Bujumbura",
                     "pointNames": "Gasenyi, Kobero, Muyinga, Karuzi, Kayanza, Mwaro",
-                    "start": "5f277c46-468a-47f7-aba2-d51ee43cbdff",
-                    "end": "652313c0-cea9-451a-ae7f-b54ed40fd077",
+                    "start": "65148174-6038-4b67-ad8e-0384a53939e2",
+                    "end": "e7f23edb-ee46-4851-bf24-4edf58c2e973",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1010,11 +1010,11 @@
                     }
                 },
                 {
-                    "id": "a2c158cf-098f-468d-a728-fd0f3f0bede7",
+                    "id": "7771e618-16e5-421e-9697-68890300fc04",
                     "name": "To Rwanda border",
                     "pointNames": "Kirundo, Ngozi",
-                    "start": "27925a8c-f1bd-45ac-86f0-469c66c5893a",
-                    "end": "dab2354d-0a3a-46b4-a500-2ac14c6dff3d",
+                    "start": "8e1d2269-4bc0-4cd8-99c7-25e2661ebb97",
+                    "end": "343ef07e-5370-4947-976e-ea29d9bb0fe2",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1114,11 +1114,11 @@
                     }
                 },
                 {
-                    "id": "d6d39267-6a55-4242-ab8b-0be954ba97fd",
+                    "id": "4fc5c077-3d62-4f61-be71-9b56a8305d63",
                     "name": "To Rwanda border",
                     "pointNames": "Kirundo, Ngozi",
-                    "start": "dab2354d-0a3a-46b4-a500-2ac14c6dff3d",
-                    "end": "dab2354d-0a3a-46b4-a500-2ac14c6dff3d",
+                    "start": "343ef07e-5370-4947-976e-ea29d9bb0fe2",
+                    "end": "343ef07e-5370-4947-976e-ea29d9bb0fe2",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1138,11 +1138,11 @@
                     }
                 },
                 {
-                    "id": "db755769-6764-4d16-9626-b46ab9de9ea0",
+                    "id": "afaf6e17-2aa4-4034-a228-188ad4705f6a",
                     "name": "To Rwanda border",
                     "pointNames": "Kirundo, Ngozi",
-                    "start": "dab2354d-0a3a-46b4-a500-2ac14c6dff3d",
-                    "end": "90d86c7e-4d64-43c0-b882-524c7e77bd30",
+                    "start": "343ef07e-5370-4947-976e-ea29d9bb0fe2",
+                    "end": "448f49f7-630b-4bee-8047-62667688f359",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1326,11 +1326,11 @@
                     }
                 },
                 {
-                    "id": "78d0699a-f02a-4393-ab23-846fbbed5a23",
+                    "id": "c6957e2b-aeb7-4bce-aa7b-87e967c59c44",
                     "name": "To Rwanda border",
                     "pointNames": "Kirundo, Ngozi",
-                    "start": "90d86c7e-4d64-43c0-b882-524c7e77bd30",
-                    "end": "90d86c7e-4d64-43c0-b882-524c7e77bd30",
+                    "start": "448f49f7-630b-4bee-8047-62667688f359",
+                    "end": "448f49f7-630b-4bee-8047-62667688f359",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1350,11 +1350,11 @@
                     }
                 },
                 {
-                    "id": "7d691c5b-9c34-4d2e-8b6d-6615ae0c0703",
+                    "id": "3e75512a-f452-48d9-8de0-c9f60a4b3de0",
                     "name": "To Rwanda border",
                     "pointNames": "Kirundo, Ngozi",
-                    "start": "90d86c7e-4d64-43c0-b882-524c7e77bd30",
-                    "end": "ed9c2f4a-025b-432c-bf6e-a9684d349e8b",
+                    "start": "448f49f7-630b-4bee-8047-62667688f359",
+                    "end": "717fc1be-3e9c-4146-8b53-e655a4b30b90",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1466,11 +1466,11 @@
                     }
                 },
                 {
-                    "id": "71251114-73e4-4c18-9f11-230e5bc79a9f",
+                    "id": "42dd9e79-8efe-4935-a68f-fd77a11a868e",
                     "name": "Muyange - Muyinga",
                     "pointNames": "",
-                    "start": "9f6e9e4f-898a-465e-a02b-c9a4e45b8fee",
-                    "end": "30b5a6e6-91a2-49f0-a76d-0a69b52f518d",
+                    "start": "cd88eb53-9e06-41c6-843c-c991eaaac5c4",
+                    "end": "1d313401-16a9-4f17-8287-b81776e10275",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1578,11 +1578,11 @@
                     }
                 },
                 {
-                    "id": "94e9cb37-8e24-4aa7-9136-7ed0f4672323",
+                    "id": "337ef2f4-d955-4a8e-baf6-dcde04c05056",
                     "name": "Muramya - Gitega",
                     "pointNames": "Muramvya, Gitega",
-                    "start": "7073192a-e5dc-4f00-8ddf-a27c32ee12b2",
-                    "end": "643699fe-80d9-4bea-b142-ee1fbcd8ffb5",
+                    "start": "092342f8-76b0-4fca-8a1c-6aa99f2f8000",
+                    "end": "dc9b5daf-abf3-46a4-83d8-d82684a270c4",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1634,11 +1634,11 @@
                     }
                 },
                 {
-                    "id": "ef0d9734-5144-4755-868f-0694e265c4f5",
+                    "id": "18d5bcb9-6782-475c-b8c3-4491d7821f5e",
                     "name": "Muramya - Gitega",
                     "pointNames": "Muramvya, Gitega",
-                    "start": "643699fe-80d9-4bea-b142-ee1fbcd8ffb5",
-                    "end": "643699fe-80d9-4bea-b142-ee1fbcd8ffb5",
+                    "start": "dc9b5daf-abf3-46a4-83d8-d82684a270c4",
+                    "end": "dc9b5daf-abf3-46a4-83d8-d82684a270c4",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1658,11 +1658,11 @@
                     }
                 },
                 {
-                    "id": "44d9181c-5404-4634-a0ed-377241efbe43",
+                    "id": "60cbfa64-3a5e-4c83-91e1-032d41a80135",
                     "name": "Muramya - Gitega",
                     "pointNames": "Muramvya, Gitega",
-                    "start": "643699fe-80d9-4bea-b142-ee1fbcd8ffb5",
-                    "end": "0825614f-498f-4eea-9cff-fe14642602be",
+                    "start": "dc9b5daf-abf3-46a4-83d8-d82684a270c4",
+                    "end": "27a3baab-feaf-44a8-8125-815b63223e1e",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1810,11 +1810,11 @@
                     }
                 },
                 {
-                    "id": "28673abf-c4cb-4c98-8ce6-c5ca33bb25bb",
+                    "id": "a399d81f-6c7c-4eba-8976-72b8a97fd9cd",
                     "name": "Muramya - Gitega",
                     "pointNames": "Muramvya, Gitega",
-                    "start": "0825614f-498f-4eea-9cff-fe14642602be",
-                    "end": "0825614f-498f-4eea-9cff-fe14642602be",
+                    "start": "27a3baab-feaf-44a8-8125-815b63223e1e",
+                    "end": "27a3baab-feaf-44a8-8125-815b63223e1e",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1830,11 +1830,11 @@
                     }
                 },
                 {
-                    "id": "afb9eb11-0459-4d2c-9bf3-e9c213f9733d",
+                    "id": "9809f26d-358e-4394-9eb9-fdd212715f92",
                     "name": "Muramya - Gitega",
                     "pointNames": "Muramvya, Gitega",
-                    "start": "0825614f-498f-4eea-9cff-fe14642602be",
-                    "end": "07c9676f-e908-41d8-9b9e-1b610b3f1e86",
+                    "start": "27a3baab-feaf-44a8-8125-815b63223e1e",
+                    "end": "e1befcf3-c3e0-4fb3-b180-59dab584d545",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1854,11 +1854,11 @@
                     }
                 },
                 {
-                    "id": "dd4f7fd9-5f64-4542-a1de-7d57ddfd52d8",
+                    "id": "1b5e2b72-bb54-4a11-ab06-d03d00a0f03b",
                     "name": "Gitega - Cankuze",
                     "pointNames": "Ruyigi, Cankuzo",
-                    "start": "15921db4-bf2e-4998-b630-9e0d31ef547d",
-                    "end": "9b1cf669-f257-4037-a82b-4ed96dd10c46",
+                    "start": "6378992e-717e-44ca-9ace-2fe2a5a967c3",
+                    "end": "83dfd667-5ab2-4ccc-b7a1-8e97c5264189",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1942,11 +1942,11 @@
                     }
                 },
                 {
-                    "id": "9a900449-5ccb-4e87-a31d-8f1506ce8df0",
+                    "id": "3adafd83-f6e3-4364-84a7-3f8ae1d099d9",
                     "name": "Gitega - Cankuze",
                     "pointNames": "Ruyigi, Cankuzo",
-                    "start": "9b1cf669-f257-4037-a82b-4ed96dd10c46",
-                    "end": "9b1cf669-f257-4037-a82b-4ed96dd10c46",
+                    "start": "83dfd667-5ab2-4ccc-b7a1-8e97c5264189",
+                    "end": "83dfd667-5ab2-4ccc-b7a1-8e97c5264189",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -1962,11 +1962,11 @@
                     }
                 },
                 {
-                    "id": "59ba4c21-0138-4f5a-8836-1704efa15aab",
+                    "id": "6244b109-faf6-4402-80f5-997d436196d7",
                     "name": "Gitega - Cankuze",
                     "pointNames": "Ruyigi, Cankuzo",
-                    "start": "9b1cf669-f257-4037-a82b-4ed96dd10c46",
-                    "end": "6a679268-2053-4d8d-862a-5536a2f6a1b7",
+                    "start": "83dfd667-5ab2-4ccc-b7a1-8e97c5264189",
+                    "end": "4d2c845c-f0a0-4dfe-b0ce-6e24141e0202",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2042,11 +2042,11 @@
                     }
                 },
                 {
-                    "id": "ddc54526-df28-4374-a956-625168d073c6",
+                    "id": "58ba49cf-bacd-43c1-b9a1-60d62ab7a0f8",
                     "name": "Gitega - Cankuze",
                     "pointNames": "Ruyigi, Cankuzo",
-                    "start": "6a679268-2053-4d8d-862a-5536a2f6a1b7",
-                    "end": "6a679268-2053-4d8d-862a-5536a2f6a1b7",
+                    "start": "4d2c845c-f0a0-4dfe-b0ce-6e24141e0202",
+                    "end": "4d2c845c-f0a0-4dfe-b0ce-6e24141e0202",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2066,11 +2066,11 @@
                     }
                 },
                 {
-                    "id": "167ab847-d9f8-4df1-a4e9-c6bec6c39720",
+                    "id": "fa5273aa-69f5-4ec7-b7c7-1511a33fceb3",
                     "name": "Gitega - Cankuze",
                     "pointNames": "Ruyigi, Cankuzo",
-                    "start": "6a679268-2053-4d8d-862a-5536a2f6a1b7",
-                    "end": "584ab082-c7f9-4e97-a832-ed7cbb796251",
+                    "start": "4d2c845c-f0a0-4dfe-b0ce-6e24141e0202",
+                    "end": "d3b54b2e-c8bf-4cc2-8160-26e3b89792ab",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2106,11 +2106,11 @@
                     }
                 },
                 {
-                    "id": "a1a6226f-8ad3-4523-986d-941c94b9415c",
+                    "id": "ca853f6e-67a4-41d2-b73e-ca2737e329e6",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "92cc7da9-594a-4c99-8661-bd2c54cfe4e1",
-                    "end": "4dcbefb6-cec9-4bf4-a7c6-e57be3b9841a",
+                    "start": "97556906-84e2-4625-a6f1-09bd22ac1ed1",
+                    "end": "cfb6de97-bc51-43ee-b76a-a32924be04d0",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2186,11 +2186,11 @@
                     }
                 },
                 {
-                    "id": "4c8bae09-695c-41c6-941e-7922888bea30",
+                    "id": "3d1d2d1d-e2a9-418d-b1e7-6c4a78bffb04",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "4dcbefb6-cec9-4bf4-a7c6-e57be3b9841a",
-                    "end": "4dcbefb6-cec9-4bf4-a7c6-e57be3b9841a",
+                    "start": "cfb6de97-bc51-43ee-b76a-a32924be04d0",
+                    "end": "cfb6de97-bc51-43ee-b76a-a32924be04d0",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2206,11 +2206,11 @@
                     }
                 },
                 {
-                    "id": "5e963831-090b-402d-84a9-7a1c2dd1c969",
+                    "id": "ae223a8e-d384-497f-937d-f051822482ab",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "4dcbefb6-cec9-4bf4-a7c6-e57be3b9841a",
-                    "end": "104176d4-23e9-4741-8741-245337bb30de",
+                    "start": "cfb6de97-bc51-43ee-b76a-a32924be04d0",
+                    "end": "8eb25246-576e-42bc-a18d-7953592231fe",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2294,11 +2294,11 @@
                     }
                 },
                 {
-                    "id": "1f26039b-b84f-424c-a5a8-5942bc7ebdcc",
+                    "id": "3f5b62bb-fd2e-454c-a57c-a93096522be7",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "104176d4-23e9-4741-8741-245337bb30de",
-                    "end": "104176d4-23e9-4741-8741-245337bb30de",
+                    "start": "8eb25246-576e-42bc-a18d-7953592231fe",
+                    "end": "8eb25246-576e-42bc-a18d-7953592231fe",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2314,11 +2314,11 @@
                     }
                 },
                 {
-                    "id": "3b8c7fa0-c0dc-4f50-93a5-b7157321bba0",
+                    "id": "d1497e79-105a-4b46-a9fb-1ba9490c6da7",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "104176d4-23e9-4741-8741-245337bb30de",
-                    "end": "a2f0fea9-37bd-4eb4-b87a-be1027291487",
+                    "start": "8eb25246-576e-42bc-a18d-7953592231fe",
+                    "end": "321afa0b-748c-4c36-a5e0-1b47736f6419",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2450,11 +2450,11 @@
                     }
                 },
                 {
-                    "id": "2e57e883-a3ac-4de1-88eb-1f654898f647",
+                    "id": "97e130c1-debe-4ba2-bbde-7d196d47be14",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "a2f0fea9-37bd-4eb4-b87a-be1027291487",
-                    "end": "a2f0fea9-37bd-4eb4-b87a-be1027291487",
+                    "start": "321afa0b-748c-4c36-a5e0-1b47736f6419",
+                    "end": "321afa0b-748c-4c36-a5e0-1b47736f6419",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2470,11 +2470,11 @@
                     }
                 },
                 {
-                    "id": "c71e2828-1edf-49aa-9bab-983a0af8628a",
+                    "id": "4f56adb3-df2c-4f00-81c1-854e574354ae",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "a2f0fea9-37bd-4eb4-b87a-be1027291487",
-                    "end": "e741f626-68dc-4b12-9c72-81ab75df739c",
+                    "start": "321afa0b-748c-4c36-a5e0-1b47736f6419",
+                    "end": "a0141d9f-5f4c-4c5c-83cb-9ce4b88154d6",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2626,11 +2626,11 @@
                     }
                 },
                 {
-                    "id": "584e7553-7f58-41e8-8c7f-575dd8c577e1",
+                    "id": "39dc3a73-1cfd-4b90-93bf-364ff3986238",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "e741f626-68dc-4b12-9c72-81ab75df739c",
-                    "end": "e741f626-68dc-4b12-9c72-81ab75df739c",
+                    "start": "a0141d9f-5f4c-4c5c-83cb-9ce4b88154d6",
+                    "end": "a0141d9f-5f4c-4c5c-83cb-9ce4b88154d6",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2646,11 +2646,11 @@
                     }
                 },
                 {
-                    "id": "7dc11826-bd5a-4e5c-b190-050bb8494a28",
+                    "id": "03ed3ba8-db36-471e-b8b2-7355a1e35f3f",
                     "name": "to Tanzanian border in the south",
                     "pointNames": "Mugamba, Matana, Rutana, Makamba",
-                    "start": "e741f626-68dc-4b12-9c72-81ab75df739c",
-                    "end": "a04afa8f-2069-48e5-8ab9-1611295ea8ef",
+                    "start": "a0141d9f-5f4c-4c5c-83cb-9ce4b88154d6",
+                    "end": "1edb03d4-48dd-463d-95ab-0ad5b70a6a88",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2722,11 +2722,11 @@
                     }
                 },
                 {
-                    "id": "7c285d0f-441e-43a6-a691-9942d023ec18",
+                    "id": "bd31bce2-2200-4e68-a48b-3987773fd32a",
                     "name": "Western border fibre",
                     "pointNames": "Cibitoke, Rumonge, Nyanza-Lac",
-                    "start": "0526b2f5-ab17-46a5-b98c-ec34fb8b76c7",
-                    "end": "ebbfe5a4-ecad-4838-bda9-6bb0f6957bd1",
+                    "start": "b380757d-dee0-4f4f-b8be-1407106043c0",
+                    "end": "2291c174-9e94-4ed8-a25b-6cab0d6308a6",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2746,11 +2746,11 @@
                     }
                 },
                 {
-                    "id": "5f3f174a-febf-48f2-8efe-0953135506ee",
+                    "id": "3370df81-7b78-4fd1-ad73-87f9c7f64cbe",
                     "name": "Western border fibre",
                     "pointNames": "Cibitoke, Rumonge, Nyanza-Lac",
-                    "start": "ebbfe5a4-ecad-4838-bda9-6bb0f6957bd1",
-                    "end": "ebbfe5a4-ecad-4838-bda9-6bb0f6957bd1",
+                    "start": "2291c174-9e94-4ed8-a25b-6cab0d6308a6",
+                    "end": "2291c174-9e94-4ed8-a25b-6cab0d6308a6",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2766,11 +2766,11 @@
                     }
                 },
                 {
-                    "id": "8deaaa07-b130-4e65-b633-10584422bcfe",
+                    "id": "0d1ebee4-eadf-4460-b529-c05c16ac328c",
                     "name": "Western border fibre",
                     "pointNames": "Cibitoke, Rumonge, Nyanza-Lac",
-                    "start": "ebbfe5a4-ecad-4838-bda9-6bb0f6957bd1",
-                    "end": "e4a8a7af-969f-4da9-8767-1f265bda792e",
+                    "start": "2291c174-9e94-4ed8-a25b-6cab0d6308a6",
+                    "end": "6f4824ed-feeb-43be-9e4b-fe0d4528438e",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2842,11 +2842,11 @@
                     }
                 },
                 {
-                    "id": "37d7a25e-7cb6-4eba-afe7-c1423a647d61",
+                    "id": "728d6675-3731-4ed0-8db2-50522628807f",
                     "name": "Western border fibre",
                     "pointNames": "Cibitoke, Rumonge, Nyanza-Lac",
-                    "start": "e4a8a7af-969f-4da9-8767-1f265bda792e",
-                    "end": "e4a8a7af-969f-4da9-8767-1f265bda792e",
+                    "start": "6f4824ed-feeb-43be-9e4b-fe0d4528438e",
+                    "end": "6f4824ed-feeb-43be-9e4b-fe0d4528438e",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2862,11 +2862,11 @@
                     }
                 },
                 {
-                    "id": "6122dc21-93eb-4fe8-9105-fb9eb67021ac",
+                    "id": "376c9bba-abc4-4ba1-97fc-ce848839e6f8",
                     "name": "Western border fibre",
                     "pointNames": "Cibitoke, Rumonge, Nyanza-Lac",
-                    "start": "e4a8a7af-969f-4da9-8767-1f265bda792e",
-                    "end": "4592daaa-f423-4fec-b7b5-5c1c90dd1fe7",
+                    "start": "6f4824ed-feeb-43be-9e4b-fe0d4528438e",
+                    "end": "36d19c5e-bb35-4a6a-b1ce-3d7d5c726e6a",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2918,11 +2918,11 @@
                     }
                 },
                 {
-                    "id": "ea76cc97-ef62-4aa2-bf4d-9523245b46ff",
+                    "id": "58b1a66a-df6d-447c-ae8d-6b033ac6eeeb",
                     "name": "Western border fibre",
                     "pointNames": "Cibitoke, Rumonge, Nyanza-Lac",
-                    "start": "4592daaa-f423-4fec-b7b5-5c1c90dd1fe7",
-                    "end": "4592daaa-f423-4fec-b7b5-5c1c90dd1fe7",
+                    "start": "36d19c5e-bb35-4a6a-b1ce-3d7d5c726e6a",
+                    "end": "36d19c5e-bb35-4a6a-b1ce-3d7d5c726e6a",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2938,11 +2938,11 @@
                     }
                 },
                 {
-                    "id": "e4e87f20-b297-4385-a5fc-b3f1cf46ddee",
+                    "id": "d5d3e613-5599-454d-b952-6aa6c6fb7e4e",
                     "name": "Western border fibre",
                     "pointNames": "Cibitoke, Rumonge, Nyanza-Lac",
-                    "start": "4592daaa-f423-4fec-b7b5-5c1c90dd1fe7",
-                    "end": "5ddcd16e-148a-4080-a859-b7df548a121f",
+                    "start": "36d19c5e-bb35-4a6a-b1ce-3d7d5c726e6a",
+                    "end": "234cbd70-9926-456b-b6c5-326aaf95bc66",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -2986,11 +2986,11 @@
                     }
                 },
                 {
-                    "id": "c8523618-77ce-4640-a16e-98483de91193",
+                    "id": "e6d57cd3-49b4-4d8f-8eee-1e3c0261693a",
                     "name": "Rumonge - Mahwa",
                     "pointNames": "",
-                    "start": "db7cbcb7-e7ac-4c74-b5eb-6fc0266710ea",
-                    "end": "83592ade-c3c1-45b0-9ac3-7b47fb14b6ec",
+                    "start": "84202fe3-bc92-45e1-9ee2-3dfe102e3e0c",
+                    "end": "be3e1468-0c47-4217-9ecc-f5d698126901",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -3094,11 +3094,11 @@
                     }
                 },
                 {
-                    "id": "3faaab48-dd7a-49e5-b3cd-f5029d6cfec3",
+                    "id": "ef3cbd3b-5226-42c0-ab26-030f7b13be93",
                     "name": "DRC - Bujumbura - Bubanza",
                     "pointNames": "Bubanza, Bujumbura, Gatumba",
-                    "start": "7e3a4975-bcbe-40e7-abf1-8316e87f8c5f",
-                    "end": "464d5f51-e9e6-4c3d-9458-a5296206e2d9",
+                    "start": "ab6284df-443a-45c6-8175-bd9f4ea4fc7c",
+                    "end": "7d0c77e3-81ed-4b4c-a483-a81f732d5a80",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -3118,11 +3118,11 @@
                     }
                 },
                 {
-                    "id": "676b29e4-9294-4aed-ad10-ec1d0862c4db",
+                    "id": "96d235a6-c3c8-4448-aa74-ce116ec9caf7",
                     "name": "DRC - Bujumbura - Bubanza",
                     "pointNames": "Bubanza, Bujumbura, Gatumba",
-                    "start": "464d5f51-e9e6-4c3d-9458-a5296206e2d9",
-                    "end": "464d5f51-e9e6-4c3d-9458-a5296206e2d9",
+                    "start": "7d0c77e3-81ed-4b4c-a483-a81f732d5a80",
+                    "end": "7d0c77e3-81ed-4b4c-a483-a81f732d5a80",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -3138,11 +3138,11 @@
                     }
                 },
                 {
-                    "id": "512c9a44-d3ad-4c67-a08c-6e46bde92d07",
+                    "id": "83da25b9-2bca-4382-a220-1355a253bade",
                     "name": "DRC - Bujumbura - Bubanza",
                     "pointNames": "Bubanza, Bujumbura, Gatumba",
-                    "start": "464d5f51-e9e6-4c3d-9458-a5296206e2d9",
-                    "end": "0af94bbd-5b75-4bbd-a3e9-548b0174fd25",
+                    "start": "7d0c77e3-81ed-4b4c-a483-a81f732d5a80",
+                    "end": "a406dba1-2b79-4082-a3f9-a85fcd3a141d",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -3182,11 +3182,11 @@
                     }
                 },
                 {
-                    "id": "33490041-8ee9-4632-9a13-3dacbe58b2b5",
+                    "id": "c45ee465-7b97-4f6b-a3b9-df7c1e0a1f3d",
                     "name": "DRC - Bujumbura - Bubanza",
                     "pointNames": "Bubanza, Bujumbura, Gatumba",
-                    "start": "0af94bbd-5b75-4bbd-a3e9-548b0174fd25",
-                    "end": "0af94bbd-5b75-4bbd-a3e9-548b0174fd25",
+                    "start": "a406dba1-2b79-4082-a3f9-a85fcd3a141d",
+                    "end": "a406dba1-2b79-4082-a3f9-a85fcd3a141d",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -3202,11 +3202,11 @@
                     }
                 },
                 {
-                    "id": "1d3436de-52cc-4fbb-bf61-13b57b8c5908",
+                    "id": "1de52fe6-be4f-40fa-bdc0-3e1f88d38b86",
                     "name": "DRC - Bujumbura - Bubanza",
                     "pointNames": "Bubanza, Bujumbura, Gatumba",
-                    "start": "0af94bbd-5b75-4bbd-a3e9-548b0174fd25",
-                    "end": "56e0bd63-cb88-44f7-8bea-c77c73d227cf",
+                    "start": "a406dba1-2b79-4082-a3f9-a85fcd3a141d",
+                    "end": "4a1a0909-b11d-4159-a898-0419ce7ae4bf",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -3274,11 +3274,11 @@
                     }
                 },
                 {
-                    "id": "d9ef00bd-557b-4cfb-b81e-53a7e71afcd6",
+                    "id": "35870224-eea4-40a5-b5ae-e4da33f740e1",
                     "name": "DRC - Bujumbura - Bubanza",
                     "pointNames": "Bubanza, Bujumbura, Gatumba",
-                    "start": "56e0bd63-cb88-44f7-8bea-c77c73d227cf",
-                    "end": "56e0bd63-cb88-44f7-8bea-c77c73d227cf",
+                    "start": "4a1a0909-b11d-4159-a898-0419ce7ae4bf",
+                    "end": "4a1a0909-b11d-4159-a898-0419ce7ae4bf",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
@@ -3294,11 +3294,11 @@
                     }
                 },
                 {
-                    "id": "a14d8dff-b1bb-4307-8945-ae9fea7b342a",
+                    "id": "894a557f-a03d-4fe3-9f60-0cadd1868720",
                     "name": "DRC - Bujumbura - Bubanza",
                     "pointNames": "Bubanza, Bujumbura, Gatumba",
-                    "start": "56e0bd63-cb88-44f7-8bea-c77c73d227cf",
-                    "end": "f29e9aaf-e4d5-4372-9ed8-a8a1e873446b",
+                    "start": "4a1a0909-b11d-4159-a898-0419ce7ae4bf",
+                    "end": "fd50edaf-5f94-4681-a082-3256141c9048",
                     "route": {
                         "type": "LineString",
                         "coordinates": [
