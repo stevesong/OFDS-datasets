@@ -1,0 +1,1305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.638852151395444,
+                    -1.501568801815997
+                ]
+            },
+            "properties": {
+                "name": "Musanze",
+                "id": "ba8d4caf-6b82-45d1-b2c5-81358b6ea5d6",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.36620955085748,
+                    -1.664069736919415
+                ]
+            },
+            "properties": {
+                "name": "Rubavu",
+                "id": "cd2edd0c-f9d6-429a-8e36-da2a7eca89fc",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.798303510947868,
+                    -1.649988714799866
+                ]
+            },
+            "properties": {
+                "name": "Gakenke",
+                "id": "a04187a6-4246-428e-a99b-a6b1dc5a1eaa",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.350495656779895,
+                    -1.888000000104505
+                ]
+            },
+            "properties": {
+                "name": "Rutsiro",
+                "id": "d63e4bbb-2188-4842-b581-35d93c49bdf1",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.405086178358506,
+                    -2.086795689552279
+                ]
+            },
+            "properties": {
+                "name": "Karongi",
+                "id": "ef0807aa-6d9a-4efe-b132-4756cfb8fd45",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.62058237807745,
+                    -1.889751668404483
+                ]
+            },
+            "properties": {
+                "name": "Ngororero",
+                "id": "64276486-3d0d-4d90-9fea-c425e91f76e8",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.89280390261182,
+                    -2.008535896979207
+                ]
+            },
+            "properties": {
+                "name": "Kamonyi",
+                "id": "f079704b-0e05-4ece-9478-10eadeda9ee1",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.69066354401309,
+                    -1.966127294651271
+                ]
+            },
+            "properties": {
+                "name": "Muhanga",
+                "id": "8e528632-e888-41f4-9346-51f6d24f8d6d",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.360149150572692,
+                    -1.859819625989109
+                ]
+            },
+            "properties": {
+                "name": "Ruhango",
+                "id": "b00e3e06-530c-4520-a746-5a1206e31399",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.13456937488847,
+                    -2.337712403107887
+                ]
+            },
+            "properties": {
+                "name": "Nyamasheke",
+                "id": "3caa1b05-f480-4a12-a89c-40b9ea73ea78",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19457135433224,
+                    -2.488638551153301
+                ]
+            },
+            "properties": {
+                "name": "Rusizi",
+                "id": "028bd8cc-36e1-4655-9208-7b7a6cc0dc60",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.582043495882033,
+                    -2.473747482997051
+                ]
+            },
+            "properties": {
+                "name": "Nyamagabe",
+                "id": "9ba5bf2c-ade9-48b5-943d-9c25d0f73b0f",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.55358229365793,
+                    -2.651135204452286
+                ]
+            },
+            "properties": {
+                "name": "Nyaruguru",
+                "id": "52edb6fc-4fc6-4f35-9e15-501993527eb9",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.677390495355258,
+                    -2.535079368573085
+                ]
+            },
+            "properties": {
+                "name": "Huye",
+                "id": "36deffb1-093b-43b8-98cb-37f930712eb9",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.835618129365134,
+                    -2.600034519366073
+                ]
+            },
+            "properties": {
+                "name": "Gisagara",
+                "id": "22b4ebf2-0248-4e97-9836-f6de915f59c5",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.748862778797605,
+                    -2.790499227493996
+                ]
+            },
+            "properties": {
+                "name": "Nyanza",
+                "id": "cc8c9696-d7a9-497e-ba29-1d5a0b061ed5",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.45862480339971,
+                    -2.192021061966267
+                ]
+            },
+            "properties": {
+                "name": "Ngoma",
+                "id": "911d4734-fbbe-4bdf-9dfa-a9b9611a987a",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.728177527786812,
+                    -2.285079817799233
+                ]
+            },
+            "properties": {
+                "name": "Kirehe",
+                "id": "733ab303-b9e7-4b88-987b-43d33ece6260",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.505391423296814,
+                    -1.904748799359955
+                ]
+            },
+            "properties": {
+                "name": "Kayonza",
+                "id": "c081ecbe-33ee-4286-81a0-3bee3083d3c7",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.162076162732152,
+                    -2.224494637314808
+                ]
+            },
+            "properties": {
+                "name": "Bugesera",
+                "id": "c6b245f8-1126-49e1-a961-5bfe86214fb3",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.434738085298605,
+                    -1.949301342360466
+                ]
+            },
+            "properties": {
+                "name": "Rwamagana",
+                "id": "2217d977-1da2-4ce0-b1e2-c33a9e227ff9",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.09750477181629,
+                    -1.85583239328076
+                ]
+            },
+            "properties": {
+                "name": "Kigali",
+                "id": "a730568d-ca3f-4243-8317-120403efb353",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.38151574125817,
+                    -1.609654776129453
+                ]
+            },
+            "properties": {
+                "name": "Gatsibo",
+                "id": "ccedad55-f131-4111-abc4-21c7bcc5e456",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.098942007610233,
+                    -1.622240500568032
+                ]
+            },
+            "properties": {
+                "name": "Gicumbi",
+                "id": "c154601a-24d0-4854-b893-49a9266bb2f9",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8320972097033,
+                    -1.452995611910461
+                ]
+            },
+            "properties": {
+                "name": "Burera",
+                "id": "b4f8eb38-c1ec-4197-bb62-45b563385b97",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.32094878150145,
+                    -1.302302091885366
+                ]
+            },
+            "properties": {
+                "name": "Nyagatare",
+                "id": "3a324357-848c-4cc5-8912-a6a4d9b342ce",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.503211522180457,
+                    -1.613832970442142
+                ]
+            },
+            "properties": {
+                "name": "Niyabihu",
+                "id": "3adfa744-6d56-4cb6-a6b7-6145674067ec",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.896741517892366,
+                    -1.667943011963105
+                ]
+            },
+            "properties": {
+                "name": "Rulindo",
+                "id": "35c624be-afde-422f-ae8d-db67f073a245",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.22254484808388,
+                    -2.364258766146197
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "7047e628-591b-4e98-a46f-30b31fcd9e4c",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.03606435002929,
+                    -2.7268927993589
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "a267186b-813d-43d5-b574-284ad6d9e5d3",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7446556437904,
+                    -2.806931268182775
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "d0a1e0a1-de9d-449d-a663-f40a6c52a5f3",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.63337999399376,
+                    -1.845326914898088
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "5bf9c6fc-b864-4b08-9ba0-c761f14c0c3d",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7414926912088,
+                    -2.605618954133287
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "79422e3b-6dc9-448f-adc0-09c60a20a14c",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8453265768241,
+                    -2.585641933364609
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "aae7393a-8410-4ede-ab1f-0e344b115d0f",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.74114744798486,
+                    -2.605544174304999
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "2fd9cd13-feb1-4660-b018-81d18a3a8ed7",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.52984016081689,
+                    -2.631177680540963
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "d517f30c-26a0-44c5-b6ec-ee1e52669a5e",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.74200846459195,
+                    -2.587214700521058
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "54eadf08-e281-41d4-be8d-94cad18132e0",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.04477579616912,
+                    -2.445207305237775
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "f6d39bd7-892a-4f2a-a528-313a967838da",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.04624366705252,
+                    -1.934085628371405
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "ac9598b7-097f-46e1-9d8b-be77add20cf2",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.01173996152544,
+                    -1.423354802262098
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "c23efefa-1457-48b0-9a31-112095b5f228",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.78085591923009,
+                    -2.385998039399667
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "0abdc40f-8926-44ff-8d3e-948aced84ef7",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.45842851412059,
+                    -1.051549003868328
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "2ee246b9-45bc-4633-bf08-494a64c71cb8",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.37053247864635,
+                    -1.365621175758131
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "5242b3bf-0620-4fb1-b498-18ebfaf2c2d7",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.02402598724906,
+                    -1.481547501898474
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "cc70afad-c2a8-4b43-a2a2-0625e0f9f729",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.50508594432704,
+                    -1.902459102375185
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "e7f4e3c8-31aa-4e71-9455-a04f574f0453",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.41480640745814,
+                    -2.050446099753436
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "c0c988fa-e2a3-4d7f-b687-6f8cd6ce1396",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.89652929979615,
+                    -1.66853899378575
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "37e6308e-ea25-4446-96be-1843e6ace11e",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.82325294255668,
+                    -1.414996962919163
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "2e045a3d-6eeb-4ba3-b9d7-fe8312b65c2d",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.63357296290432,
+                    -1.497720997441486
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "80ad6297-92c3-45b8-a435-e406183e39de",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.73957530315567,
+                    -1.339747701056824
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "6bfdc235-600d-421b-b2e6-1735a01250d6",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.21491397590775,
+                    -2.251085293598581
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "be7acdd3-584c-4753-8746-cd60fd570109",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.55893050282371,
+                    -2.133509268789766
+                ]
+            },
+            "properties": {
+                "name": "Auto generated missing node",
+                "id": "6472933f-0b6d-44c9-9376-ba3401c31c75",
+                "network": {
+                    "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+                    "name": "NBI Uganda",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

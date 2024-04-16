@@ -1,0 +1,3594 @@
+{
+    "networks": [
+        {
+            "id": "eceff6a2-5d37-4aa4-812f-e2f94643529b",
+            "name": "NBI Uganda",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Musanze",
+                    "id": "ba8d4caf-6b82-45d1-b2c5-81358b6ea5d6",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.638852151395444,
+                            -1.501568801815997
+                        ]
+                    }
+                },
+                {
+                    "name": "Rubavu",
+                    "id": "cd2edd0c-f9d6-429a-8e36-da2a7eca89fc",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.36620955085748,
+                            -1.664069736919415
+                        ]
+                    }
+                },
+                {
+                    "name": "Gakenke",
+                    "id": "a04187a6-4246-428e-a99b-a6b1dc5a1eaa",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.798303510947868,
+                            -1.649988714799866
+                        ]
+                    }
+                },
+                {
+                    "name": "Rutsiro",
+                    "id": "d63e4bbb-2188-4842-b581-35d93c49bdf1",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.350495656779895,
+                            -1.888000000104505
+                        ]
+                    }
+                },
+                {
+                    "name": "Karongi",
+                    "id": "ef0807aa-6d9a-4efe-b132-4756cfb8fd45",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.405086178358506,
+                            -2.086795689552279
+                        ]
+                    }
+                },
+                {
+                    "name": "Ngororero",
+                    "id": "64276486-3d0d-4d90-9fea-c425e91f76e8",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.62058237807745,
+                            -1.889751668404483
+                        ]
+                    }
+                },
+                {
+                    "name": "Kamonyi",
+                    "id": "f079704b-0e05-4ece-9478-10eadeda9ee1",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.89280390261182,
+                            -2.008535896979207
+                        ]
+                    }
+                },
+                {
+                    "name": "Muhanga",
+                    "id": "8e528632-e888-41f4-9346-51f6d24f8d6d",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.69066354401309,
+                            -1.966127294651271
+                        ]
+                    }
+                },
+                {
+                    "name": "Ruhango",
+                    "id": "b00e3e06-530c-4520-a746-5a1206e31399",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.360149150572692,
+                            -1.859819625989109
+                        ]
+                    }
+                },
+                {
+                    "name": "Nyamasheke",
+                    "id": "3caa1b05-f480-4a12-a89c-40b9ea73ea78",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.13456937488847,
+                            -2.337712403107887
+                        ]
+                    }
+                },
+                {
+                    "name": "Rusizi",
+                    "id": "028bd8cc-36e1-4655-9208-7b7a6cc0dc60",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.19457135433224,
+                            -2.488638551153301
+                        ]
+                    }
+                },
+                {
+                    "name": "Nyamagabe",
+                    "id": "9ba5bf2c-ade9-48b5-943d-9c25d0f73b0f",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.582043495882033,
+                            -2.473747482997051
+                        ]
+                    }
+                },
+                {
+                    "name": "Nyaruguru",
+                    "id": "52edb6fc-4fc6-4f35-9e15-501993527eb9",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.55358229365793,
+                            -2.651135204452286
+                        ]
+                    }
+                },
+                {
+                    "name": "Huye",
+                    "id": "36deffb1-093b-43b8-98cb-37f930712eb9",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.677390495355258,
+                            -2.535079368573085
+                        ]
+                    }
+                },
+                {
+                    "name": "Gisagara",
+                    "id": "22b4ebf2-0248-4e97-9836-f6de915f59c5",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.835618129365134,
+                            -2.600034519366073
+                        ]
+                    }
+                },
+                {
+                    "name": "Nyanza",
+                    "id": "cc8c9696-d7a9-497e-ba29-1d5a0b061ed5",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.748862778797605,
+                            -2.790499227493996
+                        ]
+                    }
+                },
+                {
+                    "name": "Ngoma",
+                    "id": "911d4734-fbbe-4bdf-9dfa-a9b9611a987a",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.45862480339971,
+                            -2.192021061966267
+                        ]
+                    }
+                },
+                {
+                    "name": "Kirehe",
+                    "id": "733ab303-b9e7-4b88-987b-43d33ece6260",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.728177527786812,
+                            -2.285079817799233
+                        ]
+                    }
+                },
+                {
+                    "name": "Kayonza",
+                    "id": "c081ecbe-33ee-4286-81a0-3bee3083d3c7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.505391423296814,
+                            -1.904748799359955
+                        ]
+                    }
+                },
+                {
+                    "name": "Bugesera",
+                    "id": "c6b245f8-1126-49e1-a961-5bfe86214fb3",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.162076162732152,
+                            -2.224494637314808
+                        ]
+                    }
+                },
+                {
+                    "name": "Rwamagana",
+                    "id": "2217d977-1da2-4ce0-b1e2-c33a9e227ff9",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.434738085298605,
+                            -1.949301342360466
+                        ]
+                    }
+                },
+                {
+                    "name": "Kigali",
+                    "id": "a730568d-ca3f-4243-8317-120403efb353",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.09750477181629,
+                            -1.85583239328076
+                        ]
+                    }
+                },
+                {
+                    "name": "Gatsibo",
+                    "id": "ccedad55-f131-4111-abc4-21c7bcc5e456",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.38151574125817,
+                            -1.609654776129453
+                        ]
+                    }
+                },
+                {
+                    "name": "Gicumbi",
+                    "id": "c154601a-24d0-4854-b893-49a9266bb2f9",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.098942007610233,
+                            -1.622240500568032
+                        ]
+                    }
+                },
+                {
+                    "name": "Burera",
+                    "id": "b4f8eb38-c1ec-4197-bb62-45b563385b97",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.8320972097033,
+                            -1.452995611910461
+                        ]
+                    }
+                },
+                {
+                    "name": "Nyagatare",
+                    "id": "3a324357-848c-4cc5-8912-a6a4d9b342ce",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.32094878150145,
+                            -1.302302091885366
+                        ]
+                    }
+                },
+                {
+                    "name": "Niyabihu",
+                    "id": "3adfa744-6d56-4cb6-a6b7-6145674067ec",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.503211522180457,
+                            -1.613832970442142
+                        ]
+                    }
+                },
+                {
+                    "name": "Rulindo",
+                    "id": "35c624be-afde-422f-ae8d-db67f073a245",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.896741517892366,
+                            -1.667943011963105
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "7047e628-591b-4e98-a46f-30b31fcd9e4c",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.22254484808388,
+                            -2.364258766146197
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "a267186b-813d-43d5-b574-284ad6d9e5d3",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.03606435002929,
+                            -2.7268927993589
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "d0a1e0a1-de9d-449d-a663-f40a6c52a5f3",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.7446556437904,
+                            -2.806931268182775
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "5bf9c6fc-b864-4b08-9ba0-c761f14c0c3d",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.63337999399376,
+                            -1.845326914898088
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "79422e3b-6dc9-448f-adc0-09c60a20a14c",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.7414926912088,
+                            -2.605618954133287
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "aae7393a-8410-4ede-ab1f-0e344b115d0f",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.8453265768241,
+                            -2.585641933364609
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "2fd9cd13-feb1-4660-b018-81d18a3a8ed7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.74114744798486,
+                            -2.605544174304999
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "d517f30c-26a0-44c5-b6ec-ee1e52669a5e",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.52984016081689,
+                            -2.631177680540963
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "54eadf08-e281-41d4-be8d-94cad18132e0",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.74200846459195,
+                            -2.587214700521058
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "f6d39bd7-892a-4f2a-a528-313a967838da",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.04477579616912,
+                            -2.445207305237775
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "ac9598b7-097f-46e1-9d8b-be77add20cf2",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.04624366705252,
+                            -1.934085628371405
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "c23efefa-1457-48b0-9a31-112095b5f228",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.01173996152544,
+                            -1.423354802262098
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "0abdc40f-8926-44ff-8d3e-948aced84ef7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.78085591923009,
+                            -2.385998039399667
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "2ee246b9-45bc-4633-bf08-494a64c71cb8",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.45842851412059,
+                            -1.051549003868328
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "5242b3bf-0620-4fb1-b498-18ebfaf2c2d7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.37053247864635,
+                            -1.365621175758131
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "cc70afad-c2a8-4b43-a2a2-0625e0f9f729",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.02402598724906,
+                            -1.481547501898474
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "e7f4e3c8-31aa-4e71-9455-a04f574f0453",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.50508594432704,
+                            -1.902459102375185
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "c0c988fa-e2a3-4d7f-b687-6f8cd6ce1396",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.41480640745814,
+                            -2.050446099753436
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "37e6308e-ea25-4446-96be-1843e6ace11e",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.89652929979615,
+                            -1.66853899378575
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "2e045a3d-6eeb-4ba3-b9d7-fe8312b65c2d",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.82325294255668,
+                            -1.414996962919163
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "80ad6297-92c3-45b8-a435-e406183e39de",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.63357296290432,
+                            -1.497720997441486
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "6bfdc235-600d-421b-b2e6-1735a01250d6",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.73957530315567,
+                            -1.339747701056824
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "be7acdd3-584c-4753-8746-cd60fd570109",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.21491397590775,
+                            -2.251085293598581
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "6472933f-0b6d-44c9-9376-ba3401c31c75",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.55893050282371,
+                            -2.133509268789766
+                        ]
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "0380934f-3e06-4d60-aa6d-24e46bffe552",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "7047e628-591b-4e98-a46f-30b31fcd9e4c",
+                    "end": "c6b245f8-1126-49e1-a961-5bfe86214fb3",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.22254484808388,
+                                -2.364258766146197
+                            ],
+                            [
+                                30.2025876407303,
+                                -2.32879539506971
+                            ],
+                            [
+                                30.2128475910874,
+                                -2.268844591584017
+                            ],
+                            [
+                                30.21527508625908,
+                                -2.252977092181027
+                            ],
+                            [
+                                30.18350920897289,
+                                -2.220541619732586
+                            ],
+                            [
+                                30.17743342362598,
+                                -2.230349192662823
+                            ],
+                            [
+                                30.162076163665628,
+                                -2.224494637670672
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ef43be76-74ee-4fd0-b2e2-0e496f62a08f",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "c6b245f8-1126-49e1-a961-5bfe86214fb3",
+                    "end": "c6b245f8-1126-49e1-a961-5bfe86214fb3",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.162076163665628,
+                                -2.224494637670672
+                            ],
+                            [
+                                30.162076161798677,
+                                -2.224494636958945
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "35d84956-075a-47ba-8927-f1afc09ccbf6",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "c6b245f8-1126-49e1-a961-5bfe86214fb3",
+                    "end": "a04187a6-4246-428e-a99b-a6b1dc5a1eaa",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.162076161798677,
+                                -2.224494636958945
+                            ],
+                            [
+                                30.1596919087842,
+                                -2.223585702655268
+                            ],
+                            [
+                                30.13518237063646,
+                                -2.200944950992
+                            ],
+                            [
+                                30.10877831768509,
+                                -2.192275705830562
+                            ],
+                            [
+                                30.10242604606811,
+                                -2.165126245238632
+                            ],
+                            [
+                                30.08986852164186,
+                                -2.143330314492343
+                            ],
+                            [
+                                30.07622753587686,
+                                -2.136435743521324
+                            ],
+                            [
+                                30.06926342540201,
+                                -2.120228448875295
+                            ],
+                            [
+                                30.08011163146404,
+                                -2.101434405085706
+                            ],
+                            [
+                                30.09773545662955,
+                                -2.077524543039532
+                            ],
+                            [
+                                30.09143494442163,
+                                -2.066811752714768
+                            ],
+                            [
+                                30.08948591436022,
+                                -2.055515746953076
+                            ],
+                            [
+                                30.10419459688725,
+                                -2.021142015434606
+                            ],
+                            [
+                                30.10602423938797,
+                                -2.010542915490225
+                            ],
+                            [
+                                30.09358843570274,
+                                -1.999336330645746
+                            ],
+                            [
+                                30.10688811357791,
+                                -1.982187992361634
+                            ],
+                            [
+                                30.10097764992997,
+                                -1.963738786889251
+                            ],
+                            [
+                                30.0674614214737,
+                                -1.930879248510697
+                            ],
+                            [
+                                30.04501263211889,
+                                -1.933373724890524
+                            ],
+                            [
+                                30.03055846819914,
+                                -1.94050422683513
+                            ],
+                            [
+                                30.0083245874837,
+                                -1.918796101433936
+                            ],
+                            [
+                                29.98895505828342,
+                                -1.88516782024596
+                            ],
+                            [
+                                29.97458707592497,
+                                -1.854803579793342
+                            ],
+                            [
+                                29.95931209814296,
+                                -1.847171029438508
+                            ],
+                            [
+                                29.93033409309811,
+                                -1.797568810524723
+                            ],
+                            [
+                                29.92417505625459,
+                                -1.75034086897377
+                            ],
+                            [
+                                29.91890720297483,
+                                -1.718423260469801
+                            ],
+                            [
+                                29.89597222865287,
+                                -1.669448734190126
+                            ],
+                            [
+                                29.8572743770336,
+                                -1.652767200104139
+                            ],
+                            [
+                                29.85637725031032,
+                                -1.6532434589142
+                            ],
+                            [
+                                29.84114975996152,
+                                -1.67109227835429
+                            ],
+                            [
+                                29.79830351184399,
+                                -1.649988715241242
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ba4a8e76-14df-48ef-9da4-ef6be5014cc1",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "a04187a6-4246-428e-a99b-a6b1dc5a1eaa",
+                    "end": "a04187a6-4246-428e-a99b-a6b1dc5a1eaa",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.79830351184399,
+                                -1.649988715241242
+                            ],
+                            [
+                                29.79830351005175,
+                                -1.649988714358489
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c964c462-23e9-4ec0-8c9b-225d0572a850",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "a04187a6-4246-428e-a99b-a6b1dc5a1eaa",
+                    "end": "ba8d4caf-6b82-45d1-b2c5-81358b6ea5d6",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.79830351005175,
+                                -1.649988714358489
+                            ],
+                            [
+                                29.79266368327976,
+                                -1.647210864594308
+                            ],
+                            [
+                                29.76951561765741,
+                                -1.640033018097059
+                            ],
+                            [
+                                29.74845689727711,
+                                -1.58676362250355
+                            ],
+                            [
+                                29.70698835035913,
+                                -1.561105083849391
+                            ],
+                            [
+                                29.67845304489476,
+                                -1.55472676010704
+                            ],
+                            [
+                                29.66197934133075,
+                                -1.525264135201991
+                            ],
+                            [
+                                29.638852152093556,
+                                -1.501568802531259
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cb77127f-890f-4076-9c6b-1e3603a503a8",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "ba8d4caf-6b82-45d1-b2c5-81358b6ea5d6",
+                    "end": "ba8d4caf-6b82-45d1-b2c5-81358b6ea5d6",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.638852152093556,
+                                -1.501568802531259
+                            ],
+                            [
+                                29.638852150697332,
+                                -1.501568801100737
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "207e5ebe-e3ff-4aba-852c-5f12769738bf",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "ba8d4caf-6b82-45d1-b2c5-81358b6ea5d6",
+                    "end": "3adfa744-6d56-4cb6-a6b7-6145674067ec",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.638852150697332,
+                                -1.501568801100737
+                            ],
+                            [
+                                29.63410819815006,
+                                -1.496708308430015
+                            ],
+                            [
+                                29.60328508611805,
+                                -1.50545412361764
+                            ],
+                            [
+                                29.58870427962557,
+                                -1.510578511452734
+                            ],
+                            [
+                                29.56415303463928,
+                                -1.526249055245353
+                            ],
+                            [
+                                29.56451395395484,
+                                -1.526249261582968
+                            ],
+                            [
+                                29.55005098456993,
+                                -1.566894890667431
+                            ],
+                            [
+                                29.54788058928308,
+                                -1.567978713488495
+                            ],
+                            [
+                                29.5286621499142,
+                                -1.574859572063185
+                            ],
+                            [
+                                29.50506332439817,
+                                -1.613187411855526
+                            ],
+                            [
+                                29.503211523123618,
+                                -1.613832970113346
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "47fa20b9-669c-468e-93f1-96b25011f3b0",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "3adfa744-6d56-4cb6-a6b7-6145674067ec",
+                    "end": "3adfa744-6d56-4cb6-a6b7-6145674067ec",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.503211523123618,
+                                -1.613832970113346
+                            ],
+                            [
+                                29.503211521237297,
+                                -1.613832970770939
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4086088f-c026-405b-a35d-337ca669f5b5",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "3adfa744-6d56-4cb6-a6b7-6145674067ec",
+                    "end": "cd2edd0c-f9d6-429a-8e36-da2a7eca89fc",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.503211521237297,
+                                -1.613832970770939
+                            ],
+                            [
+                                29.49129353985066,
+                                -1.61798770994648
+                            ],
+                            [
+                                29.48694574198991,
+                                -1.62599402467863
+                            ],
+                            [
+                                29.48550476348567,
+                                -1.626373813077796
+                            ],
+                            [
+                                29.44895357956913,
+                                -1.612345849880217
+                            ],
+                            [
+                                29.43951809029254,
+                                -1.614153199593036
+                            ],
+                            [
+                                29.42271740669693,
+                                -1.627484803783077
+                            ],
+                            [
+                                29.37743952025753,
+                                -1.647693306703265
+                            ],
+                            [
+                                29.366209551422727,
+                                -1.664069736095123
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "5fe42e91-bf05-4b04-af09-82395da95190",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "cd2edd0c-f9d6-429a-8e36-da2a7eca89fc",
+                    "end": "cd2edd0c-f9d6-429a-8e36-da2a7eca89fc",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.366209551422727,
+                                -1.664069736095123
+                            ],
+                            [
+                                29.36620955029223,
+                                -1.664069737743705
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "7453b350-1d47-44bf-89c6-bb6cde55c0aa",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "cd2edd0c-f9d6-429a-8e36-da2a7eca89fc",
+                    "end": "b00e3e06-530c-4520-a746-5a1206e31399",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.36620955029223,
+                                -1.664069737743705
+                            ],
+                            [
+                                29.35839082981814,
+                                -1.675471614780247
+                            ],
+                            [
+                                29.3374820532433,
+                                -1.697321402774942
+                            ],
+                            [
+                                29.31459799050561,
+                                -1.701295623628636
+                            ],
+                            [
+                                29.28504844361328,
+                                -1.686964119792752
+                            ],
+                            [
+                                29.27120377311551,
+                                -1.696112461147749
+                            ],
+                            [
+                                29.25972679869072,
+                                -1.685501145519694
+                            ],
+                            [
+                                29.2459550606473,
+                                -1.695947146913666
+                            ],
+                            [
+                                29.26315072120357,
+                                -1.702574227733435
+                            ],
+                            [
+                                29.29966106329163,
+                                -1.746524762326683
+                            ],
+                            [
+                                29.32326750775856,
+                                -1.783517447966882
+                            ],
+                            [
+                                29.33058828803281,
+                                -1.799225883240817
+                            ],
+                            [
+                                29.34888846547462,
+                                -1.81309646799531
+                            ],
+                            [
+                                29.35206396024004,
+                                -1.828385258054562
+                            ],
+                            [
+                                29.34887994542121,
+                                -1.835296997109102
+                            ],
+                            [
+                                29.35899101057963,
+                                -1.850584351465856
+                            ],
+                            [
+                                29.360149150448382,
+                                -1.859819624997824
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9bfe44db-cc89-4536-9a5d-bc54bb7b018a",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "b00e3e06-530c-4520-a746-5a1206e31399",
+                    "end": "b00e3e06-530c-4520-a746-5a1206e31399",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.360149150448382,
+                                -1.859819624997824
+                            ],
+                            [
+                                29.360149150697005,
+                                -1.859819626980393
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cf2823d6-afb7-48cc-9a00-196aacf7c3a3",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "b00e3e06-530c-4520-a746-5a1206e31399",
+                    "end": "d63e4bbb-2188-4842-b581-35d93c49bdf1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.360149150697005,
+                                -1.859819626980393
+                            ],
+                            [
+                                29.36177899487101,
+                                -1.872816379071867
+                            ],
+                            [
+                                29.34949466175732,
+                                -1.876003051972673
+                            ],
+                            [
+                                29.3504956566968,
+                                -1.887999999108587
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4153b1ce-ca8a-401b-a089-67d22d58223d",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "d63e4bbb-2188-4842-b581-35d93c49bdf1",
+                    "end": "d63e4bbb-2188-4842-b581-35d93c49bdf1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.3504956566968,
+                                -1.887999999108587
+                            ],
+                            [
+                                29.350495656862993,
+                                -1.888000001100423
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b310aebc-167e-4e82-8b02-386600bb3fe2",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "d63e4bbb-2188-4842-b581-35d93c49bdf1",
+                    "end": "ef0807aa-6d9a-4efe-b132-4756cfb8fd45",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.350495656862993,
+                                -1.888000001100423
+                            ],
+                            [
+                                29.35241973223038,
+                                -1.911060088177451
+                            ],
+                            [
+                                29.37854542893157,
+                                -1.908653445908975
+                            ],
+                            [
+                                29.38186249079775,
+                                -1.94469389802126
+                            ],
+                            [
+                                29.38846572536335,
+                                -1.976132733901217
+                            ],
+                            [
+                                29.39857576128464,
+                                -1.995008799775571
+                            ],
+                            [
+                                29.38946586368802,
+                                -2.021426227391717
+                            ],
+                            [
+                                29.40246335187052,
+                                -2.039810042565749
+                            ],
+                            [
+                                29.41556332238397,
+                                -2.052016975697827
+                            ],
+                            [
+                                29.4187423003517,
+                                -2.080953399643363
+                            ],
+                            [
+                                29.405086179277443,
+                                -2.086795689159145
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a2f191f0-e4b1-4c0d-af78-1c1e9e144d2c",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "ef0807aa-6d9a-4efe-b132-4756cfb8fd45",
+                    "end": "ef0807aa-6d9a-4efe-b132-4756cfb8fd45",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.405086179277443,
+                                -2.086795689159145
+                            ],
+                            [
+                                29.405086177439568,
+                                -2.086795689945414
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "786f8717-1c5f-4362-823a-bea079fba240",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "ef0807aa-6d9a-4efe-b132-4756cfb8fd45",
+                    "end": "3caa1b05-f480-4a12-a89c-40b9ea73ea78",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.405086177439568,
+                                -2.086795689945414
+                            ],
+                            [
+                                29.40283127949992,
+                                -2.08776036845993
+                            ],
+                            [
+                                29.40114865255419,
+                                -2.087750423973912
+                            ],
+                            [
+                                29.36936453920464,
+                                -2.078567726698445
+                            ],
+                            [
+                                29.34725865463836,
+                                -2.071611299864963
+                            ],
+                            [
+                                29.33563423984726,
+                                -2.102514205589356
+                            ],
+                            [
+                                29.31949342508036,
+                                -2.142335461643892
+                            ],
+                            [
+                                29.2933392486458,
+                                -2.150835414952604
+                            ],
+                            [
+                                29.29044848027485,
+                                -2.186499892962832
+                            ],
+                            [
+                                29.23539653033701,
+                                -2.189342574624967
+                            ],
+                            [
+                                29.22923618060902,
+                                -2.211818372476343
+                            ],
+                            [
+                                29.22586046901529,
+                                -2.236049025966007
+                            ],
+                            [
+                                29.21934128873923,
+                                -2.262802927068947
+                            ],
+                            [
+                                29.19455753921083,
+                                -2.273754143391355
+                            ],
+                            [
+                                29.1757846401657,
+                                -2.293318402025275
+                            ],
+                            [
+                                29.14067996094787,
+                                -2.315057831683874
+                            ],
+                            [
+                                29.134569375148622,
+                                -2.337712402143398
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1fc28b3e-b755-4612-8634-2f124c260e82",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "3caa1b05-f480-4a12-a89c-40b9ea73ea78",
+                    "end": "3caa1b05-f480-4a12-a89c-40b9ea73ea78",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.134569375148622,
+                                -2.337712402143398
+                            ],
+                            [
+                                29.13456937488847,
+                                -2.337712403107887
+                            ],
+                            [
+                                29.13456937389254,
+                                -2.337712403190731
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3ce794b5-7a1c-4a6a-86d0-a675900b8d73",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Musanze, Rubavu, Gakenke, Rutsiro, Karongi, Ruhango, Nyamasheke, Bugesera, Niyabihu",
+                    "start": "3caa1b05-f480-4a12-a89c-40b9ea73ea78",
+                    "end": "a267186b-813d-43d5-b574-284ad6d9e5d3",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.13456937389254,
+                                -2.337712403190731
+                            ],
+                            [
+                                29.10225721818599,
+                                -2.340400210514487
+                            ],
+                            [
+                                29.08157421847369,
+                                -2.400361483980334
+                            ],
+                            [
+                                29.06522652067489,
+                                -2.425606089364592
+                            ],
+                            [
+                                29.04439016148735,
+                                -2.445655950503038
+                            ],
+                            [
+                                29.02054244105381,
+                                -2.44168345409914
+                            ],
+                            [
+                                28.99421051218219,
+                                -2.464020045811119
+                            ],
+                            [
+                                28.97196817897071,
+                                -2.477623425540938
+                            ],
+                            [
+                                28.92543278996575,
+                                -2.486095465206612
+                            ],
+                            [
+                                28.91196529856523,
+                                -2.484937908004728
+                            ],
+                            [
+                                28.90003084400853,
+                                -2.480082763959995
+                            ],
+                            [
+                                28.8985811401203,
+                                -2.495922295331887
+                            ],
+                            [
+                                28.87868753499732,
+                                -2.53412254397512
+                            ],
+                            [
+                                28.91519715965642,
+                                -2.550897048503307
+                            ],
+                            [
+                                28.93108462256754,
+                                -2.598140584946148
+                            ],
+                            [
+                                28.969049730933,
+                                -2.653126571732682
+                            ],
+                            [
+                                28.99832575092512,
+                                -2.668351562314151
+                            ],
+                            [
+                                29.00683659313453,
+                                -2.698690269106422
+                            ],
+                            [
+                                29.02664616270863,
+                                -2.700118150302707
+                            ],
+                            [
+                                29.03606435002929,
+                                -2.7268927993589
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e6b3173f-2d59-41bc-aa60-68f3ab32f72d",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngororero, Muhanga, Nyanza",
+                    "start": "d0a1e0a1-de9d-449d-a663-f40a6c52a5f3",
+                    "end": "cc8c9696-d7a9-497e-ba29-1d5a0b061ed5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.7446556437904,
+                                -2.806931268182775
+                            ],
+                            [
+                                29.74886277854987,
+                                -2.790499228461594
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f0197bd1-98cd-4e1f-8f99-1a2271a4ba84",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngororero, Muhanga, Nyanza",
+                    "start": "cc8c9696-d7a9-497e-ba29-1d5a0b061ed5",
+                    "end": "cc8c9696-d7a9-497e-ba29-1d5a0b061ed5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.74886277854987,
+                                -2.790499228461594
+                            ],
+                            [
+                                29.748862779045343,
+                                -2.790499226526398
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "dc1c6822-06f4-40b8-a462-5345709150e6",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngororero, Muhanga, Nyanza",
+                    "start": "cc8c9696-d7a9-497e-ba29-1d5a0b061ed5",
+                    "end": "8e528632-e888-41f4-9346-51f6d24f8d6d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.748862779045343,
+                                -2.790499226526398
+                            ],
+                            [
+                                29.75196276777135,
+                                -2.778391428513441
+                            ],
+                            [
+                                29.7654298409355,
+                                -2.7065603282031
+                            ],
+                            [
+                                29.75688862936314,
+                                -2.683902091028727
+                            ],
+                            [
+                                29.76273397532434,
+                                -2.665664900663688
+                            ],
+                            [
+                                29.75444285226069,
+                                -2.652802564901048
+                            ],
+                            [
+                                29.73945586092004,
+                                -2.618732386226274
+                            ],
+                            [
+                                29.74299110418096,
+                                -2.589626120807859
+                            ],
+                            [
+                                29.75947926367746,
+                                -2.573523331556983
+                            ],
+                            [
+                                29.76248691492922,
+                                -2.535644029724745
+                            ],
+                            [
+                                29.77337229840479,
+                                -2.50425896167823
+                            ],
+                            [
+                                29.76973724004131,
+                                -2.480256346504078
+                            ],
+                            [
+                                29.75543717009777,
+                                -2.461682424050573
+                            ],
+                            [
+                                29.77095782047339,
+                                -2.454368415699795
+                            ],
+                            [
+                                29.76638983015989,
+                                -2.442453586214191
+                            ],
+                            [
+                                29.77828506904007,
+                                -2.430476869781195
+                            ],
+                            [
+                                29.7746379501456,
+                                -2.404928955358761
+                            ],
+                            [
+                                29.77463821914251,
+                                -2.404617877537988
+                            ],
+                            [
+                                29.78781447133527,
+                                -2.387662283521725
+                            ],
+                            [
+                                29.77639326996723,
+                                -2.36095554907688
+                            ],
+                            [
+                                29.76612908309557,
+                                -2.346141068969798
+                            ],
+                            [
+                                29.77618775962803,
+                                -2.327341829030198
+                            ],
+                            [
+                                29.76380718650494,
+                                -2.305438274761269
+                            ],
+                            [
+                                29.78129564495152,
+                                -2.282383952063638
+                            ],
+                            [
+                                29.79363271262793,
+                                -2.264792910291527
+                            ],
+                            [
+                                29.79582125152007,
+                                -2.251276995211586
+                            ],
+                            [
+                                29.78461185482631,
+                                -2.233277628342534
+                            ],
+                            [
+                                29.79390874260322,
+                                -2.226331084355831
+                            ],
+                            [
+                                29.79785098689505,
+                                -2.211501619049162
+                            ],
+                            [
+                                29.79724443782182,
+                                -2.211503526145065
+                            ],
+                            [
+                                29.78268760578691,
+                                -2.189062876479874
+                            ],
+                            [
+                                29.77632604478822,
+                                -2.18938840864988
+                            ],
+                            [
+                                29.77054740278271,
+                                -2.179961836805757
+                            ],
+                            [
+                                29.76932718571111,
+                                -2.174188205640878
+                            ],
+                            [
+                                29.7504293740456,
+                                -2.153736590729644
+                            ],
+                            [
+                                29.75284460019162,
+                                -2.149449559862099
+                            ],
+                            [
+                                29.74050772345595,
+                                -2.119318926558242
+                            ],
+                            [
+                                29.75656951981658,
+                                -2.088879412386797
+                            ],
+                            [
+                                29.74815003377209,
+                                -2.074810535935176
+                            ],
+                            [
+                                29.73140545249293,
+                                -2.061739785400839
+                            ],
+                            [
+                                29.7445960612117,
+                                -2.047019809618703
+                            ],
+                            [
+                                29.73064361250805,
+                                -2.027910074009905
+                            ],
+                            [
+                                29.71911174034917,
+                                -2.029397880195227
+                            ],
+                            [
+                                29.71391311737299,
+                                -2.01514868476628
+                            ],
+                            [
+                                29.72122218926026,
+                                -2.005122490512737
+                            ],
+                            [
+                                29.69066354462938,
+                                -1.966127295437708
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "bd4065d1-923c-4623-bd89-e076ad066a5e",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngororero, Muhanga, Nyanza",
+                    "start": "8e528632-e888-41f4-9346-51f6d24f8d6d",
+                    "end": "8e528632-e888-41f4-9346-51f6d24f8d6d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.69066354462938,
+                                -1.966127295437708
+                            ],
+                            [
+                                29.6906635433968,
+                                -1.966127293864836
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "95023654-fe88-4214-9c36-47bae7de7124",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngororero, Muhanga, Nyanza",
+                    "start": "8e528632-e888-41f4-9346-51f6d24f8d6d",
+                    "end": "64276486-3d0d-4d90-9fea-c425e91f76e8",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.6906635433968,
+                                -1.966127293864836
+                            ],
+                            [
+                                29.68086008012268,
+                                -1.953617316167762
+                            ],
+                            [
+                                29.66299286058034,
+                                -1.938299040833351
+                            ],
+                            [
+                                29.65876704218062,
+                                -1.919438017993025
+                            ],
+                            [
+                                29.62848062487425,
+                                -1.914957879829067
+                            ],
+                            [
+                                29.63028798473907,
+                                -1.904247628960738
+                            ],
+                            [
+                                29.620582378633777,
+                                -1.889751669235392
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "d78c5b13-7f5a-4bc4-8524-7aa13c6343ce",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngororero, Muhanga, Nyanza",
+                    "start": "64276486-3d0d-4d90-9fea-c425e91f76e8",
+                    "end": "64276486-3d0d-4d90-9fea-c425e91f76e8",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.620582378633777,
+                                -1.889751669235392
+                            ],
+                            [
+                                29.62058237807745,
+                                -1.889751668404483
+                            ],
+                            [
+                                29.620582378354104,
+                                -1.889751667444128
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "46bfab5c-9f92-4411-99b2-c3fd05340a82",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngororero, Muhanga, Nyanza",
+                    "start": "64276486-3d0d-4d90-9fea-c425e91f76e8",
+                    "end": "5bf9c6fc-b864-4b08-9ba0-c761f14c0c3d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.620582378354104,
+                                -1.889751667444128
+                            ],
+                            [
+                                29.63337999399376,
+                                -1.845326914898088
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f66b2f19-df45-4607-be57-de9710084bad",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Gisagara",
+                    "start": "79422e3b-6dc9-448f-adc0-09c60a20a14c",
+                    "end": "22b4ebf2-0248-4e97-9836-f6de915f59c5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.7414926912088,
+                                -2.605618954133287
+                            ],
+                            [
+                                29.75852641992342,
+                                -2.607573984075923
+                            ],
+                            [
+                                29.77215334161111,
+                                -2.615810767630053
+                            ],
+                            [
+                                29.79370970905066,
+                                -2.624348978688271
+                            ],
+                            [
+                                29.81097721894394,
+                                -2.616813803040893
+                            ],
+                            [
+                                29.81139796189651,
+                                -2.616648853510689
+                            ],
+                            [
+                                29.81887965948076,
+                                -2.604353121509171
+                            ],
+                            [
+                                29.81917050185097,
+                                -2.604270702934355
+                            ],
+                            [
+                                29.8328312028698,
+                                -2.604166084112484
+                            ],
+                            [
+                                29.835618128806036,
+                                -2.600034520194926
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c76a5327-759b-4551-8c53-65f068c9d3ae",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Gisagara",
+                    "start": "22b4ebf2-0248-4e97-9836-f6de915f59c5",
+                    "end": "22b4ebf2-0248-4e97-9836-f6de915f59c5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.835618128806036,
+                                -2.600034520194926
+                            ],
+                            [
+                                29.83561812992423,
+                                -2.600034518537221
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3d460862-f680-4696-a7ee-af077b37a007",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Gisagara",
+                    "start": "22b4ebf2-0248-4e97-9836-f6de915f59c5",
+                    "end": "aae7393a-8410-4ede-ab1f-0e344b115d0f",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.83561812992423,
+                                -2.600034518537221
+                            ],
+                            [
+                                29.8453265768241,
+                                -2.585641933364609
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "7b231b83-6df2-45a2-83a4-2fd3c5884844",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Nyaruguru",
+                    "start": "2fd9cd13-feb1-4660-b018-81d18a3a8ed7",
+                    "end": "52edb6fc-4fc6-4f35-9e15-501993527eb9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.74114744798486,
+                                -2.605544174304999
+                            ],
+                            [
+                                29.72301096500711,
+                                -2.599939528887963
+                            ],
+                            [
+                                29.70877974336326,
+                                -2.59186671239673
+                            ],
+                            [
+                                29.68009475828778,
+                                -2.593944816633916
+                            ],
+                            [
+                                29.67122179547411,
+                                -2.594920135074968
+                            ],
+                            [
+                                29.65322095286459,
+                                -2.611895535267657
+                            ],
+                            [
+                                29.64340731743376,
+                                -2.627074306684066
+                            ],
+                            [
+                                29.63033034738112,
+                                -2.632703491134774
+                            ],
+                            [
+                                29.62896117854642,
+                                -2.642730107478154
+                            ],
+                            [
+                                29.62850092531703,
+                                -2.642962003140658
+                            ],
+                            [
+                                29.61059662001133,
+                                -2.64870088406963
+                            ],
+                            [
+                                29.60240954203339,
+                                -2.642822086031762
+                            ],
+                            [
+                                29.5866171564939,
+                                -2.644584740332295
+                            ],
+                            [
+                                29.56409586087425,
+                                -2.647598666422342
+                            ],
+                            [
+                                29.553582294604773,
+                                -2.651135204133787
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0d501a33-958a-44cc-98b3-5ddc76cdc7eb",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Nyaruguru",
+                    "start": "52edb6fc-4fc6-4f35-9e15-501993527eb9",
+                    "end": "52edb6fc-4fc6-4f35-9e15-501993527eb9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.553582294604773,
+                                -2.651135204133787
+                            ],
+                            [
+                                29.55358229365793,
+                                -2.651135204452286
+                            ],
+                            [
+                                29.553582293360773,
+                                -2.651135203497804
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "13ada598-b6c3-4e12-8347-e426637852ac",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Nyaruguru",
+                    "start": "52edb6fc-4fc6-4f35-9e15-501993527eb9",
+                    "end": "d517f30c-26a0-44c5-b6ec-ee1e52669a5e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.553582293360773,
+                                -2.651135203497804
+                            ],
+                            [
+                                29.54970865178266,
+                                -2.638692883908254
+                            ],
+                            [
+                                29.52984016081689,
+                                -2.631177680540963
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "13eb4a3b-c53f-4812-880e-538959448682",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Rusizi, Nyamagabe, Huye",
+                    "start": "54eadf08-e281-41d4-be8d-94cad18132e0",
+                    "end": "36deffb1-093b-43b8-98cb-37f930712eb9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.74200846459195,
+                                -2.587214700521058
+                            ],
+                            [
+                                29.72568477989834,
+                                -2.564335998215051
+                            ],
+                            [
+                                29.68429101570742,
+                                -2.536878002982331
+                            ],
+                            [
+                                29.677390496321806,
+                                -2.535079368825017
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "fcc04d5d-729d-44ca-9086-e55b6373485a",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Rusizi, Nyamagabe, Huye",
+                    "start": "36deffb1-093b-43b8-98cb-37f930712eb9",
+                    "end": "36deffb1-093b-43b8-98cb-37f930712eb9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.677390496321806,
+                                -2.535079368825017
+                            ],
+                            [
+                                29.67739049438871,
+                                -2.535079368321151
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a153121e-01af-4f88-80d6-ac66105745bc",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Rusizi, Nyamagabe, Huye",
+                    "start": "36deffb1-093b-43b8-98cb-37f930712eb9",
+                    "end": "9ba5bf2c-ade9-48b5-943d-9c25d0f73b0f",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.67739049438871,
+                                -2.535079368321151
+                            ],
+                            [
+                                29.63708668729097,
+                                -2.524574100519582
+                            ],
+                            [
+                                29.59598509883708,
+                                -2.502577945886018
+                            ],
+                            [
+                                29.58329143368159,
+                                -2.474328300840285
+                            ],
+                            [
+                                29.582043496787573,
+                                -2.47374748341851
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "5568b388-fbc7-4f68-9320-5e40f8b57d60",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Rusizi, Nyamagabe, Huye",
+                    "start": "9ba5bf2c-ade9-48b5-943d-9c25d0f73b0f",
+                    "end": "9ba5bf2c-ade9-48b5-943d-9c25d0f73b0f",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.582043496787573,
+                                -2.47374748341851
+                            ],
+                            [
+                                29.582043494976492,
+                                -2.473747482575593
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b05db925-c62b-4849-911e-888bdd0c8ad4",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Rusizi, Nyamagabe, Huye",
+                    "start": "9ba5bf2c-ade9-48b5-943d-9c25d0f73b0f",
+                    "end": "028bd8cc-36e1-4655-9208-7b7a6cc0dc60",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.582043494976492,
+                                -2.473747482575593
+                            ],
+                            [
+                                29.57756035498277,
+                                -2.471660930102392
+                            ],
+                            [
+                                29.55721424414311,
+                                -2.481996421317899
+                            ],
+                            [
+                                29.52967211002447,
+                                -2.482886401721033
+                            ],
+                            [
+                                29.50838996891542,
+                                -2.491657421917083
+                            ],
+                            [
+                                29.50694812805628,
+                                -2.503852708654239
+                            ],
+                            [
+                                29.48547449359261,
+                                -2.508979276040425
+                            ],
+                            [
+                                29.46806275644267,
+                                -2.525128338157981
+                            ],
+                            [
+                                29.41907450775447,
+                                -2.520988648313538
+                            ],
+                            [
+                                29.39762924932284,
+                                -2.527308252361409
+                            ],
+                            [
+                                29.35305183738245,
+                                -2.523867438609053
+                            ],
+                            [
+                                29.32667686091648,
+                                -2.515847666995186
+                            ],
+                            [
+                                29.26139417843531,
+                                -2.481710738511355
+                            ],
+                            [
+                                29.23786252995029,
+                                -2.47387684318868
+                            ],
+                            [
+                                29.21375755956472,
+                                -2.476965950998578
+                            ],
+                            [
+                                29.20526367431677,
+                                -2.478042341293011
+                            ],
+                            [
+                                29.19457135504238,
+                                -2.488638550449542
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b0406bd1-a2d5-4df2-872f-fb6a7fa5e3a6",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Rusizi, Nyamagabe, Huye",
+                    "start": "028bd8cc-36e1-4655-9208-7b7a6cc0dc60",
+                    "end": "028bd8cc-36e1-4655-9208-7b7a6cc0dc60",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.19457135504238,
+                                -2.488638550449542
+                            ],
+                            [
+                                29.19457135433224,
+                                -2.488638551153301
+                            ],
+                            [
+                                29.194571353379846,
+                                -2.488638550850306
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "14e328f5-9e5c-4f6b-8940-ed1520cb2293",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Rusizi, Nyamagabe, Huye",
+                    "start": "028bd8cc-36e1-4655-9208-7b7a6cc0dc60",
+                    "end": "f6d39bd7-892a-4f2a-a528-313a967838da",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.194571353379846,
+                                -2.488638550850306
+                            ],
+                            [
+                                29.17216566861191,
+                                -2.481510377050366
+                            ],
+                            [
+                                29.14775968759604,
+                                -2.492517033594923
+                            ],
+                            [
+                                29.11442375322108,
+                                -2.480943825815693
+                            ],
+                            [
+                                29.08493249934061,
+                                -2.49131786902249
+                            ],
+                            [
+                                29.06341756774522,
+                                -2.476796233894146
+                            ],
+                            [
+                                29.05067057845369,
+                                -2.448450838075514
+                            ],
+                            [
+                                29.04477579616912,
+                                -2.445207305237775
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "40987bad-e943-4086-9f33-6a79c0222824",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kigali, Gicumbi",
+                    "start": "ac9598b7-097f-46e1-9d8b-be77add20cf2",
+                    "end": "a730568d-ca3f-4243-8317-120403efb353",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.04624366705252,
+                                -1.934085628371405
+                            ],
+                            [
+                                30.05160976681799,
+                                -1.904839673836823
+                            ],
+                            [
+                                30.097504771133472,
+                                -1.855832394009881
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b5e8d42c-66da-4296-bfd5-577ac6f83728",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kigali, Gicumbi",
+                    "start": "a730568d-ca3f-4243-8317-120403efb353",
+                    "end": "a730568d-ca3f-4243-8317-120403efb353",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.097504771133472,
+                                -1.855832394009881
+                            ],
+                            [
+                                30.097504772499107,
+                                -1.855832392551638
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "331f2536-d513-4d0d-8a04-cc36f8c9dcc1",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kigali, Gicumbi",
+                    "start": "a730568d-ca3f-4243-8317-120403efb353",
+                    "end": "c154601a-24d0-4854-b893-49a9266bb2f9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.097504772499107,
+                                -1.855832392551638
+                            ],
+                            [
+                                30.09806067499256,
+                                -1.855238792671663
+                            ],
+                            [
+                                30.09667036939151,
+                                -1.854245209635003
+                            ],
+                            [
+                                30.07688185467901,
+                                -1.829243961577002
+                            ],
+                            [
+                                30.09918555164367,
+                                -1.813881094697624
+                            ],
+                            [
+                                30.11446600151815,
+                                -1.817167657225235
+                            ],
+                            [
+                                30.1285787270969,
+                                -1.798126142718449
+                            ],
+                            [
+                                30.1301543005766,
+                                -1.779918383542737
+                            ],
+                            [
+                                30.12229472124497,
+                                -1.769377473826665
+                            ],
+                            [
+                                30.12535933427412,
+                                -1.741075254883954
+                            ],
+                            [
+                                30.12132547245968,
+                                -1.716553848894316
+                            ],
+                            [
+                                30.12327559167656,
+                                -1.709928509959212
+                            ],
+                            [
+                                30.09277480737273,
+                                -1.672150551225317
+                            ],
+                            [
+                                30.11212185849609,
+                                -1.655929687693433
+                            ],
+                            [
+                                30.098942007974284,
+                                -1.622240501498579
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9526427d-9d78-44fb-ada1-94cb06780850",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kigali, Gicumbi",
+                    "start": "c154601a-24d0-4854-b893-49a9266bb2f9",
+                    "end": "c154601a-24d0-4854-b893-49a9266bb2f9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.098942007974284,
+                                -1.622240501498579
+                            ],
+                            [
+                                30.098942007246187,
+                                -1.622240499637484
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b7f0f575-da5f-4596-b9c1-97738659df12",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kigali, Gicumbi",
+                    "start": "c154601a-24d0-4854-b893-49a9266bb2f9",
+                    "end": "c23efefa-1457-48b0-9a31-112095b5f228",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.098942007246187,
+                                -1.622240499637484
+                            ],
+                            [
+                                30.07917340205201,
+                                -1.571709712501674
+                            ],
+                            [
+                                30.03171463819957,
+                                -1.518404770708644
+                            ],
+                            [
+                                30.02249176813759,
+                                -1.462812516414417
+                            ],
+                            [
+                                30.01173996152544,
+                                -1.423354802262098
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0d10ec44-90e2-4ae5-8780-cf70f83f3599",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kirehe, Kayonza, Gatsibo",
+                    "start": "0abdc40f-8926-44ff-8d3e-948aced84ef7",
+                    "end": "733ab303-b9e7-4b88-987b-43d33ece6260",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.78085591923009,
+                                -2.385998039399667
+                            ],
+                            [
+                                30.77398490491773,
+                                -2.372761411119583
+                            ],
+                            [
+                                30.77314045814811,
+                                -2.372327788184936
+                            ],
+                            [
+                                30.7716674256277,
+                                -2.371036132587441
+                            ],
+                            [
+                                30.75557433722724,
+                                -2.341425942797911
+                            ],
+                            [
+                                30.74830801672529,
+                                -2.305249064881546
+                            ],
+                            [
+                                30.73166315304929,
+                                -2.285336483078301
+                            ],
+                            [
+                                30.72817752878321,
+                                -2.285079817872603
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8e85d4bb-36a6-44cf-bf79-0e76c4debcb8",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kirehe, Kayonza, Gatsibo",
+                    "start": "733ab303-b9e7-4b88-987b-43d33ece6260",
+                    "end": "733ab303-b9e7-4b88-987b-43d33ece6260",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.72817752878321,
+                                -2.285079817872603
+                            ],
+                            [
+                                30.728177526790414,
+                                -2.285079817725863
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3cbcac23-cd32-464f-a9db-2a5067bd2e95",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kirehe, Kayonza, Gatsibo",
+                    "start": "733ab303-b9e7-4b88-987b-43d33ece6260",
+                    "end": "c081ecbe-33ee-4286-81a0-3bee3083d3c7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.728177526790414,
+                                -2.285079817725863
+                            ],
+                            [
+                                30.71030291561223,
+                                -2.283763614255664
+                            ],
+                            [
+                                30.66777516336666,
+                                -2.274787409727655
+                            ],
+                            [
+                                30.63413259610422,
+                                -2.262105756061365
+                            ],
+                            [
+                                30.61803203689836,
+                                -2.272401238007966
+                            ],
+                            [
+                                30.58735102209129,
+                                -2.277657671672063
+                            ],
+                            [
+                                30.56494125086196,
+                                -2.285094318686067
+                            ],
+                            [
+                                30.54895046753742,
+                                -2.273775881809629
+                            ],
+                            [
+                                30.56005846520842,
+                                -2.208673055420041
+                            ],
+                            [
+                                30.58105878110611,
+                                -2.149130649815878
+                            ],
+                            [
+                                30.54691240396656,
+                                -2.125820989512996
+                            ],
+                            [
+                                30.55829418497244,
+                                -2.080773542666927
+                            ],
+                            [
+                                30.56455356666006,
+                                -2.042391335689762
+                            ],
+                            [
+                                30.56397853440831,
+                                -2.041803257690938
+                            ],
+                            [
+                                30.55528188738456,
+                                -1.98159836039005
+                            ],
+                            [
+                                30.53282584483436,
+                                -1.959504925681639
+                            ],
+                            [
+                                30.49454516003915,
+                                -1.919155763172542
+                            ],
+                            [
+                                30.50510378880732,
+                                -1.911475933610149
+                            ],
+                            [
+                                30.505391423254146,
+                                -1.904748800357859
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "64afedb9-b6f6-4a47-a918-ee7aea4d3d6e",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kirehe, Kayonza, Gatsibo",
+                    "start": "c081ecbe-33ee-4286-81a0-3bee3083d3c7",
+                    "end": "c081ecbe-33ee-4286-81a0-3bee3083d3c7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.505391423254146,
+                                -1.904748800357859
+                            ],
+                            [
+                                30.505391423339482,
+                                -1.904748798362051
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b4602ab1-57c7-4dce-9e0a-67e7c7dc5e6f",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kirehe, Kayonza, Gatsibo",
+                    "start": "c081ecbe-33ee-4286-81a0-3bee3083d3c7",
+                    "end": "ccedad55-f131-4111-abc4-21c7bcc5e456",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.505391423339482,
+                                -1.904748798362051
+                            ],
+                            [
+                                30.50653202790562,
+                                -1.878072581416154
+                            ],
+                            [
+                                30.47463835140329,
+                                -1.83816793129935
+                            ],
+                            [
+                                30.44410857690771,
+                                -1.824120552528286
+                            ],
+                            [
+                                30.41447232747692,
+                                -1.797678236357668
+                            ],
+                            [
+                                30.38205829172057,
+                                -1.766595827815663
+                            ],
+                            [
+                                30.39935380885959,
+                                -1.728524602578663
+                            ],
+                            [
+                                30.41251000285207,
+                                -1.70890680917746
+                            ],
+                            [
+                                30.40652190117,
+                                -1.666328179205353
+                            ],
+                            [
+                                30.38751005056459,
+                                -1.645632957332345
+                            ],
+                            [
+                                30.38151574142234,
+                                -1.609654777114825
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b180dcfa-7ad4-4a3c-a21e-2d4ab2a5fd5b",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kirehe, Kayonza, Gatsibo",
+                    "start": "ccedad55-f131-4111-abc4-21c7bcc5e456",
+                    "end": "ccedad55-f131-4111-abc4-21c7bcc5e456",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.38151574142234,
+                                -1.609654777114825
+                            ],
+                            [
+                                30.38151574125817,
+                                -1.609654776129453
+                            ],
+                            [
+                                30.38151574169387,
+                                -1.609654775230649
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "d54461e2-3f06-4f32-9b6f-2059b1fdee13",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kirehe, Kayonza, Gatsibo",
+                    "start": "ccedad55-f131-4111-abc4-21c7bcc5e456",
+                    "end": "2ee246b9-45bc-4633-bf08-494a64c71cb8",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.38151574169387,
+                                -1.609654775230649
+                            ],
+                            [
+                                30.39451182578239,
+                                -1.582845182236899
+                            ],
+                            [
+                                30.39514786752732,
+                                -1.544520629591274
+                            ],
+                            [
+                                30.40786793863597,
+                                -1.49606997330929
+                            ],
+                            [
+                                30.40300308838656,
+                                -1.480759798287936
+                            ],
+                            [
+                                30.38854644934886,
+                                -1.391632719325436
+                            ],
+                            [
+                                30.37113752462414,
+                                -1.365542662962844
+                            ],
+                            [
+                                30.36662250558364,
+                                -1.332929762710182
+                            ],
+                            [
+                                30.39272987649405,
+                                -1.31374481245952
+                            ],
+                            [
+                                30.41513246248701,
+                                -1.280619180732588
+                            ],
+                            [
+                                30.4102313017438,
+                                -1.201239980755452
+                            ],
+                            [
+                                30.40611995705626,
+                                -1.176455000391239
+                            ],
+                            [
+                                30.40642385158252,
+                                -1.176128057137266
+                            ],
+                            [
+                                30.41547685093455,
+                                -1.165701031995082
+                            ],
+                            [
+                                30.41892557996572,
+                                -1.12197905201075
+                            ],
+                            [
+                                30.44412819862022,
+                                -1.108252557137086
+                            ],
+                            [
+                                30.45842851412059,
+                                -1.051549003868328
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3b09174a-f104-4fe6-bb30-762bf688c282",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Nyagatare",
+                    "start": "5242b3bf-0620-4fb1-b498-18ebfaf2c2d7",
+                    "end": "3a324357-848c-4cc5-8912-a6a4d9b342ce",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.37053247864635,
+                                -1.365621175758131
+                            ],
+                            [
+                                30.36975169054665,
+                                -1.365460916644599
+                            ],
+                            [
+                                30.34716824561156,
+                                -1.362064475657186
+                            ],
+                            [
+                                30.34622237701969,
+                                -1.361429933950808
+                            ],
+                            [
+                                30.320948781894298,
+                                -1.302302092804439
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1e6d9fda-2722-4f44-a0af-5474302a5f3d",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Nyagatare",
+                    "start": "3a324357-848c-4cc5-8912-a6a4d9b342ce",
+                    "end": "3a324357-848c-4cc5-8912-a6a4d9b342ce",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.320948781894298,
+                                -1.302302092804439
+                            ],
+                            [
+                                30.3209487811086,
+                                -1.302302090966294
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8642a552-22f5-4f9c-beac-164f8b9bf47b",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Nyagatare",
+                    "start": "3a324357-848c-4cc5-8912-a6a4d9b342ce",
+                    "end": "cc70afad-c2a8-4b43-a2a2-0625e0f9f729",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.3209487811086,
+                                -1.302302090966294
+                            ],
+                            [
+                                30.31988462731497,
+                                -1.299812491993415
+                            ],
+                            [
+                                30.29858470376436,
+                                -1.290850513718625
+                            ],
+                            [
+                                30.29808979680394,
+                                -1.29097711501224
+                            ],
+                            [
+                                30.2418572236879,
+                                -1.293025929336327
+                            ],
+                            [
+                                30.24137444561642,
+                                -1.293155272212077
+                            ],
+                            [
+                                30.24016943353104,
+                                -1.293408732836205
+                            ],
+                            [
+                                30.20545005748321,
+                                -1.286571989071155
+                            ],
+                            [
+                                30.19128335197916,
+                                -1.296868332481373
+                            ],
+                            [
+                                30.19105703240127,
+                                -1.296883416841127
+                            ],
+                            [
+                                30.19073932625278,
+                                -1.29728827588509
+                            ],
+                            [
+                                30.17913856118044,
+                                -1.314271833097473
+                            ],
+                            [
+                                30.1840590001275,
+                                -1.331806155731611
+                            ],
+                            [
+                                30.16549220094937,
+                                -1.353634054347649
+                            ],
+                            [
+                                30.15299209056674,
+                                -1.365837719226945
+                            ],
+                            [
+                                30.15459183553448,
+                                -1.399202269127738
+                            ],
+                            [
+                                30.14778574551164,
+                                -1.409190021309369
+                            ],
+                            [
+                                30.14857346737271,
+                                -1.43090214408553
+                            ],
+                            [
+                                30.12114260123903,
+                                -1.43800230199826
+                            ],
+                            [
+                                30.11259361091383,
+                                -1.437747165370821
+                            ],
+                            [
+                                30.11235741982054,
+                                -1.436962363817798
+                            ],
+                            [
+                                30.11224036212046,
+                                -1.436625259879269
+                            ],
+                            [
+                                30.11168881431482,
+                                -1.435860743987621
+                            ],
+                            [
+                                30.09432461783688,
+                                -1.41072149726763
+                            ],
+                            [
+                                30.07558467841339,
+                                -1.410267211603629
+                            ],
+                            [
+                                30.06925817799924,
+                                -1.422029647473459
+                            ],
+                            [
+                                30.0865144748532,
+                                -1.452628173909401
+                            ],
+                            [
+                                30.08896219563429,
+                                -1.458226425966489
+                            ],
+                            [
+                                30.07429219128631,
+                                -1.463883697781229
+                            ],
+                            [
+                                30.07377051580975,
+                                -1.465352939459323
+                            ],
+                            [
+                                30.06975783188639,
+                                -1.486793920319026
+                            ],
+                            [
+                                30.06135349035894,
+                                -1.491136610411021
+                            ],
+                            [
+                                30.06114209105641,
+                                -1.491138854189619
+                            ],
+                            [
+                                30.05119062081027,
+                                -1.487459010466141
+                            ],
+                            [
+                                30.02402598724906,
+                                -1.481547501898474
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "76bd0f94-45b9-438f-b67e-54c159cd818e",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kamonyi, Rwamagana",
+                    "start": "e7f4e3c8-31aa-4e71-9455-a04f574f0453",
+                    "end": "2217d977-1da2-4ce0-b1e2-c33a9e227ff9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.50508594432704,
+                                -1.902459102375185
+                            ],
+                            [
+                                30.46241238795809,
+                                -1.890745787031207
+                            ],
+                            [
+                                30.44446036078179,
+                                -1.896199147449162
+                            ],
+                            [
+                                30.45187527946519,
+                                -1.938104784964357
+                            ],
+                            [
+                                30.44962003796876,
+                                -1.94779380501544
+                            ],
+                            [
+                                30.44908150433129,
+                                -1.948061427411825
+                            ],
+                            [
+                                30.44776696655465,
+                                -1.948313482503176
+                            ],
+                            [
+                                30.434738086294896,
+                                -1.949301342284926
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "7831d6d1-7ff5-4305-91e5-9a4e29f357b1",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kamonyi, Rwamagana",
+                    "start": "2217d977-1da2-4ce0-b1e2-c33a9e227ff9",
+                    "end": "2217d977-1da2-4ce0-b1e2-c33a9e227ff9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.434738086294896,
+                                -1.949301342284926
+                            ],
+                            [
+                                30.434738084302314,
+                                -1.949301342436005
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "50163b45-c256-4139-b4e6-639650dd2ce2",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kamonyi, Rwamagana",
+                    "start": "2217d977-1da2-4ce0-b1e2-c33a9e227ff9",
+                    "end": "f079704b-0e05-4ece-9478-10eadeda9ee1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.434738084302314,
+                                -1.949301342436005
+                            ],
+                            [
+                                30.42294445046497,
+                                -1.950195544878297
+                            ],
+                            [
+                                30.41434695914894,
+                                -1.939808351662042
+                            ],
+                            [
+                                30.36440217991773,
+                                -1.950959348729118
+                            ],
+                            [
+                                30.35700659178995,
+                                -1.964221390686894
+                            ],
+                            [
+                                30.34290003714844,
+                                -1.953896013457843
+                            ],
+                            [
+                                30.3115935417068,
+                                -1.909977975298546
+                            ],
+                            [
+                                30.29631959949512,
+                                -1.891169204536465
+                            ],
+                            [
+                                30.27231629113034,
+                                -1.899148261123174
+                            ],
+                            [
+                                30.27631345198914,
+                                -1.931086796907757
+                            ],
+                            [
+                                30.2615149149401,
+                                -1.950710891933414
+                            ],
+                            [
+                                30.23573927174082,
+                                -1.956819946619633
+                            ],
+                            [
+                                30.22339754400823,
+                                -1.978915557860861
+                            ],
+                            [
+                                30.19338419034539,
+                                -1.984539524566598
+                            ],
+                            [
+                                30.17660831470261,
+                                -1.972550436188711
+                            ],
+                            [
+                                30.15213946954139,
+                                -1.958403630775231
+                            ],
+                            [
+                                30.13449102080061,
+                                -1.95533439148923
+                            ],
+                            [
+                                30.12634532684467,
+                                -1.963010334534197
+                            ],
+                            [
+                                30.10195350943036,
+                                -1.965355213492962
+                            ],
+                            [
+                                30.07938156151193,
+                                -1.943360182373815
+                            ],
+                            [
+                                30.06564035745852,
+                                -1.930072855275302
+                            ],
+                            [
+                                30.06504025202104,
+                                -1.930395706152042
+                            ],
+                            [
+                                30.04536992644599,
+                                -1.93343964747304
+                            ],
+                            [
+                                30.02498695068989,
+                                -1.946258064065551
+                            ],
+                            [
+                                30.0008786690491,
+                                -1.960256208475498
+                            ],
+                            [
+                                29.97422329635605,
+                                -1.981065342649093
+                            ],
+                            [
+                                29.95157076626473,
+                                -1.976817356725782
+                            ],
+                            [
+                                29.95044883439632,
+                                -1.977144005387142
+                            ],
+                            [
+                                29.94931509991505,
+                                -1.977163596347773
+                            ],
+                            [
+                                29.92288727660828,
+                                -1.994059672879119
+                            ],
+                            [
+                                29.892803903511854,
+                                -2.008535896546107
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4c073455-eb21-4e37-9c17-b32fbc58fabf",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kamonyi, Rwamagana",
+                    "start": "f079704b-0e05-4ece-9478-10eadeda9ee1",
+                    "end": "f079704b-0e05-4ece-9478-10eadeda9ee1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.892803903511854,
+                                -2.008535896546107
+                            ],
+                            [
+                                29.892803901711787,
+                                -2.008535897412307
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "fa6a4df5-33bd-417e-af4b-4960eb9fc68f",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Kamonyi, Rwamagana",
+                    "start": "f079704b-0e05-4ece-9478-10eadeda9ee1",
+                    "end": "c0c988fa-e2a3-4d7f-b687-6f8cd6ce1396",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.892803901711787,
+                                -2.008535897412307
+                            ],
+                            [
+                                29.89226377677577,
+                                -2.008795807408331
+                            ],
+                            [
+                                29.86492558907652,
+                                -2.018633168812368
+                            ],
+                            [
+                                29.84638232872493,
+                                -2.029477818181966
+                            ],
+                            [
+                                29.8328806218683,
+                                -2.044535474551636
+                            ],
+                            [
+                                29.8107346534495,
+                                -2.056698531948332
+                            ],
+                            [
+                                29.79591346685337,
+                                -2.056409385306229
+                            ],
+                            [
+                                29.7757072074113,
+                                -2.077923553419393
+                            ],
+                            [
+                                29.75486047246213,
+                                -2.073702372058797
+                            ],
+                            [
+                                29.73730827134709,
+                                -2.066132696249144
+                            ],
+                            [
+                                29.72768464233728,
+                                -2.067644088996828
+                            ],
+                            [
+                                29.72198967247286,
+                                -2.079951711887079
+                            ],
+                            [
+                                29.71976603533368,
+                                -2.080227642463097
+                            ],
+                            [
+                                29.69666935276913,
+                                -2.067516167341063
+                            ],
+                            [
+                                29.68263032133933,
+                                -2.087411919471267
+                            ],
+                            [
+                                29.66521092768758,
+                                -2.087963964943908
+                            ],
+                            [
+                                29.6308784286387,
+                                -2.081320207386633
+                            ],
+                            [
+                                29.60742787758941,
+                                -2.056075142007365
+                            ],
+                            [
+                                29.5847012405191,
+                                -2.054530234736954
+                            ],
+                            [
+                                29.56220112480422,
+                                -2.06075880925417
+                            ],
+                            [
+                                29.54215032875513,
+                                -2.068485357371009
+                            ],
+                            [
+                                29.52049228981299,
+                                -2.055894236323316
+                            ],
+                            [
+                                29.50355177619424,
+                                -2.060019662856971
+                            ],
+                            [
+                                29.48220155928879,
+                                -2.058888066310989
+                            ],
+                            [
+                                29.46764057353343,
+                                -2.043567718492771
+                            ],
+                            [
+                                29.44580716666004,
+                                -2.052540316791001
+                            ],
+                            [
+                                29.43203797662877,
+                                -2.058995230746844
+                            ],
+                            [
+                                29.41480640745814,
+                                -2.050446099753436
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "d5d46dc4-1fec-4cce-bec4-2be487e8167d",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Burera, Rulindo",
+                    "start": "37e6308e-ea25-4446-96be-1843e6ace11e",
+                    "end": "35c624be-afde-422f-ae8d-db67f073a245",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.89652929979615,
+                                -1.66853899378575
+                            ],
+                            [
+                                29.89674151755732,
+                                -1.66794301290403
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4ca3983c-42c2-4ff6-8794-bb09d7607f1d",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Burera, Rulindo",
+                    "start": "35c624be-afde-422f-ae8d-db67f073a245",
+                    "end": "35c624be-afde-422f-ae8d-db67f073a245",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.89674151755732,
+                                -1.66794301290403
+                            ],
+                            [
+                                29.89674151822741,
+                                -1.66794301102218
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "34033ec7-2e17-4c25-ba3f-30a4c586b635",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Burera, Rulindo",
+                    "start": "35c624be-afde-422f-ae8d-db67f073a245",
+                    "end": "b4f8eb38-c1ec-4197-bb62-45b563385b97",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.89674151822741,
+                                -1.66794301102218
+                            ],
+                            [
+                                29.89947808977225,
+                                -1.660257771515467
+                            ],
+                            [
+                                29.8846872913134,
+                                -1.602298816612645
+                            ],
+                            [
+                                29.85864723197772,
+                                -1.557944549660766
+                            ],
+                            [
+                                29.85043189187728,
+                                -1.512854304854028
+                            ],
+                            [
+                                29.83904346238353,
+                                -1.496329070902368
+                            ],
+                            [
+                                29.83882953680128,
+                                -1.481920488336062
+                            ],
+                            [
+                                29.83209720992975,
+                                -1.452995612883391
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "caa09ffa-50b9-4853-afb2-d3cfa93f052d",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Burera, Rulindo",
+                    "start": "b4f8eb38-c1ec-4197-bb62-45b563385b97",
+                    "end": "b4f8eb38-c1ec-4197-bb62-45b563385b97",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.83209720992975,
+                                -1.452995612883391
+                            ],
+                            [
+                                29.832097209476846,
+                                -1.452995610937532
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a1ce53ff-abf1-4e88-81ed-96d3290b49ad",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Burera, Rulindo",
+                    "start": "b4f8eb38-c1ec-4197-bb62-45b563385b97",
+                    "end": "2e045a3d-6eeb-4ba3-b9d7-fe8312b65c2d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.832097209476846,
+                                -1.452995610937532
+                            ],
+                            [
+                                29.82325294255668,
+                                -1.414996962919163
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "50a9d61d-d7da-4da0-a9a8-b0cc1c773df6",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "",
+                    "start": "80ad6297-92c3-45b8-a435-e406183e39de",
+                    "end": "6bfdc235-600d-421b-b2e6-1735a01250d6",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.63357296290432,
+                                -1.497720997441486
+                            ],
+                            [
+                                29.68221297522451,
+                                -1.486721546042489
+                            ],
+                            [
+                                29.69822022400031,
+                                -1.454928319199102
+                            ],
+                            [
+                                29.73720554177823,
+                                -1.403981961761058
+                            ],
+                            [
+                                29.7472440015343,
+                                -1.378754564960646
+                            ],
+                            [
+                                29.73957530315567,
+                                -1.339747701056824
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ad9d92a9-0e29-4aa2-9328-4a24ae513453",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngoma",
+                    "start": "be7acdd3-584c-4753-8746-cd60fd570109",
+                    "end": "911d4734-fbbe-4bdf-9dfa-a9b9611a987a",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.21491397590775,
+                                -2.251085293598581
+                            ],
+                            [
+                                30.21510044792693,
+                                -2.250785342048252
+                            ],
+                            [
+                                30.21548106070671,
+                                -2.250286031376659
+                            ],
+                            [
+                                30.21595290014095,
+                                -2.249583785757315
+                            ],
+                            [
+                                30.24233504307331,
+                                -2.208018501050659
+                            ],
+                            [
+                                30.3121329723804,
+                                -2.193386374922422
+                            ],
+                            [
+                                30.34204272406605,
+                                -2.184289711203406
+                            ],
+                            [
+                                30.36956690475202,
+                                -2.186080277666741
+                            ],
+                            [
+                                30.37983832238564,
+                                -2.19912332442043
+                            ],
+                            [
+                                30.39114931829651,
+                                -2.226611509574289
+                            ],
+                            [
+                                30.39889563861808,
+                                -2.230125982578511
+                            ],
+                            [
+                                30.40854422226804,
+                                -2.221944586106607
+                            ],
+                            [
+                                30.42866566165286,
+                                -2.214508926568379
+                            ],
+                            [
+                                30.44820752403476,
+                                -2.195289229760915
+                            ],
+                            [
+                                30.458624802445964,
+                                -2.192021062265481
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "10028d5f-cdba-4b73-bc17-2b94a8492b96",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngoma",
+                    "start": "911d4734-fbbe-4bdf-9dfa-a9b9611a987a",
+                    "end": "911d4734-fbbe-4bdf-9dfa-a9b9611a987a",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.458624802445964,
+                                -2.192021062265481
+                            ],
+                            [
+                                30.45862480339971,
+                                -2.192021061966267
+                            ],
+                            [
+                                30.458624803901515,
+                                -2.192021061102572
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1aa98dd6-b1e4-4e2b-9b47-b26637a12f58",
+                    "name": "Rwanda National Backbone Network",
+                    "pointNames": "Ngoma",
+                    "start": "911d4734-fbbe-4bdf-9dfa-a9b9611a987a",
+                    "end": "6472933f-0b6d-44c9-9376-ba3401c31c75",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.458624803901515,
+                                -2.192021061102572
+                            ],
+                            [
+                                30.46961753614924,
+                                -2.173100594191911
+                            ],
+                            [
+                                30.48663194395084,
+                                -2.158634123374248
+                            ],
+                            [
+                                30.50361355119064,
+                                -2.160622403953706
+                            ],
+                            [
+                                30.52061596917807,
+                                -2.1583132750761
+                            ],
+                            [
+                                30.51639840731747,
+                                -2.184364420703436
+                            ],
+                            [
+                                30.52901051331546,
+                                -2.188366765469136
+                            ],
+                            [
+                                30.54084301859069,
+                                -2.172058738865156
+                            ],
+                            [
+                                30.54947625476724,
+                                -2.14559964217735
+                            ],
+                            [
+                                30.55893050282371,
+                                -2.133509268789766
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

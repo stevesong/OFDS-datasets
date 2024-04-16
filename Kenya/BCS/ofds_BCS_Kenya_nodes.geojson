@@ -1,0 +1,599 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.67508233656652,
+                    -4.0552215602643695
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}",
+                "name": "Seacom Cable Landing Station",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "cableLanding"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.623291411472366,
+                    -4.025270181896678
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_1",
+                "name": "Kipevu",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "dataCentre"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.59839432820422,
+                    -4.005864184662612
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_2",
+                "name": "Mombasa",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "pop"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.54185945628391,
+                    -3.401345531274707
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_3",
+                "name": "Voi",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "pop"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.72268925792755,
+                    -2.2117766204379024
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_4",
+                "name": "Kiboko",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "pop"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.84877784570945,
+                    -1.3249642759749811
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_5",
+                "name": "Parkside Towers",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "pop"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.86687152018039,
+                    -1.3277780675755402
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_6",
+                "name": "Africa Data Centres",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "dataCentre"
+                ],
+                "accessPoint": true,
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.08693450755043,
+                    -0.2830053515350422
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_7",
+                "name": "Nakuru",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.77107061792985,
+                    -0.08033435791366444
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_8",
+                "name": "Kisumu",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.20199442894371,
+                    0.6724436183943094
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_9",
+                "name": "Uganda border",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "borderCrossing"
+                ],
+                "accessPoint": true,
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.050124207394006,
+                    3.5108359083725196
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_10",
+                "name": "Moyale",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.87241720508124,
+                    -1.3235310557210584
+                ]
+            },
+            "properties": {
+                "id": "{999a1ccc-8131-48f4-a932-c0939e090c00}_11",
+                "name": "BCS Kenya",
+                "phase": {
+                    "id": "{470e1bc3-c69a-4682-bd9f-12731a1a6649}",
+                    "name": "Phase One"
+                },
+                "status": "operational",
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "networkProviders": [
+                    {
+                        "id": "{57d054ee-3804-4a1e-8adb-5645991d06fe}",
+                        "name": "BCS",
+                        "identifier": {
+                            "legalName": "Bandwidth & Cloud Services Group"
+                        },
+                        "country": "KE",
+                        "website": "https://bcs-ea.com/bcs-our-network-kenya.html"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "BCS Fibre Network Kenya",
+                    "website": "https://bcs-ea.com/bcs-our-network-kenya.html",
+                    "id": "67bd6c84-7815-4ef4-ae40-b5e79cd3ac6a",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

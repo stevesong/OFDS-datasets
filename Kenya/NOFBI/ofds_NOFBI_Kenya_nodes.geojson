@@ -1,0 +1,3167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.9694979161158,
+                    -1.44508975145831
+                ]
+            },
+            "properties": {
+                "id": "3a1c7db7-deca-4358-9a63-a2faf683fdd9",
+                "name": "Athi River",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.343979634875,
+                    -0.784701911053476
+                ]
+            },
+            "properties": {
+                "id": "c7c5d124-d359-4bc0-8f87-b2b7f531c83e",
+                "name": "Bomet",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.1126224255904,
+                    0.460185182830044
+                ]
+            },
+            "properties": {
+                "id": "45a6ed54-6508-4770-bab3-017625204c09",
+                "name": "Busia",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Frontier"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6500021,
+                    -0.3332938
+                ]
+            },
+            "properties": {
+                "id": "b4eeb879-cc1a-459f-a222-c4a388651577",
+                "name": "Chuka",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.56839141721,
+                    -4.30448822987759
+                ]
+            },
+            "properties": {
+                "id": "79a46901-6a32-4c6e-9f63-4f338b5a1e2b",
+                "name": "Diani",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.8398022,
+                    0.596288
+                ]
+            },
+            "properties": {
+                "id": "30e947dd-66c6-404a-852b-8f655e8fd12e",
+                "name": "El Dera",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.93486423699924,
+                    2.795204365965428
+                ]
+            },
+            "properties": {
+                "id": "627f460a-9e5f-4b8e-b9b4-6dcc7a1b495f",
+                "name": "El Wak",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2853253,
+                    0.5142066
+                ]
+            },
+            "properties": {
+                "id": "2a1b94e7-ee91-4f5e-bedc-1b2f47afef76",
+                "name": "Eldoret",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4577970548856,
+                    -0.546329863415528
+                ]
+            },
+            "properties": {
+                "id": "0ad12593-e910-49a5-a02c-2606b24b2042",
+                "name": "Embu",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.6492561132106,
+                    -0.479613138684947
+                ]
+            },
+            "properties": {
+                "id": "76500d9f-16f4-40a6-b33c-221824c21ee4",
+                "name": "Garissa",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.110755,
+                    -2.267735
+                ]
+            },
+            "properties": {
+                "id": "c933c1b8-4b11-477c-bf86-1fa982a330d2",
+                "name": "Garsen",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.3253995,
+                    -0.4981671
+                ]
+            },
+            "properties": {
+                "id": "1d47abc9-8834-48f4-9a02-ccaacbfa591d",
+                "name": "Gilgil",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.458920042197754,
+                    0.994820378462465
+                ]
+            },
+            "properties": {
+                "id": "0dfa8ffb-38a8-4e1d-8ca6-cd81ca08c5af",
+                "name": "Habaswein",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.00176216864879,
+                    -1.506388690753187
+                ]
+            },
+            "properties": {
+                "id": "d12e1170-8640-4dd6-85a9-0032c96331d0",
+                "name": "Hola",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.4544002347644,
+                    -0.54264003967288
+                ]
+            },
+            "properties": {
+                "id": "d49e3b35-58d6-490b-a375-61c0537f2d2f",
+                "name": "Homa Bay",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.47714821188415,
+                    -1.22805960371365
+                ]
+            },
+            "properties": {
+                "id": "56478893-1b70-4499-be65-b5a4290d5a5d",
+                "name": "Isbania",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.58855420760644,
+                    0.372736645165752
+                ]
+            },
+            "properties": {
+                "id": "1d34064c-6ccf-4f5d-86a0-6958c8ae2e41",
+                "name": "Isiolo",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5136472,
+                    0.6765075
+                ]
+            },
+            "properties": {
+                "id": "e87192ef-6817-4cea-bef8-19d9082734f4",
+                "name": "Iten",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.743139,
+                    0.496524
+                ]
+            },
+            "properties": {
+                "id": "71b9f576-e980-4875-b33e-00a36392f3c5",
+                "name": "Kabarnet",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7771540983011,
+                    -1.864517764636829
+                ]
+            },
+            "properties": {
+                "id": "3270e9dd-1783-4f75-95cd-16997111b269",
+                "name": "Kajiado",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7524318008913,
+                    0.274984720081514
+                ]
+            },
+            "properties": {
+                "id": "a717a77c-391f-4218-958f-33b4a3a7f5ae",
+                "name": "Kakamega",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.88623907550371,
+                    3.702059312604522
+                ]
+            },
+            "properties": {
+                "id": "062963fc-35e6-4ae7-9f05-a2be97854f5e",
+                "name": "Kakuma",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6728295888623,
+                    -1.09878078878531
+                ]
+            },
+            "properties": {
+                "id": "2fe61e2a-50dd-4586-8c7f-8faf7ec6a048",
+                "name": "Kangonde",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Joint"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3350058948375,
+                    -1.30210281536982
+                ]
+            },
+            "properties": {
+                "id": "37f7cd5f-c92f-4551-a8a5-970925053c2f",
+                "name": "Kangundo",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Joint"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0895436,
+                    1.2510784
+                ]
+            },
+            "properties": {
+                "id": "14c9aceb-bd70-4a10-bd1c-815f7fe3f003",
+                "name": "Kapenguria",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.26509860237378,
+                    -0.377025762944001
+                ]
+            },
+            "properties": {
+                "id": "3f6431c9-223e-4d3c-a024-d7b86d8116a4",
+                "name": "Kericho",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8341161608859,
+                    -1.17875791047303
+                ]
+            },
+            "properties": {
+                "id": "275de3cc-3fac-4857-a3bb-6aed74d2304f",
+                "name": "Kiambu",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.748831315101,
+                    -0.66742374273332
+                ]
+            },
+            "properties": {
+                "id": "8845ae9c-67c2-498a-b381-72ce8ef2716e",
+                "name": "Kisii",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7541761,
+                    -0.1029109
+                ]
+            },
+            "properties": {
+                "id": "1e65fd6f-61ce-45de-a85e-f183bc6f65be",
+                "name": "Kisumu",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.00472664082692,
+                    1.017989231434055
+                ]
+            },
+            "properties": {
+                "id": "5d354169-55e7-42de-a853-d66f5dcd622c",
+                "name": "Kitale",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.995503585073,
+                    -1.38516641803175
+                ]
+            },
+            "properties": {
+                "id": "fd0c6283-0bec-41e0-ac08-037a2ae15175",
+                "name": "Kitui",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.461280497187,
+                    -4.1912342645416
+                ]
+            },
+            "properties": {
+                "id": "843130ac-db1a-43f9-8d73-2e22a15a5c5e",
+                "name": "Kwale",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.802513,
+                    1.590479
+                ]
+            },
+            "properties": {
+                "id": "5f2841f4-25c0-4d03-9e85-fbd7cb1bcb46",
+                "name": "Laisamis",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6000028,
+                    3.1166086
+                ]
+            },
+            "properties": {
+                "id": "b088f856-2ec9-4d1e-a734-0f5bf98840bf",
+                "name": "Lokichar",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.65072347793792,
+                    2.390526790831065
+                ]
+            },
+            "properties": {
+                "id": "08f80d66-5a70-424c-a39c-f5b4bd214662",
+                "name": "Lokichar",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.2244613,
+                    4.4406653
+                ]
+            },
+            "properties": {
+                "id": "cf162b82-5ece-4b10-ab4b-f6ac689bbdc1",
+                "name": "Lokichokio",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Frontier"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.595905,
+                    -0.169316
+                ]
+            },
+            "properties": {
+                "id": "ae6644c3-5e45-42bb-ad6b-752b002874d1",
+                "name": "Londiani",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.486713857541815,
+                    -0.874623495881915
+                ]
+            },
+            "properties": {
+                "id": "b6f02e27-785d-422c-8d04-55b1d7430859",
+                "name": "Longonot",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.1197558839823,
+                    -4.55068765479409
+                ]
+            },
+            "properties": {
+                "id": "4108d4d8-ca72-48a1-96ce-9100d0f156a8",
+                "name": "Lunga Lunga",
+                "phase": {
+                    "id": "1",
+                    "name": "NOFBI II"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2644712258806,
+                    -1.51599496939402
+                ]
+            },
+            "properties": {
+                "id": "c2a115e2-9c4a-45ec-956b-9a84b0bd8860",
+                "name": "Machakos",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.0369900472246,
+                    0.556549211187273
+                ]
+            },
+            "properties": {
+                "id": "361aa39c-dd61-49af-a2ee-5f2a5f865ede",
+                "name": "Maganya",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.2789962417963,
+                    0.636128078525436
+                ]
+            },
+            "properties": {
+                "id": "9de8957f-a97f-4b95-8b98-9f789d1ee8e3",
+                "name": "Malaba",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.1165933,
+                    -3.2165987
+                ]
+            },
+            "properties": {
+                "id": "c7dc823a-f793-4cfb-bd4f-25f954fb4537",
+                "name": "Malindi",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.8569113959455,
+                    3.92198668511176
+                ]
+            },
+            "properties": {
+                "id": "214f88de-1f2c-40b5-b9a4-7662647dec8c",
+                "name": "Mandera",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7,
+                    1.1
+                ]
+            },
+            "properties": {
+                "id": "ba2d08ce-1256-4c64-b8ea-e25e5617ac0c",
+                "name": "Maralal",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.9846019638508,
+                    2.33417644964479
+                ]
+            },
+            "properties": {
+                "id": "55ad685d-5594-455b-849b-2833a2ac926d",
+                "name": "Marsabit",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.549806,
+                    -3.967571
+                ]
+            },
+            "properties": {
+                "id": "bd9eff09-1441-42b7-9357-e50d02e2ddf9",
+                "name": "Mazeras",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6455589619454,
+                    0.053290225301964
+                ]
+            },
+            "properties": {
+                "id": "d4f09068-7219-4959-b7ec-c02373e73799",
+                "name": "Meru",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.466851171789,
+                    -1.07448520741909
+                ]
+            },
+            "properties": {
+                "id": "173e4add-ac8f-4256-b165-f1a09125563e",
+                "name": "Migori",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0562603,
+                    3.5166891
+                ]
+            },
+            "properties": {
+                "id": "5c415c22-dabc-4f4a-9b4e-d34daae90864",
+                "name": "Moyale",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.1716522446425,
+                    -2.69043623123026
+                ]
+            },
+            "properties": {
+                "id": "88fbe25d-749d-4e32-87bd-c3b7dc371b31",
+                "name": "Mtito Ande",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.187494,
+                    -0.156525
+                ]
+            },
+            "properties": {
+                "id": "0470f16b-525c-4b8d-be83-b265fbe7304f",
+                "name": "Muhoroni",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.1603759396162,
+                    -0.72659153492683
+                ]
+            },
+            "properties": {
+                "id": "79e3a02e-5deb-47b3-a7e6-75eb94ded263",
+                "name": "Muranga",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.0666,
+                    -0.9333
+                ]
+            },
+            "properties": {
+                "id": "9369cc94-6e3d-499c-a898-fb9a2b13fde6",
+                "name": "Mwingi",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Joint"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8172449,
+                    -1.2832533
+                ]
+            },
+            "properties": {
+                "id": "700015c8-1f62-417a-8680-adb6d7c20948",
+                "name": "Nairobi",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.4387383,
+                    -0.7214804
+                ]
+            },
+            "properties": {
+                "id": "1481bfa6-0e93-4069-ac2e-5f6aee5dc72a",
+                "name": "Naivasha",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.071352577163,
+                    -0.306098980285728
+                ]
+            },
+            "properties": {
+                "id": "b8e3155e-d1a0-41a2-bfb9-d6cfce322a70",
+                "name": "Nakuru",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.074632,
+                    0.01403
+                ]
+            },
+            "properties": {
+                "id": "da66ff92-6cda-4fc3-9362-3daaa78baf35",
+                "name": "Nanyuki",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8700250135441,
+                    -1.09009750911828
+                ]
+            },
+            "properties": {
+                "id": "988a4068-2a0b-4b33-8bc0-e332bf42d1d7",
+                "name": "Narok",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.3666,
+                    0.0333
+                ]
+            },
+            "properties": {
+                "id": "1f4172c5-7e0d-4a8a-8fe7-52024f3b21d0",
+                "name": "Nyahururu",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.9485127485333,
+                    -0.418297361069402
+                ]
+            },
+            "properties": {
+                "id": "2a650fe9-1c60-491c-bd1f-87a1c06a2dd6",
+                "name": "Nyeri",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.2886822198311,
+                    0.060657640005317
+                ]
+            },
+            "properties": {
+                "id": "311fee7c-d16c-4da5-b7cc-190f1ad70938",
+                "name": "Siaya",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.370728,
+                    -2.024729
+                ]
+            },
+            "properties": {
+                "id": "1abf6853-2a17-4cc0-8843-2475559cb5ef",
+                "name": "Sultan Hamud",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.06054697524895,
+                    -1.038284487362841
+                ]
+            },
+            "properties": {
+                "id": "ca507ea9-ae77-4e80-aa41-1775fdaac1f9",
+                "name": "Thika",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Joint"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7196611457444,
+                    0.08195405857082
+                ]
+            },
+            "properties": {
+                "id": "9826fa48-b105-4c80-98ad-23c03092e526",
+                "name": "Vihiga",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.0584319377021,
+                    1.7478944641201
+                ]
+            },
+            "properties": {
+                "id": "670ef239-201f-4b18-935d-7bd952872e10",
+                "name": "Wajir",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.8683376470635,
+                    3.17918092959928
+                ]
+            },
+            "properties": {
+                "id": "06b25273-4822-4197-a071-eec113921e6b",
+                "name": "War Gedud",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7687756,
+                    0.607628
+                ]
+            },
+            "properties": {
+                "id": "7f7b0bde-6f16-4628-bf08-c5f4e061e4c6",
+                "name": "Webuye",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6290353,
+                    -1.7803167
+                ]
+            },
+            "properties": {
+                "id": "bea52548-30b3-4e68-8994-ec376f32dedf",
+                "name": "Wote",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.367445,
+                    -3.40494
+                ]
+            },
+            "properties": {
+                "id": "0a8d9818-edc4-474a-a4ba-ccdf76dd5b2e",
+                "name": "Wundanyi",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.47329437538656,
+                    0.141172005013471
+                ]
+            },
+            "properties": {
+                "id": "4eca994c-50fa-4491-b3a5-cc8227c6c2f9",
+                "name": "Isiolo - Meru fork",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Joint"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.37043773176268,
+                    -0.276540875070343
+                ]
+            },
+            "properties": {
+                "id": "5c9d0273-ce84-458f-9cde-5db4d2b4a5db",
+                "name": "Olkahlou",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.233545600297745,
+                    -0.476909168945063
+                ]
+            },
+            "properties": {
+                "id": "b79ddfe7-5f87-4726-8799-a183000e0ffa",
+                "name": "Kagumo",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.90972040942308,
+                    -2.264835253239213
+                ]
+            },
+            "properties": {
+                "id": "447fce04-d4c2-430a-a525-733c62e1b74b",
+                "name": "Lamu",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.69935125752836,
+                    -2.211359211415426
+                ]
+            },
+            "properties": {
+                "id": "fd47fffa-cc5b-4faa-ba66-02d96fdf01d1",
+                "name": "Msanga",
+                "phase": {
+                    "id": "2",
+                    "name": "Sagem"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.85036923553336,
+                    -3.629307575956422
+                ]
+            },
+            "properties": {
+                "id": "1a571449-37c1-417f-8486-bb520ea86a8b",
+                "name": "Kilifi",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.66175490803313,
+                    -4.044760632082103
+                ]
+            },
+            "properties": {
+                "id": "380e9ab4-d84f-45c0-96a8-161f3ab7b02a",
+                "name": "Mombasa",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.5507360262065,
+                    -3.401854778010419
+                ]
+            },
+            "properties": {
+                "id": "92e4ee05-aef8-423d-ac8b-3fba28faec83",
+                "name": "Voi",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.13493205461305,
+                    -1.532811872841924
+                ]
+            },
+            "properties": {
+                "id": "66aaaaaf-803b-49cd-a6aa-7d9523bf6d76",
+                "name": "network fork",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Junction"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.237855488940376,
+                    -1.061865283634566
+                ]
+            },
+            "properties": {
+                "id": "60a9a487-ffdb-45f3-827c-f69579230713",
+                "name": "Kilimambogo",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Joint"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.211733725927004,
+                    -0.665480471974893
+                ]
+            },
+            "properties": {
+                "id": "f44295b3-41e2-4a7d-b336-0fda7df401cc",
+                "name": "unknown",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Joint"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.371320869341055,
+                    4.197379929360189
+                ]
+            },
+            "properties": {
+                "id": "182db24f-5ad1-4d1d-9447-20430e2ef2a7",
+                "name": "Lokichogio",
+                "phase": {
+                    "id": "4",
+                    "name": "ZTE"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.19237110391212,
+                    0.605721093859977
+                ]
+            },
+            "properties": {
+                "id": "69522ccb-c983-4317-86a1-83fd3ffbe3a3",
+                "name": "tmp",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Junction"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.94759702963224,
+                    0.294149192323587
+                ]
+            },
+            "properties": {
+                "id": "7be42c70-87dc-4ac3-9105-efbc64607d96",
+                "name": "Vihiga",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "County Headquarters"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.941301496819676,
+                    -0.177732301912601
+                ]
+            },
+            "properties": {
+                "id": "c6c8e049-19ff-4376-bc3b-487d8b23ea48",
+                "name": "tmp",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Junction"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.642830571128144,
+                    -0.050412476550552
+                ]
+            },
+            "properties": {
+                "id": "77831051-9c9d-42fd-9bd7-59e036057af8",
+                "name": "tmp",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Junction"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.69056386469213,
+                    -0.157530305574337
+                ]
+            },
+            "properties": {
+                "id": "6a3ac4e6-7944-467b-904c-04e440963781",
+                "name": "tmp",
+                "phase": {
+                    "id": "3",
+                    "name": "TLK"
+                },
+                "type": [
+                    "OFC Terminal"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.152906569863156,
+                    -0.212028662366394
+                ]
+            },
+            "properties": {
+                "id": "9794e229-e8a3-4125-9fa0-f1da6a596a4a",
+                "name": "tmp",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Junction"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.16530970913569,
+                    -0.488838732972945
+                ]
+            },
+            "properties": {
+                "id": "fef48035-3540-458a-9508-ede5e2ba2830",
+                "name": "tmp",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Junction"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.58593897172207,
+                    -0.983606433180751
+                ]
+            },
+            "properties": {
+                "id": "e613babd-76a0-4b06-9377-09892a86a5a0",
+                "name": "tmp",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "Junction"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75508216103752,
+                    0.28190781188701
+                ]
+            },
+            "properties": {
+                "id": "c688ecf7-f1aa-42a5-9bae-8eaa53915707",
+                "name": "Vihiga",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.111779397679776,
+                    0.202336073122795
+                ]
+            },
+            "properties": {
+                "id": "d372b9fa-6a76-4d64-9a67-a5ca572b9ba3",
+                "name": "Kapsabet",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75024510096712,
+                    -0.665318910640912
+                ]
+            },
+            "properties": {
+                "id": "39122407-a5f8-4416-a961-fffb18426b03",
+                "name": "Kebirigo",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.74355002139837,
+                    -0.66579709834602
+                ]
+            },
+            "properties": {
+                "id": "2555a42b-76a2-4fde-a0f5-c4cd2e14a557",
+                "name": "Kisii",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.78488342751329,
+                    -2.5461218277859
+                ]
+            },
+            "properties": {
+                "id": "0b44a2a0-754e-48c3-866d-ffc067bc76ba",
+                "name": "Namanga",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.00296246913514,
+                    -0.398843387693543
+                ]
+            },
+            "properties": {
+                "id": "ced8a663-ceb3-4799-acbb-784d85381047",
+                "name": "Nyeria fork",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.32399545870098,
+                    -0.566931445604492
+                ]
+            },
+            "properties": {
+                "id": "849922e5-f36e-490c-ad2b-577a2b70f049",
+                "name": "Kutus",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.09411541453974,
+                    3.475608567445073
+                ]
+            },
+            "properties": {
+                "id": "b8ea8e93-0e34-42b0-aed6-38f5a3cad817",
+                "name": "Moyale fork",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.70745964088935,
+                    -1.111464873725523
+                ]
+            },
+            "properties": {
+                "id": "0d081309-0ca1-4a9e-a6cb-6fda6e4c8fcf",
+                "name": "Kangonde fork",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.52719166233406,
+                    -0.490895951292904
+                ]
+            },
+            "properties": {
+                "id": "b2dd81ec-a2f1-46b0-8363-b556717422ba",
+                "name": "Garissa fork",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.10502208743533,
+                    -4.601117157905737
+                ]
+            },
+            "properties": {
+                "id": "20b34764-0700-4612-b08f-9530e88dff73",
+                "name": "Tanzania border",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.59181398652304,
+                    -4.191513293376939
+                ]
+            },
+            "properties": {
+                "id": "c964e679-1f51-4ff3-b625-47fdb818f2a4",
+                "name": "Samburu Kwale Junction",
+                "phase": {
+                    "id": "No data",
+                    "name": "No data"
+                },
+                "type": [
+                    "No data"
+                ],
+                "network": {
+                    "name": "NOFBI",
+                    "id": "cc231898-3b56-4971-a3c9-5c92d53f74b5",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

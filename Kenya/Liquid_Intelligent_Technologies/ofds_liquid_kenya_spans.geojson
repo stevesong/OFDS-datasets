@@ -1,0 +1,4990 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.66451506,
+                        -4.04616528
+                    ],
+                    [
+                        39.7227187,
+                        -4.01874704
+                    ],
+                    [
+                        39.74003549,
+                        -3.98026529
+                    ],
+                    [
+                        39.73859242,
+                        -3.95958136
+                    ],
+                    [
+                        39.74628877,
+                        -3.92843519
+                    ],
+                    [
+                        39.78861869,
+                        -3.86926951
+                    ],
+                    [
+                        39.81170774,
+                        -3.81539507
+                    ],
+                    [
+                        39.82469533,
+                        -3.78509069
+                    ],
+                    [
+                        39.82565737,
+                        -3.71630458
+                    ],
+                    [
+                        39.82613839,
+                        -3.71101334
+                    ],
+                    [
+                        39.81555591,
+                        -3.69946881
+                    ],
+                    [
+                        39.81363182,
+                        -3.6903294
+                    ],
+                    [
+                        39.82758146,
+                        -3.66435422
+                    ],
+                    [
+                        39.84153109,
+                        -3.65521481
+                    ],
+                    [
+                        39.85211357,
+                        -3.64258798
+                    ],
+                    [
+                        39.84586029,
+                        -3.62238507
+                    ],
+                    [
+                        39.86702525,
+                        -3.58197923
+                    ],
+                    [
+                        39.87520262,
+                        -3.5569661
+                    ],
+                    [
+                        39.88001283,
+                        -3.53772523
+                    ],
+                    [
+                        39.89829166,
+                        -3.47591393
+                    ],
+                    [
+                        39.89348144,
+                        -3.45522999
+                    ],
+                    [
+                        39.90021575,
+                        -3.41290007
+                    ],
+                    [
+                        39.91705151,
+                        -3.39269715
+                    ],
+                    [
+                        39.93677341,
+                        -3.37008913
+                    ],
+                    [
+                        39.93629239,
+                        -3.34700008
+                    ],
+                    [
+                        39.95360917,
+                        -3.3253541
+                    ],
+                    [
+                        39.98247048,
+                        -3.30803731
+                    ],
+                    [
+                        40.00219237,
+                        -3.30130301
+                    ],
+                    [
+                        40.02431938,
+                        -3.2978156
+                    ],
+                    [
+                        40.04211718,
+                        -3.28146086
+                    ],
+                    [
+                        40.05414273,
+                        -3.25981488
+                    ],
+                    [
+                        40.07963689,
+                        -3.2449032
+                    ],
+                    [
+                        40.09887776,
+                        -3.23528277
+                    ],
+                    [
+                        40.11427046,
+                        -3.21796598
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}",
+                "name": "Mombasa-Malindi",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_13",
+                    "name": "Mombasa",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.656337692287245,
+                            -4.047127325536179
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_1",
+                    "name": "Malindi",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.116275928237194,
+                            -3.2187281346824963
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        40.11475148,
+                        -3.21315576
+                    ],
+                    [
+                        40.10994126,
+                        -3.1765981
+                    ],
+                    [
+                        40.126296,
+                        -3.14869884
+                    ],
+                    [
+                        40.15034709,
+                        -3.1169514
+                    ],
+                    [
+                        40.13976461,
+                        -3.09963461
+                    ],
+                    [
+                        40.13591644,
+                        -3.02459521
+                    ],
+                    [
+                        40.13880257,
+                        -2.98515142
+                    ],
+                    [
+                        40.13880257,
+                        -2.90433976
+                    ],
+                    [
+                        40.14938505,
+                        -2.85335145
+                    ],
+                    [
+                        40.14649892,
+                        -2.74079234
+                    ],
+                    [
+                        40.13687848,
+                        -2.65132229
+                    ],
+                    [
+                        40.13591644,
+                        -2.60201755
+                    ],
+                    [
+                        40.11378943,
+                        -2.52794019
+                    ],
+                    [
+                        40.11859965,
+                        -2.41153291
+                    ],
+                    [
+                        40.1195617,
+                        -2.33817709
+                    ],
+                    [
+                        40.11040752,
+                        -2.31938693
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_1",
+                "name": "Mombasa-Malindi",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_1",
+                    "name": "Malindi",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.116275928237194,
+                            -3.2187281346824963
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_14",
+                    "name": "Lamu Branch",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "exchange"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.111363373429086,
+                            -2.3191854810681733
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.64912237,
+                        -0.44679933
+                    ],
+                    [
+                        39.84345518,
+                        -0.2255293
+                    ],
+                    [
+                        39.98391355,
+                        -0.09613443
+                    ],
+                    [
+                        40.02239529,
+                        -0.03648773
+                    ],
+                    [
+                        40.07626973,
+                        -0.01917094
+                    ],
+                    [
+                        40.20903175,
+                        -0.03648773
+                    ],
+                    [
+                        40.28599524,
+                        -0.00185416
+                    ],
+                    [
+                        40.3225529,
+                        0.03855168
+                    ],
+                    [
+                        40.3225529,
+                        0.09819838
+                    ],
+                    [
+                        40.42452952,
+                        0.16746552
+                    ],
+                    [
+                        40.54382293,
+                        0.20787135
+                    ],
+                    [
+                        40.62271051,
+                        0.22133996
+                    ],
+                    [
+                        40.7150667,
+                        0.28291076
+                    ],
+                    [
+                        40.77278931,
+                        0.32524067
+                    ],
+                    [
+                        40.84398054,
+                        0.32524067
+                    ],
+                    [
+                        40.87861411,
+                        0.35602607
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_2",
+                "name": "Mombasa-Malindi",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_2",
+                    "name": "Garissa",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.64922393101903,
+                            -0.4507521948609149
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_3",
+                    "name": "Liboi",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.87509646715079,
+                            0.35439662178229475
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        40.11040752,
+                        -2.31938693
+                    ],
+                    [
+                        40.10128287,
+                        -2.30065739
+                    ],
+                    [
+                        40.08973834,
+                        -2.27564425
+                    ],
+                    [
+                        40.07049747,
+                        -2.25832747
+                    ],
+                    [
+                        40.06857338,
+                        -2.15827493
+                    ],
+                    [
+                        40.06376317,
+                        -2.12532494
+                    ],
+                    [
+                        40.05510477,
+                        -2.09838772
+                    ],
+                    [
+                        40.06761134,
+                        -2.03874101
+                    ],
+                    [
+                        40.10032082,
+                        -2.00603153
+                    ],
+                    [
+                        40.10224491,
+                        -1.98871474
+                    ],
+                    [
+                        40.09358652,
+                        -1.96081548
+                    ],
+                    [
+                        40.04548434,
+                        -1.79895164
+                    ],
+                    [
+                        40.00315442,
+                        -1.68230385
+                    ],
+                    [
+                        39.97717924,
+                        -1.58225131
+                    ],
+                    [
+                        39.98679968,
+                        -1.54857979
+                    ],
+                    [
+                        40.00219237,
+                        -1.51779439
+                    ],
+                    [
+                        39.98487559,
+                        -1.48292031
+                    ],
+                    [
+                        39.95890041,
+                        -1.41846339
+                    ],
+                    [
+                        39.91657049,
+                        -1.35569004
+                    ],
+                    [
+                        39.89925371,
+                        -1.27487838
+                    ],
+                    [
+                        39.88482305,
+                        -1.25756159
+                    ],
+                    [
+                        39.83094861,
+                        -1.2181178
+                    ],
+                    [
+                        39.82902452,
+                        -1.1959908
+                    ],
+                    [
+                        39.82229022,
+                        -1.17963606
+                    ],
+                    [
+                        39.80112526,
+                        -1.1409138
+                    ],
+                    [
+                        39.78765665,
+                        -1.06010214
+                    ],
+                    [
+                        39.79246686,
+                        -1.02450652
+                    ],
+                    [
+                        39.72416177,
+                        -0.87899743
+                    ],
+                    [
+                        39.66643915,
+                        -0.78471715
+                    ],
+                    [
+                        39.6058304,
+                        -0.64498032
+                    ],
+                    [
+                        39.55195596,
+                        -0.53049713
+                    ],
+                    [
+                        39.53560122,
+                        -0.49393947
+                    ],
+                    [
+                        39.64912237,
+                        -0.45353364
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_3",
+                "name": "Mombasa-Malindi",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_14",
+                    "name": "Lamu Branch",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "exchange"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.111363373429086,
+                            -2.3191854810681733
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_2",
+                    "name": "Garissa",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.64922393101903,
+                            -0.4507521948609149
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        40.11305872,
+                        -2.31587731
+                    ],
+                    [
+                        40.12797039,
+                        -2.29326928
+                    ],
+                    [
+                        40.15346455,
+                        -2.26296491
+                    ],
+                    [
+                        40.1943514,
+                        -2.26825615
+                    ],
+                    [
+                        40.23764337,
+                        -2.27787659
+                    ],
+                    [
+                        40.27035285,
+                        -2.29471235
+                    ],
+                    [
+                        40.29151781,
+                        -2.29471235
+                    ],
+                    [
+                        40.30354335,
+                        -2.29326928
+                    ],
+                    [
+                        40.31701196,
+                        -2.30385176
+                    ],
+                    [
+                        40.33048058,
+                        -2.33175103
+                    ],
+                    [
+                        40.33384773,
+                        -2.33175103
+                    ],
+                    [
+                        40.3641521,
+                        -2.36542255
+                    ],
+                    [
+                        40.40648202,
+                        -2.38658751
+                    ],
+                    [
+                        40.4743061,
+                        -2.38466343
+                    ],
+                    [
+                        40.52240828,
+                        -2.38899262
+                    ],
+                    [
+                        40.560409,
+                        -2.36061234
+                    ],
+                    [
+                        40.65132212,
+                        -2.32838388
+                    ],
+                    [
+                        40.69557613,
+                        -2.30866198
+                    ],
+                    [
+                        40.69605715,
+                        -2.30144665
+                    ],
+                    [
+                        40.69028489,
+                        -2.29615541
+                    ],
+                    [
+                        40.69124693,
+                        -2.27306637
+                    ],
+                    [
+                        40.69076591,
+                        -2.24985706
+                    ],
+                    [
+                        40.70134839,
+                        -2.21137532
+                    ],
+                    [
+                        40.70663963,
+                        -2.20464101
+                    ],
+                    [
+                        40.73069072,
+                        -2.21522349
+                    ],
+                    [
+                        40.74704546,
+                        -2.20079284
+                    ],
+                    [
+                        40.77831188,
+                        -2.19646364
+                    ],
+                    [
+                        40.81150239,
+                        -2.17674175
+                    ],
+                    [
+                        40.84084472,
+                        -2.21041328
+                    ],
+                    [
+                        40.85046515,
+                        -2.2330213
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_4",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_14",
+                    "name": "Lamu Branch",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "exchange"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.111363373429086,
+                            -2.3191854810681733
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}",
+                    "name": "Lamu",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.85032235253335,
+                            -2.2323876432650813
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.65127778,
+                        -4.04743557
+                    ],
+                    [
+                        39.60702377,
+                        -4.00702974
+                    ],
+                    [
+                        39.55122524,
+                        -3.97624434
+                    ],
+                    [
+                        39.48965445,
+                        -3.88196407
+                    ],
+                    [
+                        39.38382965,
+                        -3.78960788
+                    ],
+                    [
+                        39.22028224,
+                        -3.77421518
+                    ],
+                    [
+                        39.05673482,
+                        -3.7415057
+                    ],
+                    [
+                        38.89703558,
+                        -3.63952907
+                    ],
+                    [
+                        38.71039912,
+                        -3.53562836
+                    ],
+                    [
+                        38.58340936,
+                        -3.40286634
+                    ],
+                    [
+                        38.54107944,
+                        -3.40094226
+                    ],
+                    [
+                        38.51414222,
+                        -3.24509119
+                    ],
+                    [
+                        38.46604004,
+                        -3.01035255
+                    ],
+                    [
+                        38.36983568,
+                        -2.90452775
+                    ],
+                    [
+                        38.26978314,
+                        -2.77753799
+                    ],
+                    [
+                        38.08891894,
+                        -2.64814312
+                    ],
+                    [
+                        38.0196518,
+                        -2.52307745
+                    ],
+                    [
+                        37.92344744,
+                        -2.39801178
+                    ],
+                    [
+                        37.8080022,
+                        -2.26332568
+                    ],
+                    [
+                        37.72911463,
+                        -2.2065651
+                    ],
+                    [
+                        37.66946792,
+                        -2.19309649
+                    ],
+                    [
+                        37.54632634,
+                        -2.12382935
+                    ],
+                    [
+                        37.43472928,
+                        -2.05456221
+                    ],
+                    [
+                        37.30966361,
+                        -1.94873741
+                    ],
+                    [
+                        37.27310595,
+                        -1.88139436
+                    ],
+                    [
+                        37.24809281,
+                        -1.83521626
+                    ],
+                    [
+                        37.21153516,
+                        -1.77941773
+                    ],
+                    [
+                        37.19806655,
+                        -1.66204841
+                    ],
+                    [
+                        37.13457167,
+                        -1.53698274
+                    ],
+                    [
+                        37.05183592,
+                        -1.48503239
+                    ],
+                    [
+                        36.97081641,
+                        -1.43715722
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_5",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_13",
+                    "name": "Mombasa",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.656337692287245,
+                            -4.047127325536179
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_15",
+                    "name": "Athi River Branch",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "exchange"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.969497380810274,
+                            -1.437140293463777
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.97081641,
+                        -1.43715722
+                    ],
+                    [
+                        36.96717608,
+                        -1.43500612
+                    ],
+                    [
+                        36.90752937,
+                        -1.35611854
+                    ],
+                    [
+                        36.88251624,
+                        -1.32918132
+                    ],
+                    [
+                        36.81902136,
+                        -1.27915505
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_6",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_15",
+                    "name": "Athi River Branch",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "exchange"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.969497380810274,
+                            -1.437140293463777
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_7",
+                    "name": "Nairobi",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.8208806520416,
+                            -1.277680184904451
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.97352465,
+                        -1.44771187
+                    ],
+                    [
+                        36.94936105,
+                        -1.54839352
+                    ],
+                    [
+                        36.85874756,
+                        -1.6692115
+                    ],
+                    [
+                        36.8245158,
+                        -1.76385226
+                    ],
+                    [
+                        36.78222951,
+                        -1.87460208
+                    ],
+                    [
+                        36.79028404,
+                        -1.99944733
+                    ],
+                    [
+                        36.79028404,
+                        -2.12429258
+                    ],
+                    [
+                        36.79028404,
+                        -2.23705603
+                    ],
+                    [
+                        36.8486794,
+                        -2.36391491
+                    ],
+                    [
+                        36.8547203,
+                        -2.4484875
+                    ],
+                    [
+                        36.84465213,
+                        -2.50688286
+                    ],
+                    [
+                        36.8003522,
+                        -2.54715552
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_7",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_15",
+                    "name": "Athi River Branch",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "exchange"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.969497380810274,
+                            -1.437140293463777
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_12",
+                    "name": "Namanga",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "borderCrossing"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.79666302989428,
+                            -2.546820299126813
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.0596485,
+                        3.51287319
+                    ],
+                    [
+                        39.06971667,
+                        3.48065507
+                    ],
+                    [
+                        39.09186663,
+                        3.47562098
+                    ],
+                    [
+                        39.0777712,
+                        3.40313019
+                    ],
+                    [
+                        39.0717303,
+                        3.3427212
+                    ],
+                    [
+                        39.06367577,
+                        3.3366803
+                    ],
+                    [
+                        39.01031449,
+                        3.39708929
+                    ],
+                    [
+                        38.98413726,
+                        3.43333469
+                    ],
+                    [
+                        38.89352378,
+                        3.46958008
+                    ],
+                    [
+                        38.75760354,
+                        3.5068323
+                    ],
+                    [
+                        38.73343995,
+                        3.51085956
+                    ],
+                    [
+                        38.70323545,
+                        3.50884593
+                    ],
+                    [
+                        38.57738339,
+                        3.51488683
+                    ],
+                    [
+                        38.5542266,
+                        3.49877776
+                    ],
+                    [
+                        38.52502893,
+                        3.45749829
+                    ],
+                    [
+                        38.47066083,
+                        3.40413701
+                    ],
+                    [
+                        38.46562675,
+                        3.3668848
+                    ],
+                    [
+                        38.46361312,
+                        3.33768712
+                    ],
+                    [
+                        38.43441544,
+                        3.3306394
+                    ],
+                    [
+                        38.38004734,
+                        3.3125167
+                    ],
+                    [
+                        38.36192465,
+                        3.26519633
+                    ],
+                    [
+                        38.32064517,
+                        3.22190322
+                    ],
+                    [
+                        38.21694307,
+                        3.02053991
+                    ],
+                    [
+                        38.16458861,
+                        2.92640256
+                    ],
+                    [
+                        38.15049317,
+                        2.92338211
+                    ],
+                    [
+                        38.08907737,
+                        2.78947552
+                    ],
+                    [
+                        38.08907737,
+                        2.71497109
+                    ],
+                    [
+                        38.08102283,
+                        2.66463027
+                    ],
+                    [
+                        38.05786605,
+                        2.59616674
+                    ],
+                    [
+                        38.05585242,
+                        2.5266964
+                    ],
+                    [
+                        38.06491377,
+                        2.48340329
+                    ],
+                    [
+                        38.05786605,
+                        2.43809655
+                    ],
+                    [
+                        38.03873654,
+                        2.39077617
+                    ],
+                    [
+                        37.98940253,
+                        2.34446261
+                    ],
+                    [
+                        37.94912987,
+                        2.31526493
+                    ],
+                    [
+                        37.90885721,
+                        2.29210815
+                    ],
+                    [
+                        37.88771406,
+                        2.25384912
+                    ],
+                    [
+                        37.86858455,
+                        2.17833788
+                    ],
+                    [
+                        37.88872088,
+                        2.12044593
+                    ],
+                    [
+                        37.91087084,
+                        2.04191424
+                    ],
+                    [
+                        37.91489811,
+                        1.98955978
+                    ],
+                    [
+                        37.88972769,
+                        1.89693266
+                    ],
+                    [
+                        37.86053001,
+                        1.83148958
+                    ],
+                    [
+                        37.8293187,
+                        1.70765115
+                    ],
+                    [
+                        37.83334597,
+                        1.66737849
+                    ],
+                    [
+                        37.81925054,
+                        1.63314673
+                    ],
+                    [
+                        37.80616192,
+                        1.6130104
+                    ],
+                    [
+                        37.7437393,
+                        1.50880488
+                    ],
+                    [
+                        37.71756207,
+                        1.42624593
+                    ],
+                    [
+                        37.7135348,
+                        1.37691192
+                    ],
+                    [
+                        37.68030985,
+                        1.2842848
+                    ],
+                    [
+                        37.66319397,
+                        1.22588944
+                    ],
+                    [
+                        37.62996903,
+                        1.20071903
+                    ],
+                    [
+                        37.58466228,
+                        1.18561678
+                    ],
+                    [
+                        37.58264865,
+                        1.16950771
+                    ],
+                    [
+                        37.59976453,
+                        1.1443373
+                    ],
+                    [
+                        37.5856691,
+                        1.10406464
+                    ],
+                    [
+                        37.56049869,
+                        1.06379198
+                    ],
+                    [
+                        37.56351914,
+                        1.00690684
+                    ],
+                    [
+                        37.57862138,
+                        0.9736819
+                    ],
+                    [
+                        37.5675464,
+                        0.92434789
+                    ],
+                    [
+                        37.55949187,
+                        0.89112294
+                    ],
+                    [
+                        37.5675464,
+                        0.8518571
+                    ],
+                    [
+                        37.56553277,
+                        0.8337344
+                    ],
+                    [
+                        37.54841689,
+                        0.80655035
+                    ],
+                    [
+                        37.55143734,
+                        0.77936631
+                    ],
+                    [
+                        37.62292131,
+                        0.69479372
+                    ],
+                    [
+                        37.64305764,
+                        0.66559604
+                    ],
+                    [
+                        37.65010536,
+                        0.63539154
+                    ],
+                    [
+                        37.67829622,
+                        0.63136428
+                    ],
+                    [
+                        37.6712485,
+                        0.59713251
+                    ],
+                    [
+                        37.67930304,
+                        0.56390757
+                    ],
+                    [
+                        37.64003719,
+                        0.49141678
+                    ],
+                    [
+                        37.60479861,
+                        0.44107595
+                    ],
+                    [
+                        37.59473045,
+                        0.40080329
+                    ],
+                    [
+                        37.58768273,
+                        0.35952381
+                    ],
+                    [
+                        37.53532827,
+                        0.23618879
+                    ],
+                    [
+                        37.47894655,
+                        0.14960256
+                    ],
+                    [
+                        37.47894655,
+                        0.14054121
+                    ],
+                    [
+                        37.53935554,
+                        0.12443215
+                    ],
+                    [
+                        37.59573726,
+                        0.0972481
+                    ],
+                    [
+                        37.64809172,
+                        0.05194136
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_8",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_4",
+                    "name": "Moyale",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.06232058115825,
+                            3.510108100933337
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_5",
+                    "name": "Meru",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.64985043959142,
+                            0.04994192695693783
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.09860108,
+                        -0.27124675
+                    ],
+                    [
+                        36.12276468,
+                        -0.16653783
+                    ],
+                    [
+                        36.22344633,
+                        0.01066188
+                    ],
+                    [
+                        36.26170536,
+                        0.01569596
+                    ],
+                    [
+                        36.30600529,
+                        0.03784593
+                    ],
+                    [
+                        36.35936656,
+                        0.0358323
+                    ],
+                    [
+                        36.40165286,
+                        0.03381866
+                    ],
+                    [
+                        36.49830724,
+                        0.00864825
+                    ],
+                    [
+                        36.51441631,
+                        -0.04269939
+                    ],
+                    [
+                        36.52347766,
+                        -0.06384254
+                    ],
+                    [
+                        36.55569579,
+                        -0.07793797
+                    ],
+                    [
+                        36.61912523,
+                        -0.07894479
+                    ],
+                    [
+                        36.6785274,
+                        -0.09606067
+                    ],
+                    [
+                        36.70671827,
+                        -0.14136741
+                    ],
+                    [
+                        36.75806591,
+                        -0.17358554
+                    ],
+                    [
+                        36.83257033,
+                        -0.20278322
+                    ],
+                    [
+                        36.87687026,
+                        -0.22896045
+                    ],
+                    [
+                        36.88895206,
+                        -0.28936944
+                    ],
+                    [
+                        36.91009521,
+                        -0.33668982
+                    ],
+                    [
+                        36.94432697,
+                        -0.38300338
+                    ],
+                    [
+                        36.95691217,
+                        -0.39105791
+                    ],
+                    [
+                        36.94432697,
+                        -0.4021329
+                    ],
+                    [
+                        36.95187809,
+                        -0.41119425
+                    ],
+                    [
+                        36.98057236,
+                        -0.41119425
+                    ],
+                    [
+                        36.99718484,
+                        -0.4026363
+                    ],
+                    [
+                        37.00171551,
+                        -0.36538409
+                    ],
+                    [
+                        37.01128027,
+                        -0.28207003
+                    ],
+                    [
+                        37.01430072,
+                        -0.21713036
+                    ],
+                    [
+                        37.0314166,
+                        -0.13079584
+                    ],
+                    [
+                        37.03997454,
+                        -0.0980743
+                    ],
+                    [
+                        37.03443705,
+                        -0.08297206
+                    ],
+                    [
+                        37.07319948,
+                        0.00336246
+                    ],
+                    [
+                        37.0862881,
+                        0.01997494
+                    ],
+                    [
+                        37.10038353,
+                        0.0302948
+                    ],
+                    [
+                        37.13763574,
+                        0.03734252
+                    ],
+                    [
+                        37.15475162,
+                        0.05093454
+                    ],
+                    [
+                        37.20458904,
+                        0.05546522
+                    ],
+                    [
+                        37.25644009,
+                        0.09171061
+                    ],
+                    [
+                        37.29721616,
+                        0.07711177
+                    ],
+                    [
+                        37.39840122,
+                        0.10404412
+                    ],
+                    [
+                        37.4275989,
+                        0.1090782
+                    ],
+                    [
+                        37.4517625,
+                        0.1216634
+                    ],
+                    [
+                        37.46032044,
+                        0.11914636
+                    ],
+                    [
+                        37.46233407,
+                        0.13223498
+                    ],
+                    [
+                        37.47944996,
+                        0.14079292
+                    ],
+                    [
+                        37.53784531,
+                        0.12418045
+                    ],
+                    [
+                        37.59221341,
+                        0.09800322
+                    ],
+                    [
+                        37.6344997,
+                        0.06578509
+                    ],
+                    [
+                        37.64960195,
+                        0.04967602
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_9",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_5",
+                    "name": "Meru",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.64985043959142,
+                            0.04994192695693783
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_8",
+                    "name": "Nakuru",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.08855594645572,
+                            -0.2844591312938628
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.08953973,
+                        -0.28559388
+                    ],
+                    [
+                        36.00698077,
+                        -0.26747119
+                    ],
+                    [
+                        35.86401283,
+                        -0.21511673
+                    ],
+                    [
+                        35.8257538,
+                        -0.19699403
+                    ],
+                    [
+                        35.7895084,
+                        -0.20303493
+                    ],
+                    [
+                        35.77541297,
+                        -0.22317126
+                    ],
+                    [
+                        35.73312668,
+                        -0.21713036
+                    ],
+                    [
+                        35.68479948,
+                        -0.15672137
+                    ],
+                    [
+                        35.67473132,
+                        -0.09832601
+                    ],
+                    [
+                        35.64452682,
+                        -0.06208061
+                    ],
+                    [
+                        35.59015873,
+                        -0.00167162
+                    ],
+                    [
+                        35.5398179,
+                        -0.00569889
+                    ],
+                    [
+                        35.5277361,
+                        0.03054651
+                    ],
+                    [
+                        35.53579064,
+                        0.07686007
+                    ],
+                    [
+                        35.49350434,
+                        0.10505093
+                    ],
+                    [
+                        35.46128621,
+                        0.12921453
+                    ],
+                    [
+                        35.45524531,
+                        0.16948719
+                    ],
+                    [
+                        35.29214104,
+                        0.45945035
+                    ],
+                    [
+                        35.29214104,
+                        0.51985934
+                    ],
+                    [
+                        35.25388201,
+                        0.52590024
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_10",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_8",
+                    "name": "Nakuru",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.08855594645572,
+                            -0.2844591312938628
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_16",
+                    "name": "Eldoret",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.259922906440494,
+                            0.5231314978189154
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        35.25790927,
+                        0.52111786
+                    ],
+                    [
+                        35.24230362,
+                        0.54679169
+                    ],
+                    [
+                        35.22418092,
+                        0.57296892
+                    ],
+                    [
+                        35.20605822,
+                        0.59461547
+                    ],
+                    [
+                        35.19951391,
+                        0.60720068
+                    ],
+                    [
+                        35.15974466,
+                        0.60267
+                    ],
+                    [
+                        35.12299586,
+                        0.61223476
+                    ],
+                    [
+                        35.07466866,
+                        0.62280633
+                    ],
+                    [
+                        35.04144372,
+                        0.6328745
+                    ],
+                    [
+                        35.02634147,
+                        0.6328745
+                    ],
+                    [
+                        34.99664038,
+                        0.62381315
+                    ],
+                    [
+                        34.96794611,
+                        0.61072454
+                    ],
+                    [
+                        34.92868027,
+                        0.59562229
+                    ],
+                    [
+                        34.90955075,
+                        0.59511888
+                    ],
+                    [
+                        34.87934626,
+                        0.60317341
+                    ],
+                    [
+                        34.84914176,
+                        0.6021666
+                    ],
+                    [
+                        34.82900543,
+                        0.59159502
+                    ],
+                    [
+                        34.82648839,
+                        0.58001663
+                    ],
+                    [
+                        34.81289637,
+                        0.58102345
+                    ],
+                    [
+                        34.78671914,
+                        0.59159502
+                    ],
+                    [
+                        34.76708621,
+                        0.59864274
+                    ],
+                    [
+                        34.75903168,
+                        0.6087109
+                    ],
+                    [
+                        34.73134423,
+                        0.60569045
+                    ],
+                    [
+                        34.70416018,
+                        0.6147518
+                    ],
+                    [
+                        34.69207838,
+                        0.62280633
+                    ],
+                    [
+                        34.67244546,
+                        0.61525521
+                    ],
+                    [
+                        34.64073074,
+                        0.60468364
+                    ],
+                    [
+                        34.61556032,
+                        0.59511888
+                    ],
+                    [
+                        34.60700238,
+                        0.59411206
+                    ],
+                    [
+                        34.58585924,
+                        0.59109161
+                    ],
+                    [
+                        34.57075699,
+                        0.59058821
+                    ],
+                    [
+                        34.56370927,
+                        0.58354049
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_11",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_16",
+                    "name": "Eldoret",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.259922906440494,
+                            0.5231314978189154
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_11",
+                    "name": "Bungoma",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.562815217338965,
+                            0.5781722881541203
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.5591786,
+                        0.57900982
+                    ],
+                    [
+                        34.55011725,
+                        0.59260184
+                    ],
+                    [
+                        34.46353103,
+                        0.59813933
+                    ],
+                    [
+                        34.3950675,
+                        0.60820749
+                    ],
+                    [
+                        34.34674031,
+                        0.61223476
+                    ],
+                    [
+                        34.33818237,
+                        0.62633019
+                    ],
+                    [
+                        34.30596424,
+                        0.63388132
+                    ],
+                    [
+                        34.27173248,
+                        0.6389154
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_12",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_11",
+                    "name": "Bungoma",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.562815217338965,
+                            0.5781722881541203
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_17",
+                    "name": "UG Border",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "borderCrossing"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.27324270332952,
+                            0.6379085826705986
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.56119223,
+                        0.57900982
+                    ],
+                    [
+                        34.54407635,
+                        0.51054629
+                    ],
+                    [
+                        34.5168923,
+                        0.4501373
+                    ],
+                    [
+                        34.49574916,
+                        0.40583737
+                    ],
+                    [
+                        34.48366736,
+                        0.35448973
+                    ],
+                    [
+                        34.49474234,
+                        0.3283125
+                    ],
+                    [
+                        34.52494684,
+                        0.31824433
+                    ],
+                    [
+                        34.54407635,
+                        0.32529205
+                    ],
+                    [
+                        34.58535583,
+                        0.31522388
+                    ],
+                    [
+                        34.63771029,
+                        0.29307392
+                    ],
+                    [
+                        34.6689216,
+                        0.27797167
+                    ],
+                    [
+                        34.69711246,
+                        0.27696486
+                    ],
+                    [
+                        34.75148056,
+                        0.28099212
+                    ],
+                    [
+                        34.75550782,
+                        0.25380808
+                    ],
+                    [
+                        34.76255554,
+                        0.21655586
+                    ],
+                    [
+                        34.77061007,
+                        0.20749451
+                    ],
+                    [
+                        34.76054191,
+                        0.18131728
+                    ],
+                    [
+                        34.74443284,
+                        0.14406507
+                    ],
+                    [
+                        34.72530333,
+                        0.09875833
+                    ],
+                    [
+                        34.72026924,
+                        0.05949248
+                    ],
+                    [
+                        34.72731696,
+                        0.01317892
+                    ],
+                    [
+                        34.75047374,
+                        -0.03313464
+                    ],
+                    [
+                        34.77765779,
+                        -0.06233232
+                    ],
+                    [
+                        34.77765779,
+                        -0.0794482
+                    ],
+                    [
+                        34.76255554,
+                        -0.09656408
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_13",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_11",
+                    "name": "Bungoma",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.562815217338965,
+                            0.5781722881541203
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_9",
+                    "name": "Kisumu",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.76360764252022,
+                            -0.09492207856268553
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.75550782,
+                        -0.09455045
+                    ],
+                    [
+                        34.73939876,
+                        -0.07642775
+                    ],
+                    [
+                        34.67798295,
+                        -0.06837322
+                    ],
+                    [
+                        34.65482617,
+                        -0.0673664
+                    ],
+                    [
+                        34.64979209,
+                        -0.05125733
+                    ],
+                    [
+                        34.63569666,
+                        -0.0371619
+                    ],
+                    [
+                        34.61455351,
+                        -0.02810055
+                    ],
+                    [
+                        34.60045808,
+                        -0.00293014
+                    ],
+                    [
+                        34.60247171,
+                        0.01619937
+                    ],
+                    [
+                        34.58233538,
+                        0.0363357
+                    ],
+                    [
+                        34.57629448,
+                        0.06351975
+                    ],
+                    [
+                        34.56823995,
+                        0.08566971
+                    ],
+                    [
+                        34.535015,
+                        0.09573788
+                    ],
+                    [
+                        34.49373552,
+                        0.11033672
+                    ],
+                    [
+                        34.47863328,
+                        0.11134354
+                    ],
+                    [
+                        34.45245605,
+                        0.11335717
+                    ],
+                    [
+                        34.38298571,
+                        0.15866391
+                    ],
+                    [
+                        34.34170623,
+                        0.15665028
+                    ],
+                    [
+                        34.3276108,
+                        0.15262301
+                    ],
+                    [
+                        34.29639948,
+                        0.18282751
+                    ],
+                    [
+                        34.26015409,
+                        0.21403882
+                    ],
+                    [
+                        34.23498368,
+                        0.2432365
+                    ],
+                    [
+                        34.22088824,
+                        0.28250235
+                    ],
+                    [
+                        34.19672465,
+                        0.31572729
+                    ],
+                    [
+                        34.17155423,
+                        0.35801359
+                    ],
+                    [
+                        34.14437019,
+                        0.38519763
+                    ],
+                    [
+                        34.14437019,
+                        0.41036805
+                    ],
+                    [
+                        34.14839745,
+                        0.43855891
+                    ],
+                    [
+                        34.14374093,
+                        0.4455437
+                    ],
+                    [
+                        34.12712845,
+                        0.45510846
+                    ],
+                    [
+                        34.11907392,
+                        0.4576255
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_14",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_9",
+                    "name": "Kisumu",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.76360764252022,
+                            -0.09492207856268553
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_10",
+                    "name": "Busia",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.11904481317758,
+                            0.458076210070651
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.11831881,
+                        0.45913572
+                    ],
+                    [
+                        34.13845514,
+                        0.45712209
+                    ],
+                    [
+                        34.13845514,
+                        0.48078228
+                    ],
+                    [
+                        34.13493128,
+                        0.49034703
+                    ],
+                    [
+                        34.1480199,
+                        0.50997996
+                    ],
+                    [
+                        34.18980278,
+                        0.56082419
+                    ],
+                    [
+                        34.23057885,
+                        0.59908322
+                    ],
+                    [
+                        34.27085151,
+                        0.63734225
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_15",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_10",
+                    "name": "Busia",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.11904481317758,
+                            0.458076210070651
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_17",
+                    "name": "UG Border",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "borderCrossing"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.27324270332952,
+                            0.6379085826705986
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.65224484,
+                        0.04432731
+                    ],
+                    [
+                        37.66835391,
+                        -0.04225891
+                    ],
+                    [
+                        37.67036754,
+                        -0.10468154
+                    ],
+                    [
+                        37.67842207,
+                        -0.17515869
+                    ],
+                    [
+                        37.65023121,
+                        -0.22147225
+                    ],
+                    [
+                        37.63613578,
+                        -0.23758132
+                    ],
+                    [
+                        37.66835391,
+                        -0.30000394
+                    ],
+                    [
+                        37.65627211,
+                        -0.32618117
+                    ],
+                    [
+                        37.61599945,
+                        -0.35437204
+                    ],
+                    [
+                        37.60995855,
+                        -0.38659017
+                    ],
+                    [
+                        37.57169952,
+                        -0.4188083
+                    ],
+                    [
+                        37.55559046,
+                        -0.45706732
+                    ],
+                    [
+                        37.55156319,
+                        -0.47116276
+                    ],
+                    [
+                        37.4669906,
+                        -0.47519002
+                    ],
+                    [
+                        37.4488679,
+                        -0.52955811
+                    ],
+                    [
+                        37.42067704,
+                        -0.54768081
+                    ],
+                    [
+                        37.38443164,
+                        -0.55170808
+                    ],
+                    [
+                        37.35422715,
+                        -0.57184441
+                    ],
+                    [
+                        37.36228168,
+                        -0.59600801
+                    ],
+                    [
+                        37.36228168,
+                        -0.6443352
+                    ],
+                    [
+                        37.33006355,
+                        -0.70474419
+                    ],
+                    [
+                        37.30187269,
+                        -0.75307138
+                    ],
+                    [
+                        37.26361366,
+                        -0.76716682
+                    ],
+                    [
+                        37.25757276,
+                        -0.80945311
+                    ],
+                    [
+                        37.23139553,
+                        -0.83764397
+                    ],
+                    [
+                        37.22535463,
+                        -0.89805297
+                    ],
+                    [
+                        37.23743643,
+                        -0.91919611
+                    ],
+                    [
+                        37.2414637,
+                        -0.96349604
+                    ],
+                    [
+                        37.22132737,
+                        -0.99571417
+                    ],
+                    [
+                        37.2354228,
+                        -1.0339732
+                    ],
+                    [
+                        37.22535463,
+                        -1.05612316
+                    ],
+                    [
+                        37.13675478,
+                        -1.06015043
+                    ],
+                    [
+                        37.05822309,
+                        -1.046055
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_16",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_5",
+                    "name": "Meru",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.64985043959142,
+                            0.04994192695693783
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_6",
+                    "name": "Thika",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.07134114614533,
+                            -1.0362943463841985
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.06426399,
+                        -1.03800046
+                    ],
+                    [
+                        37.03204586,
+                        -1.09035492
+                    ],
+                    [
+                        36.98170503,
+                        -1.14270938
+                    ],
+                    [
+                        36.91122787,
+                        -1.21117291
+                    ],
+                    [
+                        36.82262802,
+                        -1.2776228
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_17",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_6",
+                    "name": "Thika",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.07134114614533,
+                            -1.0362943463841985
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_7",
+                    "name": "Nairobi",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.8208806520416,
+                            -1.277680184904451
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.07835942,
+                        -1.04806863
+                    ],
+                    [
+                        37.13876841,
+                        -1.05813679
+                    ],
+                    [
+                        37.22535463,
+                        -1.0520959
+                    ],
+                    [
+                        37.25958639,
+                        -1.05612316
+                    ],
+                    [
+                        37.33409082,
+                        -1.09035492
+                    ],
+                    [
+                        37.38845891,
+                        -1.12861395
+                    ],
+                    [
+                        37.45289517,
+                        -1.18700931
+                    ],
+                    [
+                        37.46296333,
+                        -1.14673665
+                    ],
+                    [
+                        37.54753592,
+                        -1.14270938
+                    ],
+                    [
+                        37.59183585,
+                        -1.12660032
+                    ],
+                    [
+                        37.66835391,
+                        -1.09639582
+                    ],
+                    [
+                        37.72674927,
+                        -1.10847762
+                    ],
+                    [
+                        37.79924006,
+                        -1.09840946
+                    ],
+                    [
+                        37.88582628,
+                        -1.03598683
+                    ],
+                    [
+                        38.02275333,
+                        -0.96349604
+                    ],
+                    [
+                        38.12343498,
+                        -0.91516885
+                    ],
+                    [
+                        38.22008937,
+                        -0.85878712
+                    ],
+                    [
+                        38.34896188,
+                        -0.78226906
+                    ],
+                    [
+                        38.40937088,
+                        -0.77018727
+                    ],
+                    [
+                        38.50401163,
+                        -0.78830996
+                    ],
+                    [
+                        38.52817523,
+                        -0.80643266
+                    ],
+                    [
+                        38.68725224,
+                        -0.78226906
+                    ],
+                    [
+                        38.86445195,
+                        -0.75005094
+                    ],
+                    [
+                        39.0195017,
+                        -0.72790097
+                    ],
+                    [
+                        39.09601975,
+                        -0.67756014
+                    ],
+                    [
+                        39.21885137,
+                        -0.65742381
+                    ],
+                    [
+                        39.43229647,
+                        -0.53056493
+                    ],
+                    [
+                        39.64775521,
+                        -0.44397871
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_18",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_6",
+                    "name": "Thika",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.07134114614533,
+                            -1.0362943463841985
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_2",
+                    "name": "Garissa",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.64922393101903,
+                            -0.4507521948609149
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.81457349,
+                        -1.2715819
+                    ],
+                    [
+                        36.73201453,
+                        -1.265541
+                    ],
+                    [
+                        36.66959191,
+                        -1.21520017
+                    ],
+                    [
+                        36.62931924,
+                        -1.06820496
+                    ],
+                    [
+                        36.62931924,
+                        -0.95342788
+                    ],
+                    [
+                        36.56891025,
+                        -0.86684165
+                    ],
+                    [
+                        36.52461032,
+                        -0.80240539
+                    ],
+                    [
+                        36.4501059,
+                        -0.72588734
+                    ],
+                    [
+                        36.38768328,
+                        -0.67554651
+                    ],
+                    [
+                        36.37358784,
+                        -0.59500119
+                    ],
+                    [
+                        36.30915159,
+                        -0.50237407
+                    ],
+                    [
+                        36.23464716,
+                        -0.38155608
+                    ],
+                    [
+                        36.15410184,
+                        -0.32920162
+                    ],
+                    [
+                        36.09570648,
+                        -0.2788608
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_19",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_7",
+                    "name": "Nairobi",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.8208806520416,
+                            -1.277680184904451
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_8",
+                    "name": "Nakuru",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.08855594645572,
+                            -0.2844591312938628
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.76469502,
+                        -0.09864064
+                    ],
+                    [
+                        34.79590634,
+                        -0.1268315
+                    ],
+                    [
+                        34.79892679,
+                        -0.14092693
+                    ],
+                    [
+                        34.86739031,
+                        -0.16509053
+                    ],
+                    [
+                        34.92075159,
+                        -0.17012461
+                    ],
+                    [
+                        34.95397653,
+                        -0.19026094
+                    ],
+                    [
+                        34.96001743,
+                        -0.23154042
+                    ],
+                    [
+                        34.96907878,
+                        -0.26577218
+                    ],
+                    [
+                        35.00633099,
+                        -0.31309256
+                    ],
+                    [
+                        35.00633099,
+                        -0.35034477
+                    ],
+                    [
+                        35.00834463,
+                        -0.38155608
+                    ],
+                    [
+                        35.00733781,
+                        -0.41780148
+                    ],
+                    [
+                        34.97310605,
+                        -0.43290373
+                    ],
+                    [
+                        34.89960844,
+                        -0.45001961
+                    ],
+                    [
+                        34.86436986,
+                        -0.46713549
+                    ],
+                    [
+                        34.81402903,
+                        -0.48324455
+                    ],
+                    [
+                        34.76368821,
+                        -0.48525819
+                    ],
+                    [
+                        34.73247689,
+                        -0.50640133
+                    ],
+                    [
+                        34.72542918,
+                        -0.53157175
+                    ],
+                    [
+                        34.74053143,
+                        -0.56076943
+                    ],
+                    [
+                        34.73549734,
+                        -0.58493302
+                    ],
+                    [
+                        34.75664049,
+                        -0.62319205
+                    ],
+                    [
+                        34.75059959,
+                        -0.65843063
+                    ],
+                    [
+                        34.78483135,
+                        -0.68863513
+                    ],
+                    [
+                        34.81906312,
+                        -0.71380554
+                    ],
+                    [
+                        34.85933578,
+                        -0.7359555
+                    ],
+                    [
+                        34.89457436,
+                        -0.7540782
+                    ],
+                    [
+                        34.94692882,
+                        -0.77975202
+                    ],
+                    [
+                        34.96605833,
+                        -0.77371112
+                    ],
+                    [
+                        35.01237189,
+                        -0.75760206
+                    ],
+                    [
+                        35.04056275,
+                        -0.71430895
+                    ],
+                    [
+                        35.06875362,
+                        -0.69417262
+                    ],
+                    [
+                        35.15231939,
+                        -0.6750431
+                    ],
+                    [
+                        35.19762613,
+                        -0.63779089
+                    ],
+                    [
+                        35.19359887,
+                        -0.5894637
+                    ],
+                    [
+                        35.17245572,
+                        -0.52200699
+                    ],
+                    [
+                        35.16641482,
+                        -0.49079568
+                    ],
+                    [
+                        35.20366703,
+                        -0.44850938
+                    ],
+                    [
+                        35.23789879,
+                        -0.39615492
+                    ],
+                    [
+                        35.28521917,
+                        -0.36292998
+                    ],
+                    [
+                        35.34361453,
+                        -0.32920162
+                    ],
+                    [
+                        35.4694666,
+                        -0.25973128
+                    ],
+                    [
+                        35.53088241,
+                        -0.24160859
+                    ],
+                    [
+                        35.59934593,
+                        -0.19529503
+                    ],
+                    [
+                        35.62854361,
+                        -0.17213824
+                    ],
+                    [
+                        35.67284354,
+                        -0.16811098
+                    ],
+                    [
+                        35.69398668,
+                        -0.19730866
+                    ],
+                    [
+                        35.71613665,
+                        -0.23959495
+                    ],
+                    [
+                        35.75137523,
+                        -0.2728199
+                    ],
+                    [
+                        35.78157972,
+                        -0.29597668
+                    ],
+                    [
+                        35.81581149,
+                        -0.30101076
+                    ],
+                    [
+                        35.85205688,
+                        -0.27684716
+                    ],
+                    [
+                        35.89534999,
+                        -0.28892896
+                    ],
+                    [
+                        35.96381352,
+                        -0.33524252
+                    ],
+                    [
+                        35.98394985,
+                        -0.31208574
+                    ],
+                    [
+                        36.01717479,
+                        -0.28792215
+                    ],
+                    [
+                        36.08765195,
+                        -0.28691533
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "{eaa7334c-af59-4ca2-8ce3-723fab006e29}_20",
+                "name": "Lamu-Branch",
+                "phase": {
+                    "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}",
+                    "name": "Liquid Kenya Core Network"
+                },
+                "status": "operational",
+                "start": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_9",
+                    "name": "Kisumu",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.76360764252022,
+                            -0.09492207856268553
+                        ]
+                    }
+                },
+                "end": {
+                    "id": "{b43f3116-6bc3-4b8b-a48f-4144dd2aa25f}_8",
+                    "name": "Nakuru",
+                    "phase": {
+                        "id": "{1ece22d1-3d04-4b5d-a216-8cf9ed7204be}"
+                    },
+                    "status": "operational",
+                    "address": {
+                        "country": "KE"
+                    },
+                    "type": [
+                        "pop"
+                    ],
+                    "accessPoint": true,
+                    "power": true,
+                    "technologies": [
+                        "mpls"
+                    ],
+                    "physicalInfrastructureProvider": {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                            "name": "Liquid Intelligent Technologies"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.08855594645572,
+                            -0.2844591312938628
+                        ]
+                    }
+                },
+                "directed": false,
+                "physicalInfrastructureProvider": {
+                    "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                    "name": "Liquid Intelligent Technologies",
+                    "country": "KE",
+                    "website": "https://liquid.tech/local-offices/country/kenya/"
+                },
+                "transmissionMedium": [
+                    "fibre"
+                ],
+                "deployment": [
+                    "belowGround"
+                ],
+                "countries": [
+                    "KE"
+                ],
+                "networkProviders": [
+                    {
+                        "id": "{35688d09-ddd7-4b35-b3dc-999195f33d63}",
+                        "name": "Liquid Intelligent Technologies",
+                        "country": "KE",
+                        "website": "https://liquid.tech/local-offices/country/kenya/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "Liquid Fibre Network Kenya",
+                    "website": "https://liquid.tech/local-offices/country/kenya/",
+                    "id": "c59cfcce-16be-42c0-9612-2b82cabf5326",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
