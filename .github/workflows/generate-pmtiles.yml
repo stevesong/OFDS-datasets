@@ -1,0 +1,49 @@
+name: Generate PMTiles
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.geojson'
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Install Tippecanoe
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev
+          git clone https://github.com/felt/tippecanoe.git
+          cd tippecanoe
+          make -j
+          sudo make install
+      
+      - name: Find all GeoJSON files
+        id: find-geojson
+        run: echo "GEOJSON_FILES=$(find . -name '*.geojson' | tr '\n' ' ')" >> $GITHUB_ENV
+      
+      - name: Generate PMTiles
+        run: |
+          tippecanoe -o ofds_networks.pmtiles -zg --drop-densest-as-needed $GEOJSON_FILES
+      
+      - name: Upload PMTiles as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: pmtiles
+          path: ofds_networks.pmtiles
+      
+      - name: Deploy PMTiles to GitHub Pages
+        run: |
+          mkdir -p public
+          cp ofds_networks.pmtiles public/
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
