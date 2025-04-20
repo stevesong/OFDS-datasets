@@ -5,11 +5,13 @@ on:
     branches: [main]
     paths:
       - '**/*.geojson'
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - uses: actions/checkout@v3
@@ -31,19 +33,72 @@ jobs:
         run: |
           tippecanoe -o ofds_networks.pmtiles -zg --drop-densest-as-needed $GEOJSON_FILES
       
-      - name: Upload PMTiles as artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: pmtiles
-          path: ofds_networks.pmtiles
+      - name: Generate Optimized PMTiles
+        run: |
+          # Process each country/operator combination as a separate layer
+          for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" | sort); do
+            countryName=$(basename $country)
+            for operator in $(find $country -mindepth 1 -maxdepth 1 -type d | sort); do
+              operatorName=$(basename $operator)
+              
+              # Create layer name
+              layerName="${countryName}_${operatorName}"
+              
+              # Find nodes and spans
+              nodesFile=$(find $operator -name "*nodes*.geojson")
+              spansFile=$(find $operator -name "*spans*.geojson")
+              
+              # Add to tippecanoe commands
+              if [ -n "$nodesFile" ]; then
+                nodeArgs="$nodeArgs -L${layerName}_nodes:$nodesFile"
+              fi
+              
+              if [ -n "$spansFile" ]; then
+                spanArgs="$spanArgs -L${layerName}_spans:$spansFile"
+              fi
+            done
+          done
+          
+          # Run tippecanoe with all collected layer arguments
+          tippecanoe -o ofds_networks_by_layer.pmtiles -zg --drop-densest-as-needed $nodeArgs $spanArgs
       
-      - name: Deploy PMTiles to GitHub Pages
+      - name: Create simple HTML viewer
         run: |
           mkdir -p public
           cp ofds_networks.pmtiles public/
+          cp ofds_networks_by_layer.pmtiles public/
           
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          cat > public/index.html << 'EOL'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>OFDS Networks PMTiles Viewer</title>
+            <script src="https://unpkg.com/maplibre-gl@3.3.0/dist/maplibre-gl.js"></script>
+            <link href="https://unpkg.com/maplibre-gl@3.3.0/dist/maplibre-gl.css" rel="stylesheet" />
+            <script src="https://unpkg.com/pmtiles@2.7.0/dist/index.js"></script>
+            <style>
+              body { margin: 0; padding: 0; }
+              #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+              .map-overlay {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                background: rgba(255, 255, 255, 0.8);
+                padding: 10px;
+                border-radius: 3px;
+              }
+            </style>
+          </head>
+          <body>
+            <div id="map"></div>
+            <div class="map-overlay">
+              <h3>OFDS Networks</h3>
+              <div>
+                <input type="radio" name="tileset" id="basic" value="basic" checked>
+                <label for="basic">Combined PMTiles</label>
+              </div>
+              <div>
+                <input type="radio" name="tileset" id="layered" value="layered">
+                <label for="layered">Layered PMTiles</labe
