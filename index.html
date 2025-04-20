@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OFDS Networks PMTiles Viewer</title>
+  <script src="https://unpkg.com/maplibre-gl@3.3.0/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl@3.3.0/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/pmtiles@2.7.0/dist/index.js"></script>
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+    .map-overlay {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: rgba(255, 255, 255, 0.9);
+      padding: 10px;
+      border-radius: 3px;
+      max-width: 300px;
+    }
+    .info {
+      font-size: 12px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div class="map-overlay">
+    <h3>OFDS Networks</h3>
+    <div>
+      <input type="radio" name="tileset" id="basic" value="basic" checked>
+      <label for="basic">Combined PMTiles</label>
+    </div>
+    <div>
+      <input type="radio" name="tileset" id="layered" value="layered">
+      <label for="layered">Layered PMTiles</label>
+    </div>
+    <div class="info">
+      <p>Last updated: <span id="updated-at">Loading...</span></p>
+      <p>Note: PMTiles are hosted on S3. GitHub Pages only hosts this viewer.</p>
+    </div>
+  </div>
+  <script>
+    // Initialize PMTiles protocol
+    let protocol = new pmtiles.Protocol();
+    maplibregl.addProtocol("pmtiles", protocol.tile);
+    
+    // Store URLs for PMTiles files (will be updated from metadata)
+    let pmtilesUrls = {
+      basic: "",
+      layered: ""
+    };
+    
+    // Initialize map
+    const map = new maplibregl.Map({
+      container: 'map',
+      style: 'https://demotiles.maplibre.org/style.json',
+      center: [20, 0], // Center on Africa
+      zoom: 3
+    });
+    
+    // Fetch metadata file to get latest URLs and timestamp
+    async function fetchMetadata() {
+      try {
+        const response = await fetch('https://ofds-demo.s3.us-east-1.amazonaws.com/pmtiles_metadata.json');
+        const metadata = await response.json();
+        
+        // Update the timestamp display
+        document.getElementById('updated-at').textContent = new Date(metadata.updated_at).toLocaleString();
+        
+        // Store the PMTiles URLs
+        pmtilesUrls.basic = metadata.files.basic;
+        pmtilesUrls.layered = metadata.files.layered;
+        
+        // Initially load the basic PMTiles
+        if (map.loaded()) {
+          addBasicPMTiles();
+        } else {
+          map.on('load', addBasicPMTiles);
+        }
+      } catch (error) {
+        console.error('Error fetching metadata:', error);
+        document.getElementById('updated-at').textContent = 'Error loading metadata';
+      }
+    }
+    
+    // Functions to add sources and layers
+    function addBasicPMTiles() {
+      removeAllLayers();
+      
+      map.addSource('networks', {
+        type: 'vector',
+        url: `pmtiles://${pmtilesUrls.basic}`
+      });
+      
+      map.addLayer({
+        'id': 'network-lines',
+        'type': 'line',
+        'source': 'networks',
+        'source-layer': '0', // Default layer name
+        'filter': ['==', '$type', 'LineString'],
+        'paint': {
+          'line-color': '#3388ff',
+          'line-width': 2
+        }
+      });
+      
+      map.addLayer({
+        'id': 'network-points',
+        'type': 'circle',
+        'source': 'networks',
+        'source-layer': '0', // Default layer name
+        'filter': ['==', '$type', 'Point'],
+        'paint': {
+          'circle-radius': 4,
+          'circle-color': '#ff3333'
+        }
+      });
+    }
+    
+    function addLayeredPMTiles() {
+      removeAllLayers();
+      
+      map.addSource('layered-networks', {
+        type: 'vector',
+        url: `pmtiles://${pmtilesUrls.layered}`
+      });
+      
+      // We'd need to fetch the actual layers from the PMTiles file
+      // For now, we'll add placeholder layers that will work once
+      // we discover the actual layer names
+      fetch(`${pmtilesUrls.layered.replace('pmtiles://', '')}`, { method: 'HEAD' })
+        .then(() => {
+          // This is just a placeholder - in a real app you'd query the PMTiles
+          // to get actual layer names. For now we'll add placeholder layers.
+          addPlaceholderLayers();
+        })
+        .catch(error => {
+          console.error('Error checking PMTiles:', error);
+        });
+    }
+    
+    function addPlaceholderLayers() {
+      // Add a placeholder layer that will match any points
+      map.addLayer({
+        'id': 'all-nodes',
+        'type': 'circle',
+        'source': 'layered-networks',
+        'source-layer': '*', // Wildcard to match any layer
+        'filter': ['==', '$type', 'Point'],
+        'paint': {
+          'circle-radius': 4,
+          'circle-color': '#ff3333'
+        }
+      });
+      
+      // Add a placeholder layer that will match any lines
+      map.addLayer({
+        'id': 'all-spans',
+        'type': 'line',
+        'source': 'layered-networks',
+        'source-layer': '*', // Wildcard to match any layer
+        'filter': ['==', '$type', 'LineString'],
+        'paint': {
+          'line-color': '#3388ff',
+          'line-width': 2
+        }
+      });
+    }
+    
+    function removeAllLayers() {
+      // Remove all layers and sources
+      const layersToRemove = map.getStyle().layers
+        .filter(layer => layer.id.includes('network') || layer.id.includes('all-'))
+        .map(layer => layer.id);
+      
+      layersToRemove.forEach(layerId => {
+        if (map.getLayer(layerId)) {
+          map.removeLayer(layerId);
+        }
+      });
+      
+      if (map.getSource('networks')) {
+        map.removeSource('networks');
+      }
+      if (map.getSource('layered-networks')) {
+        map.removeSource('layered-networks');
+      }
+    }
+    
+    // Add tileset radio button event listeners
+    document.querySelectorAll('input[name="tileset"]').forEach(input => {
+      input.addEventListener('change', (e) => {
+        if (e.target.value === 'basic') {
+          addBasicPMTiles();
+        } else {
+          addLayeredPMTiles();
+        }
+      });
+    });
+    
+    // Fetch metadata and initialize the app
+    fetchMetadata();
+  </script>
+</body>
+</html>
