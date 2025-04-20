@@ -140,166 +140,385 @@ jobs:
               </div>
             </div>
             <script>
-              // Initialize PMTiles protocol
-              let protocol = new pmtiles.Protocol();
-              maplibregl.addProtocol("pmtiles", protocol.tile);
-              
-              // Store URLs for PMTiles files (will be updated from metadata)
-              let pmtilesUrls = {
-                basic: "",
-                layered: ""
-              };
-              
-              // Initialize map
-              const map = new maplibregl.Map({
-                container: 'map',
-                style: 'https://demotiles.maplibre.org/style.json',
-                center: [20, 0], // Center on Africa
-                zoom: 3
+            // Initialize map and other setup
+            let protocol = new pmtiles.Protocol();
+            maplibregl.addProtocol("pmtiles", protocol.tile);
+
+            // Store layers info
+            let mapLayers = [];
+            let layerVisibility = {};
+
+            // Add PMTiles source
+            function addLayeredPMTiles() {
+              // Add the source
+              map.addSource('networks', {
+                type: 'vector',
+                url: `pmtiles://${pmtilesUrls.layered}`
               });
               
-              // Fetch metadata file to get latest URLs and timestamp
-              async function fetchMetadata() {
-                try {
-                  const response = await fetch('https://BUCKET_NAME_PLACEHOLDER.s3.REGION_PLACEHOLDER.amazonaws.com/pmtiles_metadata.json');
-                  const metadata = await response.json();
-                  
-                  // Update the timestamp display
-                  document.getElementById('updated-at').textContent = new Date(metadata.updated_at).toLocaleString();
-                  
-                  // Store the PMTiles URLs
-                  pmtilesUrls.basic = metadata.files.basic;
-                  pmtilesUrls.layered = metadata.files.layered;
-                  
-                  // Initially load the basic PMTiles
-                  if (map.loaded()) {
-                    addBasicPMTiles();
-                  } else {
-                    map.on('load', addBasicPMTiles);
-                  }
-                } catch (error) {
-                  console.error('Error fetching metadata:', error);
-                  document.getElementById('updated-at').textContent = 'Error loading metadata';
+              // Function to extract country, operator and type from layer ID
+              function parseLayerId(id) {
+                const parts = id.split('_');
+                // The last part is always 'nodes' or 'spans'
+                const type = parts.pop();
+                // The first part is always the country
+                const country = parts.shift();
+                // Everything in the middle is the operator (might have underscores)
+                const operator = parts.join('_');
+                
+                return { country, operator, type };
+              }
+              
+              // Function to get a color based on operator
+              function getOperatorColor(operator) {
+                const colors = {
+                  'BCS': '#3388ff',
+                  'NOFBI': '#ff8800',
+                  'Liquid_Intelligent_Technologies': '#33cc88',
+                  'Angola_Telecom': '#ff3333',
+                  'Burundi_Backbone_System': '#8833ff',
+                  'galaxy_backbone_nigeria': '#ffcc33',
+                  'mtn_nigeria': '#ff6633',
+                  'Rwanda_National_Backbone': '#33ffcc',
+                  'NICTBB': '#cc33ff',
+                  'liquid_uganda': '#ff33cc',
+                  'nbi_uganda': '#33ccff',
+                  'Airtel': '#ff6347',
+                  'ZESCO': '#20B2AA'
+                };
+                
+                return colors[operator] || '#999999';
+              }
+              
+              // Get metadata to discover all layers
+              fetch(`${pmtilesUrls.layered.replace('pmtiles://', '')}`).then(response => {
+                if (!response.ok) {
+                  throw new Error('Failed to fetch PMTiles');
                 }
-              }
-              
-              // Functions to add sources and layers
-              function addBasicPMTiles() {
-                removeAllLayers();
                 
-                map.addSource('networks', {
-                  type: 'vector',
-                  url: `pmtiles://${pmtilesUrls.basic}`
-                });
+                // This will parse the header to get metadata URL
+                const p = new pmtiles.PMTiles(pmtilesUrls.layered.replace('pmtiles://', ''));
+                return p.getMetadata();
+              })
+              .then(metadata => {
+                if (!metadata) {
+                  throw new Error('No metadata found in PMTiles');
+                }
                 
-                map.addLayer({
-                  'id': 'network-lines',
-                  'type': 'line',
-                  'source': 'networks',
-                  'source-layer': '0', // Default layer name
-                  'filter': ['==', '$type', 'LineString'],
-                  'paint': {
-                    'line-color': '#3388ff',
-                    'line-width': 2
-                  }
-                });
+                const meta = JSON.parse(metadata);
+                console.log('PMTiles metadata:', meta);
                 
-                map.addLayer({
-                  'id': 'network-points',
-                  'type': 'circle',
-                  'source': 'networks',
-                  'source-layer': '0', // Default layer name
-                  'filter': ['==', '$type', 'Point'],
-                  'paint': {
-                    'circle-radius': 4,
-                    'circle-color': '#ff3333'
-                  }
-                });
-              }
-              
-              function addLayeredPMTiles() {
-                removeAllLayers();
-                
-                map.addSource('layered-networks', {
-                  type: 'vector',
-                  url: `pmtiles://${pmtilesUrls.layered}`
-                });
-                
-                // We'd need to fetch the actual layers from the PMTiles file
-                // For now, we'll add placeholder layers that will work once
-                // we discover the actual layer names
-                fetch(`${pmtilesUrls.layered.replace('pmtiles://', '')}`, { method: 'HEAD' })
-                  .then(() => {
-                    // This is just a placeholder - in a real app you'd query the PMTiles
-                    // to get actual layer names. For now we'll add placeholder layers.
-                    addPlaceholderLayers();
-                  })
-                  .catch(error => {
-                    console.error('Error checking PMTiles:', error);
+                if (meta.vector_layers && meta.vector_layers.length > 0) {
+                  // Sort layers by country and operator for organization
+                  const sortedLayers = [...meta.vector_layers].sort((a, b) => {
+                    const aInfo = parseLayerId(a.id);
+                    const bInfo = parseLayerId(b.id);
+                    
+                    if (aInfo.country !== bInfo.country) {
+                      return aInfo.country.localeCompare(bInfo.country);
+                    }
+                    if (aInfo.operator !== bInfo.operator) {
+                      return aInfo.operator.localeCompare(bInfo.operator);
+                    }
+                    return aInfo.type.localeCompare(bInfo.type);
                   });
-              }
-              
-              function addPlaceholderLayers() {
-                // Add a placeholder layer that will match any points
-                map.addLayer({
-                  'id': 'all-nodes',
-                  'type': 'circle',
-                  'source': 'layered-networks',
-                  'source-layer': '*', // Wildcard to match any layer
-                  'filter': ['==', '$type', 'Point'],
-                  'paint': {
-                    'circle-radius': 4,
-                    'circle-color': '#ff3333'
+                  
+                  // Process each layer
+                  sortedLayers.forEach(layer => {
+                    const { country, operator, type } = parseLayerId(layer.id);
+                    const color = getOperatorColor(operator);
+                    
+                    // Store layer info for UI
+                    mapLayers.push({
+                      id: layer.id,
+                      country,
+                      operator,
+                      type,
+                      color
+                    });
+                    
+                    // Default to visible
+                    layerVisibility[layer.id] = true;
+                    
+                    // Add the layer to the map
+                    if (type === 'nodes') {
+                      map.addLayer({
+                        'id': layer.id,
+                        'type': 'circle',
+                        'source': 'networks',
+                        'source-layer': layer.id,
+                        'paint': {
+                          'circle-radius': 4,
+                          'circle-color': color,
+                          'circle-stroke-width': 1,
+                          'circle-stroke-color': '#ffffff'
+                        }
+                      });
+                      
+                      // Add popup for nodes
+                      map.on('mouseenter', layer.id, (e) => {
+                        if (e.features && e.features.length > 0) {
+                          const feature = e.features[0];
+                          const props = feature.properties;
+                          
+                          // Create HTML content for popup
+                          let html = `<strong>${operator.replace(/_/g, ' ')}</strong><br>`;
+                          if (props.name) html += `Name: ${props.name}<br>`;
+                          if (props.id) html += `ID: ${props.id}<br>`;
+                          if (props.network) html += `Network: ${props.network}<br>`;
+                          
+                          new maplibregl.Popup()
+                            .setLngLat(e.lngLat)
+                            .setHTML(html)
+                            .addTo(map);
+                        }
+                        
+                        map.getCanvas().style.cursor = 'pointer';
+                      });
+                      
+                      map.on('mouseleave', layer.id, () => {
+                        map.getCanvas().style.cursor = '';
+                      });
+                    } else {
+                      map.addLayer({
+                        'id': layer.id,
+                        'type': 'line',
+                        'source': 'networks',
+                        'source-layer': layer.id,
+                        'paint': {
+                          'line-color': color,
+                          'line-width': 2,
+                          'line-opacity': 0.8
+                        }
+                      });
+                      
+                      // Add popup for spans too
+                      map.on('mouseenter', layer.id, (e) => {
+                        if (e.features && e.features.length > 0) {
+                          const feature = e.features[0];
+                          const props = feature.properties;
+                          
+                          // Create HTML content for popup
+                          let html = `<strong>${operator.replace(/_/g, ' ')} Link</strong><br>`;
+                          if (props.name) html += `Name: ${props.name}<br>`;
+                          if (props.start && props.end) html += `Route: ${props.start} to ${props.end}<br>`;
+                          if (props.id) html += `ID: ${props.id}<br>`;
+                          if (props.network) html += `Network: ${props.network}<br>`;
+                          
+                          new maplibregl.Popup()
+                            .setLngLat(e.lngLat)
+                            .setHTML(html)
+                            .addTo(map);
+                        }
+                        
+                        map.getCanvas().style.cursor = 'pointer';
+                      });
+                      
+                      map.on('mouseleave', layer.id, () => {
+                        map.getCanvas().style.cursor = '';
+                      });
+                    }
+                  });
+                  
+                  // Create layer control UI
+                  createLayerControl(mapLayers);
+                  
+                  // Fit map to bounds from metadata
+                  if (meta.antimeridian_adjusted_bounds) {
+                    const bounds = meta.antimeridian_adjusted_bounds.split(',').map(Number);
+                    map.fitBounds([
+                      [bounds[0], bounds[1]], // Southwest
+                      [bounds[2], bounds[3]]  // Northeast
+                    ], { padding: 40 });
                   }
-                });
-                
-                // Add a placeholder layer that will match any lines
-                map.addLayer({
-                  'id': 'all-spans',
-                  'type': 'line',
-                  'source': 'layered-networks',
-                  'source-layer': '*', // Wildcard to match any layer
-                  'filter': ['==', '$type', 'LineString'],
-                  'paint': {
-                    'line-color': '#3388ff',
-                    'line-width': 2
-                  }
-                });
-              }
-              
-              function removeAllLayers() {
-                // Remove all layers and sources
-                const layersToRemove = map.getStyle().layers
-                  .filter(layer => layer.id.includes('network') || layer.id.includes('all-'))
-                  .map(layer => layer.id);
-                
-                layersToRemove.forEach(layerId => {
-                  if (map.getLayer(layerId)) {
-                    map.removeLayer(layerId);
-                  }
-                });
-                
-                if (map.getSource('networks')) {
-                  map.removeSource('networks');
                 }
-                if (map.getSource('layered-networks')) {
-                  map.removeSource('layered-networks');
-                }
-              }
+              })
+              .catch(error => {
+                console.error('Error loading PMTiles layers:', error);
+                // Show error message on the map
+                const errorDiv = document.createElement('div');
+                errorDiv.className = 'error-message';
+                errorDiv.innerHTML = `<h3>Error Loading Map Data</h3><p>${error.message}</p>`;
+                errorDiv.style.position = 'absolute';
+                errorDiv.style.top = '50%';
+                errorDiv.style.left = '50%';
+                errorDiv.style.transform = 'translate(-50%, -50%)';
+                errorDiv.style.backgroundColor = 'rgba(255,255,255,0.9)';
+                errorDiv.style.padding = '20px';
+                errorDiv.style.borderRadius = '5px';
+                errorDiv.style.maxWidth = '80%';
+                errorDiv.style.textAlign = 'center';
+                map.getContainer().appendChild(errorDiv);
+              });
+            }
+
+            // Create UI controls for layer visibility
+            function createLayerControl(layers) {
+              const controlDiv = document.createElement('div');
+              controlDiv.className = 'layer-control';
+              controlDiv.style.position = 'absolute';
+              controlDiv.style.top = '10px';
+              controlDiv.style.right = '10px';
+              controlDiv.style.backgroundColor = 'white';
+              controlDiv.style.padding = '10px';
+              controlDiv.style.borderRadius = '4px';
+              controlDiv.style.maxHeight = '80vh';
+              controlDiv.style.overflowY = 'auto';
+              controlDiv.style.width = '300px';
+              controlDiv.style.boxShadow = '0 0 10px rgba(0,0,0,0.1)';
               
-              // Add tileset radio button event listeners
-              document.querySelectorAll('input[name="tileset"]').forEach(input => {
-                input.addEventListener('change', (e) => {
-                  if (e.target.value === 'basic') {
-                    addBasicPMTiles();
-                  } else {
-                    addLayeredPMTiles();
-                  }
+              // Group layers by country
+              const countries = {};
+              layers.forEach(layer => {
+                if (!countries[layer.country]) {
+                  countries[layer.country] = {};
+                }
+                if (!countries[layer.country][layer.operator]) {
+                  countries[layer.country][layer.operator] = [];
+                }
+                countries[layer.country][layer.operator].push(layer);
+              });
+              
+              // Create header
+              const header = document.createElement('div');
+              header.innerHTML = '<h3 style="margin-top:0">Network Layers</h3>';
+              controlDiv.appendChild(header);
+              
+              // Add all/none buttons
+              const allNoneDiv = document.createElement('div');
+              allNoneDiv.style.marginBottom = '10px';
+              
+              const showAllBtn = document.createElement('button');
+              showAllBtn.textContent = 'Show All';
+              showAllBtn.style.marginRight = '10px';
+              showAllBtn.style.padding = '5px 10px';
+              showAllBtn.addEventListener('click', () => {
+                Object.keys(layerVisibility).forEach(id => {
+                  layerVisibility[id] = true;
+                  map.setLayoutProperty(id, 'visibility', 'visible');
+                  
+                  // Update checkboxes
+                  const checkbox = document.getElementById(`checkbox-${id}`);
+                  if (checkbox) checkbox.checked = true;
                 });
               });
               
-              // Fetch metadata and initialize the app
-              fetchMetadata();
+              const hideAllBtn = document.createElement('button');
+              hideAllBtn.textContent = 'Hide All';
+              hideAllBtn.style.padding = '5px 10px';
+              hideAllBtn.addEventListener('click', () => {
+                Object.keys(layerVisibility).forEach(id => {
+                  layerVisibility[id] = false;
+                  map.setLayoutProperty(id, 'visibility', 'none');
+                  
+                  // Update checkboxes
+                  const checkbox = document.getElementById(`checkbox-${id}`);
+                  if (checkbox) checkbox.checked = false;
+                });
+              });
+              
+              allNoneDiv.appendChild(showAllBtn);
+              allNoneDiv.appendChild(hideAllBtn);
+              controlDiv.appendChild(allNoneDiv);
+              
+              // Add accordion for each country
+              for (const country in countries) {
+                const countryDiv = document.createElement('div');
+                countryDiv.className = 'country-section';
+                countryDiv.style.marginBottom = '10px';
+                
+                const countryHeader = document.createElement('div');
+                countryHeader.textContent = country.replace(/_/g, ' ');
+                countryHeader.style.fontWeight = 'bold';
+                countryHeader.style.backgroundColor = '#f0f0f0';
+                countryHeader.style.padding = '5px';
+                countryHeader.style.cursor = 'pointer';
+                countryHeader.style.borderRadius = '3px';
+                
+                const countryContent = document.createElement('div');
+                countryContent.style.paddingLeft = '15px';
+                countryContent.style.display = 'none';
+                countryContent.style.marginTop = '5px';
+                
+                // Toggle country section
+                countryHeader.addEventListener('click', () => {
+                  countryContent.style.display = countryContent.style.display === 'none' ? 'block' : 'none';
+                });
+                
+                // Add operators for this country
+                for (const operator in countries[country]) {
+                  const operatorDiv = document.createElement('div');
+                  operatorDiv.style.marginBottom = '10px';
+                  
+                  const operatorName = document.createElement('div');
+                  operatorName.textContent = operator.replace(/_/g, ' ');
+                  operatorName.style.fontWeight = 'bold';
+                  operatorName.style.marginBottom = '5px';
+                  
+                  operatorDiv.appendChild(operatorName);
+                  
+                  // Add layer toggles
+                  countries[country][operator].forEach(layer => {
+                    const layerDiv = document.createElement('div');
+                    layerDiv.style.display = 'flex';
+                    layerDiv.style.alignItems = 'center';
+                    
+                    const checkbox = document.createElement('input');
+                    checkbox.type = 'checkbox';
+                    checkbox.id = `checkbox-${layer.id}`;
+                    checkbox.checked = layerVisibility[layer.id];
+                    checkbox.addEventListener('change', () => {
+                      layerVisibility[layer.id] = checkbox.checked;
+                      map.setLayoutProperty(layer.id, 'visibility', checkbox.checked ? 'visible' : 'none');
+                    });
+                    
+                    const colorSwatch = document.createElement('span');
+                    colorSwatch.style.display = 'inline-block';
+                    colorSwatch.style.width = '12px';
+                    colorSwatch.style.height = '12px';
+                    colorSwatch.style.backgroundColor = layer.color;
+                    colorSwatch.style.marginRight = '5px';
+                    colorSwatch.style.marginLeft = '5px';
+                    
+                    if (layer.type === 'spans') {
+                      colorSwatch.style.height = '2px';
+                    } else {
+                      colorSwatch.style.borderRadius = '50%';
+                    }
+                    
+                    const label = document.createElement('label');
+                    label.textContent = layer.type.charAt(0).toUpperCase() + layer.type.slice(1);
+                    label.htmlFor = `checkbox-${layer.id}`;
+                    label.style.fontSize = '12px';
+                    
+                    layerDiv.appendChild(checkbox);
+                    layerDiv.appendChild(colorSwatch);
+                    layerDiv.appendChild(label);
+                    operatorDiv.appendChild(layerDiv);
+                  });
+                  
+                  countryContent.appendChild(operatorDiv);
+                }
+                
+                countryDiv.appendChild(countryHeader);
+                countryDiv.appendChild(countryContent);
+                controlDiv.appendChild(countryDiv);
+              }
+              
+              map.getContainer().appendChild(controlDiv);
+            }
+
+            // Initialize map
+            const map = new maplibregl.Map({
+              container: 'map',
+              style: 'https://demotiles.maplibre.org/style.json',
+              center: [20, 0], // Center on Africa
+              zoom: 3
+            });
+
+            map.on('load', () => {
+              addLayeredPMTiles();
+            });
             </script>
           </body>
           </html>
