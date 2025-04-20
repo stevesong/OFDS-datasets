@@ -1,4 +1,4 @@
-name: Generate PMTiles
+name: Generate and Upload PMTiles to S3
 
 on:
   push:
@@ -10,8 +10,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     
     steps:
       - uses: actions/checkout@v3
@@ -29,11 +27,11 @@ jobs:
         id: find-geojson
         run: echo "GEOJSON_FILES=$(find . -name '*.geojson' | tr '\n' ' ')" >> $GITHUB_ENV
       
-      - name: Generate PMTiles
+      - name: Generate Basic PMTiles
         run: |
           tippecanoe -o ofds_networks.pmtiles -zg --drop-densest-as-needed $GEOJSON_FILES
       
-      - name: Generate Optimized PMTiles
+      - name: Generate Layered PMTiles
         run: |
           # Process each country/operator combination as a separate layer
           for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" | sort); do
@@ -62,11 +60,39 @@ jobs:
           # Run tippecanoe with all collected layer arguments
           tippecanoe -o ofds_networks_by_layer.pmtiles -zg --drop-densest-as-needed $nodeArgs $spanArgs
       
-      - name: Create simple HTML viewer
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+      
+      - name: Upload PMTiles to S3
+        run: |
+          # Upload both PMTiles files to S3
+          aws s3 cp ofds_networks.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+          aws s3 cp ofds_networks_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+          
+          # Generate current timestamp for the metadata file
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          
+          # Create a metadata JSON file with timestamp and file URLs
+          cat > pmtiles_metadata.json << EOL
+          {
+            "updated_at": "${TIMESTAMP}",
+            "files": {
+              "basic": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_networks.pmtiles",
+              "layered": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_networks_by_layer.pmtiles"
+            }
+          }
+          EOL
+          
+          # Upload the metadata file
+          aws s3 cp pmtiles_metadata.json s3://${{ secrets.S3_BUCKET_NAME }}/pmtiles_metadata.json --content-type 'application/json' --cache-control 'max-age=300'
+      
+      - name: Create HTML Viewer for GitHub Pages
         run: |
           mkdir -p public
-          cp ofds_networks.pmtiles public/
-          cp ofds_networks_by_layer.pmtiles public/
           
           cat > public/index.html << 'EOL'
           <!DOCTYPE html>
@@ -85,9 +111,14 @@ jobs:
                 position: absolute;
                 top: 10px;
                 right: 10px;
-                background: rgba(255, 255, 255, 0.8);
+                background: rgba(255, 255, 255, 0.9);
                 padding: 10px;
                 border-radius: 3px;
+                max-width: 300px;
+              }
+              .info {
+                font-size: 12px;
+                margin-top: 10px;
               }
             </style>
           </head>
@@ -103,11 +134,21 @@ jobs:
                 <input type="radio" name="tileset" id="layered" value="layered">
                 <label for="layered">Layered PMTiles</label>
               </div>
+              <div class="info">
+                <p>Last updated: <span id="updated-at">Loading...</span></p>
+                <p>Note: PMTiles are hosted on S3. GitHub Pages only hosts this viewer.</p>
+              </div>
             </div>
             <script>
               // Initialize PMTiles protocol
               let protocol = new pmtiles.Protocol();
               maplibregl.addProtocol("pmtiles", protocol.tile);
+              
+              // Store URLs for PMTiles files (will be updated from metadata)
+              let pmtilesUrls = {
+                basic: "",
+                layered: ""
+              };
               
               // Initialize map
               const map = new maplibregl.Map({
@@ -117,13 +158,38 @@ jobs:
                 zoom: 3
               });
               
+              // Fetch metadata file to get latest URLs and timestamp
+              async function fetchMetadata() {
+                try {
+                  const response = await fetch('https://BUCKET_NAME_PLACEHOLDER.s3.REGION_PLACEHOLDER.amazonaws.com/pmtiles_metadata.json');
+                  const metadata = await response.json();
+                  
+                  // Update the timestamp display
+                  document.getElementById('updated-at').textContent = new Date(metadata.updated_at).toLocaleString();
+                  
+                  // Store the PMTiles URLs
+                  pmtilesUrls.basic = metadata.files.basic;
+                  pmtilesUrls.layered = metadata.files.layered;
+                  
+                  // Initially load the basic PMTiles
+                  if (map.loaded()) {
+                    addBasicPMTiles();
+                  } else {
+                    map.on('load', addBasicPMTiles);
+                  }
+                } catch (error) {
+                  console.error('Error fetching metadata:', error);
+                  document.getElementById('updated-at').textContent = 'Error loading metadata';
+                }
+              }
+              
               // Functions to add sources and layers
               function addBasicPMTiles() {
                 removeAllLayers();
                 
                 map.addSource('networks', {
                   type: 'vector',
-                  url: 'pmtiles://ofds_networks.pmtiles'
+                  url: `pmtiles://${pmtilesUrls.basic}`
                 });
                 
                 map.addLayer({
@@ -131,6 +197,7 @@ jobs:
                   'type': 'line',
                   'source': 'networks',
                   'source-layer': '0', // Default layer name
+                  'filter': ['==', '$type', 'LineString'],
                   'paint': {
                     'line-color': '#3388ff',
                     'line-width': 2
@@ -155,46 +222,63 @@ jobs:
                 
                 map.addSource('layered-networks', {
                   type: 'vector',
-                  url: 'pmtiles://ofds_networks_by_layer.pmtiles'
+                  url: `pmtiles://${pmtilesUrls.layered}`
                 });
                 
-                // We'd need to dynamically add layers here based on what's in the tileset
-                // For now, a simplified example
-                const layers = ['Kenya_BCS_spans', 'Kenya_BCS_nodes', 'Nigeria_mtn_nigeria_spans'];
-                const colors = ['#3388ff', '#ff3333', '#33ff33'];
+                // We'd need to fetch the actual layers from the PMTiles file
+                // For now, we'll add placeholder layers that will work once
+                // we discover the actual layer names
+                fetch(`${pmtilesUrls.layered.replace('pmtiles://', '')}`, { method: 'HEAD' })
+                  .then(() => {
+                    // This is just a placeholder - in a real app you'd query the PMTiles
+                    // to get actual layer names. For now we'll add placeholder layers.
+                    addPlaceholderLayers();
+                  })
+                  .catch(error => {
+                    console.error('Error checking PMTiles:', error);
+                  });
+              }
+              
+              function addPlaceholderLayers() {
+                // Add a placeholder layer that will match any points
+                map.addLayer({
+                  'id': 'all-nodes',
+                  'type': 'circle',
+                  'source': 'layered-networks',
+                  'source-layer': '*', // Wildcard to match any layer
+                  'filter': ['==', '$type', 'Point'],
+                  'paint': {
+                    'circle-radius': 4,
+                    'circle-color': '#ff3333'
+                  }
+                });
                 
-                layers.forEach((layer, i) => {
-                  const isNode = layer.includes('nodes');
-                  const color = colors[i % colors.length];
-                  
-                  if (isNode) {
-                    map.addLayer({
-                      'id': layer,
-                      'type': 'circle',
-                      'source': 'layered-networks',
-                      'source-layer': layer,
-                      'paint': {
-                        'circle-radius': 4,
-                        'circle-color': color
-                      }
-                    });
-                  } else {
-                    map.addLayer({
-                      'id': layer,
-                      'type': 'line',
-                      'source': 'layered-networks',
-                      'source-layer': layer,
-                      'paint': {
-                        'line-color': color,
-                        'line-width': 2
-                      }
-                    });
+                // Add a placeholder layer that will match any lines
+                map.addLayer({
+                  'id': 'all-spans',
+                  'type': 'line',
+                  'source': 'layered-networks',
+                  'source-layer': '*', // Wildcard to match any layer
+                  'filter': ['==', '$type', 'LineString'],
+                  'paint': {
+                    'line-color': '#3388ff',
+                    'line-width': 2
                   }
                 });
               }
               
               function removeAllLayers() {
-                // Remove existing sources and layers
+                // Remove all layers and sources
+                const layersToRemove = map.getStyle().layers
+                  .filter(layer => layer.id.includes('network') || layer.id.includes('all-'))
+                  .map(layer => layer.id);
+                
+                layersToRemove.forEach(layerId => {
+                  if (map.getLayer(layerId)) {
+                    map.removeLayer(layerId);
+                  }
+                });
+                
                 if (map.getSource('networks')) {
                   map.removeSource('networks');
                 }
@@ -214,16 +298,18 @@ jobs:
                 });
               });
               
-              // Add initial PMTiles when map loads
-              map.on('load', () => {
-                addBasicPMTiles();
-              });
+              // Fetch metadata and initialize the app
+              fetchMetadata();
             </script>
           </body>
           </html>
           EOL
+          
+          # Replace placeholders with actual values from secrets
+          sed -i "s/BUCKET_NAME_PLACEHOLDER/${{ secrets.S3_BUCKET_NAME }}/g" public/index.html
+          sed -i "s/REGION_PLACEHOLDER/${{ secrets.AWS_REGION }}/g" public/index.html
       
-      - name: Deploy to GitHub Pages
+      - name: Deploy Viewer to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
