@@ -101,4 +101,130 @@ jobs:
               </div>
               <div>
                 <input type="radio" name="tileset" id="layered" value="layered">
-                <label for="layered">Layered PMTiles</labe
+                <label for="layered">Layered PMTiles</label>
+              </div>
+            </div>
+            <script>
+              // Initialize PMTiles protocol
+              let protocol = new pmtiles.Protocol();
+              maplibregl.addProtocol("pmtiles", protocol.tile);
+              
+              // Initialize map
+              const map = new maplibregl.Map({
+                container: 'map',
+                style: 'https://demotiles.maplibre.org/style.json',
+                center: [20, 0], // Center on Africa
+                zoom: 3
+              });
+              
+              // Functions to add sources and layers
+              function addBasicPMTiles() {
+                removeAllLayers();
+                
+                map.addSource('networks', {
+                  type: 'vector',
+                  url: 'pmtiles://ofds_networks.pmtiles'
+                });
+                
+                map.addLayer({
+                  'id': 'network-lines',
+                  'type': 'line',
+                  'source': 'networks',
+                  'source-layer': '0', // Default layer name
+                  'paint': {
+                    'line-color': '#3388ff',
+                    'line-width': 2
+                  }
+                });
+                
+                map.addLayer({
+                  'id': 'network-points',
+                  'type': 'circle',
+                  'source': 'networks',
+                  'source-layer': '0', // Default layer name
+                  'filter': ['==', '$type', 'Point'],
+                  'paint': {
+                    'circle-radius': 4,
+                    'circle-color': '#ff3333'
+                  }
+                });
+              }
+              
+              function addLayeredPMTiles() {
+                removeAllLayers();
+                
+                map.addSource('layered-networks', {
+                  type: 'vector',
+                  url: 'pmtiles://ofds_networks_by_layer.pmtiles'
+                });
+                
+                // We'd need to dynamically add layers here based on what's in the tileset
+                // For now, a simplified example
+                const layers = ['Kenya_BCS_spans', 'Kenya_BCS_nodes', 'Nigeria_mtn_nigeria_spans'];
+                const colors = ['#3388ff', '#ff3333', '#33ff33'];
+                
+                layers.forEach((layer, i) => {
+                  const isNode = layer.includes('nodes');
+                  const color = colors[i % colors.length];
+                  
+                  if (isNode) {
+                    map.addLayer({
+                      'id': layer,
+                      'type': 'circle',
+                      'source': 'layered-networks',
+                      'source-layer': layer,
+                      'paint': {
+                        'circle-radius': 4,
+                        'circle-color': color
+                      }
+                    });
+                  } else {
+                    map.addLayer({
+                      'id': layer,
+                      'type': 'line',
+                      'source': 'layered-networks',
+                      'source-layer': layer,
+                      'paint': {
+                        'line-color': color,
+                        'line-width': 2
+                      }
+                    });
+                  }
+                });
+              }
+              
+              function removeAllLayers() {
+                // Remove existing sources and layers
+                if (map.getSource('networks')) {
+                  map.removeSource('networks');
+                }
+                if (map.getSource('layered-networks')) {
+                  map.removeSource('layered-networks');
+                }
+              }
+              
+              // Add tileset radio button event listeners
+              document.querySelectorAll('input[name="tileset"]').forEach(input => {
+                input.addEventListener('change', (e) => {
+                  if (e.target.value === 'basic') {
+                    addBasicPMTiles();
+                  } else {
+                    addLayeredPMTiles();
+                  }
+                });
+              });
+              
+              // Add initial PMTiles when map loads
+              map.on('load', () => {
+                addBasicPMTiles();
+              });
+            </script>
+          </body>
+          </html>
+          EOL
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
