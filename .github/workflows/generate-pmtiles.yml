@@ -25,8 +25,8 @@ jobs:
       
       - name: Generate One Layer Per Operator
         run: |
-          # Create a file to store layer definitions
-          echo "# Layer definitions for tippecanoe" > layers.txt
+          # Create an array to store tippecanoe arguments
+          tippecanoe_args=("-o" "ofds_networks_by_layer.pmtiles" "-zg" "--drop-densest-as-needed")
           
           # Process each country directory
           for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" -not -path "*/tippecanoe" | sort); do
@@ -55,34 +55,36 @@ jobs:
                   echo "  Spans: $spansFile"
                 fi
                 
-                # Create combined file list for this layer
-                fileList=""
+                # Add layer argument for each file individually
                 if [ -n "$nodesFile" ]; then
-                  fileList="$nodesFile"
+                  tippecanoe_args+=("-L" "${layerName}:${nodesFile}")
                 fi
                 
                 if [ -n "$spansFile" ]; then
-                  if [ -n "$fileList" ]; then
-                    fileList="$fileList $spansFile"
-                  else
-                    fileList="$spansFile"
-                  fi
+                  tippecanoe_args+=("-L" "${layerName}:${spansFile}")
                 fi
                 
-                # Add to layer definitions
-                echo "-L$layerName:$fileList" >> layers.txt
+                # Save layer info for metadata
+                echo "$layerName" >> layers_list.txt
               fi
             done
           done
           
           # Count layers
-          layerCount=$(grep -c "^-L" layers.txt || true)
+          layerCount=$(wc -l < layers_list.txt)
           echo "Found $layerCount operator layers"
           
           # Run tippecanoe if we have any layers
           if [ "$layerCount" -gt 0 ]; then
-            echo "Creating PMTiles using layer definitions from layers.txt"
-            tippecanoe -o ofds_networks_by_layer.pmtiles -zg --drop-densest-as-needed $(cat layers.txt)
+            echo "Creating PMTiles with tippecanoe arguments: ${tippecanoe_args[@]}"
+            tippecanoe "${tippecanoe_args[@]}"
+            
+            if [ $? -eq 0 ]; then
+              echo "Successfully created PMTiles file"
+            else
+              echo "Error creating PMTiles file"
+              exit 1
+            fi
           else
             echo "No GeoJSON files found for processing"
             exit 1
@@ -100,8 +102,8 @@ jobs:
           # Upload the PMTiles file to S3
           aws s3 cp ofds_networks_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
           
-          # Upload the layer definitions file for reference
-          aws s3 cp layers.txt s3://${{ secrets.S3_BUCKET_NAME }}/ofds_layers.txt --content-type 'text/plain' --cache-control 'max-age=86400'
+          # Upload the layer list for reference
+          aws s3 cp layers_list.txt s3://${{ secrets.S3_BUCKET_NAME }}/ofds_layers_list.txt --content-type 'text/plain' --cache-control 'max-age=86400'
           
           # Create metadata JSON
           cat > pmtiles_metadata.json << EOF
@@ -110,7 +112,7 @@ jobs:
             "layer_count": $layerCount,
             "files": {
               "layered": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_networks_by_layer.pmtiles",
-              "layer_definitions": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_layers.txt"
+              "layer_list": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_layers_list.txt"
             }
           }
           EOF
