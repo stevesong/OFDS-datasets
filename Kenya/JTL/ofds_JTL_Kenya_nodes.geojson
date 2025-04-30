@@ -1,0 +1,1797 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.64034689909115,
+                    -4.0734550316054525
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}",
+                "name": "Mombasa Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.58285833020285,
+                    -3.4004210348975703
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_1",
+                "name": "Voi",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.796050852054215,
+                    -2.546130540139372
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_2",
+                "name": "Namanga",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "borderCrossing"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.817038446565306,
+                    -1.2835359339836208
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_3",
+                "name": "Nairobi",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.96013568186819,
+                    -1.4252021969334727
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_4",
+                "name": "Athi River Branch",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "aggregationPoint"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.06411967285495,
+                    -1.0321617906348934
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_5",
+                "name": "Thika",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.946779939906584,
+                    -0.4176784127051063
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_6",
+                "name": "Nyeri",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75453029506645,
+                    -0.1057264397448261
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_7",
+                "name": "Kisumu",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.271815621311404,
+                    0.6345632575554104
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_8",
+                "name": "Malaba Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.290667936667916,
+                    0.5124536167636189
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_9",
+                "name": "Eldoret Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.54805067077555,
+                    0.5764574513661256
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_10",
+                "name": "Bungoma Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.74457087392484,
+                    0.2826311282108773
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_11",
+                "name": "Kakamega Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.014547657862956,
+                    1.006703138843454
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_12",
+                "name": "Kitale",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.09636275675273,
+                    -0.2945277208440763
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_13",
+                "name": "Nakuru Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.3649085683378,
+                    0.039842818980321854
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_14",
+                "name": "Nyahururu Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.075636793136034,
+                    0.011124968479786057
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_15",
+                "name": "Nanyuki",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.64325582650413,
+                    0.04928423122722081
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_16",
+                "name": "Meru",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.45750326504652,
+                    -0.5406113863605179
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_17",
+                "name": "Embu",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.112682511555334,
+                    -3.220556101271001
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_18",
+                "name": "Malindi",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.568024522997426,
+                    -4.278053414491487
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_19",
+                "name": "Diani",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.816499754841246,
+                    -1.2824766064596202
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_20",
+                "name": "Nairobi Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.433791881447426,
+                    -0.7139999927662951
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_21",
+                "name": "Naivasha Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.81488021916792,
+                    -1.282631803774423
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_22",
+                "name": "Nairobi Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.77272472954685,
+                    -0.6759238408489991
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_23",
+                "name": "Kisii Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.28430325936282,
+                    -0.36694114076079326
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_24",
+                "name": "Kericho Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.1346705302704,
+                    0.4516986226055046
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_25",
+                "name": "Busia Metro",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "pop"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.69577235371961,
+                    -0.1594514980888263
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_26",
+                "name": "Nakuru Kericho Branch",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "exchange"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.727421994132634,
+                    0.05237514307082464
+                ]
+            },
+            "properties": {
+                "id": "{7e51f41b-9555-458e-be04-8ce83326aec2}_27",
+                "name": "Kisumu - Kakamega Branch",
+                "phase": {
+                    "id": "{95c06790-8270-4770-b4c9-567d05b4de7c}",
+                    "name": "Phase One",
+                    "description": "Backbone as of 2015"
+                },
+                "status": "operational",
+                "address": {
+                    "country": "KE"
+                },
+                "type": [
+                    "exchange"
+                ],
+                "accessPoint": true,
+                "physicalInfrastructureProvider": {
+                    "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                    "name": "Jamii Telecom Ltd",
+                    "identifier": {
+                        "id": "JTL"
+                    },
+                    "country": "KE",
+                    "website": "https://jtl.co.ke/"
+                },
+                "networkProviders": [
+                    {
+                        "id": "{a4b701bd-ea53-45d6-86fc-fee9438867a7}",
+                        "name": "Jamii Telecom Ltd",
+                        "identifier": {
+                            "id": "JTL"
+                        },
+                        "country": "KE",
+                        "website": "https://jtl.co.ke/"
+                    }
+                ],
+                "network": {
+                    "fid": 8,
+                    "name": "JTL Backbone",
+                    "website": "https://jtl.co.ke/",
+                    "id": "bc0de181-cb45-4417-b89d-bb3225ea29eb",
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__2__0/schema/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
