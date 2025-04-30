@@ -4,7 +4,6 @@ on:
   push:
     branches: [main]
     paths:
-      - '**/*.json'
       - '**/*.geojson'
   workflow_dispatch: # Allows manual triggering
 
@@ -15,102 +14,50 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Install Dependencies
+      - name: Install Tippecanoe
         run: |
           sudo apt-get update
-          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev jq
+          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev
           git clone https://github.com/felt/tippecanoe.git
           cd tippecanoe
           make -j
           sudo make install
       
-      - name: Generate Layered PMTiles
+      - name: Generate One Layer Per Operator
         run: |
-          # Create a temporary directory for converted GeoJSON files
-          mkdir -p temp_geojson
-          layerArgs=""
+          # Create a file to store layer definitions
+          echo "# Layer definitions for tippecanoe" > layers.txt
           
-          # Process each country/operator combination as a separate layer
-          find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" -not -path "*/tippecanoe" -not -path "*/temp_geojson" | sort | while read country; do
+          # Process each country/operator combination
+          for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" -not -path "*/tippecanoe" | sort); do
             countryName=$(basename "$country")
-            find "$country" -mindepth 1 -maxdepth 1 -type d | sort | while read operator; do
+            
+            for operator in $(find "$country" -mindepth 1 -maxdepth 1 -type d | sort); do
               operatorName=$(basename "$operator")
-              
-              # Create layer name
               layerName="${countryName}_${operatorName}"
               
-              # Find JSON file - exclude tippecanoe test files and package.json
-              ofdsFile=$(find "$operator" -name "*.json" -not -path "*/tippecanoe/*" | grep -v "package.json" | head -n 1)
+              # Find all GeoJSON files for this operator
+              geojsonFiles=$(find "$operator" -name "*.geojson" | tr '\n' ' ')
               
-              if [ -n "$ofdsFile" ]; then
-                tempGeoJson="temp_geojson/${layerName}.geojson"
-                
-                echo "Processing $layerName from $ofdsFile"
-                
-                # First check if the file has a networks array
-                hasNetworks=$(jq 'has("networks")' "$ofdsFile" 2>/dev/null || echo "false")
-                
-                if [ "$hasNetworks" = "true" ]; then
-                  echo "Converting $ofdsFile with networks array structure"
-                  
-                  # Convert safely with error handling
-                  jq --exit-status '{
-                    type: "FeatureCollection",
-                    features: [
-                      # Convert nodes to GeoJSON features
-                      (.networks[]?.nodes[]? | select(.location != null) | {
-                        type: "Feature",
-                        id: .id,
-                        geometry: .location,
-                        properties: (. + {feature_type: "node"}) | del(.location)
-                      }),
-                      # Convert links to GeoJSON features
-                      (.networks[]?.links[]? | select(.geometry != null) | {
-                        type: "Feature",
-                        id: .id,
-                        geometry: .geometry,
-                        properties: (. + {feature_type: "link"}) | del(.geometry)
-                      })
-                    ]
-                  }' "$ofdsFile" > "$tempGeoJson" || {
-                    echo "Warning: Error converting $ofdsFile - skipping this file"
-                    continue
-                  }
-                  
-                  # Check if file has features
-                  featuresCount=$(jq '.features | length' "$tempGeoJson" 2>/dev/null || echo "0")
-                  
-                  if [ "$featuresCount" -gt 0 ]; then
-                    layerArgs="$layerArgs -L${layerName}:${tempGeoJson}"
-                    echo "Added layer $layerName with $featuresCount features"
-                  else
-                    echo "No features found in $ofdsFile - skipping"
-                  fi
-                else
-                  echo "File $ofdsFile doesn't have the expected 'networks' structure - skipping"
-                fi
+              if [ -n "$geojsonFiles" ]; then
+                echo "Found operator: $layerName with files: $geojsonFiles"
+                echo "-L$layerName:$geojsonFiles" >> layers.txt
               fi
             done
           done
           
-          # Create PMTiles if we have layers
-          if [ -n "$layerArgs" ]; then
-            echo "Creating PMTiles with layers: $layerArgs"
-            tippecanoe -o ofds_networks_by_layer.pmtiles -zg --drop-densest-as-needed $layerArgs
-            
-            if [ $? -eq 0 ]; then
-              echo "Successfully created PMTiles file"
-            else
-              echo "Error creating PMTiles file"
-              exit 1
-            fi
-          else
-            echo "No valid layers found"
-            touch ofds_networks_by_layer.pmtiles  # Create empty file to avoid failing
-          fi
+          # Count layers
+          layerCount=$(grep -c "^-L" layers.txt || true)
+          echo "Found $layerCount operator layers"
           
-          # Clean up
-          rm -rf temp_geojson
+          # Run tippecanoe if we have any layers
+          if [ "$layerCount" -gt 0 ]; then
+            echo "Creating PMTiles using layer definitions from layers.txt"
+            tippecanoe -o ofds_networks_by_layer.pmtiles -zg --drop-densest-as-needed $(cat layers.txt)
+          else
+            echo "No GeoJSON files found"
+            exit 1
+          fi
       
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
@@ -120,24 +67,23 @@ jobs:
           aws-region: ${{ secrets.AWS_REGION }}
       
       - name: Upload PMTiles to S3
-        if: always()
         run: |
-          # Check if file exists
-          if [ -f "ofds_networks_by_layer.pmtiles" ]; then
-            # Upload the PMTiles file to S3
-            aws s3 cp ofds_networks_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
-            
-            # Create and upload metadata
-            TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-            echo "{" > pmtiles_metadata.json
-            echo "  \"updated_at\": \"${TIMESTAMP}\"," >> pmtiles_metadata.json
-            echo "  \"files\": {" >> pmtiles_metadata.json
-            echo "    \"layered\": \"https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_networks_by_layer.pmtiles\"" >> pmtiles_metadata.json
-            echo "  }" >> pmtiles_metadata.json
-            echo "}" >> pmtiles_metadata.json
-            
-            aws s3 cp pmtiles_metadata.json s3://${{ secrets.S3_BUCKET_NAME }}/pmtiles_metadata.json --content-type 'application/json' --cache-control 'max-age=300'
-          else
-            echo "PMTiles file not found - skipping upload"
-            exit 1
-          fi
+          # Upload the PMTiles file to S3
+          aws s3 cp ofds_networks_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+          
+          # Upload the layer definitions file for reference
+          aws s3 cp layers.txt s3://${{ secrets.S3_BUCKET_NAME }}/ofds_layers.txt --content-type 'text/plain' --cache-control 'max-age=86400'
+          
+          # Create metadata JSON
+          cat > pmtiles_metadata.json << EOF
+          {
+            "updated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "layer_count": $layerCount,
+            "files": {
+              "layered": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_networks_by_layer.pmtiles",
+              "layer_definitions": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_layers.txt"
+            }
+          }
+          EOF
+          
+          aws s3 cp pmtiles_metadata.json s3://${{ secrets.S3_BUCKET_NAME }}/pmtiles_metadata.json --content-type 'application/json' --cache-control 'max-age=300'
