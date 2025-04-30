@@ -129,14 +129,12 @@ jobs:
             
             # Create and upload metadata
             TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-            cat > pmtiles_metadata.json << EOL
-            {
-              "updated_at": "${TIMESTAMP}",
-              "files": {
-                "layered": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_networks_by_layer.pmtiles"
-              }
-            }
-            EOL
+            echo "{" > pmtiles_metadata.json
+            echo "  \"updated_at\": \"${TIMESTAMP}\"," >> pmtiles_metadata.json
+            echo "  \"files\": {" >> pmtiles_metadata.json
+            echo "    \"layered\": \"https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_networks_by_layer.pmtiles\"" >> pmtiles_metadata.json
+            echo "  }" >> pmtiles_metadata.json
+            echo "}" >> pmtiles_metadata.json
             
             aws s3 cp pmtiles_metadata.json s3://${{ secrets.S3_BUCKET_NAME }}/pmtiles_metadata.json --content-type 'application/json' --cache-control 'max-age=300'
           else
