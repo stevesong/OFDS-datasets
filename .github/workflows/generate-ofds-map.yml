@@ -1,4 +1,4 @@
-name: Deploy Demo Map Page
+name: Deploy OFDS Demo Map
 
 on:
   # Run manually from the Actions tab
@@ -92,8 +92,11 @@ jobs:
               const protocol = new pmtiles.Protocol();
               maplibregl.addProtocol("pmtiles", protocol.tile);
 
-              // S3 URL to the PMTiles file
-              const pmtilesUrl = "pmtiles://https://ofds-demo.s3.us-east-1.amazonaws.com/ofds_networks_by_layer.pmtiles";
+              // CloudFront URL to the PMTiles file (for protocol use)
+              const pmtilesUrl = "pmtiles://https://d1y6emt6l8cn4q.cloudfront.net/ofds_networks_by_layer.pmtiles";
+              
+              // TileJSON URL for the source
+              const tileJsonUrl = "https://d1y6emt6l8cn4q.cloudfront.net/ofds_networks_by_layer.json";
 
               // Initialize the map
               const map = new maplibregl.Map({
@@ -113,7 +116,7 @@ jobs:
                     },
                     "pmtiles": {
                       type: "vector",
-                      url: pmtilesUrl,
+                      url: tileJsonUrl,
                       attribution: 'Data: <a href="https://github.com/stevesong/OFDS-datasets">OFDS Datasets</a>'
                     }
                   },
@@ -146,16 +149,18 @@ jobs:
               }
 
               map.on('load', async () => {
-                // Get PMTiles metadata to identify layers and operators
                 try {
-                  const p = await protocol.get(pmtilesUrl);
+                  // Fetch TileJSON metadata
+                  const response = await fetch(tileJsonUrl);
+                  if (!response.ok) {
+                    throw new Error(`Failed to fetch TileJSON: ${response.status} ${response.statusText}`);
+                  }
                   
-                  // Get list of layers from metadata
-                  const info = await p.getMetadata();
-                  console.log("PMTiles info:", info);
+                  const tileJson = await response.json();
+                  console.log("TileJSON info:", tileJson);
                   
-                  // Get vector layers
-                  const vectorLayers = info.vector_layers || [];
+                  // Get vector layers from TileJSON
+                  const vectorLayers = tileJson.vector_layers || [];
                   console.log("Vector layers:", vectorLayers);
                   
                   // Keep track of operators we've already processed
@@ -234,15 +239,16 @@ jobs:
                     }
                   });
                   
-                  // Fit map to data bounds
-                  const bounds = p.header.bounds;
-                  map.fitBounds([
-                    [bounds[0], bounds[1]],  // Southwest coordinates
-                    [bounds[2], bounds[3]]   // Northeast coordinates
-                  ], { padding: 50 });
+                  // Fit map to data bounds if available in TileJSON
+                  if (tileJson.bounds) {
+                    map.fitBounds([
+                      [tileJson.bounds[0], tileJson.bounds[1]],  // Southwest coordinates
+                      [tileJson.bounds[2], tileJson.bounds[3]]   // Northeast coordinates
+                    ], { padding: 50 });
+                  }
                   
                 } catch (e) {
-                  console.error("Error loading PMTiles:", e);
+                  console.error("Error loading TileJSON:", e);
                   document.getElementById('operators-list').innerHTML = 
                     'Error loading network operators. Please check console for details.';
                 }
