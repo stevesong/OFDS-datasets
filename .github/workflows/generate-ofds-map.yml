@@ -1,0 +1,269 @@
+name: Deploy Demo Map Page
+
+on:
+  # Run manually from the Actions tab
+  workflow_dispatch:
+  # Run when the PMtiles generation workflow completes
+  workflow_run:
+    workflows: ["Generate PMTiles"]
+    types:
+      - completed
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Create demo page directory
+        run: mkdir -p demo-page
+
+      - name: Create index.html
+        run: |
+          cat > demo-page/index.html <<'EOL'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>OFDS Fibre Networks</title>
+            <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@3.3.1/dist/maplibre-gl.css">
+            <script src="https://unpkg.com/maplibre-gl@3.3.1/dist/maplibre-gl.js"></script>
+            <script src="https://unpkg.com/pmtiles@2.10.0/dist/index.js"></script>
+            <style>
+              body { margin: 0; padding: 0; }
+              #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+              .map-overlay {
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                background: rgba(255, 255, 255, 0.9);
+                margin-right: 20px;
+                font-family: Arial, sans-serif;
+                overflow: auto;
+                border-radius: 3px;
+                padding: 10px;
+                box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+                max-width: 250px;
+                max-height: 70%;
+              }
+              .map-overlay h2 {
+                margin: 0 0 10px;
+                font-size: 16px;
+              }
+              .legend-item {
+                display: flex;
+                align-items: center;
+                margin-bottom: 5px;
+              }
+              .legend-color {
+                display: inline-block;
+                width: 12px;
+                height: 4px;
+                margin-right: 8px;
+              }
+            </style>
+          </head>
+          <body>
+            <div id="map"></div>
+            <div class="map-overlay" id="legend">
+              <h2>Network Operators</h2>
+              <div id="operators-list">Loading...</div>
+              <div style="margin-top: 10px; font-size: 11px;">
+                Data from <a href="https://github.com/stevesong/OFDS-datasets" target="_blank">OFDS-datasets</a>
+              </div>
+            </div>
+            <script>
+              // Register PMTiles protocol with MapLibre
+              const protocol = new pmtiles.Protocol();
+              maplibregl.addProtocol("pmtiles", protocol.tile);
+
+              // S3 URL to the PMTiles file
+              const pmtilesUrl = "pmtiles://https://ofds-demo.s3.us-east-1.amazonaws.com/ofds_networks_by_layer.pmtiles";
+
+              // Initialize the map
+              const map = new maplibregl.Map({
+                container: 'map',
+                style: {
+                  version: 8,
+                  sources: {
+                    "osm": {
+                      type: 'raster',
+                      tiles: [
+                        'https://a.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                        'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                        'https://c.tile.openstreetmap.org/{z}/{x}/{y}.png'
+                      ],
+                      tileSize: 256,
+                      attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+                    },
+                    "pmtiles": {
+                      type: "vector",
+                      url: pmtilesUrl,
+                      attribution: 'Data: <a href="https://github.com/stevesong/OFDS-datasets">OFDS Datasets</a>'
+                    }
+                  },
+                  layers: [
+                    {
+                      id: 'osm',
+                      type: 'raster',
+                      source: 'osm',
+                      minzoom: 0,
+                      maxzoom: 19
+                    }
+                  ]
+                },
+                center: [0, 0],
+                zoom: 2
+              });
+
+              // Simple hash function to get consistent colors
+              function stringToColor(str) {
+                let hash = 0;
+                for (let i = 0; i < str.length; i++) {
+                  hash = str.charCodeAt(i) + ((hash << 5) - hash);
+                }
+                let color = '#';
+                for (let i = 0; i < 3; i++) {
+                  const value = (hash >> (i * 8)) & 0xFF;
+                  color += ('00' + value.toString(16)).substr(-2);
+                }
+                return color;
+              }
+
+              map.on('load', async () => {
+                // Get PMTiles metadata to identify layers and operators
+                try {
+                  const p = await protocol.get(pmtilesUrl);
+                  
+                  // Get list of layers from metadata
+                  const info = await p.getMetadata();
+                  console.log("PMTiles info:", info);
+                  
+                  // Get vector layers
+                  const vectorLayers = info.vector_layers || [];
+                  console.log("Vector layers:", vectorLayers);
+                  
+                  // Keep track of operators we've already processed
+                  const operators = new Set();
+                  const legendEl = document.getElementById('operators-list');
+                  legendEl.innerHTML = '';
+                  
+                  // Add each operator as a layer
+                  vectorLayers.forEach(layer => {
+                    // Extract operator from layer name
+                    // Assuming layer names follow a pattern with operator name
+                    const layerName = layer.id;
+                    const sourceLayer = layer.id;
+                    
+                    // Parse operator name from layer ID if possible
+                    // This will need adjusting based on your actual layer naming convention
+                    let operator = layerName;
+                    if (layerName.includes(':')) {
+                      operator = layerName.split(':')[0];
+                    }
+                    
+                    if (!operators.has(operator)) {
+                      operators.add(operator);
+                      
+                      // Generate a consistent color for this operator
+                      const color = stringToColor(operator);
+                      
+                      // Add to map
+                      map.addLayer({
+                        id: `${layerName}`,
+                        type: 'line',
+                        source: 'pmtiles',
+                        'source-layer': sourceLayer,
+                        paint: {
+                          'line-color': color,
+                          'line-width': 2
+                        }
+                      });
+                      
+                      // Add to legend
+                      const legendItem = document.createElement('div');
+                      legendItem.className = 'legend-item';
+                      legendItem.innerHTML = `
+                        <span class="legend-color" style="background-color: ${color};"></span>
+                        <span>${operator}</span>
+                      `;
+                      legendEl.appendChild(legendItem);
+                      
+                      // Add popup
+                      map.on('click', layerName, (e) => {
+                        const properties = e.features[0].properties;
+                        
+                        // Create HTML content for the popup
+                        let popupContent = '<div>';
+                        popupContent += `<strong>Operator:</strong> ${operator}<br>`;
+                        for (const [key, value] of Object.entries(properties)) {
+                          if (value && key !== 'id') {
+                            popupContent += `<strong>${key}:</strong> ${value}<br>`;
+                          }
+                        }
+                        popupContent += '</div>';
+                        
+                        new maplibregl.Popup()
+                          .setLngLat(e.lngLat)
+                          .setHTML(popupContent)
+                          .addTo(map);
+                      });
+                      
+                      // Change cursor on hover
+                      map.on('mouseenter', layerName, () => {
+                        map.getCanvas().style.cursor = 'pointer';
+                      });
+                      map.on('mouseleave', layerName, () => {
+                        map.getCanvas().style.cursor = '';
+                      });
+                    }
+                  });
+                  
+                  // Fit map to data bounds
+                  const bounds = p.header.bounds;
+                  map.fitBounds([
+                    [bounds[0], bounds[1]],  // Southwest coordinates
+                    [bounds[2], bounds[3]]   // Northeast coordinates
+                  ], { padding: 50 });
+                  
+                } catch (e) {
+                  console.error("Error loading PMTiles:", e);
+                  document.getElementById('operators-list').innerHTML = 
+                    'Error loading network operators. Please check console for details.';
+                }
+              });
+            </script>
+          </body>
+          </html>
+          EOL
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: 'demo-page'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
