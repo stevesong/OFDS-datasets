@@ -32,52 +32,6 @@ jobs:
       - name: Create demo page directory
         run: mkdir -p demo-page
 
-            - name: Create debugging tools
-        run: |
-          mkdir -p demo-page/debug
-          
-          # Create a debug page to test PMTiles
-          cat > demo-page/debug/pmtiles-test.html <<'EOL'
-          <!DOCTYPE html>
-          <html>
-          <head>
-            <title>PMTiles Debug</title>
-            <script src="https://unpkg.com/pmtiles@2.10.0/dist/index.js"></script>
-          </head>
-          <body>
-            <h1>PMTiles Debug Tool</h1>
-            <p>This page tests if the PMTiles file is accessible and shows its metadata</p>
-            <pre id="results">Loading PMTiles data...</pre>
-            <script>
-              const pmtilesUrl = "https://ofds-demo.s3.us-east-1.amazonaws.com/ofds_networks_by_layer.pmtiles";
-              const resultsEl = document.getElementById('results');
-              
-              async function testPMTiles() {
-                try {
-                  resultsEl.textContent = "Connecting to PMTiles file...";
-                  const p = new pmtiles.PMTiles(pmtilesUrl);
-                  
-                  resultsEl.textContent = "Reading header...";
-                  const header = await p.getHeader();
-                  
-                  resultsEl.textContent = "Reading metadata...";
-                  const metadata = await p.getMetadata();
-                  
-                  resultsEl.textContent = "PMTiles file accessed successfully!\n\nHeader:\n" + 
-                    JSON.stringify(header, null, 2) + 
-                    "\n\nMetadata:\n" + 
-                    JSON.stringify(metadata, null, 2);
-                } catch (e) {
-                  resultsEl.textContent = "Error: " + e.message + "\n\n" + e.stack;
-                }
-              }
-              
-              testPMTiles();
-            </script>
-          </body>
-          </html>
-          EOL
-          
       - name: Create index.html
         run: |
           cat > demo-page/index.html <<'EOL'
@@ -138,12 +92,8 @@ jobs:
               const protocol = new pmtiles.Protocol();
               maplibregl.addProtocol("pmtiles", protocol.tile);
 
-              // S3 URL to the PMTiles file - Use CORS-enabled URL
-              // Direct URL to the PMTiles file
+              // S3 URL to the PMTiles file
               const pmtilesUrl = "pmtiles://https://ofds-demo.s3.us-east-1.amazonaws.com/ofds_networks_by_layer.pmtiles";
-              
-              // For debugging - log the URL
-              console.log("Loading PMTiles from:", pmtilesUrl);
 
               // Initialize the map
               const map = new maplibregl.Map({
@@ -196,28 +146,12 @@ jobs:
               }
 
               map.on('load', async () => {
-                document.getElementById('operators-list').innerHTML = 'Connecting to PMTiles data...';
-                
                 // Get PMTiles metadata to identify layers and operators
                 try {
-                  console.log("Attempting to load PMTiles...");
-                  const p = await protocol.get(pmtilesUrl).catch(e => {
-                    console.error("Error in protocol.get:", e);
-                    throw new Error(`Failed to connect to PMTiles: ${e.message}`);
-                  });
-                  
-                  if (!p) {
-                    throw new Error("PMTiles connection returned empty result");
-                  }
-                  
-                  console.log("PMTiles connection established:", p);
+                  const p = await protocol.get(pmtilesUrl);
                   
                   // Get list of layers from metadata
-                  const info = await p.getMetadata().catch(e => {
-                    console.error("Error getting metadata:", e);
-                    throw new Error(`Failed to read PMTiles metadata: ${e.message}`);
-                  });
-                  
+                  const info = await p.getMetadata();
                   console.log("PMTiles info:", info);
                   
                   // Get vector layers
@@ -228,13 +162,6 @@ jobs:
                   const operators = new Set();
                   const legendEl = document.getElementById('operators-list');
                   legendEl.innerHTML = '';
-                  
-                  // Display a message if no layers are found
-                  if (!vectorLayers.length) {
-                    legendEl.innerHTML = 'No vector layers found in the PMTiles file.';
-                    console.warn("No vector layers found in the PMTiles metadata");
-                    return;
-                  }
                   
                   // Add each operator as a layer
                   vectorLayers.forEach(layer => {
@@ -307,36 +234,17 @@ jobs:
                     }
                   });
                   
-                  // Fit map to data bounds if available
-                  if (p.header && p.header.bounds) {
-                    const bounds = p.header.bounds;
-                    map.fitBounds([
-                      [bounds[0], bounds[1]],  // Southwest coordinates
-                      [bounds[2], bounds[3]]   // Northeast coordinates
-                    ], { padding: 50 });
-                  } else {
-                    // Default view if no bounds available
-                    map.flyTo({
-                      center: [20, 0], // Africa-centered view
-                      zoom: 3
-                    });
-                  }
-                  
-                  // If no operators were found, show a message
-                  if (operators.size === 0) {
-                    document.getElementById('operators-list').innerHTML = 
-                      'No network operators found in the PMTiles data. The file may be empty or have a different structure than expected.';
-                  }
+                  // Fit map to data bounds
+                  const bounds = p.header.bounds;
+                  map.fitBounds([
+                    [bounds[0], bounds[1]],  // Southwest coordinates
+                    [bounds[2], bounds[3]]   // Northeast coordinates
+                  ], { padding: 50 });
                   
                 } catch (e) {
                   console.error("Error loading PMTiles:", e);
                   document.getElementById('operators-list').innerHTML = 
-                    `Error loading network operators: ${e.message}<br><br>
-                     This could be due to:<br>
-                     - CORS restrictions on the S3 bucket<br>
-                     - The PMTiles file not being accessible<br>
-                     - The file structure not matching expectations<br><br>
-                     Check the browser console for more details.`;
+                    'Error loading network operators. Please check console for details.';
                 }
               });
             </script>
