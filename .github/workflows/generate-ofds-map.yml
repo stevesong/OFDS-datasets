@@ -91,12 +91,9 @@ jobs:
               // Register PMTiles protocol with MapLibre
               const protocol = new pmtiles.Protocol();
               maplibregl.addProtocol("pmtiles", protocol.tile);
-
-              // CloudFront URL to the PMTiles file (for protocol use)
-              const pmtilesUrl = "pmtiles://https://d1y6emt6l8cn4q.cloudfront.net/ofds_networks_by_layer.pmtiles";
               
               // TileJSON URL for the source
-              const tileJsonUrl = "https://d1y6emt6l8cn4q.cloudfront.net/ofds_networks_by_layer.json";
+              const tileJsonUrl = "https://d1oia3aqt3b077.cloudfront.net/ofds_networks_by_layer.json";
 
               // Initialize the map
               const map = new maplibregl.Map({
