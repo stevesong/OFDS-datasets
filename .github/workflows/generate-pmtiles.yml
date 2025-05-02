@@ -23,11 +23,14 @@ jobs:
           make -j
           sudo make install
       
-      - name: Generate One Layer Per Operator
+      - name: Generate Spans Layers Per Operator
         run: |
-          # Create an array to store tippecanoe arguments
-          tippecanoe_args=("-o" "ofds_networks_by_layer.pmtiles" "-zg" "--drop-densest-as-needed")
-          tippecanoe_test_args=("-o" "ofds_networks_by_layer_test.pmtiles" "-Z8" "-z14" "--no-feature-limit" "--no-tile-size-limit" "--quiet" "--read-parallel")
+          # Create an array to store tippecanoe arguments for spans
+          tippecanoe_spans_args=("-o" "ofds_spans_by_layer.pmtiles" "-zg" "--drop-densest-as-needed")
+          
+          # Create a file to collect all nodes files
+          nodes_file_list="nodes_file_list.txt"
+          touch $nodes_file_list
           
           # Process each country directory
           for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" -not -path "*/tippecanoe" | sort); do
@@ -40,57 +43,71 @@ jobs:
               # Create layer name from country and operator
               layerName="${countryName}_${operatorName}"
               
-              # Find the nodes and spans files
-              nodesFile=$(find "$operator" -name "*nodes*.geojson" | head -n 1)
+              # Find the spans files
               spansFile=$(find "$operator" -name "*spans*.geojson" | head -n 1)
               
-              # If at least one file exists, create a layer
-              if [ -n "$nodesFile" ] || [ -n "$spansFile" ]; then
-                echo "Layer: $layerName"
+              # Find the nodes files and add to our list
+              nodesFile=$(find "$operator" -name "*nodes*.geojson" | head -n 1)
+              if [ -n "$nodesFile" ]; then
+                echo "$nodesFile" >> $nodes_file_list
+                echo "Found nodes file: $nodesFile"
+              fi
+              
+              # If spans file exists, create a layer
+              if [ -n "$spansFile" ]; then
+                echo "Spans Layer: $layerName"
+                echo "  Spans: $spansFile"
                 
-                if [ -n "$nodesFile" ]; then
-                  echo "  Nodes: $nodesFile"
-                fi
-                
-                if [ -n "$spansFile" ]; then
-                  echo "  Spans: $spansFile"
-                fi
-                
-                # Add layer argument for each file individually
-                if [ -n "$nodesFile" ]; then
-                  tippecanoe_args+=("-L" "${layerName}:${nodesFile}")
-                fi
-                
-                if [ -n "$spansFile" ]; then
-                  tippecanoe_args+=("-L" "${layerName}:${spansFile}")
-                fi
+                # Add layer argument for spans file
+                tippecanoe_spans_args+=("-L" "${layerName}:${spansFile}")
                 
                 # Save layer info for metadata
-                echo "$layerName" >> layers_list.txt
+                echo "$layerName" >> spans_layers_list.txt
               fi
             done
           done
           
-          # Count layers
-          layerCount=$(wc -l < layers_list.txt)
-          echo "Found $layerCount operator layers"
+          # Count spans layers
+          spansLayerCount=0
+          if [ -f spans_layers_list.txt ]; then
+            spansLayerCount=$(wc -l < spans_layers_list.txt)
+          fi
+          echo "Found $spansLayerCount operator spans layers"
           
-          # Run tippecanoe if we have any layers
-          if [ "$layerCount" -gt 0 ]; then
-            # echo "Creating PMTiles with tippecanoe arguments: ${tippecanoe_args[@]}"
-            # tippecanoe "${tippecanoe_args[@]}"
-            echo "Creating test PMTiles with tippecanoe arguments: ${tippecanoe_test_args[@]}"
-            tippecanoe "${tippecanoe_test_args[@]}"
+          # Run tippecanoe for spans if we have any layers
+          if [ "$spansLayerCount" -gt 0 ]; then
+            echo "Creating Spans PMTiles with tippecanoe arguments: ${tippecanoe_spans_args[@]}"
+            tippecanoe "${tippecanoe_spans_args[@]}"
             
             if [ $? -eq 0 ]; then
-              echo "Successfully created PMTiles file"
+              echo "Successfully created Spans PMTiles file"
             else
-              echo "Error creating PMTiles file"
+              echo "Error creating Spans PMTiles file"
               exit 1
             fi
           else
-            echo "No GeoJSON files found for processing"
-            exit 1
+            echo "No Spans GeoJSON files found for processing"
+          fi
+      
+      - name: Generate Combined Nodes Layer
+        run: |
+          # Check if we have any nodes files
+          if [ -f nodes_file_list.txt ] && [ -s nodes_file_list.txt ]; then
+            # Create combined nodes file from list
+            echo "Creating combined nodes PMTiles from $(wc -l < nodes_file_list.txt) files"
+            
+            # Generate tippecanoe command for nodes
+            # Using -Z0 -z16 to ensure nodes are visible at any resolution
+            tippecanoe -o ofds_nodes_combined.pmtiles -Z0 -z16 -l nodes --drop-densest-as-needed --read-parallel $(cat nodes_file_list.txt)
+            
+            if [ $? -eq 0 ]; then
+              echo "Successfully created combined Nodes PMTiles file"
+            else
+              echo "Error creating combined Nodes PMTiles file"
+              exit 1
+            fi
+          else
+            echo "No Nodes GeoJSON files found for processing"
           fi
       
       - name: Configure AWS credentials
@@ -102,21 +119,39 @@ jobs:
       
       - name: Upload PMTiles to S3
         run: |
-          # Upload the PMTiles file to S3
-          # aws s3 cp ofds_networks_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
-          aws s3 cp ofds_networks_by_layer_test.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks_by_layer_test.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
-
-          # Upload the layer list for reference
-          aws s3 cp layers_list.txt s3://${{ secrets.S3_BUCKET_NAME }}/ofds_layers_list.txt --content-type 'text/plain' --cache-control 'max-age=86400'
+          # Upload the PMTiles files to S3 if they exist
+          if [ -f ofds_spans_by_layer.pmtiles ]; then
+            aws s3 cp ofds_spans_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_spans_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+            # Upload the spans layer list for reference
+            if [ -f spans_layers_list.txt ]; then
+              aws s3 cp spans_layers_list.txt s3://${{ secrets.S3_BUCKET_NAME }}/ofds_spans_layers_list.txt --content-type 'text/plain' --cache-control 'max-age=86400'
+            fi
+          fi
+          
+          if [ -f ofds_nodes_combined.pmtiles ]; then
+            aws s3 cp ofds_nodes_combined.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+          fi
           
           # Create metadata JSON
+          spansLayerCount=0
+          if [ -f spans_layers_list.txt ]; then
+            spansLayerCount=$(wc -l < spans_layers_list.txt)
+          fi
+          
+          nodesCount=0
+          if [ -f nodes_file_list.txt ]; then
+            nodesCount=$(wc -l < nodes_file_list.txt)
+          fi
+          
           cat > pmtiles_metadata.json << EOF
           {
             "updated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
-            "layer_count": $layerCount,
+            "spans_layer_count": $spansLayerCount,
+            "nodes_source_count": $nodesCount,
             "files": {
-              "layered": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_networks_by_layer.pmtiles",
-              "layer_list": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_layers_list.txt"
+              "spans_layered": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_spans_by_layer.pmtiles",
+              "nodes_combined": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_nodes_combined.pmtiles",
+              "spans_layer_list": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_spans_layers_list.txt"
             }
           }
           EOF
