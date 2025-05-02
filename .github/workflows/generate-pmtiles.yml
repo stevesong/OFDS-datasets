@@ -27,6 +27,7 @@ jobs:
         run: |
           # Create an array to store tippecanoe arguments
           tippecanoe_args=("-o" "ofds_networks_by_layer.pmtiles" "-zg" "--drop-densest-as-needed")
+          tippecanoe_test_args=("-o" "ofds_networks_by_layer_test.pmtiles" "-Z8" "-z14" "--no-feature-limit" "--no-tile-size-limit")
           
           # Process each country directory
           for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" -not -path "*/tippecanoe" | sort); do
@@ -78,6 +79,8 @@ jobs:
           if [ "$layerCount" -gt 0 ]; then
             echo "Creating PMTiles with tippecanoe arguments: ${tippecanoe_args[@]}"
             tippecanoe "${tippecanoe_args[@]}"
+            echo "Creating test PMTiles with tippecanoe arguments: ${tippecanoe_test_args[@]}"
+            tippecanoe "${tippecanoe_test_args[@]}"
             
             if [ $? -eq 0 ]; then
               echo "Successfully created PMTiles file"
@@ -101,7 +104,8 @@ jobs:
         run: |
           # Upload the PMTiles file to S3
           aws s3 cp ofds_networks_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
-          
+          aws s3 cp ofds_networks_by_layer_test.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_networks_by_layer_test.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+
           # Upload the layer list for reference
           aws s3 cp layers_list.txt s3://${{ secrets.S3_BUCKET_NAME }}/ofds_layers_list.txt --content-type 'text/plain' --cache-control 'max-age=86400'
           
