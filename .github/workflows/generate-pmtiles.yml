@@ -27,7 +27,7 @@ jobs:
         run: |
           # Create an array to store tippecanoe arguments
           tippecanoe_args=("-o" "ofds_networks_by_layer.pmtiles" "-zg" "--drop-densest-as-needed")
-          tippecanoe_test_args=("-o" "ofds_networks_by_layer_test.pmtiles" "-Z8" "-z14" "--no-feature-limit" "--no-tile-size-limit")
+          tippecanoe_test_args=("-o" "ofds_networks_by_layer_test.pmtiles" "-Z8" "-z14" "--no-feature-limit" "--no-tile-size-limit" "--quiet")
           
           # Process each country directory
           for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" -not -path "*/tippecanoe" | sort); do
