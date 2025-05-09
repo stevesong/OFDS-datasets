@@ -98,7 +98,185 @@ jobs:
             
             # Generate tippecanoe command for nodes
             # Using -Z0 -z16 to ensure nodes are visible at any resolution
+            tippecanoe -o ofds_nodes_combined.pmtiles -Z0 -z16 -l nodes # File: .github/workflows/generate-pmtiles.yml
+name: Generate and Upload PMTiles to S3
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.geojson'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev jq # Added jq here
+          git clone https://github.com/felt/tippecanoe.git
+          cd tippecanoe
+          make -j
+          sudo make install
+      
+      - name: Generate Spans Layers Per Operator
+        run: |
+          # Create an array to store tippecanoe arguments for spans
+          tippecanoe_spans_args=("-o" "ofds_spans_by_layer.pmtiles" "-Z0" "-z16" "--drop-densest-as-needed")
+          
+          # Create a file to collect all nodes files
+          nodes_file_list="nodes_file_list.txt"
+          touch $nodes_file_list
+          
+          # Process each country directory
+          for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" -not -path "*/tippecanoe" | sort); do
+            countryName=$(basename "$country")
+            
+            # Process each operator directory under this country
+            for operator in $(find "$country" -mindepth 1 -maxdepth 1 -type d | sort); do
+              operatorName=$(basename "$operator")
+              
+              # Create layer name from country and operator
+              layerName="${countryName}_${operatorName}"
+              
+              # Find the spans files
+              spansFile=$(find "$operator" -name "*spans*.geojson" | head -n 1)
+              
+              # Find the nodes files and add to our list
+              nodesFile=$(find "$operator" -name "*nodes*.geojson" | head -n 1)
+              if [ -n "$nodesFile" ]; then
+                echo "$nodesFile" >> $nodes_file_list
+                echo "Found nodes file: $nodesFile"
+              fi
+              
+              # If spans file exists, create a layer
+              if [ -n "$spansFile" ]; then
+                echo "Spans Layer: $layerName"
+                echo "  Spans: $spansFile"
+                
+                # Add layer argument for spans file
+                tippecanoe_spans_args+=("-L" "${layerName}:${spansFile}")
+                
+                # Save layer info for metadata
+                echo "$layerName" >> spans_layers_list.txt
+              fi
+            done
+          done
+          
+          # Count spans layers
+          spansLayerCount=0
+          if [ -f spans_layers_list.txt ]; then
+            spansLayerCount=$(wc -l < spans_layers_list.txt)
+          fi
+          echo "Found $spansLayerCount operator spans layers"
+          
+          # Run tippecanoe for spans if we have any layers
+          if [ "$spansLayerCount" -gt 0 ]; then
+            echo "Creating Spans PMTiles with tippecanoe arguments: ${tippecanoe_spans_args[@]}"
+            tippecanoe "${tippecanoe_spans_args[@]}"
+            
+            if [ $? -eq 0 ]; then
+              echo "Successfully created Spans PMTiles file"
+            else
+              echo "Error creating Spans PMTiles file"
+              exit 1
+            fi
+          else
+            echo "No Spans GeoJSON files found for processing"
+          fi
+      
+      - name: Generate Combined Nodes Layer and GeoJSON
+        run: |
+          # Check if we have any nodes files
+          if [ -f nodes_file_list.txt ] && [ -s nodes_file_list.txt ]; then
+            # Create combined nodes PMTiles from list
+            echo "Creating combined nodes PMTiles from $(wc -l < nodes_file_list.txt) files"
+            
+            # Generate tippecanoe command for nodes
+            # Using -Z0 -z16 to ensure nodes are visible at any resolution
             tippecanoe -o ofds_nodes_combined.pmtiles -Z0 -z16 -l nodes --read-parallel $(cat nodes_file_list.txt)
+            
+            if [ $? -eq 0 ]; then
+              echo "Successfully created combined Nodes PMTiles file"
+            else
+              echo "Error creating combined Nodes PMTiles file"
+              exit 1
+            fi
+
+            # Create combined nodes GeoJSON file using jq
+            echo "Creating combined nodes GeoJSON file"
+            # Use jq to merge features from all files in the list
+            jq -s '{"type": "FeatureCollection", "features": [.[].features[]]}' $(cat nodes_file_list.txt) > combined_nodes.geojson
+
+            if [ $? -eq 0 ]; then
+              echo "Successfully created combined Nodes GeoJSON file"
+            else
+              echo "Error creating combined Nodes GeoJSON file"
+              exit 1
+            fi
+
+          else
+            echo "No Nodes GeoJSON files found for processing"
+          fi
+      
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+      
+      - name: Upload PMTiles and GeoJSON to S3
+        run: |
+          # Upload the PMTiles files to S3 if they exist
+          if [ -f ofds_spans_by_layer.pmtiles ]; then
+            aws s3 cp ofds_spans_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_spans_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+            # Upload the spans layer list for reference
+            if [ -f spans_layers_list.txt ]; then
+              aws s3 cp spans_layers_list.txt s3://${{ secrets.S3_BUCKET_NAME }}/ofds_spans_layers_list.txt --content-type 'text/plain' --cache-control 'max-age=86400'
+            fi
+          fi
+          
+          if [ -f ofds_nodes_combined.pmtiles ]; then
+            aws s3 cp ofds_nodes_combined.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+          fi
+
+          # Upload the combined nodes GeoJSON file if it exists
+          if [ -f combined_nodes.geojson ]; then
+            aws s3 cp combined_nodes.geojson s3://${{ secrets.S3_BUCKET_NAME }}/combined_nodes.geojson --content-type 'application/geo+json' --cache-control 'max-age=86400'
+          fi
+          
+          # Create metadata JSON
+          spansLayerCount=0
+          if [ -f spans_layers_list.txt ]; then
+            spansLayerCount=$(wc -l < spans_layers_list.txt)
+          fi
+          
+          nodesCount=0
+          if [ -f nodes_file_list.txt ]; then
+            nodesCount=$(wc -l < nodes_file_list.txt)
+          fi
+          
+          cat > pmtiles_metadata.json << EOF
+          {
+            "updated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "spans_layer_count": $spansLayerCount,
+            "nodes_source_count": $nodesCount,
+            "files": {
+              "spans_layered": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_spans_by_layer.pmtiles",
+              "nodes_combined_pmtiles": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_nodes_combined.pmtiles",
+              "nodes_combined_geojson": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/combined_nodes.geojson", # Added new entry
+              "spans_layer_list": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_spans_layers_list.txt"
+            }
+          }
+          EOF
+          
+          aws s3 cp pmtiles_metadata.json s3://${{ secrets.S3_BUCKET_NAME }}/pmtiles_metadata.json --content-type 'application/json' --cache-control 'max-age=300' --read-parallel $(cat nodes_file_list.txt)
             
             if [ $? -eq 0 ]; then
               echo "Successfully created combined Nodes PMTiles file"
