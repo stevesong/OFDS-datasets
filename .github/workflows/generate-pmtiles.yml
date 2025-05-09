@@ -98,7 +98,7 @@ jobs:
             
             # Generate tippecanoe command for nodes
             # Using -Z0 -z16 to ensure nodes are visible at any resolution
-            tippecanoe -o ofds_nodes_combined.pmtiles -Z0 -z16 -l nodes --drop-densest-as-needed --read-parallel $(cat nodes_file_list.txt)
+            tippecanoe -o ofds_nodes_combined.pmtiles -Z0 -z16 -l nodes --read-parallel $(cat nodes_file_list.txt)
             
             if [ $? -eq 0 ]; then
               echo "Successfully created combined Nodes PMTiles file"
