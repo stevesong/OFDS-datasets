@@ -96,10 +96,10 @@ jobs:
             echo "Creating combined nodes GeoJSON from $(wc -l < nodes_file_list.txt) files"
             
             # Simple approach - just combine all features
-            cat nodes_file_list.txt | xargs jq -s 'reduce .[] as $item ({"type": "FeatureCollection", "features": []}; .features += $item.features)' > ofds_combined_nodes.geojson
+            cat nodes_file_list.txt | xargs jq -s 'reduce .[] as $item ({"type": "FeatureCollection", "features": []}; .features += $item.features)' > ofds_nodes_combined.geojson
             
-            echo "Combined nodes GeoJSON created: ofds_combined_nodes.geojson"
-            echo "Total features: $(jq '.features | length' ofds_combined_nodes.geojson)"
+            echo "Combined nodes GeoJSON created: ofds_nodes_combined.geojson"
+            echo "Total features: $(jq '.features | length' ofds_nodes_combined.geojson)"
           else
             echo "No nodes files found to combine"
           fi
@@ -149,6 +149,8 @@ jobs:
           
           if [ -f ofds_nodes_combined.geojson ]; then
             aws s3 cp ofds_nodes_combined.geojson s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.geojson --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+          else
+            echo "No combined nodes GeoJSON file to upload"
           fi
 
           # Create metadata JSON
