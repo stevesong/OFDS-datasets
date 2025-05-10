@@ -89,7 +89,31 @@ jobs:
             echo "No Spans GeoJSON files found for processing"
           fi
       
-      - name: Generate Combined Nodes Layer
+      - name: Generate Combined Nodes GeoJSON
+        run: |
+          # Read the list of node files and combine them into a single GeoJSON
+          if [ -f nodes_file_list.txt ] && [ -s nodes_file_list.txt ]; then
+              echo "Combining node files into a single GeoJSON..."
+              
+              # Use xargs to pass the file list to jq
+              cat "$nodes_file_list" | xargs jq -s '
+                  reduce .[] as $item ({
+                      "type": "FeatureCollection", 
+                      "features": []
+                  }; 
+                      .features += (
+                          $item.features | 
+                          map(.properties.source_file = $item.name // "unknown")
+                      )
+                  )
+              ' > ofds-combined-nodes.geojson
+              echo "Combined nodes GeoJSON created: ofds-combined-nodes.geojson"
+              echo "Total features: $(jq '.features | length' ofds-combined-nodes.geojson)"
+          else
+              echo "No nodes files found to combine"
+          fi
+
+      - name: Generate Combined Nodes PMTiles Layer
         run: |
           # Check if we have any nodes files
           if [ -f nodes_file_list.txt ] && [ -s nodes_file_list.txt ]; then
@@ -117,7 +141,7 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
       
-      - name: Upload PMTiles to S3
+      - name: Upload PMTile and GeoJSON to S3
         run: |
           # Upload the PMTiles files to S3 if they exist
           if [ -f ofds_spans_by_layer.pmtiles ]; then
@@ -132,6 +156,10 @@ jobs:
             aws s3 cp ofds_nodes_combined.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
           fi
           
+          if [ -f ofds_nodes_combined.geojson ]; then
+            aws s3 cp ofds_nodes_combined.geojson s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.geojson --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+          fi
+
           # Create metadata JSON
           spansLayerCount=0
           if [ -f spans_layers_list.txt ]; then
