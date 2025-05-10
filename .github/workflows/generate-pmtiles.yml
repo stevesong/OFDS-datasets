@@ -96,10 +96,10 @@ jobs:
             echo "Creating combined nodes GeoJSON from $(wc -l < nodes_file_list.txt) files"
             
             # Simple approach - just combine all features
-            cat nodes_file_list.txt | xargs jq -s 'reduce .[] as $item ({"type": "FeatureCollection", "features": []}; .features += $item.features)' > ofds-combined-nodes.geojson
+            cat nodes_file_list.txt | xargs jq -s 'reduce .[] as $item ({"type": "FeatureCollection", "features": []}; .features += $item.features)' > ofds_combined_nodes.geojson
             
-            echo "Combined nodes GeoJSON created: ofds-combined-nodes.geojson"
-            echo "Total features: $(jq '.features | length' ofds-combined-nodes.geojson)"
+            echo "Combined nodes GeoJSON created: ofds_combined_nodes.geojson"
+            echo "Total features: $(jq '.features | length' ofds_combined_nodes.geojson)"
           else
             echo "No nodes files found to combine"
           fi
