@@ -96,7 +96,7 @@ jobs:
               echo "Combining node files into a single GeoJSON..."
               
               # Use xargs to pass the file list to jq
-              cat "$nodes_file_list" | xargs jq -s '
+              cat $nodes_file_list | xargs jq -s '
                   reduce .[] as $item ({
                       "type": "FeatureCollection", 
                       "features": []
