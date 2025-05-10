@@ -93,24 +93,15 @@ jobs:
         run: |
           # Read the list of node files and combine them into a single GeoJSON
           if [ -f nodes_file_list.txt ] && [ -s nodes_file_list.txt ]; then
-              echo "Creating combined nodes GeoJSON from $(wc -l < nodes_file_list.txt) files"
-              
-              # Use xargs to pass the file list to jq
-              cat $nodes_file_list | xargs jq -s '
-                  reduce .[] as $item ({
-                      "type": "FeatureCollection", 
-                      "features": []
-                  }; 
-                      .features += (
-                          $item.features | 
-                          map(.properties.source_file = $item.name // "unknown")
-                      )
-                  )
-              ' > ofds-combined-nodes.geojson
-              echo "Combined nodes GeoJSON created: ofds-combined-nodes.geojson"
-              echo "Total features: $(jq '.features | length' ofds-combined-nodes.geojson)"
+            echo "Creating combined nodes GeoJSON from $(wc -l < nodes_file_list.txt) files"
+            
+            # Simple approach - just combine all features
+            cat nodes_file_list.txt | xargs jq -s 'reduce .[] as $item ({"type": "FeatureCollection", "features": []}; .features += $item.features)' > ofds-combined-nodes.geojson
+            
+            echo "Combined nodes GeoJSON created: ofds-combined-nodes.geojson"
+            echo "Total features: $(jq '.features | length' ofds-combined-nodes.geojson)"
           else
-              echo "No nodes files found to combine"
+            echo "No nodes files found to combine"
           fi
 
       - name: Generate Combined Nodes PMTiles Layer
