@@ -26,7 +26,7 @@ jobs:
       - name: Generate Spans Layers Per Operator
         run: |
           # Create an array to store tippecanoe arguments for spans
-          tippecanoe_spans_args=("-o" "ofds_spans_by_layer.pmtiles" "-Z0" "-z16" "--drop-densest-as-needed")
+          tippecanoe_spans_args=("-o" "ofds_spans_by_layer.pmtiles" "-Z0" "-z16" "--drop-densest-as-needed" "--quiet")
           
           # Create a file to collect all nodes files
           nodes_file_list="nodes_file_list.txt"
@@ -93,7 +93,7 @@ jobs:
         run: |
           # Read the list of node files and combine them into a single GeoJSON
           if [ -f nodes_file_list.txt ] && [ -s nodes_file_list.txt ]; then
-              echo "Combining node files into a single GeoJSON..."
+              echo "Creating combined nodes GeoJSON from $(wc -l < nodes_file_list.txt) files"
               
               # Use xargs to pass the file list to jq
               cat $nodes_file_list | xargs jq -s '
@@ -122,7 +122,7 @@ jobs:
             
             # Generate tippecanoe command for nodes
             # Using -Z0 -z16 to ensure nodes are visible at any resolution
-            tippecanoe -o ofds_nodes_combined.pmtiles -Z0 -z16 -l nodes --read-parallel $(cat nodes_file_list.txt)
+            tippecanoe -o ofds_nodes_combined.pmtiles -Z0 -z16 -l nodes --read-parallel --quiet $(cat nodes_file_list.txt)
             
             if [ $? -eq 0 ]; then
               echo "Successfully created combined Nodes PMTiles file"
