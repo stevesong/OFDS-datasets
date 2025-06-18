@@ -148,7 +148,7 @@ jobs:
           fi
           
           if [ -f ofds_nodes_combined.geojson ]; then
-            aws s3 cp ofds_nodes_combined.geojson s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.geojson --content-type 'application/geo+json' --acl public-read --cache-control 'max-age=86400'
+            aws s3 cp ofds_nodes_combined.geojson s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.geojson --content-type 'application/geo+json'  --cache-control 'max-age=86400'
           else
             echo "No combined nodes GeoJSON file to upload"
           fi
