@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8162341,
+          10.9884879
+        ]
+      },
+      "properties": {
+        "id": "7bb05e98-2d92-45de-943f-7895b6dede10",
+        "featureType": "node",
+        "name": "Centro Commercial Novomed",
+        "status": "operational",
+        "network": {
+          "id": "0ed8cb39-6d93-4759-ab8b-9c2d7dfbd479",
+          "name": "Isla Margarita",
+          "links": [
+            {
+              "rel": "describedby",
+              "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8165086,
+          10.9881019
+        ]
+      },
+      "properties": {
+        "id": "8dad94b3-e809-4fe7-a262-8c01e2d28acb",
+        "featureType": "node",
+        "name": "Centro Commercial Novomed2",
+        "status": "operational",
+        "network": {
+          "id": "0ed8cb39-6d93-4759-ab8b-9c2d7dfbd479",
+          "name": "Isla Margarita",
+          "links": [
+            {
+              "rel": "describedby",
+              "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8438835,
+          10.9577387
+        ]
+      },
+      "properties": {
+        "id": "48ded102-709d-4ea1-935d-4b16802c626e",
+        "featureType": "node",
+        "name": "Nodo Jose Angel",
+        "status": "operational",
+        "network": {
+          "id": "0ed8cb39-6d93-4759-ab8b-9c2d7dfbd479",
+          "name": "Isla Margarita",
+          "links": [
+            {
+              "rel": "describedby",
+              "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
