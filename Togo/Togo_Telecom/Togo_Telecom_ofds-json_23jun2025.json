@@ -1,0 +1,4709 @@
+{
+    "networks": [
+        {
+            "id": "da7b4206-e35e-4d49-bd89-fdc37a35ca21",
+            "name": "Togo Telecom",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Adeta",
+                    "id": "9ad12f6f-52e7-40eb-8744-8fac2fd85f43",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.727576981121491,
+                            7.123989428126123
+                        ]
+                    }
+                },
+                {
+                    "name": "Agou",
+                    "id": "bfd56571-c63a-49fa-b85c-6e3f5608febd",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.715968882480961,
+                            6.849085152590932
+                        ]
+                    }
+                },
+                {
+                    "name": "Amlame",
+                    "id": "9ed5a6fd-37a1-453f-b888-8c4fa4e0b6c2",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.903589616905043,
+                            7.461726304831137
+                        ]
+                    }
+                },
+                {
+                    "name": "Aneho",
+                    "id": "f07310f8-c37d-4b19-8480-bc98604da757",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.583495986926655,
+                            6.226947674556502
+                        ]
+                    }
+                },
+                {
+                    "name": "Anie",
+                    "id": "6f791c11-9869-4057-a655-6cee268bdaff",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.188638026668861,
+                            7.758879475689929
+                        ]
+                    }
+                },
+                {
+                    "name": "Atakpame",
+                    "id": "ef95afe1-fceb-4585-af48-f80b002aab74",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.13112229586385,
+                            7.530333118781844
+                        ]
+                    }
+                },
+                {
+                    "name": "Barkoassi",
+                    "id": "321cef9b-4a72-433b-af14-43bf661771c5",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.310304193234782,
+                            10.549714936023623
+                        ]
+                    }
+                },
+                {
+                    "name": "Bassar",
+                    "id": "ccf6cb08-a1fc-4b0e-ab75-45c68d3d188d",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.785260901759271,
+                            9.260534707020895
+                        ]
+                    }
+                },
+                {
+                    "name": "Blitta",
+                    "id": "8ef4baff-90d1-478a-89f6-ed1c3c60ea3e",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.995581512301261,
+                            8.336322639207765
+                        ]
+                    }
+                },
+                {
+                    "name": "Cinkassé",
+                    "id": "48855bfb-0454-4eb7-8b8d-2262959eaf68",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.020511109473074,
+                            11.09724757806689
+                        ]
+                    }
+                },
+                {
+                    "name": "Dapaong",
+                    "id": "dccc596f-890b-4e56-a0e1-99a6f55f174e",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.207047168326913,
+                            10.867611403403052
+                        ]
+                    }
+                },
+                {
+                    "name": "Kabou",
+                    "id": "cef97663-fa47-4c04-bbe9-90b49a35be08",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.811151299652836,
+                            9.45484662862729
+                        ]
+                    }
+                },
+                {
+                    "name": "Kante",
+                    "id": "8261cc26-b5b9-4102-ac06-5e765b3d835d",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.049214254239045,
+                            9.959014938493397
+                        ]
+                    }
+                },
+                {
+                    "name": "Kara",
+                    "id": "c69a68eb-9c1f-4702-ae35-1d7e91cab7fd",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.190761552244804,
+                            9.535230524968958
+                        ]
+                    }
+                },
+                {
+                    "name": "Keve",
+                    "id": "c63d0fb5-4012-483c-9892-990f9f55136d",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.927515852349681,
+                            6.429923371175861
+                        ]
+                    }
+                },
+                {
+                    "name": "Kpalime",
+                    "id": "7e828e1a-e98d-4690-9350-3cb58b8e1a5e",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.633850281996682,
+                            6.898173303878374
+                        ]
+                    }
+                },
+                {
+                    "name": "Kpele",
+                    "id": "fa2ffcf6-5ab1-4e45-9936-dab8dd6f0e52",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.183102661999519,
+                            6.857839399584094
+                        ]
+                    }
+                },
+                {
+                    "name": "Lome",
+                    "id": "bea02e6b-952d-4a8a-bc63-10ea900eedac",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.222100891971793,
+                            6.14192765754292
+                        ]
+                    }
+                },
+                {
+                    "name": "Niamtogou",
+                    "id": "987cad88-3853-4387-b360-b7d9ba6aaf69",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.106319465077481,
+                            9.762404969393966
+                        ]
+                    }
+                },
+                {
+                    "name": "Notse",
+                    "id": "deb07081-3c7b-400a-aaeb-7972b0e465a5",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.171699005335026,
+                            6.94805601613328
+                        ]
+                    }
+                },
+                {
+                    "name": "Nyamassila",
+                    "id": "87f0a74f-e405-48f9-b386-1d6e6c123e9e",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.190702826724351,
+                            7.987208084200718
+                        ]
+                    }
+                },
+                {
+                    "name": "Paratao",
+                    "id": "cb576151-f526-4ea8-8fea-d0a14b58ac29",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.212865043234712,
+                            8.954343231580623
+                        ]
+                    }
+                },
+                {
+                    "name": "Sokode",
+                    "id": "76118fb8-f35d-4dd8-917d-5ac7031be3c7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.13588463238695,
+                            8.979040097494531
+                        ]
+                    }
+                },
+                {
+                    "name": "Sotouboua",
+                    "id": "668c098f-be28-488e-a06a-3f24bfb13078",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.978631938464122,
+                            8.565995676581329
+                        ]
+                    }
+                },
+                {
+                    "name": "Tandjouare",
+                    "id": "fef82598-8407-4541-bb76-bdc387340a4e",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.210658509127064,
+                            10.659033122234302
+                        ]
+                    }
+                },
+                {
+                    "name": "Afanyagan",
+                    "id": "36ae03d2-fe8a-4170-84a3-428d5ed11535",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.640399288754954,
+                            6.494640225857225
+                        ]
+                    }
+                },
+                {
+                    "name": "Aklakou",
+                    "id": "b41be020-79f4-41fa-965f-d48e999a5cb4",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.713026517870429,
+                            6.344360308571545
+                        ]
+                    }
+                },
+                {
+                    "name": "Anfoin",
+                    "id": "59ec3b74-863f-4ad8-919c-9f6d15fc85b4",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.606495044862886,
+                            6.331447931622034
+                        ]
+                    }
+                },
+                {
+                    "name": "Babiaille",
+                    "id": "91a3793a-d9a5-4315-a0db-c42d66dc2778",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.700027023301458,
+                            7.592294577400338
+                        ]
+                    }
+                },
+                {
+                    "name": "Badou",
+                    "id": "0d12c036-0f1c-4654-8bc4-c3d42e8786b0",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.610956334351069,
+                            7.585406744397499
+                        ]
+                    }
+                },
+                {
+                    "name": "Bafilo",
+                    "id": "6e928f3e-ffe0-4063-8ff6-e92abaf52959",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.242620647041515,
+                            9.350223030128678
+                        ]
+                    }
+                },
+                {
+                    "name": "Bandjeli",
+                    "id": "2446dcc1-6dde-463b-bb83-1c3d3527ed82",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.622398741001036,
+                            9.421634287435646
+                        ]
+                    }
+                },
+                {
+                    "name": "Dagou",
+                    "id": "d422c9d2-2bbe-480b-b9d3-5a78cbbc980b",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.315227199246563,
+                            8.055618072655193
+                        ]
+                    }
+                },
+                {
+                    "name": "Danyi Apéyemé",
+                    "id": "e810fb1b-e818-498f-80b4-b01daf884ff7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.694545772085398,
+                            7.200913014057747
+                        ]
+                    }
+                },
+                {
+                    "name": "Djarkpanga",
+                    "id": "b72c3c63-afdf-4f2a-9637-4ba1d2241211",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.5649761831407,
+                            8.783378267560398
+                        ]
+                    }
+                },
+                {
+                    "name": "Dzogbetoe",
+                    "id": "7c82d009-9c09-4f35-87eb-06490318a349",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.564895441577241,
+                            6.481086283462618
+                        ]
+                    }
+                },
+                {
+                    "name": "Elavagnon",
+                    "id": "ab853b63-bca5-483a-868b-3ec8583a4d73",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.300869855642739,
+                            7.98792776828462
+                        ]
+                    }
+                },
+                {
+                    "name": "Goubi",
+                    "id": "2fccaef5-de91-4e69-9225-4a8e858ca71b",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.466355168041484,
+                            8.653364925156342
+                        ]
+                    }
+                },
+                {
+                    "name": "Guerin-Kouka",
+                    "id": "014d2edf-b485-4635-b2ba-8903a83235db",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.611244980688437,
+                            9.684003398004688
+                        ]
+                    }
+                },
+                {
+                    "name": "Kambole",
+                    "id": "6b488f69-c0c0-4436-8ef2-e96cc8005476",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.595152055995752,
+                            8.74905287371232
+                        ]
+                    }
+                },
+                {
+                    "name": "Kemerida",
+                    "id": "86887ead-a5b2-4314-83f3-8f0e3c047836",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.360376108876056,
+                            9.670579175299014
+                        ]
+                    }
+                },
+                {
+                    "name": "Ketao",
+                    "id": "f4f84573-dad7-41bf-8f81-dcfcf55bf0de",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.309784300250107,
+                            9.658284447444707
+                        ]
+                    }
+                },
+                {
+                    "name": "Klabe Ofokpa",
+                    "id": "12e31024-5414-44b1-9d62-8b4ff1a9d9f5",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.763111085848139,
+                            7.605979652469393
+                        ]
+                    }
+                },
+                {
+                    "name": "Korbongou",
+                    "id": "36dc9546-9bbd-4189-8032-7bb204d2735a",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.318893405460772,
+                            10.910790324428952
+                        ]
+                    }
+                },
+                {
+                    "name": "Kougnohou",
+                    "id": "11a72baa-083c-4312-a2cf-ad52c44bd30c",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.78878490750174,
+                            7.655069775292908
+                        ]
+                    }
+                },
+                {
+                    "name": "Koussountou",
+                    "id": "4efb238a-9f28-464a-9ab6-2d4cffdf91d7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.516787548188897,
+                            8.832685418487458
+                        ]
+                    }
+                },
+                {
+                    "name": "Mandouri",
+                    "id": "735df260-aa92-4a44-a6be-0b220cdcdae3",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.816321824422674,
+                            10.848767013644915
+                        ]
+                    }
+                },
+                {
+                    "name": "Mango",
+                    "id": "569cbabb-14e1-42b8-b0a8-8bde9c5f703f",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.46991707638437,
+                            10.352365963919913
+                        ]
+                    }
+                },
+                {
+                    "name": "Moretan?",
+                    "id": "cd98af0a-f96a-4f2c-87e3-5b3465eee16c",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.354884139807291,
+                            8.10631958996715
+                        ]
+                    }
+                },
+                {
+                    "name": "Naki-Est",
+                    "id": "143b98d3-e4b2-4ab7-ae85-ae749ad68588",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.361238141160765,
+                            10.724654826535952
+                        ]
+                    }
+                },
+                {
+                    "name": "Pagouda",
+                    "id": "1b24720e-989b-4373-80d6-2f0c76d112d3",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.326122698284805,
+                            9.753692162945065
+                        ]
+                    }
+                },
+                {
+                    "name": "Passoua",
+                    "id": "cc1d287d-83f4-4e62-9635-4681b0769309",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.292552593704317,
+                            9.054610338517646
+                        ]
+                    }
+                },
+                {
+                    "name": "Ponio",
+                    "id": "3598d1bd-ced3-46c4-a753-34533e1180cb",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.505484937519204,
+                            10.974768445627904
+                        ]
+                    }
+                },
+                {
+                    "name": "Sadori",
+                    "id": "2dfb1c5b-2f64-4c23-b61f-1f25c3fd6ad7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.467038893828986,
+                            10.288991369930793
+                        ]
+                    }
+                },
+                {
+                    "name": "Tablibo",
+                    "id": "6c4093ae-3325-43c6-a752-9d05732fc7df",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.497983940666113,
+                            6.58596662211274
+                        ]
+                    }
+                },
+                {
+                    "name": "Takpamba",
+                    "id": "7057aa81-284b-4be0-a3de-5c5229b344e8",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.572510162029709,
+                            9.967513827629821
+                        ]
+                    }
+                },
+                {
+                    "name": "Tchamba",
+                    "id": "10dd51a8-fdaf-4db8-84a8-dbf7df4a4d67",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.420332895064027,
+                            9.026176766588032
+                        ]
+                    }
+                },
+                {
+                    "name": "Tchanaga",
+                    "id": "77328fff-85e0-4048-a478-6e3ff1b5bab7",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.492178927033174,
+                            10.492371964128585
+                        ]
+                    }
+                },
+                {
+                    "name": "Tohoun",
+                    "id": "524ca92f-643a-4558-9d94-b95c6a889ae2",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.615980733822495,
+                            7.023441294650744
+                        ]
+                    }
+                },
+                {
+                    "name": "Tsevie",
+                    "id": "8966b870-af62-4438-a2e9-447fac84558c",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.213541594788373,
+                            6.432064129272137
+                        ]
+                    }
+                },
+                {
+                    "name": "Vogan",
+                    "id": "f28d0c25-6f60-4ed7-ad19-519c127f4d8b",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.531401329223512,
+                            6.335441390704617
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "13c09a5f-ef67-45a7-9c75-36f9afe94df0",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.136186927066074,
+                            8.984314709386135
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "061f3c50-7812-4e5d-a9b7-fcdf587ebdb2",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.212348222284196,
+                            6.140879034944887
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "5470030f-4af5-4669-adc0-37663ed4c6d4",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.014108971766295,
+                            11.10635345902384
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "dc909924-d337-43da-ad21-92271c0d4f9a",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.14365484209062,
+                            7.516056040015307
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "03c4c90d-3dd1-4b8e-bb86-d7c41f21846e",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.20569416929449,
+                            10.87312986575865
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "e0b48934-9168-4591-9ce8-50cdf9f59c7c",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.330194344806571,
+                            10.90901355874915
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "09eaecb0-3882-49e4-8afe-8727e900e58a",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.470012443618017,
+                            10.36039452534305
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "4c8253d2-e196-462e-9c89-d78f1e77b49c",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.56032652988812,
+                            10.74859290222563
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "dfce3662-fde7-437b-a36b-a80bca61e45b",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.806822213162859,
+                            9.455705675387195
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "7db75208-5fb0-4a2e-b9a0-a97d0f82bbd9",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.316241351490781,
+                            9.660735322799244
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "23ea3124-3fca-4eca-bf85-720fd3f9e0f4",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.181526581211598,
+                            9.541852227734335
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "ba25a4aa-741a-47b6-97bb-19148a912d69",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.041564741603327,
+                            9.957809724762614
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "2e7f56a0-156f-49e7-84b5-57bcdf11f09a",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.976628839919076,
+                            8.572008199752402
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "848f8db6-a04f-4f33-bf5b-6dabeda56224",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.899974358040665,
+                            7.461319248020908
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "9b672d09-a02d-420d-9b79-a50d4bec9c42",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.728810142044263,
+                            7.13056089098179
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "9eebe222-28bd-485b-b7f5-93764498240a",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.791071959834437,
+                            7.657208259586019
+                        ]
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "fa8d2a5b-028b-4918-9c69-ad1d19e43a96",
+                    "name": "Bassar Loop",
+                    "pointNames": "Bassar, Kabou, Kara",
+                    "start": "13c09a5f-ef67-45a7-9c75-36f9afe94df0",
+                    "end": "ccf6cb08-a1fc-4b0e-ab75-45c68d3d188d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.136186927066074,
+                                8.984314709386135
+                            ],
+                            [
+                                1.05330559943716,
+                                9.088067645063578
+                            ],
+                            [
+                                1.051245166974193,
+                                9.089442610576539
+                            ],
+                            [
+                                1.010756277916534,
+                                9.140539728525372
+                            ],
+                            [
+                                1.010064597630307,
+                                9.14123474621853
+                            ],
+                            [
+                                0.992034336710919,
+                                9.157952374990245
+                            ],
+                            [
+                                0.989245915202626,
+                                9.158654950135553
+                            ],
+                            [
+                                0.987852995857599,
+                                9.159354502253727
+                            ],
+                            [
+                                0.964840868984382,
+                                9.174057519549855
+                            ],
+                            [
+                                0.909600335137561,
+                                9.174880758163152
+                            ],
+                            [
+                                0.844844271842491,
+                                9.206605366585237
+                            ],
+                            [
+                                0.786250870682741,
+                                9.256353945986419
+                            ],
+                            [
+                                0.785260901989433,
+                                9.260534706048894
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "811fa738-ccf2-4f5b-a029-725eca860cf0",
+                    "name": "Bassar Loop",
+                    "pointNames": "Bassar, Kabou, Kara",
+                    "start": "ccf6cb08-a1fc-4b0e-ab75-45c68d3d188d",
+                    "end": "cef97663-fa47-4c04-bbe9-90b49a35be08",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.785260901529109,
+                                9.260534707992896
+                            ],
+                            [
+                                0.780088930831633,
+                                9.282376579036356
+                            ],
+                            [
+                                0.78380343981737,
+                                9.341428760239657
+                            ],
+                            [
+                                0.802789219291218,
+                                9.388226515098413
+                            ],
+                            [
+                                0.812614713497548,
+                                9.438521606605843
+                            ],
+                            [
+                                0.811151299742085,
+                                9.454846627631674
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ae24f990-19b8-4024-bf2c-367921e30213",
+                    "name": "Bassar Loop",
+                    "pointNames": "Bassar, Kabou, Kara",
+                    "start": "cef97663-fa47-4c04-bbe9-90b49a35be08",
+                    "end": "c69a68eb-9c1f-4702-ae35-1d7e91cab7fd",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.811151299563587,
+                                9.454846629622907
+                            ],
+                            [
+                                0.810833825805513,
+                                9.45838818836278
+                            ],
+                            [
+                                0.87098700601856,
+                                9.478317411530655
+                            ],
+                            [
+                                0.920863062006214,
+                                9.491704086029621
+                            ],
+                            [
+                                0.984653788214818,
+                                9.48367404058682
+                            ],
+                            [
+                                1.02819659491135,
+                                9.510698491782719
+                            ],
+                            [
+                                1.047305544400745,
+                                9.514229870855612
+                            ],
+                            [
+                                1.057426184677759,
+                                9.482045092740444
+                            ],
+                            [
+                                1.098388034245135,
+                                9.477665203159358
+                            ],
+                            [
+                                1.135090401437018,
+                                9.47827905024187
+                            ],
+                            [
+                                1.179178124273181,
+                                9.515315574517473
+                            ],
+                            [
+                                1.190761551742584,
+                                9.53523052410551
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "bbcce891-9a2e-434f-a602-ce575654e39e",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "061f3c50-7812-4e5d-a9b7-fcdf587ebdb2",
+                    "end": "8966b870-af62-4438-a2e9-447fac84558c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.212348222284196,
+                                6.140879034944887
+                            ],
+                            [
+                                1.222938249739308,
+                                6.163090363622134
+                            ],
+                            [
+                                1.208363897451472,
+                                6.262929895655322
+                            ],
+                            [
+                                1.217338853594719,
+                                6.325837526950293
+                            ],
+                            [
+                                1.203528641843642,
+                                6.382635849377412
+                            ],
+                            [
+                                1.213748217026333,
+                                6.431264241294085
+                            ],
+                            [
+                                1.213541595038183,
+                                6.432064128305058
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ce364d6e-1eef-4b2b-bac7-7a3f3869bcb0",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "8966b870-af62-4438-a2e9-447fac84558c",
+                    "end": "fa2ffcf6-5ab1-4e45-9936-dab8dd6f0e52",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.213541594538563,
+                                6.432064130239215
+                            ],
+                            [
+                                1.183156087448044,
+                                6.549694265643272
+                            ],
+                            [
+                                1.188270176477016,
+                                6.57484849550258
+                            ],
+                            [
+                                1.182401225117174,
+                                6.597925426598692
+                            ],
+                            [
+                                1.183711867069316,
+                                6.62266788612169
+                            ],
+                            [
+                                1.16648542316177,
+                                6.677657324771068
+                            ],
+                            [
+                                1.166951404703902,
+                                6.70703372103759
+                            ],
+                            [
+                                1.177231607273442,
+                                6.772488789069762
+                            ],
+                            [
+                                1.180686662741003,
+                                6.815682162390862
+                            ],
+                            [
+                                1.187903473656989,
+                                6.836222311440778
+                            ],
+                            [
+                                1.183102662216139,
+                                6.857839398608702
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f4725235-c38a-45a0-92bc-bd9bf99ab2b5",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "fa2ffcf6-5ab1-4e45-9936-dab8dd6f0e52",
+                    "end": "deb07081-3c7b-400a-aaeb-7972b0e465a5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.1831026617829,
+                                6.857839400559486
+                            ],
+                            [
+                                1.176995526263196,
+                                6.885338601997065
+                            ],
+                            [
+                                1.181270001896617,
+                                6.917655386051718
+                            ],
+                            [
+                                1.180425792360793,
+                                6.918497080834722
+                            ],
+                            [
+                                1.171699005618081,
+                                6.948056015174529
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c1780495-d962-4d78-bda9-ea891e3c7c56",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "deb07081-3c7b-400a-aaeb-7972b0e465a5",
+                    "end": "6f791c11-9869-4057-a655-6cee268bdaff",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.17169900505197,
+                                6.948056017092031
+                            ],
+                            [
+                                1.170746393793868,
+                                6.951282654164734
+                            ],
+                            [
+                                1.170403814069226,
+                                6.97398705030721
+                            ],
+                            [
+                                1.156222457532158,
+                                7.073423196680123
+                            ],
+                            [
+                                1.162646823077691,
+                                7.122485595425827
+                            ],
+                            [
+                                1.166185552884977,
+                                7.228658319268642
+                            ],
+                            [
+                                1.161715300752023,
+                                7.308451103221104
+                            ],
+                            [
+                                1.174103606371295,
+                                7.37889157970819
+                            ],
+                            [
+                                1.16021458706401,
+                                7.425909638230275
+                            ],
+                            [
+                                1.15355245980828,
+                                7.476929323689851
+                            ],
+                            [
+                                1.152749905774938,
+                                7.503355659697273
+                            ],
+                            [
+                                1.143881795138668,
+                                7.515956908546117
+                            ],
+                            [
+                                1.146441078568128,
+                                7.529639760354004
+                            ],
+                            [
+                                1.142658950348259,
+                                7.54348975924226
+                            ],
+                            [
+                                1.154155898722223,
+                                7.579545962244114
+                            ],
+                            [
+                                1.16689506168264,
+                                7.602592117286137
+                            ],
+                            [
+                                1.195408187121384,
+                                7.693138729576594
+                            ],
+                            [
+                                1.188756795879189,
+                                7.754231768461907
+                            ],
+                            [
+                                1.188638026694384,
+                                7.758879474691183
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a354dff6-2a5c-48b1-a062-3b16483b3d60",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "6f791c11-9869-4057-a655-6cee268bdaff",
+                    "end": "668c098f-be28-488e-a06a-3f24bfb13078",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.188638026643339,
+                                7.758879476688675
+                            ],
+                            [
+                                1.184778896321483,
+                                7.909895955128605
+                            ],
+                            [
+                                1.196249788468774,
+                                7.931290118956857
+                            ],
+                            [
+                                1.188335711019384,
+                                7.986371409666289
+                            ],
+                            [
+                                1.142283700721985,
+                                8.06909964018252
+                            ],
+                            [
+                                1.133000989010564,
+                                8.104797331608532
+                            ],
+                            [
+                                1.133993618044427,
+                                8.168465469770824
+                            ],
+                            [
+                                1.134084341483331,
+                                8.223834396236198
+                            ],
+                            [
+                                1.091657608424854,
+                                8.291707908734502
+                            ],
+                            [
+                                1.06372309622879,
+                                8.315234111419544
+                            ],
+                            [
+                                1.009505905045694,
+                                8.340056193520729
+                            ],
+                            [
+                                0.990481235802619,
+                                8.384969528663479
+                            ],
+                            [
+                                0.990529694830613,
+                                8.431134757686168
+                            ],
+                            [
+                                0.987618569966086,
+                                8.458694357987733
+                            ],
+                            [
+                                0.961418305769967,
+                                8.534640441686914
+                            ],
+                            [
+                                0.978631937983119,
+                                8.565995675705166
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8c9d5f61-b581-4574-9ac1-7cc18aa0df29",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "668c098f-be28-488e-a06a-3f24bfb13078",
+                    "end": "76118fb8-f35d-4dd8-917d-5ac7031be3c7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.978631938945125,
+                                8.565995677457494
+                            ],
+                            [
+                                0.986500105665183,
+                                8.5803278187364
+                            ],
+                            [
+                                1.000117640352901,
+                                8.613336817867568
+                            ],
+                            [
+                                1.019300697443018,
+                                8.675392942506136
+                            ],
+                            [
+                                1.043989889996549,
+                                8.732811284742343
+                            ],
+                            [
+                                1.075971277717036,
+                                8.833863225042933
+                            ],
+                            [
+                                1.067929336878007,
+                                8.848985593127841
+                            ],
+                            [
+                                1.080714277121994,
+                                8.884476555227145
+                            ],
+                            [
+                                1.106252045352253,
+                                8.927211719887787
+                            ],
+                            [
+                                1.135884631891097,
+                                8.979040096627267
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e443c4fa-08e9-47ba-8034-49f950ca55de",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "76118fb8-f35d-4dd8-917d-5ac7031be3c7",
+                    "end": "6e928f3e-ffe0-4063-8ff6-e92abaf52959",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.135884632882803,
+                                8.979040098361795
+                            ],
+                            [
+                                1.136919727057944,
+                                8.980850512407148
+                            ],
+                            [
+                                1.132364822228935,
+                                9.052862674006642
+                            ],
+                            [
+                                1.139245969065903,
+                                9.099826155815569
+                            ],
+                            [
+                                1.153775960189291,
+                                9.141757252527468
+                            ],
+                            [
+                                1.19809075159345,
+                                9.208083079682604
+                            ],
+                            [
+                                1.188801006616097,
+                                9.242077555538554
+                            ],
+                            [
+                                1.210136155655729,
+                                9.275184577531917
+                            ],
+                            [
+                                1.235716400033535,
+                                9.296126806990241
+                            ],
+                            [
+                                1.242620646915039,
+                                9.350223029137714
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "358c821c-421a-471d-bf47-11f3f193bbdb",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "6e928f3e-ffe0-4063-8ff6-e92abaf52959",
+                    "end": "6e928f3e-ffe0-4063-8ff6-e92abaf52959",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.242620646915039,
+                                9.350223029137714
+                            ],
+                            [
+                                1.242620647041515,
+                                9.350223030128678
+                            ],
+                            [
+                                1.242620646692854,
+                                9.350223031064731
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b1be92dc-2b76-47f2-a976-a27f7827d1d3",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "6e928f3e-ffe0-4063-8ff6-e92abaf52959",
+                    "end": "987cad88-3853-4387-b360-b7d9ba6aaf69",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.242620646692854,
+                                9.350223031064731
+                            ],
+                            [
+                                1.212590222748827,
+                                9.430845908348166
+                            ],
+                            [
+                                1.206207206411681,
+                                9.448141305009825
+                            ],
+                            [
+                                1.205074104001915,
+                                9.516107939188224
+                            ],
+                            [
+                                1.19152635833556,
+                                9.548020920986287
+                            ],
+                            [
+                                1.156298419037213,
+                                9.611442001549875
+                            ],
+                            [
+                                1.138462349623702,
+                                9.630764794922737
+                            ],
+                            [
+                                1.143171877554172,
+                                9.646694826876958
+                            ],
+                            [
+                                1.142779448501164,
+                                9.664311981843337
+                            ],
+                            [
+                                1.114811784986378,
+                                9.727704746886989
+                            ],
+                            [
+                                1.106319465314917,
+                                9.762404968423787
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3a3bf544-f59b-4d02-8412-651317201588",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "987cad88-3853-4387-b360-b7d9ba6aaf69",
+                    "end": "8261cc26-b5b9-4102-ac06-5e765b3d835d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.106319464840046,
+                                9.762404970364145
+                            ],
+                            [
+                                1.099499363085788,
+                                9.790272390684127
+                            ],
+                            [
+                                1.093146721636263,
+                                9.81041318647961
+                            ],
+                            [
+                                1.075730749821832,
+                                9.83308628551631
+                            ],
+                            [
+                                1.090674766556365,
+                                9.859069414766937
+                            ],
+                            [
+                                1.087326544749386,
+                                9.891795939077733
+                            ],
+                            [
+                                1.090363713716606,
+                                9.922005782162444
+                            ],
+                            [
+                                1.072939821858782,
+                                9.943435554290424
+                            ],
+                            [
+                                1.052257146583909,
+                                9.959011366148781
+                            ],
+                            [
+                                1.049214255238987,
+                                9.959014938492222
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "26f130e4-03cc-4fba-9481-97b1c36e716a",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "8261cc26-b5b9-4102-ac06-5e765b3d835d",
+                    "end": "321cef9b-4a72-433b-af14-43bf661771c5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.049214253239102,
+                                9.959014938494569
+                            ],
+                            [
+                                1.041603690580827,
+                                9.959023873267624
+                            ],
+                            [
+                                0.996939249346873,
+                                10.00228752765311
+                            ],
+                            [
+                                0.933952375215734,
+                                10.04767930008432
+                            ],
+                            [
+                                0.871398671126966,
+                                10.11849634817992
+                            ],
+                            [
+                                0.853537621403852,
+                                10.15248435944137
+                            ],
+                            [
+                                0.81477736376533,
+                                10.16803410378649
+                            ],
+                            [
+                                0.796044983985463,
+                                10.19238205863654
+                            ],
+                            [
+                                0.77346300518,
+                                10.20372940737377
+                            ],
+                            [
+                                0.745756736357446,
+                                10.20501024460883
+                            ],
+                            [
+                                0.652930953654203,
+                                10.2392039674198
+                            ],
+                            [
+                                0.622247952585026,
+                                10.25137143695066
+                            ],
+                            [
+                                0.60434802859313,
+                                10.25011494410272
+                            ],
+                            [
+                                0.531884451691843,
+                                10.27906432389102
+                            ],
+                            [
+                                0.495640910360595,
+                                10.27780828912658
+                            ],
+                            [
+                                0.466626172141101,
+                                10.29123940405326
+                            ],
+                            [
+                                0.46320271214141,
+                                10.30341180985112
+                            ],
+                            [
+                                0.469123024510261,
+                                10.35967742546896
+                            ],
+                            [
+                                0.405511472553851,
+                                10.44117873399072
+                            ],
+                            [
+                                0.393128259265732,
+                                10.46635249052026
+                            ],
+                            [
+                                0.371784999699007,
+                                10.48481284131108
+                            ],
+                            [
+                                0.310304193921833,
+                                10.549714935298338
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c3f1b680-2aaf-4b0f-8592-9032ed5c5358",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "321cef9b-4a72-433b-af14-43bf661771c5",
+                    "end": "48855bfb-0454-4eb7-8b8d-2262959eaf68",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.310304192547731,
+                                10.549714936748908
+                            ],
+                            [
+                                0.301049216666149,
+                                10.55948493418019
+                            ],
+                            [
+                                0.27629269115759,
+                                10.56827040566502
+                            ],
+                            [
+                                0.254083025363841,
+                                10.59132896799413
+                            ],
+                            [
+                                0.251936399230382,
+                                10.60517941960389
+                            ],
+                            [
+                                0.227599439597068,
+                                10.61355054369783
+                            ],
+                            [
+                                0.210064805790959,
+                                10.64041099572648
+                            ],
+                            [
+                                0.206125533626325,
+                                10.67425258518891
+                            ],
+                            [
+                                0.209527770259317,
+                                10.69020161637344
+                            ],
+                            [
+                                0.193259892297824,
+                                10.73844544632258
+                            ],
+                            [
+                                0.203513551605876,
+                                10.76633702916077
+                            ],
+                            [
+                                0.196205657357928,
+                                10.80658998156535
+                            ],
+                            [
+                                0.203402854608599,
+                                10.8611189813384
+                            ],
+                            [
+                                0.199113890301751,
+                                10.87789154805875
+                            ],
+                            [
+                                0.197826722715844,
+                                10.88334310470651
+                            ],
+                            [
+                                0.179874614013945,
+                                10.8921579020373
+                            ],
+                            [
+                                0.147383150185717,
+                                10.91769864628893
+                            ],
+                            [
+                                0.13368640841457,
+                                10.93906730868037
+                            ],
+                            [
+                                0.143016899128875,
+                                10.98688954969958
+                            ],
+                            [
+                                0.134843395901169,
+                                11.02631102131678
+                            ],
+                            [
+                                0.109606873166495,
+                                11.04138366482238
+                            ],
+                            [
+                                0.096758805302503,
+                                11.05647586544054
+                            ],
+                            [
+                                0.069786188144024,
+                                11.07701295478817
+                            ],
+                            [
+                                0.051368650300333,
+                                11.09042955591532
+                            ],
+                            [
+                                0.02611588970625,
+                                11.09628270034113
+                            ],
+                            [
+                                0.020511110457656,
+                                11.097247577897392
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "7dd0c1ee-c62c-49b2-a2b9-1f8a87ddf851",
+                    "name": "Main Backbone",
+                    "pointNames": "Anie, Barkoassi, Cinkassé, Kante, Kpele, Niamtogou, Notse, Sokode, Sotouboua, Bafilo, Tsevie",
+                    "start": "48855bfb-0454-4eb7-8b8d-2262959eaf68",
+                    "end": "5470030f-4af5-4669-adc0-37663ed4c6d4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.020511108488493,
+                                11.097247578236388
+                            ],
+                            [
+                                0.018838921131903,
+                                11.09753544970798
+                            ],
+                            [
+                                0.014108971766295,
+                                11.10635345902384
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "7d138320-240e-4da6-a68f-4821a00d2ad4",
+                    "name": "Coast",
+                    "pointNames": "Aneho, Lome, Aklakou",
+                    "start": "bea02e6b-952d-4a8a-bc63-10ea900eedac",
+                    "end": "f07310f8-c37d-4b19-8480-bc98604da757",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.222100892955047,
+                                6.141927657721366
+                            ],
+                            [
+                                1.289983143642608,
+                                6.154247304157228
+                            ],
+                            [
+                                1.35917250385643,
+                                6.175182174448167
+                            ],
+                            [
+                                1.391462783404418,
+                                6.185729516170489
+                            ],
+                            [
+                                1.413606366751474,
+                                6.207963802205547
+                            ],
+                            [
+                                1.443984310869832,
+                                6.210264661081093
+                            ],
+                            [
+                                1.47283103140782,
+                                6.209767091862828
+                            ],
+                            [
+                                1.487312461274584,
+                                6.2219219102212
+                            ],
+                            [
+                                1.52748775538837,
+                                6.225153636893029
+                            ],
+                            [
+                                1.583495985928226,
+                                6.226947674524522
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "237cb8fb-4714-48a4-b7a5-eb4a8eecb25d",
+                    "name": "Coast",
+                    "pointNames": "Aneho, Lome, Aklakou",
+                    "start": "f07310f8-c37d-4b19-8480-bc98604da757",
+                    "end": "b41be020-79f4-41fa-965f-d48e999a5cb4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.583495987925084,
+                                6.226947674588484
+                            ],
+                            [
+                                1.583865066151031,
+                                6.226959496783542
+                            ],
+                            [
+                                1.61492337356669,
+                                6.240590399114292
+                            ],
+                            [
+                                1.638745130085952,
+                                6.282103854808159
+                            ],
+                            [
+                                1.666693318731849,
+                                6.300958575478242
+                            ],
+                            [
+                                1.70198805147423,
+                                6.327844329667935
+                            ],
+                            [
+                                1.713026517314763,
+                                6.344360307740146
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e4d5899e-4cab-4287-8431-ca8565233c41",
+                    "name": "Ghana Loop",
+                    "pointNames": "Agou, Amlame, Keve, Kpalime",
+                    "start": "061f3c50-7812-4e5d-a9b7-fcdf587ebdb2",
+                    "end": "c63d0fb5-4012-483c-9892-990f9f55136d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.212348222284196,
+                                6.140879034944887
+                            ],
+                            [
+                                1.209046856968994,
+                                6.139821247056815
+                            ],
+                            [
+                                1.20157567440681,
+                                6.149646779986712
+                            ],
+                            [
+                                1.201802733588835,
+                                6.166281712184825
+                            ],
+                            [
+                                1.198377124783858,
+                                6.169591879652241
+                            ],
+                            [
+                                1.170328818273941,
+                                6.181299044561092
+                            ],
+                            [
+                                1.125620439748596,
+                                6.220150119948469
+                            ],
+                            [
+                                1.082642528036515,
+                                6.241686130661535
+                            ],
+                            [
+                                1.05821798542497,
+                                6.241136883706279
+                            ],
+                            [
+                                1.035819865068466,
+                                6.261152630266944
+                            ],
+                            [
+                                1.016879642963037,
+                                6.306601070716526
+                            ],
+                            [
+                                0.985199373949228,
+                                6.376773887704297
+                            ],
+                            [
+                                0.927515853084238,
+                                6.429923370499042
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "36841f43-bec2-4b9d-a412-756fed4d08de",
+                    "name": "Ghana Loop",
+                    "pointNames": "Agou, Amlame, Keve, Kpalime",
+                    "start": "c63d0fb5-4012-483c-9892-990f9f55136d",
+                    "end": "bfd56571-c63a-49fa-b85c-6e3f5608febd",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.927515851615124,
+                                6.429923371852681
+                            ],
+                            [
+                                0.927141684841195,
+                                6.430268128383057
+                            ],
+                            [
+                                0.913624671995151,
+                                6.451211393831646
+                            ],
+                            [
+                                0.754008744063951,
+                                6.462130853734155
+                            ],
+                            [
+                                0.913991701768107,
+                                6.451322165462185
+                            ],
+                            [
+                                0.907450725233898,
+                                6.465752930488668
+                            ],
+                            [
+                                0.896657930731846,
+                                6.501689672736378
+                            ],
+                            [
+                                0.884731783680611,
+                                6.539619683709159
+                            ],
+                            [
+                                0.88328873717246,
+                                6.55391612848061
+                            ],
+                            [
+                                0.895543717357767,
+                                6.569748253887265
+                            ],
+                            [
+                                0.851445574589176,
+                                6.65632058315431
+                            ],
+                            [
+                                0.826127966151388,
+                                6.703296045940612
+                            ],
+                            [
+                                0.806213125493075,
+                                6.770227693807205
+                            ],
+                            [
+                                0.780101502165028,
+                                6.810418688020112
+                            ],
+                            [
+                                0.755705882702745,
+                                6.834094022553245
+                            ],
+                            [
+                                0.716143862832603,
+                                6.848623684502345
+                            ],
+                            [
+                                0.715968882835146,
+                                6.849085151656855
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e4ac3d24-5a3c-4f9f-855e-99073927736c",
+                    "name": "Ghana Loop",
+                    "pointNames": "Agou, Amlame, Keve, Kpalime",
+                    "start": "bfd56571-c63a-49fa-b85c-6e3f5608febd",
+                    "end": "7e828e1a-e98d-4690-9350-3cb58b8e1a5e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.715968882126776,
+                                6.849085153525008
+                            ],
+                            [
+                                0.709706638647645,
+                                6.865600296519414
+                            ],
+                            [
+                                0.639230598988465,
+                                6.882500652225873
+                            ],
+                            [
+                                0.633850282321011,
+                                6.898173302933615
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "963c9c6d-00a6-4481-9f5c-3b1e53817aab",
+                    "name": "Ghana Loop",
+                    "pointNames": "Agou, Amlame, Keve, Kpalime",
+                    "start": "7e828e1a-e98d-4690-9350-3cb58b8e1a5e",
+                    "end": "9ed5a6fd-37a1-453f-b888-8c4fa4e0b6c2",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.633850281672352,
+                                6.898173304823133
+                            ],
+                            [
+                                0.631110086074576,
+                                6.906155386757943
+                            ],
+                            [
+                                0.62624505461174,
+                                6.964230041734927
+                            ],
+                            [
+                                0.640335418530681,
+                                6.983597355910474
+                            ],
+                            [
+                                0.643048442060274,
+                                6.995434143549775
+                            ],
+                            [
+                                0.686461271686173,
+                                7.031206981969468
+                            ],
+                            [
+                                0.712472259854434,
+                                7.08657225045991
+                            ],
+                            [
+                                0.737427507851772,
+                                7.16775268871015
+                            ],
+                            [
+                                0.778653339435204,
+                                7.200562278108279
+                            ],
+                            [
+                                0.790610921649442,
+                                7.228542728739051
+                            ],
+                            [
+                                0.803691913971959,
+                                7.280227689821909
+                            ],
+                            [
+                                0.850522015425833,
+                                7.343799103618283
+                            ],
+                            [
+                                0.903199411551893,
+                                7.461533031436663
+                            ],
+                            [
+                                0.903589616009874,
+                                7.461726304387749
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "d1664771-da11-475f-903e-f04652183662",
+                    "name": "Ghana Loop",
+                    "pointNames": "Agou, Amlame, Keve, Kpalime",
+                    "start": "9ed5a6fd-37a1-453f-b888-8c4fa4e0b6c2",
+                    "end": "dc909924-d337-43da-ad21-92271c0d4f9a",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.903589617800212,
+                                7.461726305274524
+                            ],
+                            [
+                                0.972700741940249,
+                                7.495957874499803
+                            ],
+                            [
+                                1.019982879198995,
+                                7.513726111078476
+                            ],
+                            [
+                                1.091246853231146,
+                                7.52936716224424
+                            ],
+                            [
+                                1.111945699752274,
+                                7.535305549699066
+                            ],
+                            [
+                                1.14365484209062,
+                                7.516056040015307
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "53615c2c-b4a0-4557-8d82-2f49afe8182b",
+                    "name": "Untitled Path",
+                    "pointNames": "Dapaong, Tandjouare",
+                    "start": "5470030f-4af5-4669-adc0-37663ed4c6d4",
+                    "end": "dccc596f-890b-4e56-a0e1-99a6f55f174e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.014108971766295,
+                                11.10635345902384
+                            ],
+                            [
+                                0.048696219357041,
+                                11.09822987813319
+                            ],
+                            [
+                                0.074479245820434,
+                                11.08051655156298
+                            ],
+                            [
+                                0.108923244282473,
+                                11.05644180961533
+                            ],
+                            [
+                                0.13893232082199,
+                                11.03084717414081
+                            ],
+                            [
+                                0.146999350883903,
+                                10.99543903360852
+                            ],
+                            [
+                                0.145491957970711,
+                                10.98003830681943
+                            ],
+                            [
+                                0.137017135567144,
+                                10.94076187416205
+                            ],
+                            [
+                                0.151054383370197,
+                                10.91925375779889
+                            ],
+                            [
+                                0.17102241192182,
+                                10.90379256558652
+                            ],
+                            [
+                                0.198818103488712,
+                                10.88702595068412
+                            ],
+                            [
+                                0.206431411579711,
+                                10.8707413214133
+                            ],
+                            [
+                                0.2070471681339,
+                                10.867611404384144
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "212b71c4-3ca6-491e-8da6-e54276266ebe",
+                    "name": "Untitled Path",
+                    "pointNames": "Dapaong, Tandjouare",
+                    "start": "dccc596f-890b-4e56-a0e1-99a6f55f174e",
+                    "end": "fef82598-8407-4541-bb76-bdc387340a4e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.207047168519926,
+                                10.867611402421959
+                            ],
+                            [
+                                0.20857044321275,
+                                10.85986853169048
+                            ],
+                            [
+                                0.199380317042204,
+                                10.80754946836459
+                            ],
+                            [
+                                0.207055584740568,
+                                10.76656506295964
+                            ],
+                            [
+                                0.196633230802099,
+                                10.7388401957077
+                            ],
+                            [
+                                0.212397250079441,
+                                10.69175722006101
+                            ],
+                            [
+                                0.209204408904253,
+                                10.67338004640485
+                            ],
+                            [
+                                0.210658509026242,
+                                10.65903312322907
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "5b875b1f-f6c6-4025-87bb-07411104c363",
+                    "name": "Untitled Path",
+                    "pointNames": "Korbongou, Ponio",
+                    "start": "03c4c90d-3dd1-4b8e-bb86-d7c41f21846e",
+                    "end": "36dc9546-9bbd-4189-8032-7bb204d2735a",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.20569416929449,
+                                10.87312986575865
+                            ],
+                            [
+                                0.252869676219452,
+                                10.88551286285157
+                            ],
+                            [
+                                0.27388144801251,
+                                10.88952262974272
+                            ],
+                            [
+                                0.300879979067541,
+                                10.90706432168427
+                            ],
+                            [
+                                0.317080916900898,
+                                10.91107745511797
+                            ],
+                            [
+                                0.318893404474231,
+                                10.91079032458524
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "d239ee15-df8f-4a2f-9d05-8df5585c1237",
+                    "name": "Untitled Path",
+                    "pointNames": "Korbongou, Ponio",
+                    "start": "36dc9546-9bbd-4189-8032-7bb204d2735a",
+                    "end": "3598d1bd-ced3-46c4-a753-34533e1180cb",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.318893406447314,
+                                10.910790324272666
+                            ],
+                            [
+                                0.356855263971259,
+                                10.90477648531745
+                            ],
+                            [
+                                0.386891143933377,
+                                10.92956102689195
+                            ],
+                            [
+                                0.421517775463365,
+                                10.944036158245
+                            ],
+                            [
+                                0.446443010458362,
+                                10.95532063528179
+                            ],
+                            [
+                                0.478787713122983,
+                                10.96704683102209
+                            ],
+                            [
+                                0.496821003622359,
+                                10.9719153064546
+                            ],
+                            [
+                                0.505484936570217,
+                                10.97476844531539
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "6b31c866-34d4-4616-8895-638eeb5e262d",
+                    "name": "Lool",
+                    "pointNames": "Mandouri, Naki-Est",
+                    "start": "735df260-aa92-4a44-a6be-0b220cdcdae3",
+                    "end": "143b98d3-e4b2-4ab7-ae85-ae749ad68588",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.816321823468387,
+                                10.848767013942616
+                            ],
+                            [
+                                0.780168057598851,
+                                10.86004562087187
+                            ],
+                            [
+                                0.754639062298403,
+                                10.86457784750197
+                            ],
+                            [
+                                0.741871509616132,
+                                10.86786293738293
+                            ],
+                            [
+                                0.715882250437434,
+                                10.88281255420142
+                            ],
+                            [
+                                0.702706694913031,
+                                10.88391952340917
+                            ],
+                            [
+                                0.671601101991921,
+                                10.88739362863605
+                            ],
+                            [
+                                0.648194134652422,
+                                10.88635907382967
+                            ],
+                            [
+                                0.627022301314186,
+                                10.88631818517991
+                            ],
+                            [
+                                0.619670160513102,
+                                10.88489129854602
+                            ],
+                            [
+                                0.611641354490382,
+                                10.87230366567059
+                            ],
+                            [
+                                0.602885959367316,
+                                10.85375955487396
+                            ],
+                            [
+                                0.591085690692277,
+                                10.80103677900465
+                            ],
+                            [
+                                0.582864888707029,
+                                10.77827708029087
+                            ],
+                            [
+                                0.576542741616646,
+                                10.76354426358936
+                            ],
+                            [
+                                0.567297144299963,
+                                10.75154461868652
+                            ],
+                            [
+                                0.547174529757752,
+                                10.74362485253046
+                            ],
+                            [
+                                0.512374466280001,
+                                10.74496997229735
+                            ],
+                            [
+                                0.477080834243366,
+                                10.7422328250616
+                            ],
+                            [
+                                0.438378070502636,
+                                10.74391407916874
+                            ],
+                            [
+                                0.404892045097818,
+                                10.74022883277579
+                            ],
+                            [
+                                0.383730049701623,
+                                10.72836076255114
+                            ],
+                            [
+                                0.368822390287562,
+                                10.72374244748485
+                            ],
+                            [
+                                0.361238142152787,
+                                10.724654826416613
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cdd8e4cc-f3fb-48ae-9dbc-8dd17246b9f3",
+                    "name": "Lool",
+                    "pointNames": "Mandouri, Naki-Est",
+                    "start": "143b98d3-e4b2-4ab7-ae85-ae749ad68588",
+                    "end": "e0b48934-9168-4591-9ce8-50cdf9f59c7c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.361238140168743,
+                                10.724654826655291
+                            ],
+                            [
+                                0.356010285472648,
+                                10.72528373335748
+                            ],
+                            [
+                                0.343668043257601,
+                                10.72596346024391
+                            ],
+                            [
+                                0.345465534150111,
+                                10.73102686074869
+                            ],
+                            [
+                                0.355616718477894,
+                                10.74492362169394
+                            ],
+                            [
+                                0.35956975685405,
+                                10.75711242698002
+                            ],
+                            [
+                                0.360751340540883,
+                                10.77082559276872
+                            ],
+                            [
+                                0.36250424023492,
+                                10.77607020274061
+                            ],
+                            [
+                                0.360543676227478,
+                                10.78618309206731
+                            ],
+                            [
+                                0.36292286799136,
+                                10.80509227254556
+                            ],
+                            [
+                                0.371085939481604,
+                                10.82417684061417
+                            ],
+                            [
+                                0.370413581702591,
+                                10.83180397801675
+                            ],
+                            [
+                                0.362153778623848,
+                                10.84342445102528
+                            ],
+                            [
+                                0.35698045266503,
+                                10.85317950248419
+                            ],
+                            [
+                                0.356312007182784,
+                                10.85621353433992
+                            ],
+                            [
+                                0.354836194232138,
+                                10.85624645266262
+                            ],
+                            [
+                                0.353557575601144,
+                                10.85754630643659
+                            ],
+                            [
+                                0.348686168280037,
+                                10.86235871327474
+                            ],
+                            [
+                                0.345962748069388,
+                                10.86630838356179
+                            ],
+                            [
+                                0.343051983686804,
+                                10.86952681653487
+                            ],
+                            [
+                                0.341549521102058,
+                                10.87396396441725
+                            ],
+                            [
+                                0.340952507948424,
+                                10.87563055145121
+                            ],
+                            [
+                                0.335480564739738,
+                                10.88191653557814
+                            ],
+                            [
+                                0.332591783868985,
+                                10.88470391459541
+                            ],
+                            [
+                                0.332212935813718,
+                                10.89086142176482
+                            ],
+                            [
+                                0.333364884576377,
+                                10.89713957063377
+                            ],
+                            [
+                                0.330791046310419,
+                                10.90512023885954
+                            ],
+                            [
+                                0.330194344806571,
+                                10.90901355874915
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a690d0ad-2051-4636-996a-68728186f598",
+                    "name": "Mango",
+                    "pointNames": "Tchanaga",
+                    "start": "09eaecb0-3882-49e4-8afe-8727e900e58a",
+                    "end": "77328fff-85e0-4048-a478-6e3ff1b5bab7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.470012443618017,
+                                10.36039452534305
+                            ],
+                            [
+                                0.474194874031579,
+                                10.37652905553916
+                            ],
+                            [
+                                0.47794466740293,
+                                10.39919129575854
+                            ],
+                            [
+                                0.483529472557804,
+                                10.42745333154591
+                            ],
+                            [
+                                0.481010805943913,
+                                10.45097971210328
+                            ],
+                            [
+                                0.484675905696725,
+                                10.46528610170108
+                            ],
+                            [
+                                0.492830894457963,
+                                10.47379594806435
+                            ],
+                            [
+                                0.49217892706821,
+                                10.492371963130307
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c775aab7-0716-48a8-9e2b-8269ad07f7de",
+                    "name": "Mango",
+                    "pointNames": "Tchanaga",
+                    "start": "77328fff-85e0-4048-a478-6e3ff1b5bab7",
+                    "end": "4c8253d2-e196-462e-9c89-d78f1e77b49c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.492178926998137,
+                                10.492371965126864
+                            ],
+                            [
+                                0.49208303501479,
+                                10.49510414307833
+                            ],
+                            [
+                                0.491032495768175,
+                                10.51582658285995
+                            ],
+                            [
+                                0.497918012771899,
+                                10.53337184602504
+                            ],
+                            [
+                                0.498768838102368,
+                                10.54819979268159
+                            ],
+                            [
+                                0.512280037143231,
+                                10.57764343268176
+                            ],
+                            [
+                                0.523027798595495,
+                                10.6032295788165
+                            ],
+                            [
+                                0.523684159292868,
+                                10.61818356472207
+                            ],
+                            [
+                                0.525374630760775,
+                                10.62374670260273
+                            ],
+                            [
+                                0.521350241299379,
+                                10.63464967240164
+                            ],
+                            [
+                                0.533654452058061,
+                                10.6636517372652
+                            ],
+                            [
+                                0.540336694152399,
+                                10.68069011393916
+                            ],
+                            [
+                                0.543863195164367,
+                                10.69298960818843
+                            ],
+                            [
+                                0.552229639401773,
+                                10.71534495401672
+                            ],
+                            [
+                                0.562760025151479,
+                                10.73565683153078
+                            ],
+                            [
+                                0.56032652988812,
+                                10.74859290222563
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ad6be01b-5539-450c-9e63-6a88c41ffbe8",
+                    "name": "Mango - Bandjeli",
+                    "pointNames": "Bandjeli, Guerin-Kouka, Mango, Sadori, Takpamba",
+                    "start": "569cbabb-14e1-42b8-b0a8-8bde9c5f703f",
+                    "end": "2dfb1c5b-2f64-4c23-b61f-1f25c3fd6ad7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.469917076363797,
+                                10.352365962920924
+                            ],
+                            [
+                                0.46888464381603,
+                                10.30223363305577
+                            ],
+                            [
+                                0.467038893966874,
+                                10.288991370920064
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0b90d338-0392-4958-93bb-cb3cbe13d8d0",
+                    "name": "Mango - Bandjeli",
+                    "pointNames": "Bandjeli, Guerin-Kouka, Mango, Sadori, Takpamba",
+                    "start": "2dfb1c5b-2f64-4c23-b61f-1f25c3fd6ad7",
+                    "end": "7057aa81-284b-4be0-a3de-5c5229b344e8",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.467038893691098,
+                                10.288991368941522
+                            ],
+                            [
+                                0.465404108992318,
+                                10.27726266825839
+                            ],
+                            [
+                                0.459162074769295,
+                                10.21278642444389
+                            ],
+                            [
+                                0.448165393760025,
+                                10.15727291068337
+                            ],
+                            [
+                                0.451547726516119,
+                                10.05904463872073
+                            ],
+                            [
+                                0.473610445303587,
+                                10.0038160799628
+                            ],
+                            [
+                                0.490053864654589,
+                                9.99607081572622
+                            ],
+                            [
+                                0.527161463438295,
+                                9.989904195630016
+                            ],
+                            [
+                                0.553698789698531,
+                                9.979815850244487
+                            ],
+                            [
+                                0.572528638945908,
+                                9.969409166234566
+                            ],
+                            [
+                                0.572510162039452,
+                                9.967513828629341
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "37170acb-b2de-4c60-b7d0-1b437b4f05d0",
+                    "name": "Mango - Bandjeli",
+                    "pointNames": "Bandjeli, Guerin-Kouka, Mango, Sadori, Takpamba",
+                    "start": "7057aa81-284b-4be0-a3de-5c5229b344e8",
+                    "end": "014d2edf-b485-4635-b2ba-8903a83235db",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.572510162019965,
+                                9.9675138266303
+                            ],
+                            [
+                                0.572317531925544,
+                                9.947754076115421
+                            ],
+                            [
+                                0.570552709616732,
+                                9.895315156745452
+                            ],
+                            [
+                                0.572525405972319,
+                                9.874608239354107
+                            ],
+                            [
+                                0.607042728008491,
+                                9.806699147208295
+                            ],
+                            [
+                                0.609532018369952,
+                                9.687637124711058
+                            ],
+                            [
+                                0.611244980262547,
+                                9.684003398908132
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e6fa089f-0795-482e-86bf-111060649ce3",
+                    "name": "Mango - Bandjeli",
+                    "pointNames": "Bandjeli, Guerin-Kouka, Mango, Sadori, Takpamba",
+                    "start": "014d2edf-b485-4635-b2ba-8903a83235db",
+                    "end": "2446dcc1-6dde-463b-bb83-1c3d3527ed82",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.611244981114326,
+                                9.684003397101243
+                            ],
+                            [
+                                0.660141970113592,
+                                9.580277650848469
+                            ],
+                            [
+                                0.700067522490728,
+                                9.566488739730763
+                            ],
+                            [
+                                0.772683307776862,
+                                9.494650488155767
+                            ],
+                            [
+                                0.808197754302511,
+                                9.457716383814754
+                            ],
+                            [
+                                0.754004216034145,
+                                9.446384452165194
+                            ],
+                            [
+                                0.70148317566987,
+                                9.438081172674018
+                            ],
+                            [
+                                0.622398741979707,
+                                9.421634287639176
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0f96a696-47b9-4c6a-8b4c-73000503c3fd",
+                    "name": "Djarkpanga",
+                    "pointNames": "Djarkpanga",
+                    "start": "dfce3662-fde7-437b-a36b-a80bca61e45b",
+                    "end": "b72c3c63-afdf-4f2a-9637-4ba1d2241211",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.806822213162859,
+                                9.455705675387195
+                            ],
+                            [
+                                0.809371279946711,
+                                9.435433240267086
+                            ],
+                            [
+                                0.801960417846483,
+                                9.403772619971054
+                            ],
+                            [
+                                0.799095161220422,
+                                9.39092417823555
+                            ],
+                            [
+                                0.780574771734561,
+                                9.345294792507252
+                            ],
+                            [
+                                0.777453031655464,
+                                9.310621285968487
+                            ],
+                            [
+                                0.77707974734778,
+                                9.263747076071086
+                            ],
+                            [
+                                0.771983568955776,
+                                9.252514649817149
+                            ],
+                            [
+                                0.76613998092917,
+                                9.229534687655509
+                            ],
+                            [
+                                0.771727844939634,
+                                9.211309399753016
+                            ],
+                            [
+                                0.771694803638119,
+                                9.210932223585266
+                            ],
+                            [
+                                0.750179286768469,
+                                9.162175046541078
+                            ],
+                            [
+                                0.737037785119425,
+                                9.141107314073212
+                            ],
+                            [
+                                0.712536896374527,
+                                9.106925594248517
+                            ],
+                            [
+                                0.704656236449337,
+                                9.091854443981152
+                            ],
+                            [
+                                0.695053122820919,
+                                9.086618787215265
+                            ],
+                            [
+                                0.691579362795569,
+                                9.056055443349518
+                            ],
+                            [
+                                0.698414719792404,
+                                9.037995973022516
+                            ],
+                            [
+                                0.686656480331993,
+                                8.995731112194619
+                            ],
+                            [
+                                0.670413013167599,
+                                8.938000722864414
+                            ],
+                            [
+                                0.654272767704311,
+                                8.881217417990676
+                            ],
+                            [
+                                0.666107830486726,
+                                8.78217610546578
+                            ],
+                            [
+                                0.671894830824138,
+                                8.77192818373785
+                            ],
+                            [
+                                0.63745695170687,
+                                8.781458256949335
+                            ],
+                            [
+                                0.600190187987173,
+                                8.788325737549624
+                            ],
+                            [
+                                0.56497618412981,
+                                8.783378267699366
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b8acf6e4-bd2a-437e-b4e8-9aaf8a2c791a",
+                    "name": "Kabou - Kemerida",
+                    "pointNames": "Kemerida, Ketao",
+                    "start": "dfce3662-fde7-437b-a36b-a80bca61e45b",
+                    "end": "f4f84573-dad7-41bf-8f81-dcfcf55bf0de",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.806822213162859,
+                                9.455705675387195
+                            ],
+                            [
+                                0.919193622568344,
+                                9.497750257248244
+                            ],
+                            [
+                                0.984058254324736,
+                                9.489194177736772
+                            ],
+                            [
+                                1.021861318084989,
+                                9.514325551929883
+                            ],
+                            [
+                                1.052405660362039,
+                                9.51908018363428
+                            ],
+                            [
+                                1.062413655203434,
+                                9.48772691616755
+                            ],
+                            [
+                                1.131643905795179,
+                                9.482492795964962
+                            ],
+                            [
+                                1.173272962982148,
+                                9.517564752929074
+                            ],
+                            [
+                                1.189803577650057,
+                                9.54542909570473
+                            ],
+                            [
+                                1.217256976374559,
+                                9.561420416886481
+                            ],
+                            [
+                                1.239868297563873,
+                                9.59799549239484
+                            ],
+                            [
+                                1.26108251403785,
+                                9.649900084039842
+                            ],
+                            [
+                                1.309784299265526,
+                                9.658284447275205
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "fbc04b89-53a2-4224-9dac-87a81f31377e",
+                    "name": "Kabou - Kemerida",
+                    "pointNames": "Kemerida, Ketao",
+                    "start": "f4f84573-dad7-41bf-8f81-dcfcf55bf0de",
+                    "end": "86887ead-a5b2-4314-83f3-8f0e3c047836",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.309784301234688,
+                                9.65828444761421
+                            ],
+                            [
+                                1.313601829023066,
+                                9.658941662529212
+                            ],
+                            [
+                                1.335194066701022,
+                                9.657703923591916
+                            ],
+                            [
+                                1.360376107986334,
+                                9.67057917484411
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f39395af-473a-4a60-8fea-40829999959d",
+                    "name": "Ketao - Pagouda",
+                    "pointNames": "Pagouda",
+                    "start": "7db75208-5fb0-4a2e-b9a0-a97d0f82bbd9",
+                    "end": "1b24720e-989b-4373-80d6-2f0c76d112d3",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.316241351490781,
+                                9.660735322799244
+                            ],
+                            [
+                                1.312201616119641,
+                                9.695044225211088
+                            ],
+                            [
+                                1.284948474438088,
+                                9.71815640039718
+                            ],
+                            [
+                                1.326122697528454,
+                                9.753692162292289
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "20b1edc9-5250-4bf7-aea1-6f9cf0008a0f",
+                    "name": "Kara - Kante",
+                    "pointNames": "",
+                    "start": "23ea3124-3fca-4eca-bf85-720fd3f9e0f4",
+                    "end": "ba25a4aa-741a-47b6-97bb-19148a912d69",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.181526581211598,
+                                9.541852227734335
+                            ],
+                            [
+                                1.146771146403647,
+                                9.604642732574861
+                            ],
+                            [
+                                1.133461932061151,
+                                9.636745927306569
+                            ],
+                            [
+                                1.133666451236026,
+                                9.65744115211689
+                            ],
+                            [
+                                1.122343457716624,
+                                9.68667559616324
+                            ],
+                            [
+                                1.096492220295489,
+                                9.76880316975102
+                            ],
+                            [
+                                1.072708929846355,
+                                9.823298542803
+                            ],
+                            [
+                                1.069069109234884,
+                                9.841495508111562
+                            ],
+                            [
+                                1.085882987936841,
+                                9.861669554733398
+                            ],
+                            [
+                                1.083711324384415,
+                                9.919952386979325
+                            ],
+                            [
+                                1.0480960243778,
+                                9.95186545906872
+                            ],
+                            [
+                                1.041564741603327,
+                                9.957809724762614
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cfabdbae-ed9d-48a7-b493-272399186dea",
+                    "name": "to Kambole",
+                    "pointNames": "Paratao, Kambole, Passoua, Tchamba",
+                    "start": "23ea3124-3fca-4eca-bf85-720fd3f9e0f4",
+                    "end": "cc1d287d-83f4-4e62-9635-4681b0769309",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.181526581211598,
+                                9.541852227734335
+                            ],
+                            [
+                                1.200766158787441,
+                                9.517829094536049
+                            ],
+                            [
+                                1.20233586672881,
+                                9.49633477928565
+                            ],
+                            [
+                                1.201818430154982,
+                                9.450029751153382
+                            ],
+                            [
+                                1.237841620632856,
+                                9.351479598016363
+                            ],
+                            [
+                                1.294568260123021,
+                                9.357554242221193
+                            ],
+                            [
+                                1.36227564858123,
+                                9.358558266439323
+                            ],
+                            [
+                                1.402082659953574,
+                                9.360016154554664
+                            ],
+                            [
+                                1.422353670984102,
+                                9.3184489310172
+                            ],
+                            [
+                                1.370347946531969,
+                                9.257389268396915
+                            ],
+                            [
+                                1.342904459854071,
+                                9.218055797099147
+                            ],
+                            [
+                                1.306353536191545,
+                                9.074514638732863
+                            ],
+                            [
+                                1.292552594273717,
+                                9.05461033933886
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "34073dee-db64-4ede-ba95-0076f6ae82bc",
+                    "name": "to Kambole",
+                    "pointNames": "Paratao, Kambole, Passoua, Tchamba",
+                    "start": "cc1d287d-83f4-4e62-9635-4681b0769309",
+                    "end": "cb576151-f526-4ea8-8fea-d0a14b58ac29",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.292552593134916,
+                                9.054610337696433
+                            ],
+                            [
+                                1.290993074136182,
+                                9.052361133747437
+                            ],
+                            [
+                                1.276508631466411,
+                                9.042130694069012
+                            ],
+                            [
+                                1.205799326571892,
+                                9.032538410578013
+                            ],
+                            [
+                                1.138333739510928,
+                                8.982720145130038
+                            ],
+                            [
+                                1.172321975547028,
+                                8.958303920579265
+                            ],
+                            [
+                                1.212865042239489,
+                                8.954343231677848
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a33619ab-8a47-4664-b2a3-325e714697df",
+                    "name": "to Kambole",
+                    "pointNames": "Paratao, Kambole, Passoua, Tchamba",
+                    "start": "cb576151-f526-4ea8-8fea-d0a14b58ac29",
+                    "end": "10dd51a8-fdaf-4db8-84a8-dbf7df4a4d67",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.212865044229936,
+                                8.9543432314834
+                            ],
+                            [
+                                1.214471364075891,
+                                8.954186308642948
+                            ],
+                            [
+                                1.28541503062767,
+                                8.957112780701305
+                            ],
+                            [
+                                1.323608479677318,
+                                8.980397192107835
+                            ],
+                            [
+                                1.379033848736555,
+                                9.017457874447436
+                            ],
+                            [
+                                1.42033289408609,
+                                9.026176766381575
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "31b65b11-b48f-4a87-9f2e-e161c44dc05e",
+                    "name": "to Kambole",
+                    "pointNames": "Paratao, Kambole, Passoua, Tchamba",
+                    "start": "10dd51a8-fdaf-4db8-84a8-dbf7df4a4d67",
+                    "end": "6b488f69-c0c0-4436-8ef2-e96cc8005476",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.420332896041965,
+                                9.02617676679449
+                            ],
+                            [
+                                1.424561583789707,
+                                9.027069510711057
+                            ],
+                            [
+                                1.48164962562858,
+                                8.999910873298864
+                            ],
+                            [
+                                1.520008837549638,
+                                8.95562130842018
+                            ],
+                            [
+                                1.51980490738806,
+                                8.837517279361965
+                            ],
+                            [
+                                1.55095234399089,
+                                8.771137918125268
+                            ],
+                            [
+                                1.595152055102074,
+                                8.749052874158858
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "2cd61039-a91d-436e-b7cd-6261b5f935f9",
+                    "name": "via Goubi",
+                    "pointNames": "Nyamassila, Goubi, Koussountou, Moretan?",
+                    "start": "4efb238a-9f28-464a-9ab6-2d4cffdf91d7",
+                    "end": "2fccaef5-de91-4e69-9225-4a8e858ca71b",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.516787547659287,
+                                8.832685417640427
+                            ],
+                            [
+                                1.503587063325647,
+                                8.81157325094949
+                            ],
+                            [
+                                1.503378080844666,
+                                8.811370447296463
+                            ],
+                            [
+                                1.487754624973998,
+                                8.791089973262393
+                            ],
+                            [
+                                1.480365236574588,
+                                8.763117002826508
+                            ],
+                            [
+                                1.47607459091768,
+                                8.751662186621814
+                            ],
+                            [
+                                1.474913574957488,
+                                8.722569474150832
+                            ],
+                            [
+                                1.47167965593086,
+                                8.702839569183672
+                            ],
+                            [
+                                1.468403197684724,
+                                8.693237985964549
+                            ],
+                            [
+                                1.461818038179175,
+                                8.68477606548572
+                            ],
+                            [
+                                1.464303320712546,
+                                8.667545933913873
+                            ],
+                            [
+                                1.466355167898457,
+                                8.653364926144851
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8c15e1cf-0ff2-44d5-98f3-3a0530190820",
+                    "name": "via Goubi",
+                    "pointNames": "Nyamassila, Goubi, Koussountou, Moretan?",
+                    "start": "2fccaef5-de91-4e69-9225-4a8e858ca71b",
+                    "end": "cd98af0a-f96a-4f2c-87e3-5b3465eee16c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.466355168184512,
+                                8.653364924167835
+                            ],
+                            [
+                                1.466481682883531,
+                                8.652490538423121
+                            ],
+                            [
+                                1.454228141837095,
+                                8.648004937140565
+                            ],
+                            [
+                                1.433581983832302,
+                                8.627158983678155
+                            ],
+                            [
+                                1.433437773834518,
+                                8.626589397814536
+                            ],
+                            [
+                                1.433149822297604,
+                                8.62616232611881
+                            ],
+                            [
+                                1.433275352527994,
+                                8.594545976381253
+                            ],
+                            [
+                                1.432988593437161,
+                                8.593981380138754
+                            ],
+                            [
+                                1.432845303533918,
+                                8.593840269510885
+                            ],
+                            [
+                                1.431090763692224,
+                                8.577785983599354
+                            ],
+                            [
+                                1.414705216867314,
+                                8.550523208551787
+                            ],
+                            [
+                                1.404187610148262,
+                                8.51764874533701
+                            ],
+                            [
+                                1.37988802285619,
+                                8.48019126383853
+                            ],
+                            [
+                                1.360444045624467,
+                                8.449032578428241
+                            ],
+                            [
+                                1.360444260670428,
+                                8.448890243121845
+                            ],
+                            [
+                                1.365212275624488,
+                                8.420531380571434
+                            ],
+                            [
+                                1.365511063729905,
+                                8.40488391949783
+                            ],
+                            [
+                                1.366013398963415,
+                                8.397458583101018
+                            ],
+                            [
+                                1.363151791754802,
+                                8.375272589768095
+                            ],
+                            [
+                                1.363140727081165,
+                                8.341465896252089
+                            ],
+                            [
+                                1.347292338418065,
+                                8.317357019730595
+                            ],
+                            [
+                                1.343707424169349,
+                                8.308551465596237
+                            ],
+                            [
+                                1.339395124605793,
+                                8.270129377022839
+                            ],
+                            [
+                                1.337801563567067,
+                                8.255034162203323
+                            ],
+                            [
+                                1.340551215003887,
+                                8.22962972210638
+                            ],
+                            [
+                                1.341245830163718,
+                                8.208376406794919
+                            ],
+                            [
+                                1.341532360230431,
+                                8.207807513153124
+                            ],
+                            [
+                                1.341532009425066,
+                                8.207523112578418
+                            ],
+                            [
+                                1.345939043556892,
+                                8.183144820176306
+                            ],
+                            [
+                                1.353432771578145,
+                                8.124700795292217
+                            ],
+                            [
+                                1.355245005442558,
+                                8.107405183144097
+                            ],
+                            [
+                                1.354884140122435,
+                                8.106319590915197
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "458aec25-4f3d-4733-b84a-8045a66ef023",
+                    "name": "via Goubi",
+                    "pointNames": "Nyamassila, Goubi, Koussountou, Moretan?",
+                    "start": "cd98af0a-f96a-4f2c-87e3-5b3465eee16c",
+                    "end": "87f0a74f-e405-48f9-b386-1d6e6c123e9e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.354884139492148,
+                                8.106319589019103
+                            ],
+                            [
+                                1.339692285610876,
+                                8.060617889253443
+                            ],
+                            [
+                                1.314067586667578,
+                                8.056689938725423
+                            ],
+                            [
+                                1.280742121298406,
+                                8.060412253162026
+                            ],
+                            [
+                                1.280564554400201,
+                                8.060412264258494
+                            ],
+                            [
+                                1.266686904082315,
+                                8.06474537674699
+                            ],
+                            [
+                                1.266331369014928,
+                                8.064656743243244
+                            ],
+                            [
+                                1.256699081178501,
+                                8.05900388293584
+                            ],
+                            [
+                                1.256611487093975,
+                                8.05891587118979
+                            ],
+                            [
+                                1.236024851059114,
+                                8.034993531203483
+                            ],
+                            [
+                                1.230276311937155,
+                                8.022555835337828
+                            ],
+                            [
+                                1.229982020863944,
+                                8.008916720207692
+                            ],
+                            [
+                                1.19070282759906,
+                                7.987208084684148
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3beb27d4-e5fd-4560-9cf0-37e21aeb0769",
+                    "name": "via Goubi",
+                    "pointNames": "Nyamassila, Goubi, Koussountou, Moretan?",
+                    "start": "87f0a74f-e405-48f9-b386-1d6e6c123e9e",
+                    "end": "2e7f56a0-156f-49e7-84b5-57bcdf11f09a",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.190702825849642,
+                                7.987208083717288
+                            ],
+                            [
+                                1.189646744219575,
+                                7.986624413603811
+                            ],
+                            [
+                                1.186028653475608,
+                                7.984888443107835
+                            ],
+                            [
+                                1.172430169105221,
+                                8.009893066465159
+                            ],
+                            [
+                                1.147102544624412,
+                                8.055015200186403
+                            ],
+                            [
+                                1.133512413047402,
+                                8.075827688280711
+                            ],
+                            [
+                                1.127039516584354,
+                                8.106455510492811
+                            ],
+                            [
+                                1.129570451463229,
+                                8.22299022352722
+                            ],
+                            [
+                                1.084009959224552,
+                                8.291833047091945
+                            ],
+                            [
+                                1.05636570803284,
+                                8.313155743656548
+                            ],
+                            [
+                                1.006967084904713,
+                                8.33550855038872
+                            ],
+                            [
+                                0.984862612192348,
+                                8.383732617026274
+                            ],
+                            [
+                                0.985932641397109,
+                                8.434694909320516
+                            ],
+                            [
+                                0.982830454933179,
+                                8.458699095991086
+                            ],
+                            [
+                                0.95490070111123,
+                                8.534275845740328
+                            ],
+                            [
+                                0.976628839919076,
+                                8.572008199752402
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "741d0469-35ad-4267-aa19-1ac843d88c73",
+                    "name": "Elavagnon",
+                    "pointNames": "Dagou, Elavagnon",
+                    "start": "d422c9d2-2bbe-480b-b9d3-5a78cbbc980b",
+                    "end": "ab853b63-bca5-483a-868b-3ec8583a4d73",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.315227199469062,
+                                8.055618071681273
+                            ],
+                            [
+                                1.324769990360752,
+                                8.013847456761603
+                            ],
+                            [
+                                1.314290395376181,
+                                8.002008925038595
+                            ],
+                            [
+                                1.300869856332047,
+                                7.987927769007858
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "d0530dc3-bbb4-43a8-88b7-c9fce0ff9bec",
+                    "name": "Untitled Path",
+                    "pointNames": "Blitta, Babiaille, Badou, Klabe Ofokpa, Kougnohou",
+                    "start": "0d12c036-0f1c-4654-8bc4-c3d42e8786b0",
+                    "end": "91a3793a-d9a5-4315-a0db-c42d66dc2778",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.610956335319705,
+                                7.585406744641092
+                            ],
+                            [
+                                0.648716275071124,
+                                7.594902636784632
+                            ],
+                            [
+                                0.668165367022755,
+                                7.580910945622521
+                            ],
+                            [
+                                0.676297388960609,
+                                7.571471607345131
+                            ],
+                            [
+                                0.694589302339017,
+                                7.58046103301809
+                            ],
+                            [
+                                0.700027022884392,
+                                7.59229457649272
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f5171b8b-a3cf-4f39-acea-3f66b9abd8b6",
+                    "name": "Untitled Path",
+                    "pointNames": "Blitta, Babiaille, Badou, Klabe Ofokpa, Kougnohou",
+                    "start": "91a3793a-d9a5-4315-a0db-c42d66dc2778",
+                    "end": "12e31024-5414-44b1-9d62-8b4ff1a9d9f5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.700027023718525,
+                                7.592294578307956
+                            ],
+                            [
+                                0.704763372066575,
+                                7.602601798699285
+                            ],
+                            [
+                                0.716915772505982,
+                                7.599425769993416
+                            ],
+                            [
+                                0.760525689438702,
+                                7.604853440202609
+                            ],
+                            [
+                                0.76311108493201,
+                                7.605979652070322
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8df0092e-c624-4298-ab08-a7756320d226",
+                    "name": "Untitled Path",
+                    "pointNames": "Blitta, Babiaille, Badou, Klabe Ofokpa, Kougnohou",
+                    "start": "12e31024-5414-44b1-9d62-8b4ff1a9d9f5",
+                    "end": "11a72baa-083c-4312-a2cf-ad52c44bd30c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.763111086764268,
+                                7.605979652868464
+                            ],
+                            [
+                                0.785552837039334,
+                                7.615755397259395
+                            ],
+                            [
+                                0.798080693657108,
+                                7.625332057003035
+                            ],
+                            [
+                                0.798010188122538,
+                                7.639079260351213
+                            ],
+                            [
+                                0.787616866490248,
+                                7.653822826056727
+                            ],
+                            [
+                                0.788784906818834,
+                                7.655069774563867
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "6268dd6a-a576-4f20-ab41-8ac7e4370027",
+                    "name": "Untitled Path",
+                    "pointNames": "Blitta, Babiaille, Badou, Klabe Ofokpa, Kougnohou",
+                    "start": "11a72baa-083c-4312-a2cf-ad52c44bd30c",
+                    "end": "8ef4baff-90d1-478a-89f6-ed1c3c60ea3e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.788784908184646,
+                                7.655069776021949
+                            ],
+                            [
+                                0.793675404866494,
+                                7.660290655290726
+                            ],
+                            [
+                                0.792016932314323,
+                                7.668700854559598
+                            ],
+                            [
+                                0.794769991763915,
+                                7.694378180190572
+                            ],
+                            [
+                                0.796027890569573,
+                                7.720209813971735
+                            ],
+                            [
+                                0.79589239654857,
+                                7.720344127215542
+                            ],
+                            [
+                                0.797370381121718,
+                                7.743527502268742
+                            ],
+                            [
+                                0.802508470727821,
+                                7.782100574610652
+                            ],
+                            [
+                                0.816260686977834,
+                                7.810851258299514
+                            ],
+                            [
+                                0.837468772409098,
+                                7.825547065516885
+                            ],
+                            [
+                                0.852752388784501,
+                                7.847750498925068
+                            ],
+                            [
+                                0.858949935231641,
+                                7.881677224544795
+                            ],
+                            [
+                                0.852177830071514,
+                                7.909573968837963
+                            ],
+                            [
+                                0.851811196953169,
+                                7.931150614478473
+                            ],
+                            [
+                                0.851520945378275,
+                                7.965487902162653
+                            ],
+                            [
+                                0.855238854967431,
+                                7.984628291610036
+                            ],
+                            [
+                                0.857211473839299,
+                                8.00442141759704
+                            ],
+                            [
+                                0.862125779970291,
+                                8.03781484108571
+                            ],
+                            [
+                                0.865453710579138,
+                                8.054907693606475
+                            ],
+                            [
+                                0.873217075646202,
+                                8.073247104216735
+                            ],
+                            [
+                                0.875195521970971,
+                                8.077009013141724
+                            ],
+                            [
+                                0.874519162878618,
+                                8.109748815521316
+                            ],
+                            [
+                                0.877224421494318,
+                                8.130217534306725
+                            ],
+                            [
+                                0.885765978184523,
+                                8.157930533210797
+                            ],
+                            [
+                                0.88408563012049,
+                                8.165832768315564
+                            ],
+                            [
+                                0.886590534088678,
+                                8.178239292880226
+                            ],
+                            [
+                                0.885298179698935,
+                                8.207424476236454
+                            ],
+                            [
+                                0.885222277206004,
+                                8.211325513959567
+                            ],
+                            [
+                                0.887090191003421,
+                                8.245776552003012
+                            ],
+                            [
+                                0.896221745505112,
+                                8.264612274877324
+                            ],
+                            [
+                                0.890276784217401,
+                                8.307791840888795
+                            ],
+                            [
+                                0.912053016858543,
+                                8.3103742939315
+                            ],
+                            [
+                                0.960761175486675,
+                                8.31391051003605
+                            ],
+                            [
+                                0.973681523315741,
+                                8.324464660859258
+                            ],
+                            [
+                                0.995581511422113,
+                                8.33632263873174
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "216e9694-439a-4b56-bba3-924f93380453",
+                    "name": "Amlame",
+                    "pointNames": "",
+                    "start": "dc909924-d337-43da-ad21-92271c0d4f9a",
+                    "end": "848f8db6-a04f-4f33-bf5b-6dabeda56224",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.14365484209062,
+                                7.516056040015307
+                            ],
+                            [
+                                1.105980717064743,
+                                7.539193249340666
+                            ],
+                            [
+                                1.005194477455229,
+                                7.513506542273722
+                            ],
+                            [
+                                0.919807926198009,
+                                7.481821717926099
+                            ],
+                            [
+                                0.899974358040665,
+                                7.461319248020908
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4d94820e-7a9b-4c97-afdd-c778baef7c81",
+                    "name": "Adeta Notse Tohoun Atakpame",
+                    "pointNames": "Atakpame, Tohoun",
+                    "start": "9b672d09-a02d-420d-9b79-a50d4bec9c42",
+                    "end": "524ca92f-643a-4558-9d94-b95c6a889ae2",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.728810142044263,
+                                7.13056089098179
+                            ],
+                            [
+                                0.805746472852569,
+                                7.112188398864697
+                            ],
+                            [
+                                0.831917257181378,
+                                7.120387395161724
+                            ],
+                            [
+                                0.887623061208682,
+                                7.10694279844788
+                            ],
+                            [
+                                0.936949158720357,
+                                7.091967052346464
+                            ],
+                            [
+                                0.986290342457501,
+                                7.091093524220415
+                            ],
+                            [
+                                1.017729479111504,
+                                7.063424351033986
+                            ],
+                            [
+                                1.091124777014454,
+                                7.003133858848462
+                            ],
+                            [
+                                1.123103064027795,
+                                6.992098981849274
+                            ],
+                            [
+                                1.139005697896582,
+                                6.990868534725665
+                            ],
+                            [
+                                1.168597107416109,
+                                6.979548352209512
+                            ],
+                            [
+                                1.173353097015677,
+                                6.950212668334854
+                            ],
+                            [
+                                1.245899179661791,
+                                6.933767401836218
+                            ],
+                            [
+                                1.313334444123324,
+                                6.980118966233463
+                            ],
+                            [
+                                1.335095515294547,
+                                6.997903411183626
+                            ],
+                            [
+                                1.512424233045586,
+                                7.013571825208588
+                            ],
+                            [
+                                1.536479281189267,
+                                7.011469068117678
+                            ],
+                            [
+                                1.552753199071988,
+                                7.025567597601329
+                            ],
+                            [
+                                1.588038625557424,
+                                7.030546800210694
+                            ],
+                            [
+                                1.615980732854501,
+                                7.023441294896899
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "609db6ea-d551-476c-8316-49197d3b2b3a",
+                    "name": "Adeta Notse Tohoun Atakpame",
+                    "pointNames": "Atakpame, Tohoun",
+                    "start": "524ca92f-643a-4558-9d94-b95c6a889ae2",
+                    "end": "ef95afe1-fceb-4585-af48-f80b002aab74",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.615980734790489,
+                                7.02344129440459
+                            ],
+                            [
+                                1.617803891941456,
+                                7.022977676801008
+                            ],
+                            [
+                                1.61237263760772,
+                                7.046936343754725
+                            ],
+                            [
+                                1.606867016558957,
+                                7.09571807263445
+                            ],
+                            [
+                                1.600183758344891,
+                                7.11074666016403
+                            ],
+                            [
+                                1.594672332348486,
+                                7.1432228037271
+                            ],
+                            [
+                                1.616470181155665,
+                                7.166264406247043
+                            ],
+                            [
+                                1.632374119193125,
+                                7.203822689721526
+                            ],
+                            [
+                                1.631384437836438,
+                                7.223838898562333
+                            ],
+                            [
+                                1.625499083843207,
+                                7.233550198378987
+                            ],
+                            [
+                                1.627005737545506,
+                                7.245488047700035
+                            ],
+                            [
+                                1.618015052162585,
+                                7.26560144952945
+                            ],
+                            [
+                                1.625420260933508,
+                                7.276504295361722
+                            ],
+                            [
+                                1.62614090983626,
+                                7.331417976809601
+                            ],
+                            [
+                                1.588981137637786,
+                                7.357735829346232
+                            ],
+                            [
+                                1.567718697100946,
+                                7.359145987130448
+                            ],
+                            [
+                                1.567412645923285,
+                                7.358836139880296
+                            ],
+                            [
+                                1.533148034559442,
+                                7.370203956868009
+                            ],
+                            [
+                                1.505554531100666,
+                                7.408321045838305
+                            ],
+                            [
+                                1.505246542468168,
+                                7.408475909943309
+                            ],
+                            [
+                                1.485992749605798,
+                                7.430633787387069
+                            ],
+                            [
+                                1.473277355137415,
+                                7.432328220433537
+                            ],
+                            [
+                                1.439954409765234,
+                                7.430951893558784
+                            ],
+                            [
+                                1.435120480499805,
+                                7.410776423728244
+                            ],
+                            [
+                                1.394995203184242,
+                                7.410940144840877
+                            ],
+                            [
+                                1.358180552919779,
+                                7.436755259890926
+                            ],
+                            [
+                                1.343914352548641,
+                                7.447229920807434
+                            ],
+                            [
+                                1.340824706003114,
+                                7.464209542831098
+                            ],
+                            [
+                                1.252291532521992,
+                                7.494440725543256
+                            ],
+                            [
+                                1.205219875034,
+                                7.517319187359349
+                            ],
+                            [
+                                1.172368080447066,
+                                7.514827616997587
+                            ],
+                            [
+                                1.131122296798885,
+                                7.530333118430336
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "85c40fe6-d690-477d-9011-23da7f8fb377",
+                    "name": "Danyi Apeyeme",
+                    "pointNames": "Danyi Apéyemé",
+                    "start": "9b672d09-a02d-420d-9b79-a50d4bec9c42",
+                    "end": "e810fb1b-e818-498f-80b4-b01daf884ff7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.728810142044263,
+                                7.13056089098179
+                            ],
+                            [
+                                0.698105534746098,
+                                7.139591126597846
+                            ],
+                            [
+                                0.697305573993499,
+                                7.139987107927877
+                            ],
+                            [
+                                0.687093961238554,
+                                7.15604395037812
+                            ],
+                            [
+                                0.687093335529469,
+                                7.156638994131808
+                            ],
+                            [
+                                0.694545771919576,
+                                7.20091301307262
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "21934484-d69c-4c36-b6ca-3f9516f3e886",
+                    "name": "to Lome",
+                    "pointNames": "Adeta, Afanyagan, Anfoin, Dzogbetoe, Tablibo, Vogan",
+                    "start": "9ad12f6f-52e7-40eb-8744-8fac2fd85f43",
+                    "end": "6c4093ae-3325-43c6-a752-9d05732fc7df",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.727576980866042,
+                                7.123989427160457
+                            ],
+                            [
+                                0.718136263364,
+                                7.088300993775366
+                            ],
+                            [
+                                0.690735671543548,
+                                7.031182573085748
+                            ],
+                            [
+                                0.666588318522066,
+                                7.011495572499454
+                            ],
+                            [
+                                0.645219939439949,
+                                6.993556903475397
+                            ],
+                            [
+                                0.642979106423127,
+                                6.983126538261896
+                            ],
+                            [
+                                0.628741079747026,
+                                6.963894271353688
+                            ],
+                            [
+                                0.632940001463751,
+                                6.906207900359704
+                            ],
+                            [
+                                0.640464830481582,
+                                6.885210098123428
+                            ],
+                            [
+                                0.710048791259767,
+                                6.867427934941407
+                            ],
+                            [
+                                0.718016097820844,
+                                6.850898576121331
+                            ],
+                            [
+                                0.757957680171668,
+                                6.835288606243947
+                            ],
+                            [
+                                0.780934756993983,
+                                6.812507371716826
+                            ],
+                            [
+                                0.808230653653434,
+                                6.772384693537786
+                            ],
+                            [
+                                0.820707812995671,
+                                6.730522904714235
+                            ],
+                            [
+                                0.828675003844628,
+                                6.704606015321263
+                            ],
+                            [
+                                0.852497066689655,
+                                6.659641578332892
+                            ],
+                            [
+                                0.888986406151162,
+                                6.58873935928633
+                            ],
+                            [
+                                0.898890268731403,
+                                6.569873254839017
+                            ],
+                            [
+                                0.886599392341969,
+                                6.552733877984583
+                            ],
+                            [
+                                0.88768851934961,
+                                6.539821631715998
+                            ],
+                            [
+                                0.909615466206859,
+                                6.466378074546023
+                            ],
+                            [
+                                0.916218432065081,
+                                6.454760452090973
+                            ],
+                            [
+                                0.933075130090546,
+                                6.43451455464639
+                            ],
+                            [
+                                0.987114514263843,
+                                6.448544720638639
+                            ],
+                            [
+                                1.0615488861099,
+                                6.452826672954821
+                            ],
+                            [
+                                1.108997469984654,
+                                6.436845669659063
+                            ],
+                            [
+                                1.109782926566549,
+                                6.435287350365293
+                            ],
+                            [
+                                1.110568413317252,
+                                6.433728976189957
+                            ],
+                            [
+                                1.110960921639317,
+                                6.433339277212382
+                            ],
+                            [
+                                1.165119291271199,
+                                6.433302448954327
+                            ],
+                            [
+                                1.213650096636476,
+                                6.430257101948572
+                            ],
+                            [
+                                1.260004978512643,
+                                6.445054731761299
+                            ],
+                            [
+                                1.334040878774712,
+                                6.507297638311353
+                            ],
+                            [
+                                1.381486415763722,
+                                6.587835311335636
+                            ],
+                            [
+                                1.399141162616389,
+                                6.608073931529361
+                            ],
+                            [
+                                1.495634927319103,
+                                6.58741721845571
+                            ],
+                            [
+                                1.497983939816222,
+                                6.585966622637576
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e481ddf8-2689-4d82-985d-a670323bc15a",
+                    "name": "to Lome",
+                    "pointNames": "Adeta, Afanyagan, Anfoin, Dzogbetoe, Tablibo, Vogan",
+                    "start": "6c4093ae-3325-43c6-a752-9d05732fc7df",
+                    "end": "7c82d009-9c09-4f35-87eb-06490318a349",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.497983941516003,
+                                6.585966621587903
+                            ],
+                            [
+                                1.520317907845334,
+                                6.572174631038943
+                            ],
+                            [
+                                1.520317611791113,
+                                6.571785502692463
+                            ],
+                            [
+                                1.564895441136629,
+                                6.481086284359099
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cddde4d3-8fea-4a26-80fc-7001b6ab510f",
+                    "name": "to Lome",
+                    "pointNames": "Adeta, Afanyagan, Anfoin, Dzogbetoe, Tablibo, Vogan",
+                    "start": "7c82d009-9c09-4f35-87eb-06490318a349",
+                    "end": "7c82d009-9c09-4f35-87eb-06490318a349",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.564895441136629,
+                                6.481086284359099
+                            ],
+                            [
+                                1.564895441577241,
+                                6.481086283462618
+                            ],
+                            [
+                                1.564895442363632,
+                                6.48108628407897
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "6fd8d7e6-51b3-4a1d-8b87-eb2f4882e34a",
+                    "name": "to Lome",
+                    "pointNames": "Adeta, Afanyagan, Anfoin, Dzogbetoe, Tablibo, Vogan",
+                    "start": "7c82d009-9c09-4f35-87eb-06490318a349",
+                    "end": "36ae03d2-fe8a-4170-84a3-428d5ed11535",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.564895442363632,
+                                6.48108628407897
+                            ],
+                            [
+                                1.589195427067107,
+                                6.500131919500458
+                            ],
+                            [
+                                1.618972212565442,
+                                6.501269530989012
+                            ],
+                            [
+                                1.640399287799876,
+                                6.494640226152716
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0a698c15-add1-414a-8768-a24cd131c1b8",
+                    "name": "to Lome",
+                    "pointNames": "Adeta, Afanyagan, Anfoin, Dzogbetoe, Tablibo, Vogan",
+                    "start": "36ae03d2-fe8a-4170-84a3-428d5ed11535",
+                    "end": "59ec3b74-863f-4ad8-919c-9f6d15fc85b4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.640399289710031,
+                                6.494640225561734
+                            ],
+                            [
+                                1.641696604444367,
+                                6.494238850444112
+                            ],
+                            [
+                                1.669202804294241,
+                                6.503016075061073
+                            ],
+                            [
+                                1.712672411751044,
+                                6.49372997327974
+                            ],
+                            [
+                                1.734966940108991,
+                                6.472680350951758
+                            ],
+                            [
+                                1.751899460110913,
+                                6.441472908072892
+                            ],
+                            [
+                                1.765600791174422,
+                                6.425517850927859
+                            ],
+                            [
+                                1.752534481686336,
+                                6.392498876299393
+                            ],
+                            [
+                                1.733684095857524,
+                                6.377739031142749
+                            ],
+                            [
+                                1.714586536036338,
+                                6.342187609652302
+                            ],
+                            [
+                                1.684868179767358,
+                                6.343824288486366
+                            ],
+                            [
+                                1.60832267869139,
+                                6.331350738656552
+                            ],
+                            [
+                                1.60649504586028,
+                                6.331447931568993
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e7fdd5b3-4fe1-4d8e-9e11-30ee6264835a",
+                    "name": "to Lome",
+                    "pointNames": "Adeta, Afanyagan, Anfoin, Dzogbetoe, Tablibo, Vogan",
+                    "start": "f28d0c25-6f60-4ed7-ad19-519c127f4d8b",
+                    "end": "f28d0c25-6f60-4ed7-ad19-519c127f4d8b",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.531401330220906,
+                                6.335441390651576
+                            ],
+                            [
+                                1.531401329223512,
+                                6.335441390704617
+                            ],
+                            [
+                                1.531401328445461,
+                                6.335441391332213
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "35093243-242c-4e78-b04c-fc35e3e27b47",
+                    "name": "to Lome",
+                    "pointNames": "Adeta, Afanyagan, Anfoin, Dzogbetoe, Tablibo, Vogan",
+                    "start": "f28d0c25-6f60-4ed7-ad19-519c127f4d8b",
+                    "end": "061f3c50-7812-4e5d-a9b7-fcdf587ebdb2",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.531401328445461,
+                                6.335441391332213
+                            ],
+                            [
+                                1.482925688334402,
+                                6.374543080969159
+                            ],
+                            [
+                                1.445185185740796,
+                                6.387889142550502
+                            ],
+                            [
+                                1.420753909091945,
+                                6.370036044878344
+                            ],
+                            [
+                                1.402725851199278,
+                                6.341761321939434
+                            ],
+                            [
+                                1.362607703322174,
+                                6.317527784111752
+                            ],
+                            [
+                                1.364930704958405,
+                                6.294567619952208
+                            ],
+                            [
+                                1.339713280501722,
+                                6.284007909233497
+                            ],
+                            [
+                                1.290837813047336,
+                                6.271365064818628
+                            ],
+                            [
+                                1.262567967859598,
+                                6.239125195632134
+                            ],
+                            [
+                                1.244297780415322,
+                                6.201808340177475
+                            ],
+                            [
+                                1.212348222284196,
+                                6.140879034944887
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8c9add64-6d1f-44e0-aee2-27de15629a99",
+                    "name": "Kougnohou",
+                    "pointNames": "",
+                    "start": "dc909924-d337-43da-ad21-92271c0d4f9a",
+                    "end": "9eebe222-28bd-485b-b7f5-93764498240a",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.14365484209062,
+                                7.516056040015307
+                            ],
+                            [
+                                1.047856898804878,
+                                7.593536932027781
+                            ],
+                            [
+                                0.986864710712738,
+                                7.62012293089988
+                            ],
+                            [
+                                0.985708036600548,
+                                7.620120687303908
+                            ],
+                            [
+                                0.928713864590065,
+                                7.634963498991556
+                            ],
+                            [
+                                0.880367934006832,
+                                7.643224276683699
+                            ],
+                            [
+                                0.867907953087019,
+                                7.646370689242461
+                            ],
+                            [
+                                0.849448566156386,
+                                7.63224065282256
+                            ],
+                            [
+                                0.814573583130009,
+                                7.654068601746785
+                            ],
+                            [
+                                0.791071959834437,
+                                7.657208259586019
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
