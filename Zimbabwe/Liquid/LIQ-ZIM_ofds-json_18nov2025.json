@@ -1,0 +1,2595 @@
+{
+    "networks": [
+        {
+            "id": "7e76ad41-4a52-426f-8d1a-7329b513404d",
+            "name": "Liquid Telecom Zimbabwe",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Botswana border",
+                    "id": "9ace0cee-521f-479a-b3da-ec766b2efb32",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.731940363411645,
+                            -20.539195886681643
+                        ]
+                    }
+                },
+                {
+                    "name": "Plumtree",
+                    "id": "f5d8d563-36a7-4dbd-97f0-0aa18ce86cdf",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.805165853379965,
+                            -20.492279846575553
+                        ]
+                    }
+                },
+                {
+                    "name": "Bulowayo",
+                    "id": "26643239-49b5-45f1-9fc5-09ea52ee88b2",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.586604419263683,
+                            -20.137144067761025
+                        ]
+                    }
+                },
+                {
+                    "name": "Nsiza",
+                    "id": "d35e2ddf-a5f2-42b7-a813-ffe101570c78",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.188255748316323,
+                            -19.778502979890295
+                        ]
+                    }
+                },
+                {
+                    "name": "Gweru",
+                    "id": "3b30d5c5-54e5-483d-97d0-3139dfaa1f65",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.811044034523718,
+                            -19.466190485815005
+                        ]
+                    }
+                },
+                {
+                    "name": "Guayi",
+                    "id": "ad693a55-faeb-4d30-880a-14ffddcb8c6d",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.177978011667317,
+                            -18.613078733816774
+                        ]
+                    }
+                },
+                {
+                    "name": "Hwange",
+                    "id": "a289ee0a-da55-4142-bb4e-9f292c8aacee",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.48226823121827,
+                            -18.33832145479493
+                        ]
+                    }
+                },
+                {
+                    "name": "Victoria Falls",
+                    "id": "70ab87e0-c662-4c93-87d3-eb0eea1a0b87",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.82983506692152,
+                            -17.93181167042389
+                        ]
+                    }
+                },
+                {
+                    "name": "Kasane",
+                    "id": "ad9e49fd-7b35-49e1-bb68-8b6aa930cd59",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.827860566896156,
+                            -17.941372425927835
+                        ]
+                    }
+                },
+                {
+                    "name": "Gwande",
+                    "id": "b88393ae-9b40-4ead-8008-e903008bb2c6",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.005917005817526,
+                            -20.944475224360446
+                        ]
+                    }
+                },
+                {
+                    "name": "Makado",
+                    "id": "43ffdb0d-ef57-4a76-8087-8fbe4f85f3bf",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.72386344378715,
+                            -21.4554657533671
+                        ]
+                    }
+                },
+                {
+                    "name": "Beitbridge",
+                    "id": "0be9a9f1-85de-4563-9cbe-767ef4359ac9",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.99167538830558,
+                            -22.17782652569728
+                        ]
+                    }
+                },
+                {
+                    "name": "Alko Siding",
+                    "id": "e816df27-b4b0-4f83-802e-8eda4eedea9f",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.618517452910186,
+                            -21.547798728601364
+                        ]
+                    }
+                },
+                {
+                    "name": "Rutenga",
+                    "id": "abba2542-1764-4c30-8b2d-62f561e0945b",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.738192084569384,
+                            -21.228994880501745
+                        ]
+                    }
+                },
+                {
+                    "name": "Ngundu",
+                    "id": "27170e1f-733f-480a-89c0-64987a9aca5d",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.80035500830361,
+                            -20.798099252935007
+                        ]
+                    }
+                },
+                {
+                    "name": "Triangle",
+                    "id": "f5e3f9dc-8f05-4bf9-b4ec-3fdeeea7dab9",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.448493129664147,
+                            -21.020492335665754
+                        ]
+                    }
+                },
+                {
+                    "name": "Masvingo",
+                    "id": "a09699d5-1b0f-4b21-a7c5-0d4f3fca9d8b",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.82031740055882,
+                            -20.06976692169889
+                        ]
+                    }
+                },
+                {
+                    "name": "Zvishavane",
+                    "id": "d2420cd9-01be-46a5-9a50-8d08abef6da2",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.062699909569478,
+                            -20.309655488794228
+                        ]
+                    }
+                },
+                {
+                    "name": "Checheche",
+                    "id": "6bd94e66-71fe-4bd0-8e5a-6417675acda7",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.2389017302141,
+                            -20.778172175732784
+                        ]
+                    }
+                },
+                {
+                    "name": "Birchenough Bridge",
+                    "id": "9be74c32-f007-45a7-9561-0da739d882a5",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.37157410477856,
+                            -19.949180150544603
+                        ]
+                    }
+                },
+                {
+                    "name": "Chivu",
+                    "id": "b345dd49-4f99-4b5f-a2c6-b0d4f671f748",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.89746380785391,
+                            -19.02129727902335
+                        ]
+                    }
+                },
+                {
+                    "name": "Chegetu",
+                    "id": "15484fa0-ad65-4d4c-8015-185f6fff8839",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.15403906871175,
+                            -18.125819373531677
+                        ]
+                    }
+                },
+                {
+                    "name": "Harare",
+                    "id": "b834582d-c538-42f2-a580-71ac38db812e",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.04940617095614,
+                            -17.82555347670286
+                        ]
+                    }
+                },
+                {
+                    "name": "Beatrice",
+                    "id": "e6d71d95-3ce8-43fd-a8a1-6b749c71fc61",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.848994243777117,
+                            -18.259121332130196
+                        ]
+                    }
+                },
+                {
+                    "name": "Chitungwiza",
+                    "id": "3cf54890-0da1-494f-8f01-eae126742539",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.952153439743753,
+                            -18.01226342340666
+                        ]
+                    }
+                },
+                {
+                    "name": "Marondera",
+                    "id": "695a3fdf-a340-4754-afb5-55b345867822",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.559947975673147,
+                            -18.181150205045622
+                        ]
+                    }
+                },
+                {
+                    "name": "Rusape",
+                    "id": "f5b6b61c-5ba2-46d9-b6b0-724c04584110",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.140588086928005,
+                            -18.52726745981282
+                        ]
+                    }
+                },
+                {
+                    "name": "Mutare",
+                    "id": "d44bdbab-79cf-46c4-968a-26ab88c3ce37",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.663722389432046,
+                            -18.97657365759229
+                        ]
+                    }
+                },
+                {
+                    "name": "Murehwa",
+                    "id": "7a51cda3-fb32-4d2a-9476-d3070aeec138",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.794229325552827,
+                            -17.658515363653137
+                        ]
+                    }
+                },
+                {
+                    "name": "Mutoko",
+                    "id": "866eea49-036c-4660-9cd2-85897399afbe",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.21666386747984,
+                            -17.401820943527994
+                        ]
+                    }
+                },
+                {
+                    "name": "Nyampanda",
+                    "id": "cc02fa35-f26e-4f27-b3e0-9bc5897a7434",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.84834030509631,
+                            -16.96288332475145
+                        ]
+                    }
+                },
+                {
+                    "name": "Shamva",
+                    "id": "d15d61ea-e2e2-4f6e-ae87-d9db9dae8500",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.563473660092846,
+                            -17.303098515257375
+                        ]
+                    }
+                },
+                {
+                    "name": "Bindura",
+                    "id": "4829a610-10f2-4978-bfa0-5dcce6c1f3c5",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.317656497465133,
+                            -17.30419122840932
+                        ]
+                    }
+                },
+                {
+                    "name": "Chinhoyi",
+                    "id": "2875cb21-6aef-4385-837b-166bfa041707",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.19928720513023,
+                            -17.365623997551623
+                        ]
+                    }
+                },
+                {
+                    "name": "Karoi",
+                    "id": "aa6c08ca-9e50-44db-8cd6-c9203d39eca7",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.684837785216356,
+                            -16.816525881166495
+                        ]
+                    }
+                },
+                {
+                    "name": "Makuti",
+                    "id": "0891a242-c22b-4d9a-90f9-ec211f20a4ad",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.25314153127425,
+                            -16.30765105337111
+                        ]
+                    }
+                },
+                {
+                    "name": "Chirundu",
+                    "id": "cbfa59ac-0205-4511-aac2-981735942f70",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.86369193260331,
+                            -16.03922342477937
+                        ]
+                    }
+                },
+                {
+                    "name": "Kadoma",
+                    "id": "dfb55ab9-caa9-4e30-bb1a-e6f23240cd31",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.91114700840991,
+                            -18.32757434422729
+                        ]
+                    }
+                },
+                {
+                    "name": "Kwekwe",
+                    "id": "40d22b41-4fc1-409e-82e7-b0c914ab0384",
+                    "physicalInfrastructureProvider": {
+                        "id": "LIT-1",
+                        "name": "Liquid Intelligent Technologies"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Liquid-1",
+                            "name": "Liquid Zimbabwe"
+                        }
+                    ],
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.800762673682687,
+                            -18.936460412565705
+                        ]
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "12b843bc-368c-4795-b77e-4d2bf55797d7",
+                    "name": "Beitbridge - Makado",
+                    "pointNames": "Gwande, Makado, Beitbridge",
+                    "start": "0be9a9f1-85de-4563-9cbe-767ef4359ac9",
+                    "end": "43ffdb0d-ef57-4a76-8087-8fbe4f85f3bf",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.991675387945325,
+                                -22.177826524765376
+                            ],
+                            [
+                                29.95344342970548,
+                                -22.07892897602968
+                            ],
+                            [
+                                29.90202330306766,
+                                -21.9227896816958
+                            ],
+                            [
+                                29.85080120407911,
+                                -21.77345198688022
+                            ],
+                            [
+                                29.79791570009062,
+                                -21.54952565683913
+                            ],
+                            [
+                                29.723863444405247,
+                                -21.455465754152197
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "800728dc-724a-4806-ad4f-45b579f4a8ac",
+                    "name": "Makado - Gwande",
+                    "pointNames": "Gwande, Makado, Beitbridge",
+                    "start": "43ffdb0d-ef57-4a76-8087-8fbe4f85f3bf",
+                    "end": "b88393ae-9b40-4ead-8008-e903008bb2c6",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.72386344316905,
+                                -21.455465752582004
+                            ],
+                            [
+                                29.72144593624461,
+                                -21.45239507682806
+                            ],
+                            [
+                                29.55068095784645,
+                                -21.24736270244225
+                            ],
+                            [
+                                29.40439931260147,
+                                -21.10501763911265
+                            ],
+                            [
+                                29.29565736102734,
+                                -21.04650248558704
+                            ],
+                            [
+                                29.27845597141818,
+                                -21.01052452554304
+                            ],
+                            [
+                                29.1812856636286,
+                                -21.00791123157989
+                            ],
+                            [
+                                29.06121377224722,
+                                -21.0038828575028
+                            ],
+                            [
+                                29.01274488361175,
+                                -20.96264013838662
+                            ],
+                            [
+                                29.005917006168996,
+                                -20.944475225295495
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8bd9c3bd-92a2-491d-98f3-9eed494308aa",
+                    "name": "Gwande - Bulowayo",
+                    "pointNames": "Gwande, Makado, Beitbridge",
+                    "start": "b88393ae-9b40-4ead-8008-e903008bb2c6",
+                    "end": "26643239-49b5-45f1-9fc5-09ea52ee88b2",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.005917005466056,
+                                -20.944475223425396
+                            ],
+                            [
+                                28.99878028388093,
+                                -20.92548866011398
+                            ],
+                            [
+                                29.0188416517083,
+                                -20.84279394885861
+                            ],
+                            [
+                                29.00466793195091,
+                                -20.69875430349253
+                            ],
+                            [
+                                29.0244782308473,
+                                -20.53676476917333
+                            ],
+                            [
+                                29.02320418698161,
+                                -20.44868123448407
+                            ],
+                            [
+                                28.95206261295776,
+                                -20.35280454358849
+                            ],
+                            [
+                                28.81553199490997,
+                                -20.26617636672711
+                            ],
+                            [
+                                28.70929757667097,
+                                -20.20479016528403
+                            ],
+                            [
+                                28.586604419263683,
+                                -20.137144067761025
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "149dc55e-04fe-43f8-8d90-aaf08c703152",
+                    "name": "Bulowayo - Plumtree",
+                    "pointNames": "Botswana border, Plumtree",
+                    "start": "26643239-49b5-45f1-9fc5-09ea52ee88b2",
+                    "end": "f5d8d563-36a7-4dbd-97f0-0aa18ce86cdf",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.586604419263683,
+                                -20.137144067761025
+                            ],
+                            [
+                                28.52580617702274,
+                                -20.21250913423335
+                            ],
+                            [
+                                28.37373769130159,
+                                -20.34310108846266
+                            ],
+                            [
+                                28.29832909214715,
+                                -20.41547856478391
+                            ],
+                            [
+                                28.17989210607968,
+                                -20.43031558999938
+                            ],
+                            [
+                                28.13533085268118,
+                                -20.43839784875013
+                            ],
+                            [
+                                28.09538014370802,
+                                -20.46859843478283
+                            ],
+                            [
+                                28.01986407659448,
+                                -20.49203387676608
+                            ],
+                            [
+                                27.96500301177642,
+                                -20.5000474218602
+                            ],
+                            [
+                                27.92572176309756,
+                                -20.47237831024933
+                            ],
+                            [
+                                27.85312370194818,
+                                -20.48023623149951
+                            ],
+                            [
+                                27.80847609592015,
+                                -20.49065116222068
+                            ],
+                            [
+                                27.805165854276268,
+                                -20.49227984613456
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9b08fc2c-17da-47f9-a9a2-33e6a6133eb2",
+                    "name": "Plumtree - Botswana border",
+                    "pointNames": "Botswana border, Plumtree",
+                    "start": "f5d8d563-36a7-4dbd-97f0-0aa18ce86cdf",
+                    "end": "9ace0cee-521f-479a-b3da-ec766b2efb32",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                27.805165852483665,
+                                -20.492279847016547
+                            ],
+                            [
+                                27.7726612740495,
+                                -20.50827254172543
+                            ],
+                            [
+                                27.73194036420713,
+                                -20.539195886077554
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e3865ade-5e2c-4510-ab10-30b424609679",
+                    "name": "Bulowayo - Guayi",
+                    "pointNames": "Bulowayo, Guayi, Hwange, Victoria Falls, Kasane",
+                    "start": "26643239-49b5-45f1-9fc5-09ea52ee88b2",
+                    "end": "ad693a55-faeb-4d30-880a-14ffddcb8c6d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.586604418936084,
+                                -20.137144066817434
+                            ],
+                            [
+                                28.54270785369569,
+                                -20.01070805068294
+                            ],
+                            [
+                                28.42715443168398,
+                                -19.76130083066614
+                            ],
+                            [
+                                28.37701834899863,
+                                -19.59434221086008
+                            ],
+                            [
+                                28.30367906396702,
+                                -19.46114928996866
+                            ],
+                            [
+                                28.16794077832969,
+                                -19.32630231554806
+                            ],
+                            [
+                                28.07156972049239,
+                                -19.26747556731221
+                            ],
+                            [
+                                28.03478835381827,
+                                -19.1712516506814
+                            ],
+                            [
+                                27.96098252760257,
+                                -19.11165663626077
+                            ],
+                            [
+                                27.81529349419813,
+                                -19.02839695694249
+                            ],
+                            [
+                                27.75340831297421,
+                                -18.9096329831849
+                            ],
+                            [
+                                27.61180028550445,
+                                -18.79308385717928
+                            ],
+                            [
+                                27.46507490126664,
+                                -18.73356171830654
+                            ],
+                            [
+                                27.38426961628964,
+                                -18.73160834048992
+                            ],
+                            [
+                                27.31263359259216,
+                                -18.66464403480722
+                            ],
+                            [
+                                27.19355032246255,
+                                -18.61324243176579
+                            ],
+                            [
+                                27.177978012666802,
+                                -18.61307873382728
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "98efb305-3060-48ed-966b-064fd5e3d04a",
+                    "name": "Guayi - Hwange",
+                    "pointNames": "Bulowayo, Guayi, Hwange, Victoria Falls, Kasane",
+                    "start": "ad693a55-faeb-4d30-880a-14ffddcb8c6d",
+                    "end": "a289ee0a-da55-4142-bb4e-9f292c8aacee",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                27.177978010667832,
+                                -18.613078733806265
+                            ],
+                            [
+                                27.15608351723693,
+                                -18.61284857633532
+                            ],
+                            [
+                                27.07606230400016,
+                                -18.61890746898305
+                            ],
+                            [
+                                26.88556764126179,
+                                -18.45315845981908
+                            ],
+                            [
+                                26.75175004929874,
+                                -18.38133899066385
+                            ],
+                            [
+                                26.64447624818941,
+                                -18.37588214799061
+                            ],
+                            [
+                                26.5272061420927,
+                                -18.35016254940265
+                            ],
+                            [
+                                26.482268232184172,
+                                -18.338321455049446
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0695d798-0631-4ad1-8cab-fd78471e9c39",
+                    "name": "Hwange - Kasane",
+                    "pointNames": "Bulowayo, Guayi, Hwange, Victoria Falls, Kasane",
+                    "start": "a289ee0a-da55-4142-bb4e-9f292c8aacee",
+                    "end": "ad9e49fd-7b35-49e1-bb68-8b6aa930cd59",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.48226823025237,
+                                -18.338321454540417
+                            ],
+                            [
+                                26.44897243964058,
+                                -18.32954804698761
+                            ],
+                            [
+                                26.29261518265931,
+                                -18.35006954315956
+                            ],
+                            [
+                                26.08448693410515,
+                                -18.25755389618784
+                            ],
+                            [
+                                25.99707049387604,
+                                -18.17046505248124
+                            ],
+                            [
+                                25.85286258233182,
+                                -18.09693784822058
+                            ],
+                            [
+                                25.83634340684805,
+                                -18.02795677272951
+                            ],
+                            [
+                                25.82355703649378,
+                                -17.9622106135461
+                            ],
+                            [
+                                25.827860566693968,
+                                -17.941372426906845
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1968a0f3-707c-4bb7-b487-37b41309558f",
+                    "name": "Kasane - Victoria Falls",
+                    "pointNames": "Bulowayo, Guayi, Hwange, Victoria Falls, Kasane",
+                    "start": "ad9e49fd-7b35-49e1-bb68-8b6aa930cd59",
+                    "end": "70ab87e0-c662-4c93-87d3-eb0eea1a0b87",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.82786056709834,
+                                -17.941372424948824
+                            ],
+                            [
+                                25.829835066719337,
+                                -17.9318116714029
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e9ab15ce-84c8-41dd-9b71-00f89fe5e5b1",
+                    "name": "Bulowayo - Nsiza",
+                    "pointNames": "Nsiza, Gweru, Chegetu, Harare, Kadoma, Kwekwe",
+                    "start": "26643239-49b5-45f1-9fc5-09ea52ee88b2",
+                    "end": "d35e2ddf-a5f2-42b7-a813-ffe101570c78",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.586604419263683,
+                                -20.137144067761025
+                            ],
+                            [
+                                28.83132813685494,
+                                -20.05498220309943
+                            ],
+                            [
+                                28.98660724302035,
+                                -19.95489234169602
+                            ],
+                            [
+                                29.04255497989771,
+                                -19.85216874792298
+                            ],
+                            [
+                                29.1594005341272,
+                                -19.79726818039964
+                            ],
+                            [
+                                29.18825574747845,
+                                -19.77850298043518
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0e365fe7-e72b-4a60-ba6c-4073ac47c057",
+                    "name": "Nsiza - Gweru",
+                    "pointNames": "Nsiza, Gweru, Chegetu, Harare, Kadoma, Kwekwe",
+                    "start": "d35e2ddf-a5f2-42b7-a813-ffe101570c78",
+                    "end": "3b30d5c5-54e5-483d-97d0-3139dfaa1f65",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.188255749154195,
+                                -19.778502979345408
+                            ],
+                            [
+                                29.1924132768765,
+                                -19.77579924473367
+                            ],
+                            [
+                                29.29649847276918,
+                                -19.7757856814527
+                            ],
+                            [
+                                29.39293171268169,
+                                -19.75885306013496
+                            ],
+                            [
+                                29.59834977078445,
+                                -19.66988180652616
+                            ],
+                            [
+                                29.69463963488996,
+                                -19.58560622721468
+                            ],
+                            [
+                                29.80106512622996,
+                                -19.49633988558538
+                            ],
+                            [
+                                29.81104403420979,
+                                -19.466190486763487
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8c9fd9f6-55f6-4fa2-ae65-bdbd8581156b",
+                    "name": "Gweru - Kwekwe",
+                    "pointNames": "Nsiza, Gweru, Chegetu, Harare, Kadoma, Kwekwe",
+                    "start": "3b30d5c5-54e5-483d-97d0-3139dfaa1f65",
+                    "end": "40d22b41-4fc1-409e-82e7-b0c914ab0384",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.81104403483765,
+                                -19.466190484866523
+                            ],
+                            [
+                                29.81619403110565,
+                                -19.45063073707357
+                            ],
+                            [
+                                29.78438577012396,
+                                -19.32508262766718
+                            ],
+                            [
+                                29.7987688256205,
+                                -19.13648033618571
+                            ],
+                            [
+                                29.79808344852568,
+                                -18.97173167770876
+                            ],
+                            [
+                                29.80076267360701,
+                                -18.93646041356199
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ee698392-cdda-46a0-be3b-81423cb2c86d",
+                    "name": "Kwekwe - Kadoma",
+                    "pointNames": "Nsiza, Gweru, Chegetu, Harare, Kadoma, Kwekwe",
+                    "start": "40d22b41-4fc1-409e-82e7-b0c914ab0384",
+                    "end": "dfb55ab9-caa9-4e30-bb1a-e6f23240cd31",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.800762673758367,
+                                -18.93646041156942
+                            ],
+                            [
+                                29.81242361211411,
+                                -18.78294735295744
+                            ],
+                            [
+                                29.81928367745635,
+                                -18.61789974322598
+                            ],
+                            [
+                                29.83593762298211,
+                                -18.38794902044408
+                            ],
+                            [
+                                29.911147007630458,
+                                -18.327574344852998
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "fd9a532c-ef28-4abf-b896-08d40be8af13",
+                    "name": "Kadoma - Chegetu",
+                    "pointNames": "Nsiza, Gweru, Chegetu, Harare, Kadoma, Kwekwe",
+                    "start": "dfb55ab9-caa9-4e30-bb1a-e6f23240cd31",
+                    "end": "15484fa0-ad65-4d4c-8015-185f6fff8839",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.91114700918936,
+                                -18.327574343601583
+                            ],
+                            [
+                                29.95894538512063,
+                                -18.2892039799279
+                            ],
+                            [
+                                30.07627654381842,
+                                -18.17760582470427
+                            ],
+                            [
+                                30.154039067879488,
+                                -18.125819374085925
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "15ef71c4-16b6-40fb-9b26-9244d03f3347",
+                    "name": "Chegetu - Harare",
+                    "pointNames": "Nsiza, Gweru, Chegetu, Harare, Kadoma, Kwekwe",
+                    "start": "15484fa0-ad65-4d4c-8015-185f6fff8839",
+                    "end": "b834582d-c538-42f2-a580-71ac38db812e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.154039069544012,
+                                -18.125819372977425
+                            ],
+                            [
+                                30.17390502593854,
+                                -18.11258951216422
+                            ],
+                            [
+                                30.41225908926214,
+                                -18.06091833553842
+                            ],
+                            [
+                                30.66010612876727,
+                                -17.94431844756444
+                            ],
+                            [
+                                30.83277599699315,
+                                -17.83509237610711
+                            ],
+                            [
+                                31.049406169958296,
+                                -17.825553476746798
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "7320e3c0-0b9a-47e6-8cc5-1e6988b4356c",
+                    "name": "Beitbridge - Alko Siding",
+                    "pointNames": "Alko Siding, Rutenga, Ngundu, Chivu, Beatrice, Chitungwiza",
+                    "start": "0be9a9f1-85de-4563-9cbe-767ef4359ac9",
+                    "end": "e816df27-b4b0-4f83-802e-8eda4eedea9f",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.99167538830558,
+                                -22.17782652569728
+                            ],
+                            [
+                                30.21735737923312,
+                                -21.9737571882707
+                            ],
+                            [
+                                30.4483171780371,
+                                -21.81675862003862
+                            ],
+                            [
+                                30.60346920777274,
+                                -21.57135494470767
+                            ],
+                            [
+                                30.618517452372267,
+                                -21.547798729443414
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "52ee2212-de1e-4bb1-ab18-1abb23b0d0ce",
+                    "name": "Alko Siding - Rutenga",
+                    "pointNames": "Alko Siding, Rutenga, Ngundu, Chivu, Beatrice, Chitungwiza",
+                    "start": "e816df27-b4b0-4f83-802e-8eda4eedea9f",
+                    "end": "abba2542-1764-4c30-8b2d-62f561e0945b",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.618517453448106,
+                                -21.547798727759314
+                            ],
+                            [
+                                30.71281558432374,
+                                -21.40018635641378
+                            ],
+                            [
+                                30.73777602212621,
+                                -21.31603640726055
+                            ],
+                            [
+                                30.738192084564606,
+                                -21.22899488150151
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "53a97667-882e-4b02-acd3-2ca43ddd0ef5",
+                    "name": "Rutenga - Ngundu",
+                    "pointNames": "Alko Siding, Rutenga, Ngundu, Chivu, Beatrice, Chitungwiza",
+                    "start": "abba2542-1764-4c30-8b2d-62f561e0945b",
+                    "end": "27170e1f-733f-480a-89c0-64987a9aca5d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.738192084574163,
+                                -21.22899487950198
+                            ],
+                            [
+                                30.73867068120401,
+                                -21.12887101096568
+                            ],
+                            [
+                                30.76633507628999,
+                                -20.88880550520841
+                            ],
+                            [
+                                30.800355007952824,
+                                -20.798099253870298
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "72c4a6c1-3f6f-40fa-a47f-4770b11a2092",
+                    "name": "Ngundu - Chivu",
+                    "pointNames": "Alko Siding, Rutenga, Ngundu, Chivu, Beatrice, Chitungwiza",
+                    "start": "27170e1f-733f-480a-89c0-64987a9aca5d",
+                    "end": "b345dd49-4f99-4b5f-a2c6-b0d4f671f748",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.8003550086544,
+                                -20.798099251999712
+                            ],
+                            [
+                                30.80869640632184,
+                                -20.77585885125956
+                            ],
+                            [
+                                30.72526123282002,
+                                -20.63536224954071
+                            ],
+                            [
+                                30.66982468686779,
+                                -20.45620572073968
+                            ],
+                            [
+                                30.69426960043634,
+                                -20.31192705429419
+                            ],
+                            [
+                                30.71874895385374,
+                                -20.18686722864051
+                            ],
+                            [
+                                30.85864721032507,
+                                -20.10120052438656
+                            ],
+                            [
+                                30.76341140360602,
+                                -19.93953219941649
+                            ],
+                            [
+                                30.72368206776228,
+                                -19.76994005035295
+                            ],
+                            [
+                                30.76044055843207,
+                                -19.61629939292999
+                            ],
+                            [
+                                30.67807186285566,
+                                -19.50212381645197
+                            ],
+                            [
+                                30.5665778781743,
+                                -19.36698933590465
+                            ],
+                            [
+                                30.55309275616259,
+                                -19.26441161826651
+                            ],
+                            [
+                                30.77427564313343,
+                                -19.06655353535451
+                            ],
+                            [
+                                30.897463806916345,
+                                -19.02129727936779
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8db78e5e-bca1-48e7-9ed5-b2613f84cee2",
+                    "name": "Chivu - Beatrice",
+                    "pointNames": "Alko Siding, Rutenga, Ngundu, Chivu, Beatrice, Chitungwiza",
+                    "start": "b345dd49-4f99-4b5f-a2c6-b0d4f671f748",
+                    "end": "e6d71d95-3ce8-43fd-a8a1-6b749c71fc61",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.897463808791475,
+                                -19.02129727867891
+                            ],
+                            [
+                                30.90804110005385,
+                                -19.01741144593073
+                            ],
+                            [
+                                30.90358797520859,
+                                -18.78520090125691
+                            ],
+                            [
+                                30.89607454089468,
+                                -18.59908690500195
+                            ],
+                            [
+                                30.87861635615598,
+                                -18.37450607688434
+                            ],
+                            [
+                                30.848994244025484,
+                                -18.25912133309764
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b143cc1d-c37e-4073-8961-dc87d66a66ab",
+                    "name": "Beatrice - Chitungwiza",
+                    "pointNames": "Alko Siding, Rutenga, Ngundu, Chivu, Beatrice, Chitungwiza",
+                    "start": "e6d71d95-3ce8-43fd-a8a1-6b749c71fc61",
+                    "end": "3cf54890-0da1-494f-8f01-eae126742539",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.84899424352875,
+                                -18.259121331162753
+                            ],
+                            [
+                                30.84187560007429,
+                                -18.23139262473279
+                            ],
+                            [
+                                30.92626803314125,
+                                -18.08940852534646
+                            ],
+                            [
+                                30.95215343942596,
+                                -18.012263424353762
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "fea2a3b3-5e7c-46df-9a64-73c6cf5effac",
+                    "name": "Chitungwiza - Harare",
+                    "pointNames": "Alko Siding, Rutenga, Ngundu, Chivu, Beatrice, Chitungwiza",
+                    "start": "3cf54890-0da1-494f-8f01-eae126742539",
+                    "end": "b834582d-c538-42f2-a580-71ac38db812e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.952153440061544,
+                                -18.01226342245956
+                            ],
+                            [
+                                30.98270552317767,
+                                -17.9212104364022
+                            ],
+                            [
+                                31.04940617095614,
+                                -17.82555347670286
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "29aa696f-f2a2-41fb-a495-c39e86966bc5",
+                    "name": "Gweru - Zvishavane",
+                    "pointNames": "Masvingo, Zvishavane",
+                    "start": "3b30d5c5-54e5-483d-97d0-3139dfaa1f65",
+                    "end": "d2420cd9-01be-46a5-9a50-8d08abef6da2",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.811044034523718,
+                                -19.466190485815005
+                            ],
+                            [
+                                29.92140055471599,
+                                -19.5108819693925
+                            ],
+                            [
+                                29.96662540468569,
+                                -19.61706704705363
+                            ],
+                            [
+                                30.03307721496073,
+                                -19.67628682579206
+                            ],
+                            [
+                                30.03624601321913,
+                                -19.7514082509123
+                            ],
+                            [
+                                29.95688100323223,
+                                -19.87164731124579
+                            ],
+                            [
+                                29.94593359612028,
+                                -20.01574965667679
+                            ],
+                            [
+                                29.92765198796675,
+                                -20.11996405273258
+                            ],
+                            [
+                                30.00922308655798,
+                                -20.25012660678599
+                            ],
+                            [
+                                30.062699908901994,
+                                -20.309655488051206
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0708a001-0715-4ed1-b255-36ad6d5e0e2b",
+                    "name": "Zvishavane - Masvingo",
+                    "pointNames": "Masvingo, Zvishavane",
+                    "start": "d2420cd9-01be-46a5-9a50-8d08abef6da2",
+                    "end": "a09699d5-1b0f-4b21-a7c5-0d4f3fca9d8b",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.062699910236958,
+                                -20.30965548953725
+                            ],
+                            [
+                                30.06663579861824,
+                                -20.31403680880516
+                            ],
+                            [
+                                30.22730803925565,
+                                -20.22646527474023
+                            ],
+                            [
+                                30.38270437594581,
+                                -20.1164833160083
+                            ],
+                            [
+                                30.49828423145607,
+                                -20.04882441985046
+                            ],
+                            [
+                                30.65279545918065,
+                                -20.0383364083409
+                            ],
+                            [
+                                30.820317399576435,
+                                -20.069766921514574
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "400b7b3d-083d-4ea9-a697-520d562b04d4",
+                    "name": "Ngundu - Triangle",
+                    "pointNames": "Triangle, Checheche, Birchenough Bridge, Marondera, Rusape, Mutare",
+                    "start": "27170e1f-733f-480a-89c0-64987a9aca5d",
+                    "end": "f5e3f9dc-8f05-4bf9-b4ec-3fdeeea7dab9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.80035500830361,
+                                -20.798099252935007
+                            ],
+                            [
+                                30.99118129309593,
+                                -20.78953368655077
+                            ],
+                            [
+                                31.05056657111664,
+                                -20.79769033161082
+                            ],
+                            [
+                                31.16329449521661,
+                                -20.8807276961348
+                            ],
+                            [
+                                31.23598845911661,
+                                -20.97312759292783
+                            ],
+                            [
+                                31.34124980705073,
+                                -21.01181878095162
+                            ],
+                            [
+                                31.44134762353022,
+                                -21.02161239107913
+                            ],
+                            [
+                                31.448493128677367,
+                                -21.020492335820432
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "7db57ffa-c4c7-4f0e-934f-a7b3ab7a9d74",
+                    "name": "Triangle - Checheche",
+                    "pointNames": "Triangle, Checheche, Birchenough Bridge, Marondera, Rusape, Mutare",
+                    "start": "f5e3f9dc-8f05-4bf9-b4ec-3fdeeea7dab9",
+                    "end": "6bd94e66-71fe-4bd0-8e5a-6417675acda7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.448493130650927,
+                                -21.020492335511076
+                            ],
+                            [
+                                31.55048750601064,
+                                -21.00450475532926
+                            ],
+                            [
+                                31.73428636131576,
+                                -21.01317227051893
+                            ],
+                            [
+                                31.9001335837324,
+                                -20.96387789825436
+                            ],
+                            [
+                                32.07503041307162,
+                                -20.97682556236058
+                            ],
+                            [
+                                32.18353806708094,
+                                -20.99970285384832
+                            ],
+                            [
+                                32.21495870256108,
+                                -20.8208790538188
+                            ],
+                            [
+                                32.23890172972546,
+                                -20.778172176604368
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9e1b02e2-4206-47e8-947e-4160b5df2e4a",
+                    "name": "Checheche - Birchenough Bridge",
+                    "pointNames": "Triangle, Checheche, Birchenough Bridge, Marondera, Rusape, Mutare",
+                    "start": "6bd94e66-71fe-4bd0-8e5a-6417675acda7",
+                    "end": "9be74c32-f007-45a7-9561-0da739d882a5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.23890173070274,
+                                -20.7781721748612
+                            ],
+                            [
+                                32.26539275889056,
+                                -20.73092046018311
+                            ],
+                            [
+                                32.36432697540994,
+                                -20.66676675694181
+                            ],
+                            [
+                                32.40098808176446,
+                                -20.52797084387747
+                            ],
+                            [
+                                32.40208568904898,
+                                -20.34547269173693
+                            ],
+                            [
+                                32.39375584334909,
+                                -20.18313426272485
+                            ],
+                            [
+                                32.42750956763084,
+                                -20.09335931458271
+                            ],
+                            [
+                                32.37157410513994,
+                                -19.949180151476103
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9204345e-04d0-4b84-b040-3b251f50a3b8",
+                    "name": "Birchenough Bridge - Mutare",
+                    "pointNames": "Triangle, Checheche, Birchenough Bridge, Marondera, Rusape, Mutare",
+                    "start": "9be74c32-f007-45a7-9561-0da739d882a5",
+                    "end": "d44bdbab-79cf-46c4-968a-26ab88c3ce37",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.37157410441718,
+                                -19.949180149613102
+                            ],
+                            [
+                                32.36746692934318,
+                                -19.9385935013844
+                            ],
+                            [
+                                32.47517554304686,
+                                -19.68783173033379
+                            ],
+                            [
+                                32.56893217406239,
+                                -19.44543314135061
+                            ],
+                            [
+                                32.59516607043239,
+                                -19.23772573117159
+                            ],
+                            [
+                                32.62862355991315,
+                                -19.03866955967226
+                            ],
+                            [
+                                32.66372238894041,
+                                -18.97657365846208
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3a66ec53-500c-45b9-ba9e-26e5981981c9",
+                    "name": "Mutare - Rusape",
+                    "pointNames": "Triangle, Checheche, Birchenough Bridge, Marondera, Rusape, Mutare",
+                    "start": "d44bdbab-79cf-46c4-968a-26ab88c3ce37",
+                    "end": "f5b6b61c-5ba2-46d9-b6b0-724c04584110",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.663722389923684,
+                                -18.9765736567225
+                            ],
+                            [
+                                32.66942780490929,
+                                -18.96647979048456
+                            ],
+                            [
+                                32.54534942442761,
+                                -18.92520584016811
+                            ],
+                            [
+                                32.36671416622124,
+                                -18.90841450480801
+                            ],
+                            [
+                                32.19269274886068,
+                                -18.78911144312423
+                            ],
+                            [
+                                32.13946600222862,
+                                -18.62796295512352
+                            ],
+                            [
+                                32.14058808691687,
+                                -18.527267460812272
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4933e4da-30d0-42b8-bc8b-7ce2d80018f4",
+                    "name": "Rusape - Marondera",
+                    "pointNames": "Triangle, Checheche, Birchenough Bridge, Marondera, Rusape, Mutare",
+                    "start": "f5b6b61c-5ba2-46d9-b6b0-724c04584110",
+                    "end": "695a3fdf-a340-4754-afb5-55b345867822",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.14058808693915,
+                                -18.527267458813366
+                            ],
+                            [
+                                32.141840386879,
+                                -18.41488649257233
+                            ],
+                            [
+                                32.11921622788748,
+                                -18.33316854580097
+                            ],
+                            [
+                                32.02116776056566,
+                                -18.25302118985377
+                            ],
+                            [
+                                31.91367310882891,
+                                -18.15980243176676
+                            ],
+                            [
+                                31.78759830312334,
+                                -18.17539579012792
+                            ],
+                            [
+                                31.64491094835054,
+                                -18.19585817339721
+                            ],
+                            [
+                                31.559947976657593,
+                                -18.18115020521604
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "acfe74dd-4fc1-47e7-b3b9-20ba348b939f",
+                    "name": "Marondera - Harare",
+                    "pointNames": "Triangle, Checheche, Birchenough Bridge, Marondera, Rusape, Mutare",
+                    "start": "695a3fdf-a340-4754-afb5-55b345867822",
+                    "end": "b834582d-c538-42f2-a580-71ac38db812e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.5599479746887,
+                                -18.181150204875202
+                            ],
+                            [
+                                31.49283512813464,
+                                -18.16953227777124
+                            ],
+                            [
+                                31.36359724186111,
+                                -18.09615505712965
+                            ],
+                            [
+                                31.30346717575654,
+                                -17.95501999339198
+                            ],
+                            [
+                                31.23739029663484,
+                                -17.8916663862157
+                            ],
+                            [
+                                31.04940617095614,
+                                -17.82555347670286
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cb334377-9b59-4825-b5a5-2f2a6e699c2b",
+                    "name": "Harare - Chinhoyi",
+                    "pointNames": "Chinhoyi, Karoi, Makuti, Chirundu",
+                    "start": "b834582d-c538-42f2-a580-71ac38db812e",
+                    "end": "2875cb21-6aef-4385-837b-166bfa041707",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.04940617095614,
+                                -17.82555347670286
+                            ],
+                            [
+                                31.01116467402456,
+                                -17.75478817702269
+                            ],
+                            [
+                                30.72271120212928,
+                                -17.64730385570459
+                            ],
+                            [
+                                30.5394412872897,
+                                -17.49136302086975
+                            ],
+                            [
+                                30.43606756435384,
+                                -17.4203452509099
+                            ],
+                            [
+                                30.28316858919054,
+                                -17.36496325778663
+                            ],
+                            [
+                                30.199287206129842,
+                                -17.365623997543747
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4f030d3d-3bc6-447e-9a47-56686ce36b0c",
+                    "name": "Chinhoyi - Karoi",
+                    "pointNames": "Chinhoyi, Karoi, Makuti, Chirundu",
+                    "start": "2875cb21-6aef-4385-837b-166bfa041707",
+                    "end": "aa6c08ca-9e50-44db-8cd6-c9203d39eca7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.199287204130616,
+                                -17.365623997559496
+                            ],
+                            [
+                                30.17408940847464,
+                                -17.36582248242913
+                            ],
+                            [
+                                30.10809617223532,
+                                -17.33720594927006
+                            ],
+                            [
+                                29.98164439648748,
+                                -17.22776953393108
+                            ],
+                            [
+                                29.87469575493727,
+                                -17.07517920092533
+                            ],
+                            [
+                                29.80991028729676,
+                                -16.96680826160205
+                            ],
+                            [
+                                29.71794617177093,
+                                -16.84638650663699
+                            ],
+                            [
+                                29.684837785958052,
+                                -16.81652588183544
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "12c98a21-35bb-4168-b14c-58efee166fb5",
+                    "name": "Karoi - Makuti",
+                    "pointNames": "Chinhoyi, Karoi, Makuti, Chirundu",
+                    "start": "aa6c08ca-9e50-44db-8cd6-c9203d39eca7",
+                    "end": "0891a242-c22b-4d9a-90f9-ec211f20a4ad",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.684837784474656,
+                                -16.816525880497554
+                            ],
+                            [
+                                29.65044691723246,
+                                -16.7855085790464
+                            ],
+                            [
+                                29.62143158821817,
+                                -16.73971864656172
+                            ],
+                            [
+                                29.60964826037471,
+                                -16.62935086787499
+                            ],
+                            [
+                                29.57735567528432,
+                                -16.56595954709437
+                            ],
+                            [
+                                29.45545560965047,
+                                -16.45006450294895
+                            ],
+                            [
+                                29.32415304146028,
+                                -16.35697201527144
+                            ],
+                            [
+                                29.26650534665876,
+                                -16.31117343798119
+                            ],
+                            [
+                                29.253141532240132,
+                                -16.307651053625694
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1dd745b3-f902-4666-b1b4-d50b323feaf1",
+                    "name": "Makuti - Chirundu",
+                    "pointNames": "Chinhoyi, Karoi, Makuti, Chirundu",
+                    "start": "0891a242-c22b-4d9a-90f9-ec211f20a4ad",
+                    "end": "cbfa59ac-0205-4511-aac2-981735942f70",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.253141530308366,
+                                -16.307651053116526
+                            ],
+                            [
+                                29.1834941798781,
+                                -16.28929366428484
+                            ],
+                            [
+                                29.16099832079444,
+                                -16.20497268012221
+                            ],
+                            [
+                                29.11648925598107,
+                                -16.15722219797262
+                            ],
+                            [
+                                29.03807489340277,
+                                -16.11588008347371
+                            ],
+                            [
+                                28.93886933266334,
+                                -16.06065513896996
+                            ],
+                            [
+                                28.863691933564336,
+                                -16.03922342505334
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e5aad59e-1bfd-4c87-a598-04f8fd010468",
+                    "name": "Harare - Murehwa",
+                    "pointNames": "Murehwa, Mutoko, Nyampanda",
+                    "start": "b834582d-c538-42f2-a580-71ac38db812e",
+                    "end": "7a51cda3-fb32-4d2a-9476-d3070aeec138",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.04940617095614,
+                                -17.82555347670286
+                            ],
+                            [
+                                31.10802270935134,
+                                -17.78594426620922
+                            ],
+                            [
+                                31.10973916276082,
+                                -17.78551891024568
+                            ],
+                            [
+                                31.16326436374329,
+                                -17.754301886897
+                            ],
+                            [
+                                31.2583802962146,
+                                -17.73431643996781
+                            ],
+                            [
+                                31.35394534660732,
+                                -17.71715816088609
+                            ],
+                            [
+                                31.46797877868587,
+                                -17.69242057468606
+                            ],
+                            [
+                                31.60535370136607,
+                                -17.67763229499587
+                            ],
+                            [
+                                31.69480361101062,
+                                -17.66482148886913
+                            ],
+                            [
+                                31.75973266382901,
+                                -17.66994124404405
+                            ],
+                            [
+                                31.794229324604416,
+                                -17.658515363967265
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9ca266b8-ecd0-45e1-930d-eb3ee932f2c0",
+                    "name": "Murehwa - Mutoko",
+                    "pointNames": "Murehwa, Mutoko, Nyampanda",
+                    "start": "7a51cda3-fb32-4d2a-9476-d3070aeec138",
+                    "end": "866eea49-036c-4660-9cd2-85897399afbe",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.794229326501235,
+                                -17.658515363339006
+                            ],
+                            [
+                                31.80590049674064,
+                                -17.65464967348632
+                            ],
+                            [
+                                31.84231188270765,
+                                -17.6182984564621
+                            ],
+                            [
+                                31.98811550665631,
+                                -17.56377087774442
+                            ],
+                            [
+                                32.09763097919458,
+                                -17.48064576313882
+                            ],
+                            [
+                                32.15347922792107,
+                                -17.45842805325828
+                            ],
+                            [
+                                32.216663866735914,
+                                -17.401820944194476
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "2c766f4c-0426-4d3f-8874-c5aaca3a0af0",
+                    "name": "Mutoko - Nyampanda",
+                    "pointNames": "Murehwa, Mutoko, Nyampanda",
+                    "start": "866eea49-036c-4660-9cd2-85897399afbe",
+                    "end": "cc02fa35-f26e-4f27-b3e0-9bc5897a7434",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.21666386822376,
+                                -17.40182094286151
+                            ],
+                            [
+                                32.22080397697221,
+                                -17.39811182001369
+                            ],
+                            [
+                                32.30806809732614,
+                                -17.36042597121529
+                            ],
+                            [
+                                32.38123157482446,
+                                -17.24882295081944
+                            ],
+                            [
+                                32.39482833179459,
+                                -17.17241453546542
+                            ],
+                            [
+                                32.50602805251636,
+                                -17.08906766089038
+                            ],
+                            [
+                                32.63250142490215,
+                                -17.02787470353495
+                            ],
+                            [
+                                32.73348551107839,
+                                -16.97873345382689
+                            ],
+                            [
+                                32.84834030410684,
+                                -16.962883324887997
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "83e04167-69ce-47c0-9246-6c87c70eb65d",
+                    "name": "Harare - Bindura",
+                    "pointNames": "Shamva, Bindura",
+                    "start": "b834582d-c538-42f2-a580-71ac38db812e",
+                    "end": "4829a610-10f2-4978-bfa0-5dcce6c1f3c5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.04940617095614,
+                                -17.82555347670286
+                            ],
+                            [
+                                31.02074265791363,
+                                -17.72747830745419
+                            ],
+                            [
+                                30.96642611299142,
+                                -17.59346420449531
+                            ],
+                            [
+                                30.99078722115861,
+                                -17.45109942799802
+                            ],
+                            [
+                                31.11302362165818,
+                                -17.34418609505108
+                            ],
+                            [
+                                31.24284596808232,
+                                -17.31094274664381
+                            ],
+                            [
+                                31.28332986980937,
+                                -17.30420880738913
+                            ],
+                            [
+                                31.31765649646516,
+                                -17.30419122840983
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "648d8ca3-7ff4-44cf-b10f-a33c9ce5749a",
+                    "name": "Bindura - Shamva",
+                    "pointNames": "Shamva, Bindura",
+                    "start": "4829a610-10f2-4978-bfa0-5dcce6c1f3c5",
+                    "end": "d15d61ea-e2e2-4f6e-ae87-d9db9dae8500",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.31765649846511,
+                                -17.304191228408808
+                            ],
+                            [
+                                31.32898873177373,
+                                -17.30418542506854
+                            ],
+                            [
+                                31.38517229504524,
+                                -17.32226163840274
+                            ],
+                            [
+                                31.42271299899316,
+                                -17.33680964303758
+                            ],
+                            [
+                                31.42402178886706,
+                                -17.33721106054517
+                            ],
+                            [
+                                31.4909775743879,
+                                -17.33400824231174
+                            ],
+                            [
+                                31.54552341363128,
+                                -17.31597691056782
+                            ],
+                            [
+                                31.563473659281208,
+                                -17.303098515839686
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "bb4fe5eb-7a65-4c70-91e0-12455bea7507",
+                    "name": "Harare - Shamva",
+                    "pointNames": "",
+                    "start": "b834582d-c538-42f2-a580-71ac38db812e",
+                    "end": "d15d61ea-e2e2-4f6e-ae87-d9db9dae8500",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.06000307374682,
+                                -17.81912244801281
+                            ],
+                            [
+                                31.11691304182136,
+                                -17.77064382808445
+                            ],
+                            [
+                                31.18766413056192,
+                                -17.73976832685412
+                            ],
+                            [
+                                31.2398612169963,
+                                -17.71014557123642
+                            ],
+                            [
+                                31.33075596853736,
+                                -17.67550997838488
+                            ],
+                            [
+                                31.41987369683224,
+                                -17.61175754285134
+                            ],
+                            [
+                                31.46340395776598,
+                                -17.55410596041731
+                            ],
+                            [
+                                31.50812117665631,
+                                -17.50478976404392
+                            ],
+                            [
+                                31.51869903595558,
+                                -17.47497452989875
+                            ],
+                            [
+                                31.51829245048647,
+                                -17.47353047408605
+                            ],
+                            [
+                                31.51751115059141,
+                                -17.47172886068774
+                            ],
+                            [
+                                31.50634751395977,
+                                -17.42725078706613
+                            ],
+                            [
+                                31.53408735035632,
+                                -17.40812883226997
+                            ],
+                            [
+                                31.54204986049404,
+                                -17.39312625959039
+                            ],
+                            [
+                                31.54342512503802,
+                                -17.36144217353599
+                            ],
+                            [
+                                31.55935099648497,
+                                -17.34850480484933
+                            ],
+                            [
+                                31.563473660092846,
+                                -17.303098515257375
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "LIT-1",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                {
+                    "id": "Liquid-1",
+                    "name": "Liquid Zimbabwe"
+                }
+            ]
+        }
+    ]
+}
