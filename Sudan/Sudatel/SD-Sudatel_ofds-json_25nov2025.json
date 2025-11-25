@@ -1,0 +1,3634 @@
+{
+    "networks": [
+        {
+            "id": "4ab9f01a-bb28-4b3e-86b5-f6fb6ed25306",
+            "name": "Sudatel",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Geneina",
+                    "id": "5c79b570-dda8-43ad-83d4-91beb026959d",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            22.445826171777586,
+                            13.444317711586661
+                        ]
+                    }
+                },
+                {
+                    "name": "Nyala",
+                    "id": "c7aa2f22-b429-4fe5-b5e1-85a6ae3b5cab",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.86817276497653,
+                            12.04615697853417
+                        ]
+                    }
+                },
+                {
+                    "name": "Al Fashir",
+                    "id": "3ee7895e-ac61-4491-90ea-785483c673ab",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.35673735710922,
+                            13.6240147908745
+                        ]
+                    }
+                },
+                {
+                    "name": "En Nahud",
+                    "id": "fce8df9c-3ed9-44ba-9a2f-5e8b7e19f157",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.42869210020648,
+                            12.69272284620846
+                        ]
+                    }
+                },
+                {
+                    "name": "Kadugli",
+                    "id": "59430186-5976-45a1-9609-58a2d5ff639b",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.722672314942745,
+                            11.01444569203463
+                        ]
+                    }
+                },
+                {
+                    "name": "Al Ubayyid",
+                    "id": "bfc4002d-d833-4af1-9921-3f518cfe5273",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.22038765755847,
+                            13.18156331898157
+                        ]
+                    }
+                },
+                {
+                    "name": "Er Roseires",
+                    "id": "7cb2967e-3c76-4a8a-8b52-a3254f3a3d46",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.34283563138682,
+                            11.858743846086842
+                        ]
+                    }
+                },
+                {
+                    "name": "Ad-Damazin",
+                    "id": "0748df7a-2b1e-4caa-ae53-aa6ce928c556",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.34717921344214,
+                            11.82104283251992
+                        ]
+                    }
+                },
+                {
+                    "name": "Sennar",
+                    "id": "66632b8b-93de-4d34-9f29-db70a47f5d86",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            33.569006383489125,
+                            13.563539536317922
+                        ]
+                    }
+                },
+                {
+                    "name": "Kosti",
+                    "id": "61b56a59-d824-4bd2-b73b-765671f684cb",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.6587165085686,
+                            13.1387657739671
+                        ]
+                    }
+                },
+                {
+                    "name": "Wad Madani",
+                    "id": "14b55660-f78f-4a8d-8376-35bfc5e89ba2",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            33.53580950513729,
+                            14.38106664674679
+                        ]
+                    }
+                },
+                {
+                    "name": "Al Gadarif",
+                    "id": "e161ada6-488d-4b69-baed-40c47135b6b1",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.35125796010477,
+                            14.03361652692676
+                        ]
+                    }
+                },
+                {
+                    "name": "Kashim El Girba",
+                    "id": "89461b5c-a1d6-40d5-a4ce-2cf8c950aec9",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.90056863387996,
+                            14.97676573295989
+                        ]
+                    }
+                },
+                {
+                    "name": "Kassala",
+                    "id": "d7019c82-1131-4d0d-9b85-94d062b94d3b",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.39304761476172,
+                            15.46661139575159
+                        ]
+                    }
+                },
+                {
+                    "name": "New Halfa",
+                    "id": "ea63c941-1803-4bc2-b4b9-b73fb38890bf",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.59798431918011,
+                            15.328135236181204
+                        ]
+                    }
+                },
+                {
+                    "name": "Port Sudan",
+                    "id": "e41366f7-3885-4f1c-8f0b-24ebe0b7b018",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.22115610490091,
+                            19.608199035495502
+                        ]
+                    }
+                },
+                {
+                    "name": "Suakin",
+                    "id": "af714af5-566e-4e0e-8534-31fea60bed94",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.30819927895551,
+                            19.10483772969049
+                        ]
+                    }
+                },
+                {
+                    "name": "Khartoum",
+                    "id": "66936345-62e4-42ed-b6a4-4618d93b23b4",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.53351553794929,
+                            15.59427030071071
+                        ]
+                    }
+                },
+                {
+                    "name": "Atbara",
+                    "id": "ee160b1f-03fd-43df-8c95-26e5a2c9fb49",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            33.99890045794935,
+                            17.69826377551045
+                        ]
+                    }
+                },
+                {
+                    "name": "Merowe",
+                    "id": "46a7f1a3-4b0f-43b6-8648-83a0bdfa0fa0",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.819141416252055,
+                            18.466914116095488
+                        ]
+                    }
+                },
+                {
+                    "name": "El Damer",
+                    "id": "3fd33db2-1652-49ec-96d4-531ee89b3381",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.979433010402705,
+                            18.06150334221967
+                        ]
+                    }
+                },
+                {
+                    "name": "Dongola",
+                    "id": "688775e3-eef4-4a2a-a62a-712bddc051d5",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.47861436362858,
+                            19.15700626984714
+                        ]
+                    }
+                },
+                {
+                    "name": "Wadi Halfa",
+                    "id": "fb99a712-3e49-4bb9-a812-1fa18c9312dc",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.36885770490566,
+                            21.79182096074197
+                        ]
+                    }
+                },
+                {
+                    "name": "Chad Border",
+                    "id": "46d5b4cb-697a-4e5b-a751-a948ff2f1a9c",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            22.23214615729745,
+                            13.45642438144521
+                        ]
+                    }
+                },
+                {
+                    "name": "South Sudan Border",
+                    "id": "fa3f84a5-958a-4558-b1e3-e6ca20ef1d8d",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.46189315041978,
+                            9.852972855122841
+                        ]
+                    }
+                },
+                {
+                    "name": "Ethiopia Border",
+                    "id": "9afebef8-96c9-42dc-898f-3a888c4345cc",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.13922976771549,
+                            12.977484504920866
+                        ]
+                    }
+                },
+                {
+                    "name": "network fork",
+                    "id": "f5343ffc-4402-4675-824a-c813a4ea295f",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "PROCESSED: Created fork (3344.59m from span 38)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.75252059460916,
+                            13.16915125192317
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "c0d9b131-14bd-428c-99e3-2b058565fcf1",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "SKIPPED: Too far (86686.97m > 8000.0m)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.47787471627851,
+                            13.8985029051097
+                        ]
+                    }
+                },
+                {
+                    "name": "network fork",
+                    "id": "bd4d009d-32b5-42f2-b2d0-58c0dfc91c21",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "PROCESSED: Created fork (495.69m from span 22)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.31301618192257,
+                            13.485647455299125
+                        ]
+                    }
+                },
+                {
+                    "name": "network fork",
+                    "id": "e5ba353f-bf50-4efd-8dc1-e254e9f93a90",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "PROCESSED: Created fork (462.19m from span 30)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.662045714505304,
+                            11.43877999581257
+                        ]
+                    }
+                },
+                {
+                    "name": "Auto generated missing node",
+                    "id": "9b3a82d9-176c-41b5-bac2-9bb75f998f2c",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "SKIPPED: Too far (78145.43m > 8000.0m)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.75634885537802,
+                            12.4323571508823
+                        ]
+                    }
+                },
+                {
+                    "name": "network fork",
+                    "id": "eb0f5ddf-e9bf-4190-9316-04604f3962b4",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "PROCESSED: Created fork (1242.81m from span 34)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.814953970949386,
+                            11.925529810841956
+                        ]
+                    }
+                },
+                {
+                    "name": "network fork",
+                    "id": "1aa6f7ed-47f9-4a0e-b139-96d24bd444ba",
+                    "physicalInfrastructureProvider": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "SD-1",
+                            "name": "Sudatel"
+                        }
+                    ],
+                    "phase6_status": "PROCESSED: Created fork (802.44m from span 52)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.33925265033248,
+                            15.418373908200131
+                        ]
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "ed44826d-4cb3-44e6-b71c-febbe4c4a35a",
+                    "name": "Wad Madani - Al Gadarif",
+                    "pointNames": "Al Gadarif",
+                    "start": "14b55660-f78f-4a8d-8376-35bfc5e89ba2",
+                    "end": "e161ada6-488d-4b69-baed-40c47135b6b1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.53580950513729,
+                                14.38106664674679
+                            ],
+                            [
+                                33.7296829963972,
+                                14.23225186730472
+                            ],
+                            [
+                                33.86065005676792,
+                                14.14184345640045
+                            ],
+                            [
+                                34.11893744509121,
+                                14.13450615698022
+                            ],
+                            [
+                                34.37670425565244,
+                                14.12442615923955
+                            ],
+                            [
+                                34.39041173757327,
+                                14.12416983287713
+                            ],
+                            [
+                                34.40680985674077,
+                                14.12120016257497
+                            ],
+                            [
+                                34.66633757456956,
+                                14.07636657596877
+                            ],
+                            [
+                                35.09032951071432,
+                                14.03090521900898
+                            ],
+                            [
+                                35.35125795910528,
+                                14.033616526916374
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f1d488eb-49d3-4281-88cf-92c155fabb92",
+                    "name": "Atbara - Merowe",
+                    "pointNames": "Merowe, El Damer",
+                    "start": "ee160b1f-03fd-43df-8c95-26e5a2c9fb49",
+                    "end": "46a7f1a3-4b0f-43b6-8648-83a0bdfa0fa0",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.99890045794935,
+                                17.69826377551045
+                            ],
+                            [
+                                33.75736780060066,
+                                17.68491419097156
+                            ],
+                            [
+                                33.75101095109308,
+                                17.68704343226279
+                            ],
+                            [
+                                33.74252040474379,
+                                17.68921340229109
+                            ],
+                            [
+                                33.7319300486086,
+                                17.69343222409256
+                            ],
+                            [
+                                33.72344095125907,
+                                17.69560066645129
+                            ],
+                            [
+                                33.70856562848581,
+                                17.69788737584987
+                            ],
+                            [
+                                33.69582220736329,
+                                17.70013297239116
+                            ],
+                            [
+                                33.68308038620619,
+                                17.70237751629577
+                            ],
+                            [
+                                33.19274218297678,
+                                17.7706134325216
+                            ],
+                            [
+                                33.18644905080688,
+                                17.77270587782599
+                            ],
+                            [
+                                32.70322727301384,
+                                17.98277424178388
+                            ],
+                            [
+                                32.49831774023016,
+                                18.06483467906445
+                            ],
+                            [
+                                32.35114449842365,
+                                18.05626982894341
+                            ],
+                            [
+                                32.17209581496488,
+                                18.0700701843544
+                            ],
+                            [
+                                32.01522274067101,
+                                18.16213929975719
+                            ],
+                            [
+                                32.00678601778156,
+                                18.16823488094362
+                            ],
+                            [
+                                32.00044200258118,
+                                18.17029740516017
+                            ],
+                            [
+                                31.85021213186366,
+                                18.25188250794314
+                            ],
+                            [
+                                31.81241926941998,
+                                18.31030535499546
+                            ],
+                            [
+                                31.85534411107823,
+                                18.40218205795464
+                            ],
+                            [
+                                31.82623101739788,
+                                18.47651443213095
+                            ],
+                            [
+                                31.81914141684539,
+                                18.46691411689895
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ac687c83-af88-4094-96e8-eb0b59908d82",
+                    "name": "Merowe - El Damer",
+                    "pointNames": "Merowe, El Damer",
+                    "start": "46a7f1a3-4b0f-43b6-8648-83a0bdfa0fa0",
+                    "end": "3fd33db2-1652-49ec-96d4-531ee89b3381",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.819141415658716,
+                                18.466914115292028
+                            ],
+                            [
+                                31.69376117689287,
+                                18.29713165616702
+                            ],
+                            [
+                                31.50478573886982,
+                                18.08596854746009
+                            ],
+                            [
+                                31.30434414782498,
+                                18.03496815119925
+                            ],
+                            [
+                                31.12116130095525,
+                                18.0337349228954
+                            ],
+                            [
+                                30.979433011383914,
+                                18.061503342027425
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1871e5c2-4340-45fc-8c78-a8561e6478e1",
+                    "name": "El Damer - Dongola",
+                    "pointNames": "Dongola",
+                    "start": "3fd33db2-1652-49ec-96d4-531ee89b3381",
+                    "end": "688775e3-eef4-4a2a-a62a-712bddc051d5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.979433010402705,
+                                18.06150334221967
+                            ],
+                            [
+                                30.81403256403354,
+                                18.18842560396141
+                            ],
+                            [
+                                30.80981752469764,
+                                18.20245155952376
+                            ],
+                            [
+                                30.80770927403713,
+                                18.20846364570322
+                            ],
+                            [
+                                30.79927827570451,
+                                18.2184914863523
+                            ],
+                            [
+                                30.79295464172426,
+                                18.22651201763057
+                            ],
+                            [
+                                30.62228942383171,
+                                18.45669887656001
+                            ],
+                            [
+                                30.6180739498568,
+                                18.46269715865283
+                            ],
+                            [
+                                30.5695730912791,
+                                18.64660822929215
+                            ],
+                            [
+                                30.56535243245809,
+                                18.65460363326306
+                            ],
+                            [
+                                30.47660604945975,
+                                18.8885497818403
+                            ],
+                            [
+                                30.4786143636211,
+                                19.157006268847507
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ae4a6e56-77c5-4a6e-8216-fca0282b2868",
+                    "name": "Dongola - Wadi Halfa",
+                    "pointNames": "Wadi Halfa",
+                    "start": "688775e3-eef4-4a2a-a62a-712bddc051d5",
+                    "end": "fb99a712-3e49-4bb9-a812-1fa18c9312dc",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.47861436362858,
+                                19.15700626984714
+                            ],
+                            [
+                                30.49686949570328,
+                                19.30443956223748
+                            ],
+                            [
+                                30.47649312704245,
+                                19.58725817640513
+                            ],
+                            [
+                                30.47648514704435,
+                                19.59515410205291
+                            ],
+                            [
+                                30.47480194582349,
+                                19.60146907048581
+                            ],
+                            [
+                                30.5030635548999,
+                                19.86993266291422
+                            ],
+                            [
+                                30.50474137883122,
+                                19.8715145173307
+                            ],
+                            [
+                                30.58029628087961,
+                                20.01860629023994
+                            ],
+                            [
+                                30.5802959070236,
+                                20.02968060622971
+                            ],
+                            [
+                                30.58029596157516,
+                                20.03442670425446
+                            ],
+                            [
+                                30.62560075917094,
+                                20.22515108030719
+                            ],
+                            [
+                                30.49084959435094,
+                                20.35614822539153
+                            ],
+                            [
+                                30.33057712898466,
+                                20.4571326498576
+                            ],
+                            [
+                                30.32887783850669,
+                                20.46187593214271
+                            ],
+                            [
+                                30.32886960377028,
+                                20.46503912331469
+                            ],
+                            [
+                                30.35028172727634,
+                                20.78377442320372
+                            ],
+                            [
+                                30.52079099518116,
+                                20.86137730825339
+                            ],
+                            [
+                                30.68482649847024,
+                                21.06193663929389
+                            ],
+                            [
+                                30.78831037768585,
+                                21.24982654573602
+                            ],
+                            [
+                                31.0808428259043,
+                                21.43104520191221
+                            ],
+                            [
+                                31.08257649771395,
+                                21.43894704540179
+                            ],
+                            [
+                                31.206466209383,
+                                21.63811536899216
+                            ],
+                            [
+                                31.368857704180105,
+                                21.79182096005522
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "5ab5790b-e9b8-4411-bf38-8cf81ed229c0",
+                    "name": "Atbara - Port Sudan",
+                    "pointNames": "",
+                    "start": "ee160b1f-03fd-43df-8c95-26e5a2c9fb49",
+                    "end": "e41366f7-3885-4f1c-8f0b-24ebe0b7b018",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                34.04129128469749,
+                                17.71878509158544
+                            ],
+                            [
+                                34.2510474635394,
+                                17.75961169132983
+                            ],
+                            [
+                                34.28120138308669,
+                                17.77325789576732
+                            ],
+                            [
+                                34.57038817277814,
+                                17.90732661713644
+                            ],
+                            [
+                                34.94949516239569,
+                                18.02251739535098
+                            ],
+                            [
+                                34.9570370361552,
+                                18.02472267345863
+                            ],
+                            [
+                                35.37327016167859,
+                                18.15535419717718
+                            ],
+                            [
+                                35.37835176657015,
+                                18.15761299444165
+                            ],
+                            [
+                                35.38851612471029,
+                                18.16213054610493
+                            ],
+                            [
+                                35.41121152347795,
+                                18.16635513588782
+                            ],
+                            [
+                                35.78248478686712,
+                                18.28616181509111
+                            ],
+                            [
+                                36.12960662001871,
+                                18.28020300531926
+                            ],
+                            [
+                                36.25498643183076,
+                                18.31784767794477
+                            ],
+                            [
+                                36.3850881243491,
+                                18.32187169564406
+                            ],
+                            [
+                                36.5415963899236,
+                                18.39506144824871
+                            ],
+                            [
+                                36.54176621201166,
+                                18.39999135358823
+                            ],
+                            [
+                                36.68287903413075,
+                                18.50124597325765
+                            ],
+                            [
+                                36.7605837178691,
+                                18.65347271807145
+                            ],
+                            [
+                                36.82323311919783,
+                                18.83180662401488
+                            ],
+                            [
+                                36.82327036655563,
+                                18.8327913112612
+                            ],
+                            [
+                                36.85763628724822,
+                                18.96620192749664
+                            ],
+                            [
+                                36.89784879918015,
+                                19.34397723164877
+                            ],
+                            [
+                                36.95901586128049,
+                                19.49407722174858
+                            ],
+                            [
+                                36.98394453349825,
+                                19.58002339527217
+                            ],
+                            [
+                                37.22115610490091,
+                                19.608199035495502
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b87a5e3f-5657-4627-a3a9-720fdcaa3fbe",
+                    "name": "Auto generated missing node - Wad Madani",
+                    "pointNames": "",
+                    "start": "c0d9b131-14bd-428c-99e3-2b058565fcf1",
+                    "end": "14b55660-f78f-4a8d-8376-35bfc5e89ba2",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.47787471627851,
+                                13.8985029051097
+                            ],
+                            [
+                                32.74007326294753,
+                                14.11712351492303
+                            ],
+                            [
+                                32.90796731164382,
+                                14.19142278974809
+                            ],
+                            [
+                                33.16738491462395,
+                                14.31334389183582
+                            ],
+                            [
+                                33.34655578283436,
+                                14.39958790354103
+                            ],
+                            [
+                                33.53580950513729,
+                                14.38106664674679
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "518b6329-abff-4897-aeba-906154f550c2",
+                    "name": "Chad Border - Geneina",
+                    "pointNames": "Geneina, Chad Border",
+                    "start": "46d5b4cb-697a-4e5b-a751-a948ff2f1a9c",
+                    "end": "5c79b570-dda8-43ad-83d4-91beb026959d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                22.232146158153252,
+                                13.456424381960183
+                            ],
+                            [
+                                22.24275056376199,
+                                13.46280549036264
+                            ],
+                            [
+                                22.25734440332782,
+                                13.44220939312662
+                            ],
+                            [
+                                22.27987382449903,
+                                13.43885960144584
+                            ],
+                            [
+                                22.30914031360187,
+                                13.439429732815
+                            ],
+                            [
+                                22.33314542282183,
+                                13.43515208224983
+                            ],
+                            [
+                                22.38151314217262,
+                                13.43372416081526
+                            ],
+                            [
+                                22.41177334925427,
+                                13.43431023379281
+                            ],
+                            [
+                                22.41842881828922,
+                                13.43296836469794
+                            ],
+                            [
+                                22.43563096463797,
+                                13.43467578077139
+                            ],
+                            [
+                                22.44433230719645,
+                                13.436556674102
+                            ],
+                            [
+                                22.44439668883481,
+                                13.43682071022106
+                            ],
+                            [
+                                22.44452846110907,
+                                13.43715196287884
+                            ],
+                            [
+                                22.44517130254275,
+                                13.44195655740222
+                            ],
+                            [
+                                22.445826171510564,
+                                13.444317710623894
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "636bfccc-783b-4ee9-91c0-e5069d87c47f",
+                    "name": "Geneina - Nyala",
+                    "pointNames": "Nyala",
+                    "start": "5c79b570-dda8-43ad-83d4-91beb026959d",
+                    "end": "c7aa2f22-b429-4fe5-b5e1-85a6ae3b5cab",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                22.445826171777586,
+                                13.444317711586661
+                            ],
+                            [
+                                22.48549827927472,
+                                13.45934962972838
+                            ],
+                            [
+                                22.5047104261909,
+                                13.43623836761497
+                            ],
+                            [
+                                22.52820326695511,
+                                13.40936281673905
+                            ],
+                            [
+                                22.54723576608456,
+                                13.39459987172874
+                            ],
+                            [
+                                22.54760899409636,
+                                13.38858209241212
+                            ],
+                            [
+                                22.55500062752202,
+                                13.37876942396366
+                            ],
+                            [
+                                22.58487447257984,
+                                13.35888159112038
+                            ],
+                            [
+                                22.62379457833524,
+                                13.29462898453159
+                            ],
+                            [
+                                22.64172610334584,
+                                13.25640409937765
+                            ],
+                            [
+                                22.69163703997746,
+                                13.23281312251929
+                            ],
+                            [
+                                22.72852051649106,
+                                13.21253534622819
+                            ],
+                            [
+                                22.73782608042222,
+                                13.18896610484485
+                            ],
+                            [
+                                22.73395064991062,
+                                13.17576139821989
+                            ],
+                            [
+                                22.7342054277538,
+                                13.17482685110057
+                            ],
+                            [
+                                22.74637083760494,
+                                13.16519424600378
+                            ],
+                            [
+                                22.76564380011272,
+                                13.16153631163515
+                            ],
+                            [
+                                22.77715549000369,
+                                13.14443922843344
+                            ],
+                            [
+                                22.78623621962634,
+                                13.12039876388785
+                            ],
+                            [
+                                22.78958230720761,
+                                13.10868531092067
+                            ],
+                            [
+                                22.8020141499351,
+                                13.10042641046544
+                            ],
+                            [
+                                22.82310701495064,
+                                13.09160492413063
+                            ],
+                            [
+                                22.8408650619979,
+                                13.07899074702009
+                            ],
+                            [
+                                22.8431418446961,
+                                13.05468616169477
+                            ],
+                            [
+                                22.84674369053385,
+                                13.0374750676335
+                            ],
+                            [
+                                22.86020324531886,
+                                12.99702400568684
+                            ],
+                            [
+                                22.87095288487387,
+                                12.96688449232542
+                            ],
+                            [
+                                22.87120643182942,
+                                12.96595068234042
+                            ],
+                            [
+                                22.89122413906389,
+                                12.96486673232151
+                            ],
+                            [
+                                22.91967568463487,
+                                12.97012468392302
+                            ],
+                            [
+                                22.95411983531303,
+                                12.97838703368776
+                            ],
+                            [
+                                23.00243407284434,
+                                12.97587097922239
+                            ],
+                            [
+                                23.03121012130931,
+                                12.96644927342762
+                            ],
+                            [
+                                23.04324086717175,
+                                12.93696412151378
+                            ],
+                            [
+                                23.06668872898597,
+                                12.90966100130607
+                            ],
+                            [
+                                23.08178644222449,
+                                12.8921452211737
+                            ],
+                            [
+                                23.0825068672107,
+                                12.89192324172713
+                            ],
+                            [
+                                23.08347141160651,
+                                12.89147173144283
+                            ],
+                            [
+                                23.11957681767182,
+                                12.89926735378218
+                            ],
+                            [
+                                23.13640164665079,
+                                12.89601783232336
+                            ],
+                            [
+                                23.14293010066489,
+                                12.88959525959527
+                            ],
+                            [
+                                23.15379617789757,
+                                12.88776738519061
+                            ],
+                            [
+                                23.1701164011366,
+                                12.87783480427759
+                            ],
+                            [
+                                23.18612493841877,
+                                12.854276790627
+                            ],
+                            [
+                                23.22969440077194,
+                                12.83001692456668
+                            ],
+                            [
+                                23.27224470387684,
+                                12.82522925110372
+                            ],
+                            [
+                                23.31235820257914,
+                                12.83330616816421
+                            ],
+                            [
+                                23.34932600888304,
+                                12.83242529010019
+                            ],
+                            [
+                                23.37568710678593,
+                                12.83277873580882
+                            ],
+                            [
+                                23.41275162531842,
+                                12.85434392390566
+                            ],
+                            [
+                                23.45079100539597,
+                                12.89201612214692
+                            ],
+                            [
+                                23.47300626377314,
+                                12.90644823687058
+                            ],
+                            [
+                                23.50003147434713,
+                                12.92329708444645
+                            ],
+                            [
+                                23.50989561811263,
+                                12.92862122887351
+                            ],
+                            [
+                                23.59378697345789,
+                                12.94123904666305
+                            ],
+                            [
+                                23.61101211930974,
+                                12.94686899470456
+                            ],
+                            [
+                                23.61173295832444,
+                                12.94687744954984
+                            ],
+                            [
+                                23.72379328517359,
+                                12.96405166484073
+                            ],
+                            [
+                                23.75769992903551,
+                                12.96233391964473
+                            ],
+                            [
+                                23.77987181266277,
+                                12.95223124004927
+                            ],
+                            [
+                                23.80819645565886,
+                                12.94692562677266
+                            ],
+                            [
+                                23.81978736347281,
+                                12.94517413335954
+                            ],
+                            [
+                                23.84188735072103,
+                                12.95906160584697
+                            ],
+                            [
+                                23.84905088398745,
+                                12.96172752074145
+                            ],
+                            [
+                                23.92615993354116,
+                                12.95106287181487
+                            ],
+                            [
+                                23.9516694407125,
+                                12.95954852920655
+                            ],
+                            [
+                                23.99754339700421,
+                                12.96753827249754
+                            ],
+                            [
+                                24.0345725751874,
+                                12.96646421452889
+                            ],
+                            [
+                                24.04410840488809,
+                                12.96442730016829
+                            ],
+                            [
+                                24.04460197109573,
+                                12.9555086252264
+                            ],
+                            [
+                                24.05125473048208,
+                                12.93473540160335
+                            ],
+                            [
+                                24.06674420857169,
+                                12.92243281445608
+                            ],
+                            [
+                                24.07362449006058,
+                                12.90757660678013
+                            ],
+                            [
+                                24.07486320253749,
+                                12.90409547214219
+                            ],
+                            [
+                                24.09057449724934,
+                                12.90192189616725
+                            ],
+                            [
+                                24.10135564322083,
+                                12.89322677021774
+                            ],
+                            [
+                                24.10552407940126,
+                                12.88100331986933
+                            ],
+                            [
+                                24.10540256121073,
+                                12.87083297184463
+                            ],
+                            [
+                                24.10541317645233,
+                                12.86990926109047
+                            ],
+                            [
+                                24.11017808262704,
+                                12.85562107951596
+                            ],
+                            [
+                                24.12640827653704,
+                                12.82551059492172
+                            ],
+                            [
+                                24.13750914319647,
+                                12.81058425781993
+                            ],
+                            [
+                                24.14148655665049,
+                                12.79140218195711
+                            ],
+                            [
+                                24.14376339172631,
+                                12.77685954639454
+                            ],
+                            [
+                                24.14376678575358,
+                                12.77639750693087
+                            ],
+                            [
+                                24.15730889953745,
+                                12.73693414917824
+                            ],
+                            [
+                                24.18218244812947,
+                                12.67945569566965
+                            ],
+                            [
+                                24.20072207625136,
+                                12.62123122666328
+                            ],
+                            [
+                                24.24760905457347,
+                                12.55345100099937
+                            ],
+                            [
+                                24.32675148715787,
+                                12.46238208088373
+                            ],
+                            [
+                                24.34693435021554,
+                                12.42633417028235
+                            ],
+                            [
+                                24.37853200899377,
+                                12.41281521467833
+                            ],
+                            [
+                                24.46091412142581,
+                                12.31447054269353
+                            ],
+                            [
+                                24.56267877447177,
+                                12.27480196227291
+                            ],
+                            [
+                                24.59813974086378,
+                                12.27365213140605
+                            ],
+                            [
+                                24.63527267719856,
+                                12.25247758723941
+                            ],
+                            [
+                                24.67088379279325,
+                                12.22208471077235
+                            ],
+                            [
+                                24.68455842039031,
+                                12.18308386793532
+                            ],
+                            [
+                                24.73027808053642,
+                                12.15514596758936
+                            ],
+                            [
+                                24.78550332469992,
+                                12.10740191237022
+                            ],
+                            [
+                                24.84690435511298,
+                                12.06509190254267
+                            ],
+                            [
+                                24.86817276423051,
+                                12.04615697919834
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "d09abd1e-42e6-4954-8583-ce87b5abd6d1",
+                    "name": "Al Fashir - En Nahud",
+                    "pointNames": "Al Fashir",
+                    "start": "3ee7895e-ac61-4491-90ea-785483c673ab",
+                    "end": "fce8df9c-3ed9-44ba-9a2f-5e8b7e19f157",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.356737358107353,
+                                13.624014790836437
+                            ],
+                            [
+                                25.38837344579508,
+                                13.62280833996713
+                            ],
+                            [
+                                25.42335698547613,
+                                13.64625050124263
+                            ],
+                            [
+                                25.56212426954289,
+                                13.73307330796392
+                            ],
+                            [
+                                25.64469382927884,
+                                13.77838154403782
+                            ],
+                            [
+                                25.64607278086072,
+                                13.78106945552393
+                            ],
+                            [
+                                25.64676233686054,
+                                13.78241361508909
+                            ],
+                            [
+                                25.77426495339749,
+                                13.86311084162966
+                            ],
+                            [
+                                25.88517551659143,
+                                13.89686200728617
+                            ],
+                            [
+                                25.93969810375421,
+                                13.90732218156325
+                            ],
+                            [
+                                26.01605897227068,
+                                13.9499398139029
+                            ],
+                            [
+                                26.21009964497452,
+                                13.90116926944415
+                            ],
+                            [
+                                26.35119981585079,
+                                13.82172005409864
+                            ],
+                            [
+                                26.42976793047323,
+                                13.80667907091175
+                            ],
+                            [
+                                26.50602117121185,
+                                13.72131483123048
+                            ],
+                            [
+                                26.55874897410984,
+                                13.63783507884055
+                            ],
+                            [
+                                26.57233143884129,
+                                13.60179719805241
+                            ],
+                            [
+                                26.60300810590812,
+                                13.58251973394048
+                            ],
+                            [
+                                26.72695790848618,
+                                13.57094702707318
+                            ],
+                            [
+                                26.81942606643301,
+                                13.52692717916922
+                            ],
+                            [
+                                26.92728425111887,
+                                13.51729694246485
+                            ],
+                            [
+                                27.0351127748703,
+                                13.4656643973507
+                            ],
+                            [
+                                27.12122045078914,
+                                13.43506866386458
+                            ],
+                            [
+                                27.23256005823118,
+                                13.33399998796139
+                            ],
+                            [
+                                27.29495480692214,
+                                13.29397246824669
+                            ],
+                            [
+                                27.49966844485536,
+                                13.24228169739952
+                            ],
+                            [
+                                27.65147363276062,
+                                13.16974042380478
+                            ],
+                            [
+                                27.73333035248634,
+                                13.15239519725254
+                            ],
+                            [
+                                27.8464440653302,
+                                13.13110167333485
+                            ],
+                            [
+                                27.94762956486134,
+                                13.07754063980472
+                            ],
+                            [
+                                28.04633342412821,
+                                12.9727610622472
+                            ],
+                            [
+                                28.15702503811917,
+                                12.90200818178097
+                            ],
+                            [
+                                28.27194856157774,
+                                12.8462598184006
+                            ],
+                            [
+                                28.42869210020648,
+                                12.69272284620846
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "72717245-7442-493f-853a-c1f620d54726",
+                    "name": "En Nahud - Al Ubayyid",
+                    "pointNames": "En Nahud, Al Ubayyid",
+                    "start": "fce8df9c-3ed9-44ba-9a2f-5e8b7e19f157",
+                    "end": "bfc4002d-d833-4af1-9921-3f518cfe5273",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.42869210115472,
+                                12.692722846523061
+                            ],
+                            [
+                                28.45635291666594,
+                                12.70189997959091
+                            ],
+                            [
+                                28.45707381412189,
+                                12.70189478385342
+                            ],
+                            [
+                                28.50093533083944,
+                                12.69980896609552
+                            ],
+                            [
+                                28.50165275622166,
+                                12.69980376945125
+                            ],
+                            [
+                                28.5029470213654,
+                                12.70007779311852
+                            ],
+                            [
+                                28.54259419813691,
+                                12.70701265170037
+                            ],
+                            [
+                                28.64395188575941,
+                                12.76143011370601
+                            ],
+                            [
+                                28.78304839453192,
+                                12.86125657834983
+                            ],
+                            [
+                                28.7830582099229,
+                                12.86282818591083
+                            ],
+                            [
+                                28.94889399156367,
+                                12.93505228084117
+                            ],
+                            [
+                                29.06949206520661,
+                                12.97845606231792
+                            ],
+                            [
+                                29.14233302953865,
+                                13.02193648481332
+                            ],
+                            [
+                                29.14476772997973,
+                                13.02427557809578
+                            ],
+                            [
+                                29.14801931523975,
+                                13.02817953182798
+                            ],
+                            [
+                                29.27578660287482,
+                                13.06891314255548
+                            ],
+                            [
+                                29.36900445502866,
+                                13.10517993205595
+                            ],
+                            [
+                                29.61088705721897,
+                                13.12117858237
+                            ],
+                            [
+                                29.77759135658001,
+                                13.15830283433449
+                            ],
+                            [
+                                29.90797432039377,
+                                13.16506077288615
+                            ],
+                            [
+                                30.03101297860551,
+                                13.16819329398749
+                            ],
+                            [
+                                30.13916168652723,
+                                13.17642556956334
+                            ],
+                            [
+                                30.21540324324064,
+                                13.18274343709655
+                            ],
+                            [
+                                30.22038765658646,
+                                13.181563319211705
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "aadcd70f-6209-4b03-8467-fcb618125a26",
+                    "name": "Al Ubayyid - Kosti",
+                    "pointNames": "Kosti",
+                    "start": "bfc4002d-d833-4af1-9921-3f518cfe5273",
+                    "end": "61b56a59-d824-4bd2-b73b-765671f684cb",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.22038765755847,
+                                13.18156331898157
+                            ],
+                            [
+                                30.35939220449741,
+                                13.16557112535143
+                            ],
+                            [
+                                30.438600435158,
+                                13.13996866948532
+                            ],
+                            [
+                                30.46059923565994,
+                                13.12928263747042
+                            ],
+                            [
+                                30.52217733224519,
+                                13.11648348802611
+                            ],
+                            [
+                                30.64093595473614,
+                                13.08440777278493
+                            ],
+                            [
+                                30.79048956785289,
+                                13.01368742037529
+                            ],
+                            [
+                                31.01936103261488,
+                                12.93624921026885
+                            ],
+                            [
+                                31.12116833956259,
+                                12.89185468789689
+                            ],
+                            [
+                                31.12660193220118,
+                                12.89570967396963
+                            ],
+                            [
+                                31.38496335290953,
+                                12.91560597895156
+                            ],
+                            [
+                                31.6533383095297,
+                                12.96783754460372
+                            ],
+                            [
+                                31.82871753463619,
+                                12.99511714682254
+                            ],
+                            [
+                                32.08662356225436,
+                                13.00122982415605
+                            ],
+                            [
+                                32.30854503288009,
+                                13.00118962210346
+                            ],
+                            [
+                                32.4778757817224,
+                                13.05962402049763
+                            ],
+                            [
+                                32.6587165076532,
+                                13.138765773566492
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b4d0888e-d513-4a16-861c-f0cfc329ccc9",
+                    "name": "Ad-Damazin - Er Roseires",
+                    "pointNames": "Er Roseires, Ad-Damazin",
+                    "start": "0748df7a-2b1e-4caa-ae53-aa6ce928c556",
+                    "end": "7cb2967e-3c76-4a8a-8b52-a3254f3a3d46",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                34.34717921332776,
+                                11.821042833512678
+                            ],
+                            [
+                                34.342835631501195,
+                                11.858743845094084
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8db82371-ee14-4ae8-b9a3-68e34fe2ebd2",
+                    "name": "Er Roseires - Sennar",
+                    "pointNames": "Er Roseires, Ad-Damazin",
+                    "start": "7cb2967e-3c76-4a8a-8b52-a3254f3a3d46",
+                    "end": "66632b8b-93de-4d34-9f29-db70a47f5d86",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                34.34283563127244,
+                                11.8587438470796
+                            ],
+                            [
+                                34.33824632408622,
+                                11.89857768244567
+                            ],
+                            [
+                                34.33659039820309,
+                                11.90028241778092
+                            ],
+                            [
+                                34.26932621117773,
+                                12.02170369074255
+                            ],
+                            [
+                                34.18641608969671,
+                                12.26188166953359
+                            ],
+                            [
+                                34.08604684802017,
+                                12.58611783659744
+                            ],
+                            [
+                                34.05860372865475,
+                                12.79205638636135
+                            ],
+                            [
+                                33.93395107264038,
+                                12.99028856885761
+                            ],
+                            [
+                                33.93367434992042,
+                                13.12591862993585
+                            ],
+                            [
+                                33.83404468426506,
+                                13.23708205327006
+                            ],
+                            [
+                                33.72905583087485,
+                                13.27570222816629
+                            ],
+                            [
+                                33.64700384593885,
+                                13.33916527029921
+                            ],
+                            [
+                                33.64720646256343,
+                                13.42076461899579
+                            ],
+                            [
+                                33.66557070472005,
+                                13.48390351480043
+                            ],
+                            [
+                                33.569006383489125,
+                                13.563539536317922
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "2089d67b-c029-4f63-a06a-af6534f27a4c",
+                    "name": "Sennar - Wad Madani",
+                    "pointNames": "Wad Madani",
+                    "start": "66632b8b-93de-4d34-9f29-db70a47f5d86",
+                    "end": "14b55660-f78f-4a8d-8376-35bfc5e89ba2",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.569006383489125,
+                                13.563539536317922
+                            ],
+                            [
+                                33.53456388992728,
+                                13.78407719554625
+                            ],
+                            [
+                                33.58688780209816,
+                                13.98480901478317
+                            ],
+                            [
+                                33.65849457682397,
+                                14.0977839344425
+                            ],
+                            [
+                                33.59177592454456,
+                                14.25395720644107
+                            ],
+                            [
+                                33.5886483573293,
+                                14.2604149506056
+                            ],
+                            [
+                                33.53580950553813,
+                                14.3810666458315
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "593bfefa-ce05-4a64-9b56-f52beca32630",
+                    "name": "Al Gadarif - Ethiopia Border",
+                    "pointNames": "Ethiopia Border",
+                    "start": "e161ada6-488d-4b69-baed-40c47135b6b1",
+                    "end": "9afebef8-96c9-42dc-898f-3a888c4345cc",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                35.35125796010477,
+                                14.03361652692676
+                            ],
+                            [
+                                35.45825992595928,
+                                13.75463983315873
+                            ],
+                            [
+                                35.4579235944456,
+                                13.73893322393431
+                            ],
+                            [
+                                35.46585526818762,
+                                13.73088967824196
+                            ],
+                            [
+                                35.59572566624995,
+                                13.56691951107705
+                            ],
+                            [
+                                35.73168517478801,
+                                13.50488002373381
+                            ],
+                            [
+                                35.80531341041689,
+                                13.37767675322573
+                            ],
+                            [
+                                35.90878012540011,
+                                13.1596641294669
+                            ],
+                            [
+                                36.06236420639312,
+                                13.02281597985901
+                            ],
+                            [
+                                36.139229766855145,
+                                12.977484505428256
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a1ff739b-78bf-4c4b-9b24-add377fefa02",
+                    "name": "Al Gadarif - Kashim El Girba",
+                    "pointNames": "",
+                    "start": "e161ada6-488d-4b69-baed-40c47135b6b1",
+                    "end": "89461b5c-a1d6-40d5-a4ce-2cf8c950aec9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                35.39938646385681,
+                                14.03964201339625
+                            ],
+                            [
+                                35.63202079701676,
+                                14.241329060713
+                            ],
+                            [
+                                35.83667365006111,
+                                14.36428725454762
+                            ],
+                            [
+                                35.84992392574727,
+                                14.43225880058201
+                            ],
+                            [
+                                35.82664124076146,
+                                14.75984040926907
+                            ],
+                            [
+                                35.8543541041947,
+                                14.94042383591352
+                            ],
+                            [
+                                35.90056863387996,
+                                14.97676573295989
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "46cf2d93-ab88-4e47-9a27-69ba1f0e5567",
+                    "name": "Kashim El Girba - New Halfa",
+                    "pointNames": "New Halfa",
+                    "start": "89461b5c-a1d6-40d5-a4ce-2cf8c950aec9",
+                    "end": "ea63c941-1803-4bc2-b4b9-b73fb38890bf",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                35.90056863387996,
+                                14.97676573295989
+                            ],
+                            [
+                                35.85055597999138,
+                                15.01530328590035
+                            ],
+                            [
+                                35.72540706725845,
+                                15.17653760391703
+                            ],
+                            [
+                                35.63986199152628,
+                                15.28597266445462
+                            ],
+                            [
+                                35.597984319884695,
+                                15.328135235471818
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "eb978255-a58a-456a-94dd-4f03f5c20812",
+                    "name": "Wad Madani - Khartoum",
+                    "pointNames": "",
+                    "start": "14b55660-f78f-4a8d-8376-35bfc5e89ba2",
+                    "end": "66936345-62e4-42ed-b6a4-4618d93b23b4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.50736818998663,
+                                14.48038198052598
+                            ],
+                            [
+                                33.33396485491173,
+                                14.82413254944368
+                            ],
+                            [
+                                33.23721212497846,
+                                15.12371100638994
+                            ],
+                            [
+                                33.05148082319393,
+                                15.29523645681761
+                            ],
+                            [
+                                32.8468887473888,
+                                15.35667258654789
+                            ],
+                            [
+                                32.53351553794929,
+                                15.59427030071071
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c38a3c7d-9e9b-4e4d-86a2-65b57dd71b60",
+                    "name": "Suakin - Port Sudan",
+                    "pointNames": "Port Sudan",
+                    "start": "af714af5-566e-4e0e-8534-31fea60bed94",
+                    "end": "e41366f7-3885-4f1c-8f0b-24ebe0b7b018",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                37.30819927895551,
+                                19.10483772969049
+                            ],
+                            [
+                                37.29132336889158,
+                                19.30479960499732
+                            ],
+                            [
+                                37.29164777023269,
+                                19.31481384738294
+                            ],
+                            [
+                                37.26710233658179,
+                                19.47589690727469
+                            ],
+                            [
+                                37.221156105228594,
+                                19.608199034551944
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "62fbecd5-009f-418c-81ad-338d0e7964ce",
+                    "name": "Al Ubayyid - Khartoum",
+                    "pointNames": "",
+                    "start": "bfc4002d-d833-4af1-9921-3f518cfe5273",
+                    "end": "66936345-62e4-42ed-b6a4-4618d93b23b4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.25493518898199,
+                                13.18991169109937
+                            ],
+                            [
+                                30.39393775402794,
+                                13.49633610619275
+                            ],
+                            [
+                                30.39393142193169,
+                                13.50910245549738
+                            ],
+                            [
+                                30.39392744144401,
+                                13.51931668468924
+                            ],
+                            [
+                                30.53395148642022,
+                                13.86201056701408
+                            ],
+                            [
+                                30.65877920386104,
+                                14.02367408660663
+                            ],
+                            [
+                                30.65881421621476,
+                                14.0339284131706
+                            ],
+                            [
+                                30.6588754604301,
+                                14.05187504737343
+                            ],
+                            [
+                                30.58258335481958,
+                                14.2260688209083
+                            ],
+                            [
+                                30.68713785402224,
+                                14.42201877782455
+                            ],
+                            [
+                                30.83020968610829,
+                                14.65466362491288
+                            ],
+                            [
+                                31.08492765125057,
+                                14.85111452791712
+                            ],
+                            [
+                                31.24931879158068,
+                                14.77674915519766
+                            ],
+                            [
+                                31.39814350685952,
+                                14.72526647694659
+                            ],
+                            [
+                                31.74761561552678,
+                                15.06668296878842
+                            ],
+                            [
+                                32.05892730907701,
+                                15.41517723307436
+                            ],
+                            [
+                                32.25076394371517,
+                                15.56526370813196
+                            ],
+                            [
+                                32.41464293281367,
+                                15.60705138344522
+                            ],
+                            [
+                                32.53351553794929,
+                                15.59427030071071
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "45288969-64ba-43a6-9680-794354a59666",
+                    "name": "Khartoum - Atbara",
+                    "pointNames": "Atbara",
+                    "start": "66936345-62e4-42ed-b6a4-4618d93b23b4",
+                    "end": "ee160b1f-03fd-43df-8c95-26e5a2c9fb49",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.53351553794929,
+                                15.59427030071071
+                            ],
+                            [
+                                32.61428675432204,
+                                16.00477775501165
+                            ],
+                            [
+                                32.76645000223569,
+                                16.30128970185256
+                            ],
+                            [
+                                33.05531279647632,
+                                16.55658992548224
+                            ],
+                            [
+                                33.53648515153536,
+                                16.74478739026998
+                            ],
+                            [
+                                33.71021061640484,
+                                17.0656924234826
+                            ],
+                            [
+                                33.95206607824398,
+                                17.45407035327285
+                            ],
+                            [
+                                33.998900457761046,
+                                17.698263774528655
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0b8ee234-9cef-4578-b537-1d5171bcfbc0",
+                    "name": "network fork - Khartoum",
+                    "pointNames": "Khartoum",
+                    "start": "f5343ffc-4402-4675-824a-c813a4ea295f",
+                    "end": "66936345-62e4-42ed-b6a4-4618d93b23b4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.75252059460916,
+                                13.16915125192317
+                            ],
+                            [
+                                32.73062034487057,
+                                13.18984629964123
+                            ],
+                            [
+                                32.67198590750548,
+                                13.53460785385555
+                            ],
+                            [
+                                32.67219659770507,
+                                13.54698626253981
+                            ],
+                            [
+                                32.44452008573178,
+                                13.89691654137618
+                            ],
+                            [
+                                32.43519868582025,
+                                13.91251756624629
+                            ],
+                            [
+                                32.43210919766421,
+                                13.91874901825503
+                            ],
+                            [
+                                32.31056057644032,
+                                14.28577297545646
+                            ],
+                            [
+                                32.23565087326761,
+                                14.57232263661313
+                            ],
+                            [
+                                32.33347184380306,
+                                14.81740038345441
+                            ],
+                            [
+                                32.44424276550821,
+                                15.05310876974318
+                            ],
+                            [
+                                32.52285717909258,
+                                15.32419808863914
+                            ],
+                            [
+                                32.52314437192521,
+                                15.33967589259958
+                            ],
+                            [
+                                32.48702843377557,
+                                15.47335055610509
+                            ],
+                            [
+                                32.53351553759079,
+                                15.594270299778179
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "09500481-fc88-40c2-bda8-5e7b63ed7f6a",
+                    "name": "Kosti - network fork",
+                    "pointNames": "Sennar",
+                    "start": "61b56a59-d824-4bd2-b73b-765671f684cb",
+                    "end": "f5343ffc-4402-4675-824a-c813a4ea295f",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.6587165085686,
+                                13.1387657739671
+                            ],
+                            [
+                                32.74256259684878,
+                                13.14983072863779
+                            ],
+                            [
+                                32.74840718313176,
+                                13.15529038096924
+                            ],
+                            [
+                                32.75039481576666,
+                                13.15896860056316
+                            ],
+                            [
+                                32.75142814537602,
+                                13.16266613849224
+                            ],
+                            [
+                                32.7524811532014,
+                                13.16729285965841
+                            ],
+                            [
+                                32.75252059460916,
+                                13.16915125192317
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8b305408-483d-4fba-8307-a9c8636c9a40",
+                    "name": "network fork - Sennar",
+                    "pointNames": "Sennar",
+                    "start": "f5343ffc-4402-4675-824a-c813a4ea295f",
+                    "end": "66632b8b-93de-4d34-9f29-db70a47f5d86",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.75252059460916,
+                                13.16915125192317
+                            ],
+                            [
+                                32.86558970947843,
+                                13.23193427788781
+                            ],
+                            [
+                                33.29741043249155,
+                                13.43111037265479
+                            ],
+                            [
+                                33.49209226464383,
+                                13.52827000820499
+                            ],
+                            [
+                                33.56900638258117,
+                                13.563539535901574
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4eef2b9a-b7c7-4449-b0e3-e4c8bc063bfa",
+                    "name": "Geneina - network fork",
+                    "pointNames": "",
+                    "start": "5c79b570-dda8-43ad-83d4-91beb026959d",
+                    "end": "bd4d009d-32b5-42f2-b2d0-58c0dfc91c21",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                22.445826171777586,
+                                13.444317711586661
+                            ],
+                            [
+                                22.46872926471143,
+                                13.47341884212882
+                            ],
+                            [
+                                22.53419106449795,
+                                13.48914241380503
+                            ],
+                            [
+                                22.59865081696644,
+                                13.49240700460653
+                            ],
+                            [
+                                22.66135188611766,
+                                13.50002062513795
+                            ],
+                            [
+                                22.66285061952504,
+                                13.50004500172536
+                            ],
+                            [
+                                22.704489575519,
+                                13.50877382582856
+                            ],
+                            [
+                                22.77539154299713,
+                                13.51505830353973
+                            ],
+                            [
+                                22.79635658890842,
+                                13.51466444186162
+                            ],
+                            [
+                                22.83497241914908,
+                                13.52479452652395
+                            ],
+                            [
+                                22.83717704832097,
+                                13.5262926938577
+                            ],
+                            [
+                                22.87963111872595,
+                                13.53426547411894
+                            ],
+                            [
+                                22.91767187891094,
+                                13.53922905277949
+                            ],
+                            [
+                                22.95615480992083,
+                                13.52085215364365
+                            ],
+                            [
+                                22.98681921793765,
+                                13.51770867644422
+                            ],
+                            [
+                                22.99950281794927,
+                                13.51792687422802
+                            ],
+                            [
+                                23.02339584954829,
+                                13.51759498150011
+                            ],
+                            [
+                                23.05740975224511,
+                                13.48969808868242
+                            ],
+                            [
+                                23.10003214816406,
+                                13.48019819108881
+                            ],
+                            [
+                                23.14852108173349,
+                                13.47514267927498
+                            ],
+                            [
+                                23.20077868017633,
+                                13.46068962162257
+                            ],
+                            [
+                                23.25530021982041,
+                                13.44413555478354
+                            ],
+                            [
+                                23.30676744105879,
+                                13.47546242167807
+                            ],
+                            [
+                                23.39349263727685,
+                                13.49988085824456
+                            ],
+                            [
+                                23.4118890218827,
+                                13.5363829142433
+                            ],
+                            [
+                                23.42680841487737,
+                                13.53442954503843
+                            ],
+                            [
+                                23.45655608025809,
+                                13.54866017380901
+                            ],
+                            [
+                                23.44831227576602,
+                                13.56235247288821
+                            ],
+                            [
+                                23.50572816194563,
+                                13.56754858406963
+                            ],
+                            [
+                                23.55495378184899,
+                                13.55661452607877
+                            ],
+                            [
+                                23.59297638654048,
+                                13.54540934500037
+                            ],
+                            [
+                                23.63369380455526,
+                                13.57065572116482
+                            ],
+                            [
+                                23.70440141042411,
+                                13.58909317891957
+                            ],
+                            [
+                                23.74093959283804,
+                                13.59323239513742
+                            ],
+                            [
+                                23.75135940529515,
+                                13.61014465230936
+                            ],
+                            [
+                                23.75729075829596,
+                                13.63139721669297
+                            ],
+                            [
+                                23.80290154300037,
+                                13.63274913355498
+                            ],
+                            [
+                                23.91233086389438,
+                                13.63394891926992
+                            ],
+                            [
+                                23.95854082102672,
+                                13.63884600906759
+                            ],
+                            [
+                                23.97889042799871,
+                                13.62230831770702
+                            ],
+                            [
+                                24.02870043068067,
+                                13.6360249947685
+                            ],
+                            [
+                                24.0793087260508,
+                                13.65123698035531
+                            ],
+                            [
+                                24.18153692558206,
+                                13.65534406038958
+                            ],
+                            [
+                                24.23154047025956,
+                                13.6581036206197
+                            ],
+                            [
+                                24.26063914690874,
+                                13.66061385357869
+                            ],
+                            [
+                                24.31685659520212,
+                                13.67407542039417
+                            ],
+                            [
+                                24.3684248429608,
+                                13.64709023253531
+                            ],
+                            [
+                                24.41859886144655,
+                                13.6216849880423
+                            ],
+                            [
+                                24.46033333609356,
+                                13.63657535149507
+                            ],
+                            [
+                                24.52894453959891,
+                                13.65104700130582
+                            ],
+                            [
+                                24.57505064357532,
+                                13.64646027526087
+                            ],
+                            [
+                                24.60174507939671,
+                                13.59694726197006
+                            ],
+                            [
+                                24.63016550951658,
+                                13.57347411672049
+                            ],
+                            [
+                                24.68952132567784,
+                                13.56540998042956
+                            ],
+                            [
+                                24.75118190409119,
+                                13.54585955835599
+                            ],
+                            [
+                                24.80108510641396,
+                                13.51962490214243
+                            ],
+                            [
+                                24.86728284606667,
+                                13.51949715458505
+                            ],
+                            [
+                                24.91142784924604,
+                                13.50757408501186
+                            ],
+                            [
+                                24.984454100584,
+                                13.54442025646064
+                            ],
+                            [
+                                25.0324202001019,
+                                13.57678379245938
+                            ],
+                            [
+                                25.10082652377942,
+                                13.59554732691706
+                            ],
+                            [
+                                25.18063735087395,
+                                13.60419945065612
+                            ],
+                            [
+                                25.21802122637162,
+                                13.59794357920402
+                            ],
+                            [
+                                25.22027251560608,
+                                13.59577394942592
+                            ],
+                            [
+                                25.29231925419091,
+                                13.47783652763404
+                            ],
+                            [
+                                25.30860221431351,
+                                13.48632497663617
+                            ],
+                            [
+                                25.31301618192257,
+                                13.485647455299125
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "811b899d-1065-49df-9034-7ef85f351271",
+                    "name": "Nyala - network fork",
+                    "pointNames": "",
+                    "start": "c7aa2f22-b429-4fe5-b5e1-85a6ae3b5cab",
+                    "end": "bd4d009d-32b5-42f2-b2d0-58c0dfc91c21",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.31301618192257,
+                                13.485647455299125
+                            ],
+                            [
+                                25.31667023167468,
+                                13.50945313692979
+                            ],
+                            [
+                                25.31921386741514,
+                                13.5355012563534
+                            ],
+                            [
+                                25.33294905929608,
+                                13.58419247123283
+                            ],
+                            [
+                                25.35055460707695,
+                                13.60341997889943
+                            ],
+                            [
+                                25.35673735710922,
+                                13.6240147908745
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "05971bac-027e-4322-a32e-2722e3864b5c",
+                    "name": "network fork - Al Fashir",
+                    "pointNames": "",
+                    "start": "bd4d009d-32b5-42f2-b2d0-58c0dfc91c21",
+                    "end": "3ee7895e-ac61-4491-90ea-785483c673ab",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.87327934688047,
+                                12.04776816079626
+                            ],
+                            [
+                                24.87293856971118,
+                                12.04905288420276
+                            ],
+                            [
+                                24.89709980369706,
+                                12.07982169104399
+                            ],
+                            [
+                                24.9316099276028,
+                                12.10750232580376
+                            ],
+                            [
+                                24.95120980174055,
+                                12.1477418534869
+                            ],
+                            [
+                                24.96813923549553,
+                                12.20233333243669
+                            ],
+                            [
+                                24.96579145451797,
+                                12.23403035186345
+                            ],
+                            [
+                                24.97403503348523,
+                                12.31886306364348
+                            ],
+                            [
+                                24.97721259804577,
+                                12.36648749763283
+                            ],
+                            [
+                                24.98409275106819,
+                                12.41143740920353
+                            ],
+                            [
+                                24.9733223215296,
+                                12.43130068654638
+                            ],
+                            [
+                                24.97808687387738,
+                                12.48889461132455
+                            ],
+                            [
+                                24.99461469474871,
+                                12.51467364909447
+                            ],
+                            [
+                                24.98961518809121,
+                                12.58373140020977
+                            ],
+                            [
+                                24.98217748586938,
+                                12.61956227394747
+                            ],
+                            [
+                                24.98595343861537,
+                                12.67376318274094
+                            ],
+                            [
+                                25.0146879081842,
+                                12.72879464703675
+                            ],
+                            [
+                                25.02526055694839,
+                                12.76390892775404
+                            ],
+                            [
+                                25.02899540304876,
+                                12.78838909968819
+                            ],
+                            [
+                                25.0502252217859,
+                                12.82528843617353
+                            ],
+                            [
+                                25.07389085796089,
+                                12.87063795651175
+                            ],
+                            [
+                                25.10904165930993,
+                                12.90688987122474
+                            ],
+                            [
+                                25.13499387312831,
+                                12.93831721600439
+                            ],
+                            [
+                                25.15033930055625,
+                                12.9586539485833
+                            ],
+                            [
+                                25.17258572129123,
+                                12.99818610600887
+                            ],
+                            [
+                                25.19313787762346,
+                                13.01577266998009
+                            ],
+                            [
+                                25.20375539534655,
+                                13.04432552771894
+                            ],
+                            [
+                                25.21506749971104,
+                                13.08270339045598
+                            ],
+                            [
+                                25.20530316118447,
+                                13.14473556032076
+                            ],
+                            [
+                                25.21691639516771,
+                                13.1917178291052
+                            ],
+                            [
+                                25.22959901485819,
+                                13.23564799948144
+                            ],
+                            [
+                                25.24068763423474,
+                                13.26051180853438
+                            ],
+                            [
+                                25.25607961438268,
+                                13.31080381817916
+                            ],
+                            [
+                                25.28017817536833,
+                                13.37883124839333
+                            ],
+                            [
+                                25.30963366950211,
+                                13.46361080575794
+                            ],
+                            [
+                                25.31301618192257,
+                                13.485647455299125
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "2809d51d-c3d6-421a-b054-d5bb75550c00",
+                    "name": "Kadugli - network fork",
+                    "pointNames": "Kadugli",
+                    "start": "59430186-5976-45a1-9609-58a2d5ff639b",
+                    "end": "e5ba353f-bf50-4efd-8dc1-e254e9f93a90",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.722672314546262,
+                                11.014445692951984
+                            ],
+                            [
+                                29.65160320463311,
+                                11.17887900397577
+                            ],
+                            [
+                                29.65826737502169,
+                                11.3151401637142
+                            ],
+                            [
+                                29.66485268305501,
+                                11.43570442530407
+                            ],
+                            [
+                                29.662045714505304,
+                                11.43877999581257
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3e370bf0-ab58-44e8-bad2-2b6d1c266d55",
+                    "name": "South Sudan Border - network fork",
+                    "pointNames": "South Sudan Border",
+                    "start": "fa3f84a5-958a-4558-b1e3-e6ca20ef1d8d",
+                    "end": "e5ba353f-bf50-4efd-8dc1-e254e9f93a90",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.46189315010657,
+                                9.85297285607158
+                            ],
+                            [
+                                29.37649317547854,
+                                10.11165689147441
+                            ],
+                            [
+                                29.34527388200627,
+                                10.40583975624599
+                            ],
+                            [
+                                29.34531466493209,
+                                10.41632551425401
+                            ],
+                            [
+                                29.30945390883394,
+                                10.76239232804777
+                            ],
+                            [
+                                29.32801606829197,
+                                11.13392250384527
+                            ],
+                            [
+                                29.662045714505304,
+                                11.43877999581257
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "04d35440-37ca-4f13-bfde-d6df2541152b",
+                    "name": "network fork - Al Ubayyid",
+                    "pointNames": "South Sudan Border",
+                    "start": "e5ba353f-bf50-4efd-8dc1-e254e9f93a90",
+                    "end": "bfc4002d-d833-4af1-9921-3f518cfe5273",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.662045714505304,
+                                11.43877999581257
+                            ],
+                            [
+                                29.67584976324239,
+                                11.45137848138021
+                            ],
+                            [
+                                29.7538313459,
+                                11.64512963290414
+                            ],
+                            [
+                                29.73991487155356,
+                                11.82906743238045
+                            ],
+                            [
+                                29.67295222999394,
+                                12.07655982206858
+                            ],
+                            [
+                                29.71423300626958,
+                                12.27680733608126
+                            ],
+                            [
+                                29.78893107394856,
+                                12.49864817927036
+                            ],
+                            [
+                                30.06106118996035,
+                                12.68963977778885
+                            ],
+                            [
+                                30.17818057700059,
+                                12.99333314865271
+                            ],
+                            [
+                                30.22038765755847,
+                                13.18156331898157
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "69fefd59-b0d2-4dad-b4b4-c9bdbae30462",
+                    "name": "network fork - En Nahud",
+                    "pointNames": "",
+                    "start": "eb0f5ddf-e9bf-4190-9316-04604f3962b4",
+                    "end": "fce8df9c-3ed9-44ba-9a2f-5e8b7e19f157",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.814953970949386,
+                                11.925529810841956
+                            ],
+                            [
+                                28.80787280902609,
+                                11.93420270289077
+                            ],
+                            [
+                                28.69405698553474,
+                                12.18114254067501
+                            ],
+                            [
+                                28.53798981685956,
+                                12.5060460070421
+                            ],
+                            [
+                                28.53357971908073,
+                                12.5147166947717
+                            ],
+                            [
+                                28.53137435444089,
+                                12.51905217757419
+                            ],
+                            [
+                                28.42869210020648,
+                                12.69272284620846
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "27e2337f-3d1e-4e1c-bc03-3b682552f4e5",
+                    "name": "Nyala - network fork",
+                    "pointNames": "",
+                    "start": "c7aa2f22-b429-4fe5-b5e1-85a6ae3b5cab",
+                    "end": "eb0f5ddf-e9bf-4190-9316-04604f3962b4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.86817276497653,
+                                12.04615697853417
+                            ],
+                            [
+                                24.93096029980269,
+                                12.01716005286132
+                            ],
+                            [
+                                25.54036775845726,
+                                11.73158423381688
+                            ],
+                            [
+                                25.54705737239727,
+                                11.72728902608457
+                            ],
+                            [
+                                25.93341916043349,
+                                11.52820026918273
+                            ],
+                            [
+                                26.42623262473396,
+                                11.34468030557211
+                            ],
+                            [
+                                26.43507169126882,
+                                11.34039219812505
+                            ],
+                            [
+                                26.44391134970467,
+                                11.33610374399356
+                            ],
+                            [
+                                26.45052717984208,
+                                11.33612991151869
+                            ],
+                            [
+                                26.84977346074781,
+                                11.16008854599565
+                            ],
+                            [
+                                27.21358414792801,
+                                11.10250964887826
+                            ],
+                            [
+                                27.70972792672057,
+                                11.06144951227134
+                            ],
+                            [
+                                27.87983805850592,
+                                11.12399584327749
+                            ],
+                            [
+                                28.20821176079642,
+                                11.39847817925002
+                            ],
+                            [
+                                28.21490406362562,
+                                11.407136062934
+                            ],
+                            [
+                                28.21936120087868,
+                                11.41146311181459
+                            ],
+                            [
+                                28.51936287582517,
+                                11.65625428309357
+                            ],
+                            [
+                                28.52612928040917,
+                                11.66277013187994
+                            ],
+                            [
+                                28.53062529224256,
+                                11.6649399687284
+                            ],
+                            [
+                                28.53739364603445,
+                                11.67145675693321
+                            ],
+                            [
+                                28.54640418942321,
+                                11.67797214939942
+                            ],
+                            [
+                                28.80248714946209,
+                                11.91535101683374
+                            ],
+                            [
+                                28.814953970949386,
+                                11.925529810841956
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e074f9ef-ca71-4d77-9bef-c048c8b592e2",
+                    "name": "network fork - Auto generated missing node",
+                    "pointNames": "",
+                    "start": "eb0f5ddf-e9bf-4190-9316-04604f3962b4",
+                    "end": "9b3a82d9-176c-41b5-bac2-9bb75f998f2c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.814953970949386,
+                                11.925529810841956
+                            ],
+                            [
+                                29.05191641831001,
+                                12.11900269740124
+                            ],
+                            [
+                                29.25218301351423,
+                                12.32966420175195
+                            ],
+                            [
+                                29.48061727413005,
+                                12.38012816823753
+                            ],
+                            [
+                                29.75634885537802,
+                                12.4323571508823
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9efbe83f-f875-412b-92be-baa050293376",
+                    "name": "network fork - Suakin",
+                    "pointNames": "Suakin",
+                    "start": "1aa6f7ed-47f9-4a0e-b139-96d24bd444ba",
+                    "end": "af714af5-566e-4e0e-8534-31fea60bed94",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                36.33925265033248,
+                                15.418373908200131
+                            ],
+                            [
+                                36.33353783945181,
+                                15.42280129223558
+                            ],
+                            [
+                                36.23879441066556,
+                                15.53470528360106
+                            ],
+                            [
+                                36.19670706481036,
+                                15.60894937610716
+                            ],
+                            [
+                                36.12526664315643,
+                                15.71739685183218
+                            ],
+                            [
+                                36.14379902173634,
+                                15.97200545058073
+                            ],
+                            [
+                                36.05442611699515,
+                                16.71961782483026
+                            ],
+                            [
+                                36.0831376217382,
+                                17.17998761539705
+                            ],
+                            [
+                                36.07167062451366,
+                                17.56921148632554
+                            ],
+                            [
+                                36.04797617563673,
+                                17.73045407649346
+                            ],
+                            [
+                                36.09437281456311,
+                                17.82180169371095
+                            ],
+                            [
+                                36.3120690858504,
+                                18.1977061424129
+                            ],
+                            [
+                                36.38668464807739,
+                                18.30799146060854
+                            ],
+                            [
+                                36.55282669632227,
+                                18.36375847875543
+                            ],
+                            [
+                                36.71458571134853,
+                                18.5001335276481
+                            ],
+                            [
+                                36.71481423040723,
+                                18.5081308668058
+                            ],
+                            [
+                                36.83212490234425,
+                                18.75123889985161
+                            ],
+                            [
+                                36.9121296087562,
+                                18.95300982172902
+                            ],
+                            [
+                                36.92907357696436,
+                                18.95455699345978
+                            ],
+                            [
+                                36.94181315896131,
+                                18.95620864325847
+                            ],
+                            [
+                                36.94820588122698,
+                                18.95803682144241
+                            ],
+                            [
+                                36.95883006239499,
+                                18.95974623373498
+                            ],
+                            [
+                                36.96737530684752,
+                                18.96352661792391
+                            ],
+                            [
+                                36.9759196428617,
+                                18.96730901355701
+                            ],
+                            [
+                                37.09049359066702,
+                                19.05860963527764
+                            ],
+                            [
+                                37.22906044210051,
+                                19.08495155826577
+                            ],
+                            [
+                                37.30819927798684,
+                                19.10483772944708
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "34d9d1c8-793f-4ea6-9096-5f78aec82aaa",
+                    "name": "Kashim El Girba - network fork",
+                    "pointNames": "Kashim El Girba, Kassala",
+                    "start": "89461b5c-a1d6-40d5-a4ce-2cf8c950aec9",
+                    "end": "1aa6f7ed-47f9-4a0e-b139-96d24bd444ba",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                35.90056863462941,
+                                14.976765733620288
+                            ],
+                            [
+                                36.02198700599169,
+                                15.08375789673323
+                            ],
+                            [
+                                36.02805972354255,
+                                15.0921120286137
+                            ],
+                            [
+                                36.04020612317205,
+                                15.10882294267159
+                            ],
+                            [
+                                36.26881225886316,
+                                15.32745034873816
+                            ],
+                            [
+                                36.33925265033248,
+                                15.418373908200131
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "70cbddcc-de6c-4306-9654-5bbee9e39112",
+                    "name": "network fork - Kassala",
+                    "pointNames": "Kashim El Girba, Kassala",
+                    "start": "1aa6f7ed-47f9-4a0e-b139-96d24bd444ba",
+                    "end": "d7019c82-1131-4d0d-9b85-94d062b94d3b",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                36.33925265033248,
+                                15.418373908200131
+                            ],
+                            [
+                                36.35098132837992,
+                                15.4335131363278
+                            ],
+                            [
+                                36.39304761397645,
+                                15.466611395133727
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "SD-1",
+                    "name": "Sudatel"
+                }
+            ]
+        }
+    ]
+}
