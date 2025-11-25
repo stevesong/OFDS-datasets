@@ -5,4 +5,4 @@ This map was digitized from the publicly available Sudatel Annual Report at http
 -- Steve Song, November 2025
 
 
-![Sudatel Sudan](https://github.com/stevesong/OFDS-datasets/blob/main/Sudan/Sudatel/sudantel.png?raw=true)
+![Sudatel Sudan](https://github.com/stevesong/OFDS-datasets/blob/main/Sudan/Sudatel/sudatel.png?raw=true)
