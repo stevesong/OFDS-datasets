@@ -1,0 +1,4262 @@
+{
+    "networks": [
+        {
+            "id": "4f48f9aa-93f1-4c4f-9e7f-54459df90d9a",
+            "name": "Camtel",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Ebolowa",
+                    "id": "2974effc-2f22-458a-83c1-b1c5a588b01f",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.1600658374337,
+                            2.916076643382882
+                        ]
+                    }
+                },
+                {
+                    "name": "Bandjoun",
+                    "id": "81b50897-7773-4d4a-a84b-3d5758ed70c4",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.414995561581069,
+                            5.372145573006765
+                        ]
+                    }
+                },
+                {
+                    "name": "Bafang",
+                    "id": "5294917e-9a83-47ea-af1d-9f1fc30fc8f0",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.181965067633016,
+                            5.159415071633901
+                        ]
+                    }
+                },
+                {
+                    "name": "Nkongsamba",
+                    "id": "de807f18-0976-4c3c-80ec-a1cd2ec4445a",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            9.932459420247262,
+                            4.975984126139719
+                        ]
+                    }
+                },
+                {
+                    "name": "Kye-Ossi",
+                    "id": "d62327aa-1281-4d9a-a313-71ad3ba1b343",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.33975796490374,
+                            2.197263811570525
+                        ]
+                    }
+                },
+                {
+                    "name": "Batouri",
+                    "id": "96f949b6-18f8-4798-ba75-14f0f855d3ec",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.361596427729875,
+                            4.438256973892036
+                        ]
+                    }
+                },
+                {
+                    "name": "Buea",
+                    "id": "2e7ea0c5-cb28-4873-b760-544a6736f3d1",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            9.254111482175196,
+                            4.15451799620207
+                        ]
+                    }
+                },
+                {
+                    "name": "Kousseri",
+                    "id": "8f4056eb-90df-4a7a-b964-b106f51dbf4e",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.013865985208238,
+                            12.091421787224936
+                        ]
+                    }
+                },
+                {
+                    "name": "Chad Border",
+                    "id": "d9fdbda3-49ff-4ca5-82a6-aa21b78b33f6",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.020752120026987,
+                            12.116505805585355
+                        ]
+                    }
+                },
+                {
+                    "name": "Loum",
+                    "id": "be202c5f-c8fb-434c-ab3a-5cf5993f22a8",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            9.721395024952058,
+                            4.716914980368359
+                        ]
+                    }
+                },
+                {
+                    "name": "Mbanga",
+                    "id": "52b727de-d8bc-451f-a3a8-fc5356a9959c",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            9.564841825364095,
+                            4.498273758324157
+                        ]
+                    }
+                },
+                {
+                    "name": "Edéa",
+                    "id": "ad32fae0-f92b-4166-91b8-7ef9a97d69f2",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.128777495189341,
+                            3.796155414107762
+                        ]
+                    }
+                },
+                {
+                    "name": "Obala",
+                    "id": "76eac41d-8178-4d4d-aedb-00ac60dd0c6f",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.509893639811535,
+                            4.149795179606307
+                        ]
+                    }
+                },
+                {
+                    "name": "Tignère",
+                    "id": "b4728333-78f9-4035-aec7-9459ce5eb77d",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.651686587157338,
+                            7.373585982245058
+                        ]
+                    }
+                },
+                {
+                    "name": "Doualayel",
+                    "id": "f677b8df-9c21-46cb-8edd-f81eda089fca",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.65804116876608,
+                            7.012476512558626
+                        ]
+                    }
+                },
+                {
+                    "name": "Mora",
+                    "id": "22184d16-324d-41c0-aee6-2a4852e048cd",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.14217005568877,
+                            11.04705901757993
+                        ]
+                    }
+                },
+                {
+                    "name": "Waza",
+                    "id": "5454ff85-31c6-4f68-b5b4-7553a210d875",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.571317070242015,
+                            11.395508564311646
+                        ]
+                    }
+                },
+                {
+                    "name": "Labado",
+                    "id": "bcf423f3-f07b-46e0-b7eb-ba119cde325d",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.702693574750619,
+                            12.485271569238549
+                        ]
+                    }
+                },
+                {
+                    "name": "Figuil",
+                    "id": "afad847b-0a8a-4506-869b-1d4eddc642c1",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.95722243538768,
+                            9.7641372786748
+                        ]
+                    }
+                },
+                {
+                    "name": "Bidzar",
+                    "id": "79a400ab-ba02-4735-81c7-5d22a09af513",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.109257437524557,
+                            9.898030506115463
+                        ]
+                    }
+                },
+                {
+                    "name": "Ngong",
+                    "id": "9e35c446-ad94-4513-a7bf-a36ac7ad91db",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.51185163015616,
+                            9.023433786437039
+                        ]
+                    }
+                },
+                {
+                    "name": "Gouna",
+                    "id": "c8f3afe4-490d-4e71-b59d-40f5ab065675",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.561470831808487,
+                            8.523826761326843
+                        ]
+                    }
+                },
+                {
+                    "name": "Banda",
+                    "id": "c94192c8-99bf-43d9-a23c-130bad9e5fd3",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.64275633639475,
+                            8.198589907781463
+                        ]
+                    }
+                },
+                {
+                    "name": "Foumban",
+                    "id": "a1fc1136-2fbf-4658-8bd9-aaa550e73aa0",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.899131509919794,
+                            5.726521855263576
+                        ]
+                    }
+                },
+                {
+                    "name": "Bankim",
+                    "id": "f5a2bfba-c172-4571-b9bc-93aa384406bb",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.485896845152222,
+                            6.090171419675284
+                        ]
+                    }
+                },
+                {
+                    "name": "Banyo",
+                    "id": "b65bdc74-17c2-4192-8c6c-533f5e088f06",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.802141146606134,
+                            6.749778192240282
+                        ]
+                    }
+                },
+                {
+                    "name": "Tibati",
+                    "id": "1f8ca5f3-0409-4115-b812-401e6a9ccdda",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.6120219965621,
+                            6.473296349663376
+                        ]
+                    }
+                },
+                {
+                    "name": "Bétaré Oyo",
+                    "id": "588a4da6-d25f-46f1-a948-57f97fd32108",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.08769681156543,
+                            5.5861763000477
+                        ]
+                    }
+                },
+                {
+                    "name": "Meiganga",
+                    "id": "b462f90e-b366-4736-8031-4d1e01eba657",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.287618779615542,
+                            6.520308640474047
+                        ]
+                    }
+                },
+                {
+                    "name": "Douala",
+                    "id": "062e1e3c-7cee-499d-8df1-3a7ca75acd11",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            9.760777435746796,
+                            4.055748362296481
+                        ]
+                    }
+                },
+                {
+                    "name": "Yaoundé",
+                    "id": "4ff76b7f-6ed7-4169-b385-4b5a9cdfda5c",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.518367837869,
+                            3.852938706154478
+                        ]
+                    }
+                },
+                {
+                    "name": "Maroua",
+                    "id": "8111ea6c-4c83-4ac8-9d1a-507c04f38d38",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.316998620037818,
+                            10.599788430157073
+                        ]
+                    }
+                },
+                {
+                    "name": "Garoua",
+                    "id": "7fee7b0e-c698-4fac-91fc-f452dbea08eb",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.394301225910498,
+                            9.321491125137133
+                        ]
+                    }
+                },
+                {
+                    "name": "Bamenda",
+                    "id": "c5bd9c06-780d-49fe-b808-dfe94417a890",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.160335855393551,
+                            5.964303575933958
+                        ]
+                    }
+                },
+                {
+                    "name": "Bafoussam",
+                    "id": "39328622-b26b-474c-bfb6-551394e671fe",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.422261713879818,
+                            5.481566213500042
+                        ]
+                    }
+                },
+                {
+                    "name": "Ngaoundere",
+                    "id": "0c31e3e9-15f0-4feb-9fb9-dbf2ae02751c",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.564931861241174,
+                            7.336143093348368
+                        ]
+                    }
+                },
+                {
+                    "name": "Bertoua",
+                    "id": "0884d745-80d2-4f38-af87-f9e1693c6e5c",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.67591130917687,
+                            4.581204003240004
+                        ]
+                    }
+                },
+                {
+                    "name": "Garoua Boulaï",
+                    "id": "eb386efe-d28c-4f08-878e-f88e63d2c0b4",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.54723389417519,
+                            5.896997364661813
+                        ]
+                    }
+                },
+                {
+                    "name": "Banganté",
+                    "id": "cae6f908-ea39-4f8f-9236-20e36dcf8b10",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.52309207240889,
+                            5.145437842771267
+                        ]
+                    }
+                },
+                {
+                    "name": "Bafia",
+                    "id": "3b5efce9-8927-4f15-8409-1ed8fb42bb42",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.22313737097808,
+                            4.755698408535274
+                        ]
+                    }
+                },
+                {
+                    "name": "Limbe",
+                    "id": "d24c236d-5888-4ddb-a62c-6edde1306eb7",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            9.192250183790831,
+                            4.016285536579807
+                        ]
+                    }
+                },
+                {
+                    "name": "Tiko",
+                    "id": "aff5f750-ada6-40fd-bd62-126bb5151fe8",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            9.354227387077255,
+                            4.083534533635938
+                        ]
+                    }
+                },
+                {
+                    "name": "Mengong",
+                    "id": "9e24754d-c16a-4bc1-b0a2-f5b78b9116c5",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.397636685251747,
+                            2.938885649747172
+                        ]
+                    }
+                },
+                {
+                    "name": "Mbalmayo",
+                    "id": "0545dd70-71d3-49d6-8215-13165c2d08de",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.504386091965218,
+                            3.517523950981619
+                        ]
+                    }
+                },
+                {
+                    "name": "Abong-Mbang",
+                    "id": "810e462a-f69e-4d72-a5b9-014913805716",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.17704548281745,
+                            3.987423984601389
+                        ]
+                    }
+                },
+                {
+                    "name": "Ayos",
+                    "id": "3d4bcaf9-1e93-40d6-b492-bb732be60d0d",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.523829715717161,
+                            3.905485956597488
+                        ]
+                    }
+                },
+                {
+                    "name": "Boumnyebel",
+                    "id": "3e554896-0930-41b2-80e8-ab2c7fd1e064",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.849570209437479,
+                            3.883529616457455
+                        ]
+                    }
+                },
+                {
+                    "name": "Ezézang",
+                    "id": "65240f13-a7d4-4c23-9c32-a159423be4ec",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.379531885384422,
+                            4.267626365147991
+                        ]
+                    }
+                },
+                {
+                    "name": "network fork",
+                    "id": "5ec488cb-2fe2-4f9d-bf50-46470b613c63",
+                    "physicalInfrastructureProvider": {
+                        "id": "Camtel-1",
+                        "name": "Camtel"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "Camtel-1",
+                            "name": "Camtel"
+                        }
+                    ],
+                    "phase6_status": "PROCESSED: Created fork (644.43m from span 83)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.817768945782655,
+                            12.1761174430376
+                        ]
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "c1e1c144-3d5e-4084-9a60-6fdbb83528a2",
+                    "name": "Yaoundé - Mbalmayo",
+                    "pointNames": "Ebolowa, Kye-Ossi, Yaoundé, Mengong, Mbalmayo",
+                    "start": "4ff76b7f-6ed7-4169-b385-4b5a9cdfda5c",
+                    "end": "0545dd70-71d3-49d6-8215-13165c2d08de",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.518367838729294,
+                                3.852938705646995
+                            ],
+                            [
+                                11.51975534633466,
+                                3.852120220603896
+                            ],
+                            [
+                                11.51584395090644,
+                                3.839654255466796
+                            ],
+                            [
+                                11.53367366843343,
+                                3.800714613039204
+                            ],
+                            [
+                                11.53227466478107,
+                                3.772139855205908
+                            ],
+                            [
+                                11.53367563804914,
+                                3.720556713718589
+                            ],
+                            [
+                                11.5357817016989,
+                                3.674536207607691
+                            ],
+                            [
+                                11.53176629664786,
+                                3.648171756510166
+                            ],
+                            [
+                                11.54179809310417,
+                                3.629990433276144
+                            ],
+                            [
+                                11.53975753145222,
+                                3.609432241461983
+                            ],
+                            [
+                                11.52088855212347,
+                                3.594796277429799
+                            ],
+                            [
+                                11.50830777530997,
+                                3.569011624650431
+                            ],
+                            [
+                                11.51849996620503,
+                                3.549259431534225
+                            ],
+                            [
+                                11.51185066329108,
+                                3.52254679579141
+                            ],
+                            [
+                                11.50442669971954,
+                                3.519817192575529
+                            ],
+                            [
+                                11.50438609198291,
+                                3.51752395198075
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "47a2c9bf-7f2d-43a3-b5ca-ed4c88629c33",
+                    "name": "Mbalmayo - Mengong",
+                    "pointNames": "Ebolowa, Kye-Ossi, Yaoundé, Mengong, Mbalmayo",
+                    "start": "0545dd70-71d3-49d6-8215-13165c2d08de",
+                    "end": "9e24754d-c16a-4bc1-b0a2-f5b78b9116c5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.504386091947527,
+                                3.517523949982488
+                            ],
+                            [
+                                11.50422993387736,
+                                3.508705235731516
+                            ],
+                            [
+                                11.51599415745534,
+                                3.458075229900646
+                            ],
+                            [
+                                11.52986966200974,
+                                3.404756180857345
+                            ],
+                            [
+                                11.53108330882798,
+                                3.386517663534614
+                            ],
+                            [
+                                11.47665940455078,
+                                3.306404351299015
+                            ],
+                            [
+                                11.42722095836842,
+                                3.268215357701206
+                            ],
+                            [
+                                11.39139168679268,
+                                3.246045303663421
+                            ],
+                            [
+                                11.40870628863747,
+                                3.174501855616032
+                            ],
+                            [
+                                11.42812717500615,
+                                3.125147656073473
+                            ],
+                            [
+                                11.41726293415223,
+                                3.042599871530031
+                            ],
+                            [
+                                11.397636685437604,
+                                2.938885650729327
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "50695900-dd49-4da4-8efc-47963be90c39",
+                    "name": "Mengong - Ebolowa",
+                    "pointNames": "Ebolowa, Kye-Ossi, Yaoundé, Mengong, Mbalmayo",
+                    "start": "9e24754d-c16a-4bc1-b0a2-f5b78b9116c5",
+                    "end": "2974effc-2f22-458a-83c1-b1c5a588b01f",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.39763668506589,
+                                2.938885648765017
+                            ],
+                            [
+                                11.39743066053811,
+                                2.937796919396747
+                            ],
+                            [
+                                11.2629222059072,
+                                2.916221326203875
+                            ],
+                            [
+                                11.160065838433631,
+                                2.916076643384288
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8860280b-3794-4b31-8577-f486120f531e",
+                    "name": "Ebolowa - Kye-Ossi",
+                    "pointNames": "Ebolowa, Kye-Ossi, Yaoundé, Mengong, Mbalmayo",
+                    "start": "2974effc-2f22-458a-83c1-b1c5a588b01f",
+                    "end": "d62327aa-1281-4d9a-a313-71ad3ba1b343",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.160065837505467,
+                                2.916076642386408
+                            ],
+                            [
+                                11.1662337933317,
+                                2.830435859548832
+                            ],
+                            [
+                                11.2916172515321,
+                                2.697963182945402
+                            ],
+                            [
+                                11.34466737882256,
+                                2.606495873532665
+                            ],
+                            [
+                                11.30393974394537,
+                                2.555976028998088
+                            ],
+                            [
+                                11.32369047348501,
+                                2.484474347761884
+                            ],
+                            [
+                                11.29284925406085,
+                                2.426537541177836
+                            ],
+                            [
+                                11.2706120084369,
+                                2.357626178624414
+                            ],
+                            [
+                                11.33108807208236,
+                                2.277457483577375
+                            ],
+                            [
+                                11.3397579647963,
+                                2.197263812564312
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e6d0b438-41fe-4692-bf57-56054e3f37cf",
+                    "name": "Yaoundé - Boumnyebel",
+                    "pointNames": "Edéa, Boumnyebel",
+                    "start": "4ff76b7f-6ed7-4169-b385-4b5a9cdfda5c",
+                    "end": "3e554896-0930-41b2-80e8-ab2c7fd1e064",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.51783176239733,
+                                3.853379407617193
+                            ],
+                            [
+                                11.50305647832444,
+                                3.865823643431117
+                            ],
+                            [
+                                11.47475029772492,
+                                3.871856392161099
+                            ],
+                            [
+                                11.42363981433289,
+                                3.87679154315271
+                            ],
+                            [
+                                11.4055038194892,
+                                3.868292278263882
+                            ],
+                            [
+                                11.35636863246886,
+                                3.847721432243984
+                            ],
+                            [
+                                11.30755478395861,
+                                3.843890328512543
+                            ],
+                            [
+                                11.27924731855924,
+                                3.843619014093006
+                            ],
+                            [
+                                11.25926702792077,
+                                3.83368903782478
+                            ],
+                            [
+                                11.21082696893723,
+                                3.82168653399415
+                            ],
+                            [
+                                11.14738362504663,
+                                3.79767571542036
+                            ],
+                            [
+                                11.12512853811573,
+                                3.776290646916225
+                            ],
+                            [
+                                11.11374583552502,
+                                3.766693164042886
+                            ],
+                            [
+                                11.0979264249145,
+                                3.769710087536021
+                            ],
+                            [
+                                11.03880208317297,
+                                3.815950760727118
+                            ],
+                            [
+                                10.96592747827969,
+                                3.848209186131189
+                            ],
+                            [
+                                10.90935259422686,
+                                3.87108864807939
+                            ],
+                            [
+                                10.849570210416118,
+                                3.883529616253796
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cfd9d20b-2df6-4a38-ab53-9158c0235c7d",
+                    "name": "Boumnyebel - Edéa",
+                    "pointNames": "Edéa, Boumnyebel",
+                    "start": "3e554896-0930-41b2-80e8-ab2c7fd1e064",
+                    "end": "ad32fae0-f92b-4166-91b8-7ef9a97d69f2",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.84957020845884,
+                                3.883529616661114
+                            ],
+                            [
+                                10.84816593631096,
+                                3.883821851663908
+                            ],
+                            [
+                                10.82920158662857,
+                                3.875870463200476
+                            ],
+                            [
+                                10.79650111823267,
+                                3.888482437469698
+                            ],
+                            [
+                                10.76324961933213,
+                                3.892184390557903
+                            ],
+                            [
+                                10.7175474155943,
+                                3.89163930471786
+                            ],
+                            [
+                                10.67933480312946,
+                                3.877105102657467
+                            ],
+                            [
+                                10.62752617754887,
+                                3.872718100916576
+                            ],
+                            [
+                                10.58684783587627,
+                                3.860929125755981
+                            ],
+                            [
+                                10.49944009931405,
+                                3.849689263256273
+                            ],
+                            [
+                                10.43743234654466,
+                                3.834610950826478
+                            ],
+                            [
+                                10.40610803407575,
+                                3.833513490016692
+                            ],
+                            [
+                                10.35576179009827,
+                                3.813774706412664
+                            ],
+                            [
+                                10.27748174520907,
+                                3.808101708005375
+                            ],
+                            [
+                                10.2212329750559,
+                                3.800706458734764
+                            ],
+                            [
+                                10.18770423217113,
+                                3.770261415751698
+                            ],
+                            [
+                                10.16514285221001,
+                                3.769990983848297
+                            ],
+                            [
+                                10.14153848674774,
+                                3.788887252437109
+                            ],
+                            [
+                                10.12877749605745,
+                                3.796155413613321
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "23d86b94-3157-4e7a-a975-33b85b10cda8",
+                    "name": "Edéa - Douala",
+                    "pointNames": "Douala",
+                    "start": "ad32fae0-f92b-4166-91b8-7ef9a97d69f2",
+                    "end": "062e1e3c-7cee-499d-8df1-3a7ca75acd11",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.128777495189341,
+                                3.796155414107762
+                            ],
+                            [
+                                10.1278532250109,
+                                3.803456141799093
+                            ],
+                            [
+                                10.12604197361158,
+                                3.806693012818273
+                            ],
+                            [
+                                10.12382520000718,
+                                3.807475260850842
+                            ],
+                            [
+                                10.11902955262651,
+                                3.807987775507525
+                            ],
+                            [
+                                10.10748600923894,
+                                3.812060952629523
+                            ],
+                            [
+                                10.09849003372936,
+                                3.816634877975293
+                            ],
+                            [
+                                10.09632067676725,
+                                3.821547417484219
+                            ],
+                            [
+                                10.06911080046674,
+                                3.885475164597714
+                            ],
+                            [
+                                10.05273413927624,
+                                3.941570067380108
+                            ],
+                            [
+                                10.00923509900737,
+                                3.954741767391714
+                            ],
+                            [
+                                9.986798558529255,
+                                3.951068895277872
+                            ],
+                            [
+                                9.939680022837864,
+                                3.968778259271009
+                            ],
+                            [
+                                9.91136184372952,
+                                3.986993988265925
+                            ],
+                            [
+                                9.868532288191943,
+                                4.009239337507798
+                            ],
+                            [
+                                9.823074562567385,
+                                3.999543884297042
+                            ],
+                            [
+                                9.80258557163239,
+                                4.00087260396381
+                            ],
+                            [
+                                9.752491144277526,
+                                4.005384345103145
+                            ],
+                            [
+                                9.760777435584625,
+                                4.055748361310813
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3c61d55e-28d5-495b-b037-c00a29b6bc09",
+                    "name": "Douala - Tiko",
+                    "pointNames": "Douala",
+                    "start": "062e1e3c-7cee-499d-8df1-3a7ca75acd11",
+                    "end": "aff5f750-ada6-40fd-bd62-126bb5151fe8",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                9.760777435908967,
+                                4.05574836328215
+                            ],
+                            [
+                                9.761454572863308,
+                                4.059863996594973
+                            ],
+                            [
+                                9.688513708954254,
+                                4.076279423150962
+                            ],
+                            [
+                                9.605398937963399,
+                                4.119516931878485
+                            ],
+                            [
+                                9.552522611456657,
+                                4.146725935752908
+                            ],
+                            [
+                                9.490422242452762,
+                                4.141477070303465
+                            ],
+                            [
+                                9.413019907474524,
+                                4.126634621530515
+                            ],
+                            [
+                                9.388095188215022,
+                                4.11560996678544
+                            ],
+                            [
+                                9.36499240356466,
+                                4.089481115444946
+                            ],
+                            [
+                                9.354227387077255,
+                                4.083534533635938
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f4849382-63b4-41b3-a6db-b696eaee6570",
+                    "name": "Tiko - Buea",
+                    "pointNames": "Buea",
+                    "start": "aff5f750-ada6-40fd-bd62-126bb5151fe8",
+                    "end": "2e7ea0c5-cb28-4873-b760-544a6736f3d1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                9.354227387077255,
+                                4.083534533635938
+                            ],
+                            [
+                                9.336387164833225,
+                                4.089233848569685
+                            ],
+                            [
+                                9.326203298186371,
+                                4.088545077484912
+                            ],
+                            [
+                                9.320235937363872,
+                                4.090337822097486
+                            ],
+                            [
+                                9.313755539462994,
+                                4.09289658891317
+                            ],
+                            [
+                                9.313328531718989,
+                                4.103753387509807
+                            ],
+                            [
+                                9.307386055757704,
+                                4.131460497020252
+                            ],
+                            [
+                                9.30613435200122,
+                                4.143894744039217
+                            ],
+                            [
+                                9.29597352433147,
+                                4.152584564642577
+                            ],
+                            [
+                                9.279706155128608,
+                                4.159590200098513
+                            ],
+                            [
+                                9.266048509058582,
+                                4.157435405671181
+                            ],
+                            [
+                                9.25411148314545,
+                                4.1545179964392
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1a805c79-6b80-41f6-8d63-afab59e46274",
+                    "name": "Douala - Mbanga",
+                    "pointNames": "Mbanga",
+                    "start": "062e1e3c-7cee-499d-8df1-3a7ca75acd11",
+                    "end": "52b727de-d8bc-451f-a3a8-fc5356a9959c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                9.760777435746796,
+                                4.055748362296481
+                            ],
+                            [
+                                9.71837290230493,
+                                4.074237388679323
+                            ],
+                            [
+                                9.680457249690697,
+                                4.083810380772947
+                            ],
+                            [
+                                9.650433431944606,
+                                4.101524651133745
+                            ],
+                            [
+                                9.591549370669739,
+                                4.132720661605243
+                            ],
+                            [
+                                9.58600715696635,
+                                4.156681882215858
+                            ],
+                            [
+                                9.588796616953406,
+                                4.166038672772447
+                            ],
+                            [
+                                9.594895960760406,
+                                4.1683557930031
+                            ],
+                            [
+                                9.611171343880018,
+                                4.218453926772124
+                            ],
+                            [
+                                9.611879923607471,
+                                4.241325702134279
+                            ],
+                            [
+                                9.604041999478623,
+                                4.25462886717074
+                            ],
+                            [
+                                9.605648937873832,
+                                4.294043329213125
+                            ],
+                            [
+                                9.59822418035407,
+                                4.308957580987716
+                            ],
+                            [
+                                9.59499357909732,
+                                4.339250390948042
+                            ],
+                            [
+                                9.581317247514995,
+                                4.356689462370533
+                            ],
+                            [
+                                9.571514385725127,
+                                4.376630928296847
+                            ],
+                            [
+                                9.568164651880961,
+                                4.388626777502266
+                            ],
+                            [
+                                9.568909438295103,
+                                4.408845658033297
+                            ],
+                            [
+                                9.565275479862873,
+                                4.479330640006602
+                            ],
+                            [
+                                9.564841825386962,
+                                4.498273757325281
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "918f4c6b-f69c-47f4-82d8-d48349c582d0",
+                    "name": "Mbanga - Loum",
+                    "pointNames": "Bafang, Nkongsamba, Loum",
+                    "start": "52b727de-d8bc-451f-a3a8-fc5356a9959c",
+                    "end": "be202c5f-c8fb-434c-ab3a-5cf5993f22a8",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                9.564841825364095,
+                                4.498273758324157
+                            ],
+                            [
+                                9.566238120865185,
+                                4.50522935756127
+                            ],
+                            [
+                                9.584509075304348,
+                                4.514254697646757
+                            ],
+                            [
+                                9.610112298175766,
+                                4.543114792249902
+                            ],
+                            [
+                                9.64327343839435,
+                                4.5769206482714
+                            ],
+                            [
+                                9.664694514404907,
+                                4.601266015425388
+                            ],
+                            [
+                                9.676887142899242,
+                                4.618969803086156
+                            ],
+                            [
+                                9.679348510512568,
+                                4.642331143558803
+                            ],
+                            [
+                                9.71484944313556,
+                                4.701282321766239
+                            ],
+                            [
+                                9.721395024565906,
+                                4.71691497944612
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "517e01ae-c38c-4ac6-9398-5a9510fa35da",
+                    "name": "Loum - Nkongsamba",
+                    "pointNames": "Bafang, Nkongsamba, Loum",
+                    "start": "be202c5f-c8fb-434c-ab3a-5cf5993f22a8",
+                    "end": "de807f18-0976-4c3c-80ec-a1cd2ec4445a",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                9.72139502533821,
+                                4.716914981290598
+                            ],
+                            [
+                                9.724330545763136,
+                                4.723925815454604
+                            ],
+                            [
+                                9.738653957732312,
+                                4.732300185518787
+                            ],
+                            [
+                                9.743255681215599,
+                                4.754870568876306
+                            ],
+                            [
+                                9.762447320022048,
+                                4.792072628565148
+                            ],
+                            [
+                                9.77059996957342,
+                                4.827364823884542
+                            ],
+                            [
+                                9.787606638074802,
+                                4.833139586083755
+                            ],
+                            [
+                                9.813101792213537,
+                                4.843999762864578
+                            ],
+                            [
+                                9.826511910671975,
+                                4.850936620705186
+                            ],
+                            [
+                                9.860863511694136,
+                                4.877462172251247
+                            ],
+                            [
+                                9.883491941451453,
+                                4.873649516398399
+                            ],
+                            [
+                                9.905676029317247,
+                                4.89459204402018
+                            ],
+                            [
+                                9.921183200693942,
+                                4.920834082331209
+                            ],
+                            [
+                                9.929830068445098,
+                                4.943119077236952
+                            ],
+                            [
+                                9.926457494206357,
+                                4.96920728854625
+                            ],
+                            [
+                                9.932459419585008,
+                                4.97598412539196
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "899b7568-2e52-4938-9c75-6413b5d4c117",
+                    "name": "Nkongsamba - Bafang",
+                    "pointNames": "Bafang, Nkongsamba, Loum",
+                    "start": "de807f18-0976-4c3c-80ec-a1cd2ec4445a",
+                    "end": "5294917e-9a83-47ea-af1d-9f1fc30fc8f0",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                9.932459420909517,
+                                4.975984126887478
+                            ],
+                            [
+                                9.939341729199942,
+                                4.983755013305358
+                            ],
+                            [
+                                9.943399610118327,
+                                4.998263996116244
+                            ],
+                            [
+                                9.949192589024818,
+                                5.009755067586053
+                            ],
+                            [
+                                9.963085435313966,
+                                5.031538181059685
+                            ],
+                            [
+                                9.95776903154237,
+                                5.069200949701504
+                            ],
+                            [
+                                9.952045284069943,
+                                5.080017222786306
+                            ],
+                            [
+                                9.95376991768792,
+                                5.124494652548345
+                            ],
+                            [
+                                9.98723395850319,
+                                5.138963909682867
+                            ],
+                            [
+                                10.02932418667722,
+                                5.166399548202887
+                            ],
+                            [
+                                10.06973454968975,
+                                5.167597242518157
+                            ],
+                            [
+                                10.11022195020426,
+                                5.160498624487847
+                            ],
+                            [
+                                10.15759747497467,
+                                5.151037161258547
+                            ],
+                            [
+                                10.17597173638039,
+                                5.152709576176873
+                            ],
+                            [
+                                10.18075963359815,
+                                5.157105015860373
+                            ],
+                            [
+                                10.18191721616087,
+                                5.159422847881698
+                            ],
+                            [
+                                10.18196506664706,
+                                5.159415071794127
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "2c7f83e2-89ff-453b-b921-080814b51851",
+                    "name": "Bafang - Bandjoun",
+                    "pointNames": "Bafang, Nkongsamba, Loum",
+                    "start": "5294917e-9a83-47ea-af1d-9f1fc30fc8f0",
+                    "end": "81b50897-7773-4d4a-a84b-3d5758ed70c4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.181965068618972,
+                                5.159415071473675
+                            ],
+                            [
+                                10.18571604888015,
+                                5.158805507113652
+                            ],
+                            [
+                                10.20112264520284,
+                                5.175773716298617
+                            ],
+                            [
+                                10.22001750492074,
+                                5.201874186060125
+                            ],
+                            [
+                                10.22109403206425,
+                                5.234742810824881
+                            ],
+                            [
+                                10.22656734059067,
+                                5.269515347053334
+                            ],
+                            [
+                                10.25273470614648,
+                                5.279885418262884
+                            ],
+                            [
+                                10.26890196878764,
+                                5.30263237134677
+                            ],
+                            [
+                                10.2924855247292,
+                                5.311319565536929
+                            ],
+                            [
+                                10.3203362664093,
+                                5.311505395979135
+                            ],
+                            [
+                                10.36182982675754,
+                                5.337018377299441
+                            ],
+                            [
+                                10.3772298805373,
+                                5.346127974108516
+                            ],
+                            [
+                                10.40395210647363,
+                                5.364637114770188
+                            ],
+                            [
+                                10.41349514856918,
+                                5.368786114565582
+                            ],
+                            [
+                                10.4143923237093,
+                                5.372476674844096
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "62aeab2a-30ce-436b-be4e-e1b5691f995c",
+                    "name": "Bandjoun - Bafoussam",
+                    "pointNames": "Bafoussam",
+                    "start": "81b50897-7773-4d4a-a84b-3d5758ed70c4",
+                    "end": "39328622-b26b-474c-bfb6-551394e671fe",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.414995561581069,
+                                5.372145573006765
+                            ],
+                            [
+                                10.42554845097515,
+                                5.38500321911377
+                            ],
+                            [
+                                10.42784676083595,
+                                5.392448668631766
+                            ],
+                            [
+                                10.42439479389836,
+                                5.403068794830891
+                            ],
+                            [
+                                10.42665333582566,
+                                5.419411930351167
+                            ],
+                            [
+                                10.42335514606663,
+                                5.425869450157306
+                            ],
+                            [
+                                10.42040303329949,
+                                5.431116067013755
+                            ],
+                            [
+                                10.42248219051895,
+                                5.446462391892972
+                            ],
+                            [
+                                10.42754776696149,
+                                5.455781575439335
+                            ],
+                            [
+                                10.42746538440524,
+                                5.46102382865316
+                            ],
+                            [
+                                10.41996590565107,
+                                5.471739269120024
+                            ],
+                            [
+                                10.41833562170495,
+                                5.477693225804728
+                            ],
+                            [
+                                10.422261713168135,
+                                5.481566212797985
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f38c5989-98f1-4af1-a9eb-a802dad9ca78",
+                    "name": "Yaoundé - Obala",
+                    "pointNames": "Obala, Bafia, Ezézang",
+                    "start": "4ff76b7f-6ed7-4169-b385-4b5a9cdfda5c",
+                    "end": "76eac41d-8178-4d4d-aedb-00ac60dd0c6f",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.518367837869,
+                                3.852938706154478
+                            ],
+                            [
+                                11.52233708943059,
+                                3.895683150963234
+                            ],
+                            [
+                                11.5210536156246,
+                                3.944449355085305
+                            ],
+                            [
+                                11.54554556267339,
+                                3.971660747290894
+                            ],
+                            [
+                                11.55844400741717,
+                                4.02014645193991
+                            ],
+                            [
+                                11.54995329785428,
+                                4.051895652430215
+                            ],
+                            [
+                                11.54512944107293,
+                                4.086626120649923
+                            ],
+                            [
+                                11.52058772811924,
+                                4.129518944271021
+                            ],
+                            [
+                                11.509893640277927,
+                                4.149795178722018
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cf44a02f-fac9-4dc2-9370-77d64698d1a0",
+                    "name": "Obala - Ezézang",
+                    "pointNames": "Obala, Bafia, Ezézang",
+                    "start": "76eac41d-8178-4d4d-aedb-00ac60dd0c6f",
+                    "end": "65240f13-a7d4-4c23-9c32-a159423be4ec",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.509893639345144,
+                                4.149795180490595
+                            ],
+                            [
+                                11.5051797374508,
+                                4.158732845993908
+                            ],
+                            [
+                                11.47130388329032,
+                                4.179844336808475
+                            ],
+                            [
+                                11.44678873310503,
+                                4.203999458521399
+                            ],
+                            [
+                                11.41874625408671,
+                                4.227928248158387
+                            ],
+                            [
+                                11.38514939448229,
+                                4.246860445829252
+                            ],
+                            [
+                                11.37855550283725,
+                                4.257214703903977
+                            ],
+                            [
+                                11.379531885291074,
+                                4.267626364152577
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4951af84-9fdf-4e0b-920a-aeef5eb8bcda",
+                    "name": "Ezézang - Bafia",
+                    "pointNames": "Obala, Bafia, Ezézang",
+                    "start": "65240f13-a7d4-4c23-9c32-a159423be4ec",
+                    "end": "3b5efce9-8927-4f15-8409-1ed8fb42bb42",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.37953188547777,
+                                4.267626366143404
+                            ],
+                            [
+                                11.37971799573979,
+                                4.269610954057043
+                            ],
+                            [
+                                11.37135920817272,
+                                4.274427107908033
+                            ],
+                            [
+                                11.3499330074139,
+                                4.269312644805269
+                            ],
+                            [
+                                11.29917352580637,
+                                4.304803764889194
+                            ],
+                            [
+                                11.28102466960886,
+                                4.35111810064695
+                            ],
+                            [
+                                11.25704007613298,
+                                4.38007295841512
+                            ],
+                            [
+                                11.24658099188975,
+                                4.431799135323598
+                            ],
+                            [
+                                11.2547336808764,
+                                4.469606642420302
+                            ],
+                            [
+                                11.27179033654443,
+                                4.507604878091576
+                            ],
+                            [
+                                11.25929729313267,
+                                4.529609026513192
+                            ],
+                            [
+                                11.26321304123022,
+                                4.575220071918212
+                            ],
+                            [
+                                11.25058205558167,
+                                4.650677319104423
+                            ],
+                            [
+                                11.24495467944684,
+                                4.691103087868493
+                            ],
+                            [
+                                11.22797241687087,
+                                4.724831652392266
+                            ],
+                            [
+                                11.21818368160058,
+                                4.748310996843177
+                            ],
+                            [
+                                11.223137370421188,
+                                4.755698407704784
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "fe2cdaa6-2c02-4305-a57f-0eeb30dbd78c",
+                    "name": "Bafia - Banganté",
+                    "pointNames": "Obala, Bafia, Ezézang",
+                    "start": "3b5efce9-8927-4f15-8409-1ed8fb42bb42",
+                    "end": "cae6f908-ea39-4f8f-9236-20e36dcf8b10",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.223137370284821,
+                                4.755698409254931
+                            ],
+                            [
+                                11.2153629541546,
+                                4.763768862516192
+                            ],
+                            [
+                                11.19190649276137,
+                                4.775455894681678
+                            ],
+                            [
+                                11.18065962474423,
+                                4.78091180703369
+                            ],
+                            [
+                                11.17748314294124,
+                                4.786158393507442
+                            ],
+                            [
+                                11.17755706427785,
+                                4.802787099299314
+                            ],
+                            [
+                                11.18141007317325,
+                                4.808479415055299
+                            ],
+                            [
+                                11.17593296062724,
+                                4.817689522946837
+                            ],
+                            [
+                                11.16409054157387,
+                                4.817103968425928
+                            ],
+                            [
+                                11.15080396398457,
+                                4.821591448975159
+                            ],
+                            [
+                                11.13610051439876,
+                                4.83981581698909
+                            ],
+                            [
+                                11.11657606334453,
+                                4.849016699274602
+                            ],
+                            [
+                                11.11160355055025,
+                                4.859130077086689
+                            ],
+                            [
+                                11.10250669652287,
+                                4.86233786354293
+                            ],
+                            [
+                                11.09666303703357,
+                                4.85935732998776
+                            ],
+                            [
+                                11.08111728683006,
+                                4.857162860794778
+                            ],
+                            [
+                                11.07246744875328,
+                                4.850799148835089
+                            ],
+                            [
+                                11.06748177070019,
+                                4.839668480721248
+                            ],
+                            [
+                                11.0627932105386,
+                                4.834245469543803
+                            ],
+                            [
+                                11.05588214455181,
+                                4.831965910744266
+                            ],
+                            [
+                                11.04579282417587,
+                                4.821383921887634
+                            ],
+                            [
+                                11.04133058558012,
+                                4.815454519385879
+                            ],
+                            [
+                                11.02184011106166,
+                                4.80959936783271
+                            ],
+                            [
+                                11.01289387371635,
+                                4.812389494948693
+                            ],
+                            [
+                                11.01012057279591,
+                                4.812210455785795
+                            ],
+                            [
+                                11.00601278109928,
+                                4.808239736080203
+                            ],
+                            [
+                                11.00260028157222,
+                                4.804452907002438
+                            ],
+                            [
+                                10.99646160544918,
+                                4.801679120878604
+                            ],
+                            [
+                                10.99031556815167,
+                                4.803275674417267
+                            ],
+                            [
+                                10.98559339858839,
+                                4.806575450556589
+                            ],
+                            [
+                                10.98145595706062,
+                                4.805007780853482
+                            ],
+                            [
+                                10.97202619291354,
+                                4.800352388848597
+                            ],
+                            [
+                                10.96654195850273,
+                                4.795378158214993
+                            ],
+                            [
+                                10.96039844381448,
+                                4.788614717231169
+                            ],
+                            [
+                                10.94523919537269,
+                                4.7872818436753
+                            ],
+                            [
+                                10.930977264059,
+                                4.784756301240847
+                            ],
+                            [
+                                10.91747274828312,
+                                4.777474902858591
+                            ],
+                            [
+                                10.90572700380715,
+                                4.773480088455322
+                            ],
+                            [
+                                10.90130865829386,
+                                4.763141408936474
+                            ],
+                            [
+                                10.89312383856776,
+                                4.759130275300009
+                            ],
+                            [
+                                10.88193009143505,
+                                4.763053581289048
+                            ],
+                            [
+                                10.87094199495323,
+                                4.774344751223578
+                            ],
+                            [
+                                10.84561867966059,
+                                4.775696334909527
+                            ],
+                            [
+                                10.82446073901607,
+                                4.790187182340705
+                            ],
+                            [
+                                10.82145364001544,
+                                4.80526088509251
+                            ],
+                            [
+                                10.81999333092679,
+                                4.816253556851672
+                            ],
+                            [
+                                10.82231263619389,
+                                4.838210121666802
+                            ],
+                            [
+                                10.81135798739952,
+                                4.879170030629275
+                            ],
+                            [
+                                10.78700838456928,
+                                4.890582068588262
+                            ],
+                            [
+                                10.77681749650748,
+                                4.913054947074822
+                            ],
+                            [
+                                10.74499736217465,
+                                4.936386141620847
+                            ],
+                            [
+                                10.73214741166454,
+                                4.955692899683619
+                            ],
+                            [
+                                10.72104555844193,
+                                4.956363253463966
+                            ],
+                            [
+                                10.70500930359232,
+                                4.980805861410328
+                            ],
+                            [
+                                10.69800317473204,
+                                5.031597514631486
+                            ],
+                            [
+                                10.69666254146993,
+                                5.054372058391759
+                            ],
+                            [
+                                10.6720459424963,
+                                5.076520873378536
+                            ],
+                            [
+                                10.66526448629779,
+                                5.094401738627996
+                            ],
+                            [
+                                10.64444751932374,
+                                5.092301062695523
+                            ],
+                            [
+                                10.6151042657354,
+                                5.111940682864536
+                            ],
+                            [
+                                10.57126616138206,
+                                5.135772822133919
+                            ],
+                            [
+                                10.5367941543774,
+                                5.155197460292175
+                            ],
+                            [
+                                10.52309207240889,
+                                5.145437842771267
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "75a96963-a5e8-47a3-bfd3-ba98ff55b634",
+                    "name": "Banganté - Bandjoun",
+                    "pointNames": "Bandjoun, Banganté",
+                    "start": "cae6f908-ea39-4f8f-9236-20e36dcf8b10",
+                    "end": "81b50897-7773-4d4a-a84b-3d5758ed70c4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.523092071845474,
+                                5.145437843596918
+                            ],
+                            [
+                                10.51603319759102,
+                                5.15578218874379
+                            ],
+                            [
+                                10.51118506405064,
+                                5.159773299447262
+                            ],
+                            [
+                                10.50562332608498,
+                                5.164994976325755
+                            ],
+                            [
+                                10.50501092773059,
+                                5.170454269954954
+                            ],
+                            [
+                                10.50354864373996,
+                                5.18072304168088
+                            ],
+                            [
+                                10.50155796777941,
+                                5.183116231798218
+                            ],
+                            [
+                                10.49627206006865,
+                                5.182610706757798
+                            ],
+                            [
+                                10.49138600098632,
+                                5.186615624082751
+                            ],
+                            [
+                                10.48858878616463,
+                                5.197169115201594
+                            ],
+                            [
+                                10.48040920499122,
+                                5.201930189386466
+                            ],
+                            [
+                                10.47344942530472,
+                                5.209313902703146
+                            ],
+                            [
+                                10.46646784248325,
+                                5.214590937969156
+                            ],
+                            [
+                                10.45792670853045,
+                                5.213441235698638
+                            ],
+                            [
+                                10.45038588596052,
+                                5.217761049017392
+                            ],
+                            [
+                                10.4478946198237,
+                                5.225897095216577
+                            ],
+                            [
+                                10.45470277318363,
+                                5.246009617006425
+                            ],
+                            [
+                                10.45314736718633,
+                                5.272781370139752
+                            ],
+                            [
+                                10.4500702442427,
+                                5.286856284156586
+                            ],
+                            [
+                                10.44067589355589,
+                                5.292840595823234
+                            ],
+                            [
+                                10.44238495626685,
+                                5.31436994775234
+                            ],
+                            [
+                                10.44135093397679,
+                                5.330793195125379
+                            ],
+                            [
+                                10.42652021771406,
+                                5.341726224577984
+                            ],
+                            [
+                                10.42137969299407,
+                                5.352276419491489
+                            ],
+                            [
+                                10.41408646090463,
+                                5.366311692262507
+                            ],
+                            [
+                                10.414995561427277,
+                                5.372145572019854
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "80675935-0b7e-4993-86e3-a3a7ee2aaa75",
+                    "name": "Bafoussam - Bamenda",
+                    "pointNames": "Bamenda",
+                    "start": "39328622-b26b-474c-bfb6-551394e671fe",
+                    "end": "c5bd9c06-780d-49fe-b808-dfe94417a890",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.42180837962457,
+                                5.481638187887427
+                            ],
+                            [
+                                10.41620225267972,
+                                5.480401925672886
+                            ],
+                            [
+                                10.41291021584066,
+                                5.482125122451732
+                            ],
+                            [
+                                10.40759820089247,
+                                5.487328847335966
+                            ],
+                            [
+                                10.37141763179896,
+                                5.512110396263965
+                            ],
+                            [
+                                10.33634094501135,
+                                5.530708599155956
+                            ],
+                            [
+                                10.33088247698789,
+                                5.539670582915797
+                            ],
+                            [
+                                10.28479388151359,
+                                5.613961223005288
+                            ],
+                            [
+                                10.22505327797727,
+                                5.659943519308139
+                            ],
+                            [
+                                10.18665913724609,
+                                5.711597982121421
+                            ],
+                            [
+                                10.16240181412642,
+                                5.763742608645791
+                            ],
+                            [
+                                10.16117112415489,
+                                5.84147195012116
+                            ],
+                            [
+                                10.15251206202232,
+                                5.894309458697508
+                            ],
+                            [
+                                10.16119146701029,
+                                5.944268316525068
+                            ],
+                            [
+                                10.16657978581345,
+                                5.959111807740642
+                            ],
+                            [
+                                10.160335856162243,
+                                5.9643035752948
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "847aec92-de91-4af9-b9ee-d0e6b3851c25",
+                    "name": "Yaoundé - Ayos",
+                    "pointNames": "Batouri, Bertoua, Abong-Mbang, Ayos",
+                    "start": "4ff76b7f-6ed7-4169-b385-4b5a9cdfda5c",
+                    "end": "3d4bcaf9-1e93-40d6-b492-bb732be60d0d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.518367837869,
+                                3.852938706154478
+                            ],
+                            [
+                                11.61661486038968,
+                                3.86456829916242
+                            ],
+                            [
+                                11.69980576569583,
+                                3.888874300854752
+                            ],
+                            [
+                                11.76281996780903,
+                                3.925453338322472
+                            ],
+                            [
+                                11.93933558242065,
+                                3.90739468122791
+                            ],
+                            [
+                                12.19159701845756,
+                                3.887161341067709
+                            ],
+                            [
+                                12.42412234037481,
+                                3.892166010555524
+                            ],
+                            [
+                                12.48662308687888,
+                                3.924120813318589
+                            ],
+                            [
+                                12.5109319274595,
+                                3.922962683331398
+                            ],
+                            [
+                                12.523829715124073,
+                                3.905485957401133
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "417759bf-9d4e-43f1-b23e-2b2560c89563",
+                    "name": "Ayos - Abong-Mbang",
+                    "pointNames": "Batouri, Bertoua, Abong-Mbang, Ayos",
+                    "start": "3d4bcaf9-1e93-40d6-b492-bb732be60d0d",
+                    "end": "810e462a-f69e-4d72-a5b9-014913805716",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                12.52382971631025,
+                                3.905485955793843
+                            ],
+                            [
+                                12.52523660171946,
+                                3.903579601669283
+                            ],
+                            [
+                                12.53952019238792,
+                                3.89980913022888
+                            ],
+                            [
+                                12.56098589891759,
+                                3.890714429945569
+                            ],
+                            [
+                                12.59918014566903,
+                                3.895763617621626
+                            ],
+                            [
+                                12.68511869078643,
+                                3.943938166166542
+                            ],
+                            [
+                                12.76659937909607,
+                                3.99336688500737
+                            ],
+                            [
+                                12.87707037466081,
+                                4.021076854650316
+                            ],
+                            [
+                                12.9884036572477,
+                                4.017354421433347
+                            ],
+                            [
+                                13.05116347622898,
+                                4.010028003356961
+                            ],
+                            [
+                                13.11725182874538,
+                                3.997914222030555
+                            ],
+                            [
+                                13.1245653701986,
+                                3.978089932460697
+                            ],
+                            [
+                                13.15755470333545,
+                                3.990408540101486
+                            ],
+                            [
+                                13.17704548183015,
+                                3.987423984752571
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0bf8f584-816f-4818-b74a-f4fccd1551ec",
+                    "name": "Abong-Mbang - Bertoua",
+                    "pointNames": "Batouri, Bertoua, Abong-Mbang, Ayos",
+                    "start": "810e462a-f69e-4d72-a5b9-014913805716",
+                    "end": "0884d745-80d2-4f38-af87-f9e1693c6e5c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.177045483227285,
+                                3.987423985512426
+                            ],
+                            [
+                                13.19143968143812,
+                                4.01942126370445
+                            ],
+                            [
+                                13.22810311980013,
+                                4.091461458638792
+                            ],
+                            [
+                                13.25132900173256,
+                                4.119447292946732
+                            ],
+                            [
+                                13.31258146832121,
+                                4.175926857832709
+                            ],
+                            [
+                                13.38122875921496,
+                                4.201184088557677
+                            ],
+                            [
+                                13.45690792804621,
+                                4.243807600038361
+                            ],
+                            [
+                                13.50601144801902,
+                                4.271836086038644
+                            ],
+                            [
+                                13.50340468894043,
+                                4.326461016074502
+                            ],
+                            [
+                                13.56436935846812,
+                                4.38423237645679
+                            ],
+                            [
+                                13.60500921103134,
+                                4.411782766875381
+                            ],
+                            [
+                                13.62404144147857,
+                                4.474487075096247
+                            ],
+                            [
+                                13.61212942259822,
+                                4.535930903181555
+                            ],
+                            [
+                                13.62341959005466,
+                                4.555607878410675
+                            ],
+                            [
+                                13.65696355965812,
+                                4.5728244267393
+                            ],
+                            [
+                                13.675911308263121,
+                                4.581204002835902
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "878b9cba-51eb-43df-ac08-84b3492f6d65",
+                    "name": "Bertoua - Batouri",
+                    "pointNames": "Batouri, Bertoua, Abong-Mbang, Ayos",
+                    "start": "0884d745-80d2-4f38-af87-f9e1693c6e5c",
+                    "end": "96f949b6-18f8-4798-ba75-14f0f855d3ec",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.675911310090619,
+                                4.581204003644107
+                            ],
+                            [
+                                13.67855582037858,
+                                4.582373529145959
+                            ],
+                            [
+                                13.76964705593275,
+                                4.587706646789194
+                            ],
+                            [
+                                13.93373321320228,
+                                4.518608171785107
+                            ],
+                            [
+                                14.11865392593425,
+                                4.46894120152584
+                            ],
+                            [
+                                14.26734017619771,
+                                4.427220020633674
+                            ],
+                            [
+                                14.33813709441699,
+                                4.433938424820868
+                            ],
+                            [
+                                14.36159642674699,
+                                4.4382569737111
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "80f0bdab-9497-4f91-8b77-1ca6a93e9497",
+                    "name": "Bertoua - Bétaré Oyo",
+                    "pointNames": "Bétaré Oyo, Meiganga, Ngaoundere, Garoua Boulaï",
+                    "start": "0884d745-80d2-4f38-af87-f9e1693c6e5c",
+                    "end": "588a4da6-d25f-46f1-a948-57f97fd32108",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.67591130917687,
+                                4.581204003240004
+                            ],
+                            [
+                                13.70877811487343,
+                                4.593470088933825
+                            ],
+                            [
+                                13.75399808592358,
+                                4.602985579502491
+                            ],
+                            [
+                                13.78152767831178,
+                                4.639045927203577
+                            ],
+                            [
+                                13.85700138191987,
+                                4.739092930841182
+                            ],
+                            [
+                                13.83690463301795,
+                                4.811652292768428
+                            ],
+                            [
+                                13.81986491132536,
+                                4.887425042293556
+                            ],
+                            [
+                                13.87468850476091,
+                                4.943749641588215
+                            ],
+                            [
+                                14.04253267049582,
+                                4.970039122336775
+                            ],
+                            [
+                                14.03384279396039,
+                                5.091267176463542
+                            ],
+                            [
+                                13.98042003633018,
+                                5.175302546474725
+                            ],
+                            [
+                                14.02971328911897,
+                                5.290240611074945
+                            ],
+                            [
+                                14.02719155105137,
+                                5.417964337463232
+                            ],
+                            [
+                                14.06956949583257,
+                                5.490936918959998
+                            ],
+                            [
+                                14.10491222144511,
+                                5.514792352313322
+                            ],
+                            [
+                                14.087696811799601,
+                                5.586176299076704
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b302c99f-b62f-47a2-896f-4a8d2997a9a9",
+                    "name": "Bétaré Oyo - Garoua Boulaï",
+                    "pointNames": "Bétaré Oyo, Meiganga, Ngaoundere, Garoua Boulaï",
+                    "start": "588a4da6-d25f-46f1-a948-57f97fd32108",
+                    "end": "eb386efe-d28c-4f08-878e-f88e63d2c0b4",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.087696812038235,
+                                5.586176299166622
+                            ],
+                            [
+                                14.12744589014307,
+                                5.512103554116529
+                            ],
+                            [
+                                14.15374384209214,
+                                5.506472682681166
+                            ],
+                            [
+                                14.19752156079374,
+                                5.523402788311206
+                            ],
+                            [
+                                14.31654534020785,
+                                5.522771465060765
+                            ],
+                            [
+                                14.37237133983903,
+                                5.632654849977093
+                            ],
+                            [
+                                14.44778116454391,
+                                5.735579910309903
+                            ],
+                            [
+                                14.51370085330305,
+                                5.780004868626786
+                            ],
+                            [
+                                14.56537092928027,
+                                5.80098601417755
+                            ],
+                            [
+                                14.5524627397805,
+                                5.897544644768838
+                            ],
+                            [
+                                14.547233895169477,
+                                5.89699736476588
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1df523b6-acf9-46f1-b3d0-e3e1b1c704fc",
+                    "name": "Garoua Boulaï - Meiganga",
+                    "pointNames": "Bétaré Oyo, Meiganga, Ngaoundere, Garoua Boulaï",
+                    "start": "eb386efe-d28c-4f08-878e-f88e63d2c0b4",
+                    "end": "b462f90e-b366-4736-8031-4d1e01eba657",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.547233893180902,
+                                5.896997364557745
+                            ],
+                            [
+                                14.50055822608888,
+                                5.892112029244788
+                            ],
+                            [
+                                14.41599348108313,
+                                6.019542749141311
+                            ],
+                            [
+                                14.36324573406726,
+                                6.106318823192825
+                            ],
+                            [
+                                14.383771926179,
+                                6.237009542885775
+                            ],
+                            [
+                                14.31205172064358,
+                                6.381937298569819
+                            ],
+                            [
+                                14.2602070824045,
+                                6.475021009252089
+                            ],
+                            [
+                                14.287618779098347,
+                                6.520308639619576
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "aa8dfc5d-0b6e-4ae8-95d7-d209678011dd",
+                    "name": "Meiganga - Ngaoundere",
+                    "pointNames": "Bétaré Oyo, Meiganga, Ngaoundere, Garoua Boulaï",
+                    "start": "b462f90e-b366-4736-8031-4d1e01eba657",
+                    "end": "0c31e3e9-15f0-4feb-9fb9-dbf2ae02751c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.287618780132735,
+                                6.520308641328519
+                            ],
+                            [
+                                14.28985770785371,
+                                6.524007636402755
+                            ],
+                            [
+                                14.20116781053118,
+                                6.699130125159659
+                            ],
+                            [
+                                14.17259612469908,
+                                6.845609232161805
+                            ],
+                            [
+                                14.05275654680829,
+                                6.95989969346038
+                            ],
+                            [
+                                13.9274396680724,
+                                7.043613380391497
+                            ],
+                            [
+                                13.8410949038111,
+                                7.106766358351422
+                            ],
+                            [
+                                13.77811082512333,
+                                7.084336285247107
+                            ],
+                            [
+                                13.7142635106876,
+                                7.162084877898157
+                            ],
+                            [
+                                13.64106970079091,
+                                7.173404677943941
+                            ],
+                            [
+                                13.56829714858659,
+                                7.221750632102573
+                            ],
+                            [
+                                13.54825370967072,
+                                7.262472463899319
+                            ],
+                            [
+                                13.58037469863787,
+                                7.310861851199873
+                            ],
+                            [
+                                13.564931861761847,
+                                7.336143092495982
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "aa8918f4-372f-406b-a1a9-7b2aad6eee00",
+                    "name": "Ngaoundere - Banda",
+                    "pointNames": "Ngong, Gouna, Banda",
+                    "start": "0c31e3e9-15f0-4feb-9fb9-dbf2ae02751c",
+                    "end": "c94192c8-99bf-43d9-a23c-130bad9e5fd3",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.564931861241174,
+                                7.336143093348368
+                            ],
+                            [
+                                13.55842959769649,
+                                7.390254194383418
+                            ],
+                            [
+                                13.55464655760308,
+                                7.437083015393901
+                            ],
+                            [
+                                13.55623519116906,
+                                7.587079643061884
+                            ],
+                            [
+                                13.53317657758356,
+                                7.750698936519631
+                            ],
+                            [
+                                13.60368234245211,
+                                7.917561162479698
+                            ],
+                            [
+                                13.57275161494866,
+                                8.016547206915796
+                            ],
+                            [
+                                13.61073366701483,
+                                8.100272994496935
+                            ],
+                            [
+                                13.6427563360853,
+                                8.19858990683138
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cb8b4419-74be-458e-a1a0-cab0b5f5034e",
+                    "name": "Banda - Gouna",
+                    "pointNames": "Ngong, Gouna, Banda",
+                    "start": "c94192c8-99bf-43d9-a23c-130bad9e5fd3",
+                    "end": "c8f3afe4-490d-4e71-b59d-40f5ab065675",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.6427563367042,
+                                8.198589908731547
+                            ],
+                            [
+                                13.65298354670859,
+                                8.229989780716444
+                            ],
+                            [
+                                13.69128482258166,
+                                8.334041014386868
+                            ],
+                            [
+                                13.73790966528888,
+                                8.46822697203239
+                            ],
+                            [
+                                13.56233007990685,
+                                8.523109817824528
+                            ],
+                            [
+                                13.56147083257603,
+                                8.523826760686417
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ee7bd6ea-f56f-42b9-9250-189d9944566f",
+                    "name": "Gouna - Ngong",
+                    "pointNames": "Ngong, Gouna, Banda",
+                    "start": "c8f3afe4-490d-4e71-b59d-40f5ab065675",
+                    "end": "9e35c446-ad94-4513-a7bf-a36ac7ad91db",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.561470831040944,
+                                8.52382676196727
+                            ],
+                            [
+                                13.51967329413054,
+                                8.558701988991684
+                            ],
+                            [
+                                13.54330068080221,
+                                8.705507131098251
+                            ],
+                            [
+                                13.50095542529221,
+                                8.900438263102421
+                            ],
+                            [
+                                13.52518313968955,
+                                8.970038828116449
+                            ],
+                            [
+                                13.511851630398109,
+                                9.02343378546799
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "2fce9a52-d30e-44ff-9138-bca9928b9707",
+                    "name": "Ngong - Garoua",
+                    "pointNames": "Mora, Figuil, Bidzar, Maroua, Garoua",
+                    "start": "9e35c446-ad94-4513-a7bf-a36ac7ad91db",
+                    "end": "7fee7b0e-c698-4fac-91fc-f452dbea08eb",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.51185163015616,
+                                9.023433786437039
+                            ],
+                            [
+                                13.5077901637822,
+                                9.084600944498558
+                            ],
+                            [
+                                13.49947755495822,
+                                9.10566899120382
+                            ],
+                            [
+                                13.5101417410986,
+                                9.12660405887431
+                            ],
+                            [
+                                13.49780003319321,
+                                9.203258795135923
+                            ],
+                            [
+                                13.46589387078495,
+                                9.249351227025823
+                            ],
+                            [
+                                13.44481582661473,
+                                9.293903850957745
+                            ],
+                            [
+                                13.42542962092937,
+                                9.298462822783963
+                            ],
+                            [
+                                13.40398558101228,
+                                9.300888921126063
+                            ],
+                            [
+                                13.39421124828418,
+                                9.321433626762769
+                            ],
+                            [
+                                13.394301225068524,
+                                9.321491124599087
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "24eaa961-c726-4db8-b09a-8d2992a755f5",
+                    "name": "Garoua - Figuil",
+                    "pointNames": "Mora, Figuil, Bidzar, Maroua, Garoua",
+                    "start": "7fee7b0e-c698-4fac-91fc-f452dbea08eb",
+                    "end": "afad847b-0a8a-4506-869b-1d4eddc642c1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.394301226752471,
+                                9.321491125675179
+                            ],
+                            [
+                                13.52364708461637,
+                                9.404146968711908
+                            ],
+                            [
+                                13.707076827086,
+                                9.49352905615127
+                            ],
+                            [
+                                13.76612563380342,
+                                9.555061555586494
+                            ],
+                            [
+                                13.82066606605438,
+                                9.673716573376783
+                            ],
+                            [
+                                13.85856420159071,
+                                9.779629271886765
+                            ],
+                            [
+                                13.95722243440094,
+                                9.764137278829745
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3261c807-03e8-4ab1-8db7-4199789ee95b",
+                    "name": "Figuil - Bidzar",
+                    "pointNames": "Mora, Figuil, Bidzar, Maroua, Garoua",
+                    "start": "afad847b-0a8a-4506-869b-1d4eddc642c1",
+                    "end": "79a400ab-ba02-4735-81c7-5d22a09af513",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.957222436013465,
+                                9.764137279454195
+                            ],
+                            [
+                                13.99713857350204,
+                                9.813851339636752
+                            ],
+                            [
+                                14.08311061723698,
+                                9.876307730250668
+                            ],
+                            [
+                                14.10924083574787,
+                                9.898015151945401
+                            ],
+                            [
+                                14.10925743679125,
+                                9.898030505437264
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3c24b157-e6d0-461f-af90-5c02e51e4740",
+                    "name": "Bidzar - Maroua",
+                    "pointNames": "Mora, Figuil, Bidzar, Maroua, Garoua",
+                    "start": "79a400ab-ba02-4735-81c7-5d22a09af513",
+                    "end": "8111ea6c-4c83-4ac8-9d1a-507c04f38d38",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.109257438257863,
+                                9.898030506793663
+                            ],
+                            [
+                                14.15963069622112,
+                                9.94461826568238
+                            ],
+                            [
+                                14.18833502793018,
+                                10.02292239822761
+                            ],
+                            [
+                                14.17205898276711,
+                                10.06849167248582
+                            ],
+                            [
+                                14.18717216747427,
+                                10.13246583258701
+                            ],
+                            [
+                                14.18296286180757,
+                                10.20709594315465
+                            ],
+                            [
+                                14.22942087534823,
+                                10.27307549553573
+                            ],
+                            [
+                                14.24199130030787,
+                                10.39958967879803
+                            ],
+                            [
+                                14.27153608098383,
+                                10.52886434730058
+                            ],
+                            [
+                                14.30337512402788,
+                                10.59175057709816
+                            ],
+                            [
+                                14.316998619177564,
+                                10.599788429649523
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "5575e2af-29d2-47ae-a80e-c343c0da7786",
+                    "name": "Maroua - Mora",
+                    "pointNames": "Mora, Figuil, Bidzar, Maroua, Garoua",
+                    "start": "8111ea6c-4c83-4ac8-9d1a-507c04f38d38",
+                    "end": "22184d16-324d-41c0-aee6-2a4852e048cd",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.31699862089807,
+                                10.599788430664622
+                            ],
+                            [
+                                14.31939262812961,
+                                10.60120089324655
+                            ],
+                            [
+                                14.25332845495908,
+                                10.71946251783253
+                            ],
+                            [
+                                14.25622737170267,
+                                10.78727502385823
+                            ],
+                            [
+                                14.24454179750537,
+                                10.87105260363883
+                            ],
+                            [
+                                14.1846090393575,
+                                10.99476633544596
+                            ],
+                            [
+                                14.142170056318765,
+                                11.047059016803658
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a50bb38e-3f81-4def-8caf-237cb4642784",
+                    "name": "Mora - Waza",
+                    "pointNames": "Waza, Labado",
+                    "start": "22184d16-324d-41c0-aee6-2a4852e048cd",
+                    "end": "5454ff85-31c6-4f68-b5b4-7553a210d875",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.14217005568877,
+                                11.04705901757993
+                            ],
+                            [
+                                14.17370341245732,
+                                11.10015421038373
+                            ],
+                            [
+                                14.21522457398397,
+                                11.15185416789226
+                            ],
+                            [
+                                14.40038328299556,
+                                11.30032477795633
+                            ],
+                            [
+                                14.56009501065706,
+                                11.38333856658726
+                            ],
+                            [
+                                14.57131706956491,
+                                11.395508563577346
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "fe8ee419-d6ef-4787-b821-f70fec216c24",
+                    "name": "Kousseri - Chad Border",
+                    "pointNames": "Kousseri, Chad Border",
+                    "start": "8f4056eb-90df-4a7a-b964-b106f51dbf4e",
+                    "end": "d9fdbda3-49ff-4ca5-82a6-aa21b78b33f6",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.0138659861859,
+                                12.091421787432495
+                            ],
+                            [
+                                15.01547293065658,
+                                12.09176294287533
+                            ],
+                            [
+                                15.020752119818445,
+                                12.11650580460794
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ff209ec6-53c1-4da1-825c-f2b431616d9b",
+                    "name": "Bafoussam - Foumban",
+                    "pointNames": "Tignère, Doualayel, Foumban, Bankim, Banyo, Tibati",
+                    "start": "39328622-b26b-474c-bfb6-551394e671fe",
+                    "end": "a1fc1136-2fbf-4658-8bd9-aaa550e73aa0",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.422261713879818,
+                                5.481566213500042
+                            ],
+                            [
+                                10.52803093306248,
+                                5.489017872593882
+                            ],
+                            [
+                                10.62268931391373,
+                                5.505162350892761
+                            ],
+                            [
+                                10.68234930382668,
+                                5.588237030626143
+                            ],
+                            [
+                                10.75464602482288,
+                                5.656987586172104
+                            ],
+                            [
+                                10.85653468347309,
+                                5.711263823199881
+                            ],
+                            [
+                                10.899131508979501,
+                                5.726521854926767
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1f84dfb6-f719-4517-80c1-da3a596a0c51",
+                    "name": "Foumban - Bankim",
+                    "pointNames": "Tignère, Doualayel, Foumban, Bankim, Banyo, Tibati",
+                    "start": "a1fc1136-2fbf-4658-8bd9-aaa550e73aa0",
+                    "end": "f5a2bfba-c172-4571-b9bc-93aa384406bb",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.899131510860087,
+                                5.726521855600386
+                            ],
+                            [
+                                10.90024761486236,
+                                5.726921640093121
+                            ],
+                            [
+                                10.88958766300931,
+                                5.79772560136916
+                            ],
+                            [
+                                10.93802057538713,
+                                5.829164066395772
+                            ],
+                            [
+                                11.06544737856632,
+                                5.850136352646618
+                            ],
+                            [
+                                11.24055068349748,
+                                5.962975213493614
+                            ],
+                            [
+                                11.35586175424615,
+                                6.041106362446428
+                            ],
+                            [
+                                11.45158388487777,
+                                6.071351350378782
+                            ],
+                            [
+                                11.485896844275858,
+                                6.090171419194613
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4cc1cc48-cba1-4e17-a6e0-2700ee19aa33",
+                    "name": "Bankim - Banyo",
+                    "pointNames": "Tignère, Doualayel, Foumban, Bankim, Banyo, Tibati",
+                    "start": "f5a2bfba-c172-4571-b9bc-93aa384406bb",
+                    "end": "b65bdc74-17c2-4192-8c6c-533f5e088f06",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.485896846028586,
+                                6.090171420155954
+                            ],
+                            [
+                                11.493461712007,
+                                6.094320619198933
+                            ],
+                            [
+                                11.56266050283573,
+                                6.147445265036221
+                            ],
+                            [
+                                11.58212536100989,
+                                6.271806089188753
+                            ],
+                            [
+                                11.61332316549237,
+                                6.360382847097028
+                            ],
+                            [
+                                11.55301323922926,
+                                6.484376366056771
+                            ],
+                            [
+                                11.58732261051603,
+                                6.564634373385416
+                            ],
+                            [
+                                11.63760526505991,
+                                6.602819001036911
+                            ],
+                            [
+                                11.68431651915193,
+                                6.625501894634965
+                            ],
+                            [
+                                11.70411289568895,
+                                6.663506736931293
+                            ],
+                            [
+                                11.76914339030307,
+                                6.711992408848254
+                            ],
+                            [
+                                11.79798737517759,
+                                6.713024681221375
+                            ],
+                            [
+                                11.8021411464939,
+                                6.749778191247206
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "8c217816-408c-492a-8dd2-eb1b90fa2942",
+                    "name": "Banyo - Tibati",
+                    "pointNames": "Tignère, Doualayel, Foumban, Bankim, Banyo, Tibati",
+                    "start": "b65bdc74-17c2-4192-8c6c-533f5e088f06",
+                    "end": "1f8ca5f3-0409-4115-b812-401e6a9ccdda",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                11.80214114671837,
+                                6.749778193233357
+                            ],
+                            [
+                                11.80262018721013,
+                                6.754016852075154
+                            ],
+                            [
+                                11.86457705442589,
+                                6.745818441791759
+                            ],
+                            [
+                                11.91846946148087,
+                                6.708973254372917
+                            ],
+                            [
+                                11.98110173138605,
+                                6.72125990968681
+                            ],
+                            [
+                                12.09730630838289,
+                                6.618586555962152
+                            ],
+                            [
+                                12.26351319260301,
+                                6.586781993886468
+                            ],
+                            [
+                                12.38336026043289,
+                                6.527683250701143
+                            ],
+                            [
+                                12.54128610019676,
+                                6.504571928019882
+                            ],
+                            [
+                                12.612021995648316,
+                                6.473296350067402
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "fbb39f87-e115-4548-8f45-1b19a2a26580",
+                    "name": "Tibati - Doualayel",
+                    "pointNames": "Tignère, Doualayel, Foumban, Bankim, Banyo, Tibati",
+                    "start": "1f8ca5f3-0409-4115-b812-401e6a9ccdda",
+                    "end": "f677b8df-9c21-46cb-8edd-f81eda089fca",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                12.612021996187162,
+                                6.473296350590027
+                            ],
+                            [
+                                12.57236135877887,
+                                6.571316456097696
+                            ],
+                            [
+                                12.55704064217122,
+                                6.653130464935274
+                            ],
+                            [
+                                12.61114305840846,
+                                6.727045669676856
+                            ],
+                            [
+                                12.6315267688386,
+                                6.793651102882873
+                            ],
+                            [
+                                12.67195817096293,
+                                6.811958851900259
+                            ],
+                            [
+                                12.68074370667604,
+                                6.881503395570983
+                            ],
+                            [
+                                12.63234316404093,
+                                6.950989863578171
+                            ],
+                            [
+                                12.62168416329461,
+                                7.005353623454189
+                            ],
+                            [
+                                12.63896902389654,
+                                7.028353791848224
+                            ],
+                            [
+                                12.65490425393847,
+                                7.011433978610439
+                            ],
+                            [
+                                12.658041167818013,
+                                7.012476512243542
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9808ef81-8766-4e16-ad86-11966994c9c5",
+                    "name": "Doualayel - Tignère",
+                    "pointNames": "Tignère, Doualayel, Foumban, Bankim, Banyo, Tibati",
+                    "start": "f677b8df-9c21-46cb-8edd-f81eda089fca",
+                    "end": "b4728333-78f9-4035-aec7-9459ce5eb77d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                12.658041169714148,
+                                7.01247651287371
+                            ],
+                            [
+                                12.661923411894,
+                                7.013766751687961
+                            ],
+                            [
+                                12.6581223606352,
+                                7.063448054640024
+                            ],
+                            [
+                                12.63154256576493,
+                                7.125116701179349
+                            ],
+                            [
+                                12.57956791011133,
+                                7.168987019050017
+                            ],
+                            [
+                                12.56477152240202,
+                                7.218850888903767
+                            ],
+                            [
+                                12.59665417325241,
+                                7.279625285562405
+                            ],
+                            [
+                                12.63642595129161,
+                                7.327424788658554
+                            ],
+                            [
+                                12.63090202522312,
+                                7.359683970910401
+                            ],
+                            [
+                                12.65168658632615,
+                                7.373585981689108
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cadca249-1ce5-40de-b569-a56c20e5fa9e",
+                    "name": "Tignère - Ngaoundere",
+                    "pointNames": "Tignère, Doualayel, Foumban, Bankim, Banyo, Tibati",
+                    "start": "b4728333-78f9-4035-aec7-9459ce5eb77d",
+                    "end": "0c31e3e9-15f0-4feb-9fb9-dbf2ae02751c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                12.651686587988525,
+                                7.373585982801009
+                            ],
+                            [
+                                12.65310805015774,
+                                7.374536745355003
+                            ],
+                            [
+                                12.70627139813172,
+                                7.342228882098507
+                            ],
+                            [
+                                12.77984998009581,
+                                7.378773463080333
+                            ],
+                            [
+                                12.80689811079022,
+                                7.359116323106913
+                            ],
+                            [
+                                12.86107016488097,
+                                7.405050293594485
+                            ],
+                            [
+                                12.99326714223962,
+                                7.393123585194513
+                            ],
+                            [
+                                13.05928059964574,
+                                7.395750050728525
+                            ],
+                            [
+                                13.1352671912836,
+                                7.332386402101562
+                            ],
+                            [
+                                13.19426544097185,
+                                7.32597273332528
+                            ],
+                            [
+                                13.23574423517129,
+                                7.321388564894848
+                            ],
+                            [
+                                13.26862118353182,
+                                7.287347069702612
+                            ],
+                            [
+                                13.3406769071705,
+                                7.291181631442476
+                            ],
+                            [
+                                13.43127535475022,
+                                7.33333352871915
+                            ],
+                            [
+                                13.51457679112634,
+                                7.330746065380638
+                            ],
+                            [
+                                13.564931861241174,
+                                7.336143093348368
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e2a8874c-fd06-4473-848c-933eecc92636",
+                    "name": "Tiko - Limbe",
+                    "pointNames": "Limbe, Tiko",
+                    "start": "aff5f750-ada6-40fd-bd62-126bb5151fe8",
+                    "end": "d24c236d-5888-4ddb-a62c-6edde1306eb7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                9.354227386105096,
+                                4.083534533865469
+                            ],
+                            [
+                                9.33859844568735,
+                                4.087224598253805
+                            ],
+                            [
+                                9.326561120946312,
+                                4.087400634338464
+                            ],
+                            [
+                                9.31739348587325,
+                                4.08983568798383
+                            ],
+                            [
+                                9.307763105037502,
+                                4.085961642354362
+                            ],
+                            [
+                                9.289751747496876,
+                                4.079553251428293
+                            ],
+                            [
+                                9.275681159108649,
+                                4.073343909326096
+                            ],
+                            [
+                                9.274500622386011,
+                                4.067679174872334
+                            ],
+                            [
+                                9.265254875066397,
+                                4.066026360240834
+                            ],
+                            [
+                                9.25535153306306,
+                                4.068201023957115
+                            ],
+                            [
+                                9.243559343717125,
+                                4.060199309911683
+                            ],
+                            [
+                                9.223195795386815,
+                                4.056455242552703
+                            ],
+                            [
+                                9.212616480929942,
+                                4.044839895042943
+                            ],
+                            [
+                                9.21032258020867,
+                                4.038016374260062
+                            ],
+                            [
+                                9.194016208269067,
+                                4.032358836820402
+                            ],
+                            [
+                                9.190106088940846,
+                                4.026873832915711
+                            ],
+                            [
+                                9.192250183592394,
+                                4.016285537559754
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "80c5c450-e54b-46df-9bce-048c6c3f0cd0",
+                    "name": "network fork - Kousseri",
+                    "pointNames": "Kousseri, Chad Border",
+                    "start": "5ec488cb-2fe2-4f9d-bf50-46470b613c63",
+                    "end": "8f4056eb-90df-4a7a-b964-b106f51dbf4e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.817768945782655,
+                                12.1761174430376
+                            ],
+                            [
+                                14.82272140477138,
+                                12.17308774879675
+                            ],
+                            [
+                                14.85891603195147,
+                                12.14726727373917
+                            ],
+                            [
+                                14.90825253611293,
+                                12.10889250736444
+                            ],
+                            [
+                                14.92711840442679,
+                                12.09038812739733
+                            ],
+                            [
+                                14.98637227390917,
+                                12.08558485295334
+                            ],
+                            [
+                                15.013865984230575,
+                                12.091421787017378
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b727c7fe-635e-43d1-bd88-a4518dcc8386",
+                    "name": "Waza - network fork",
+                    "pointNames": "Waza, Labado",
+                    "start": "5454ff85-31c6-4f68-b5b4-7553a210d875",
+                    "end": "5ec488cb-2fe2-4f9d-bf50-46470b613c63",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.57131707091912,
+                                11.395508565045946
+                            ],
+                            [
+                                14.5846697314671,
+                                11.40998913764077
+                            ],
+                            [
+                                14.58807514504827,
+                                11.41656822497791
+                            ],
+                            [
+                                14.59419095115841,
+                                11.42580129183149
+                            ],
+                            [
+                                14.66012296626433,
+                                11.47214521779743
+                            ],
+                            [
+                                14.67354871646883,
+                                11.5011632308388
+                            ],
+                            [
+                                14.63837698748176,
+                                11.54261447702087
+                            ],
+                            [
+                                14.65689740550991,
+                                11.59756036917459
+                            ],
+                            [
+                                14.64231137850914,
+                                11.66245223367326
+                            ],
+                            [
+                                14.64707679963956,
+                                11.68605140836037
+                            ],
+                            [
+                                14.63635982609928,
+                                11.7984120632787
+                            ],
+                            [
+                                14.62261471618884,
+                                11.86510464699461
+                            ],
+                            [
+                                14.66323076827137,
+                                11.94507582542388
+                            ],
+                            [
+                                14.65628364762556,
+                                11.98723132029467
+                            ],
+                            [
+                                14.63878750570448,
+                                12.0476408885397
+                            ],
+                            [
+                                14.7085922114101,
+                                12.09923900967451
+                            ],
+                            [
+                                14.79927660506638,
+                                12.14588912568198
+                            ],
+                            [
+                                14.817768945782655,
+                                12.1761174430376
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "db353802-8b10-47ac-894b-0f6500811181",
+                    "name": "network fork - Labado",
+                    "pointNames": "Waza, Labado",
+                    "start": "5ec488cb-2fe2-4f9d-bf50-46470b613c63",
+                    "end": "bcf423f3-f07b-46e0-b7eb-ba119cde325d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.817768945782655,
+                                12.1761174430376
+                            ],
+                            [
+                                14.84916660386256,
+                                12.22744130664278
+                            ],
+                            [
+                                14.702693575244114,
+                                12.485271568369871
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "Camtel-1",
+                    "name": "Camtel"
+                }
+            ]
+        }
+    ]
+}
