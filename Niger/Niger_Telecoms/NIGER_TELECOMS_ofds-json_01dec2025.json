@@ -1,0 +1,2886 @@
+{
+    "networks": [
+        {
+            "id": "fe05dfdb-ee04-4883-8d93-841f9785c5dc",
+            "name": "Niger Telecoms",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Niamey",
+                    "id": "c48d6368-b8c9-465c-8619-d566e491ac0c",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            2.11236714499148,
+                            13.5295539626888
+                        ]
+                    }
+                },
+                {
+                    "name": "Tillabéri",
+                    "id": "1762d400-bd90-4763-88c3-0ab0c064aaa5",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.453550655181755,
+                            14.205960529443576
+                        ]
+                    }
+                },
+                {
+                    "name": "Mali Border",
+                    "id": "3f4dfad6-72fc-40b5-8d20-20540618ec52",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.759460498614793,
+                            14.963227710528319
+                        ]
+                    }
+                },
+                {
+                    "name": "Ayorou",
+                    "id": "80009623-a40b-4563-bffc-88eb6ea800b9",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            0.919261266850412,
+                            14.736456776693947
+                        ]
+                    }
+                },
+                {
+                    "name": "Makalondi",
+                    "id": "ef2b9d3f-da48-471c-859e-30fcfcbb9cc7",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.686792931464572,
+                            12.83644192563856
+                        ]
+                    }
+                },
+                {
+                    "name": "Dosso",
+                    "id": "ae968539-caec-48ab-8b30-4e58e6e9767d",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.197486494740494,
+                            13.04364773286738
+                        ]
+                    }
+                },
+                {
+                    "name": "Burkina Faso Border",
+                    "id": "662e7207-3c66-4d09-8075-bdc5cff875b7",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            1.633996902400197,
+                            12.74062453067346
+                        ]
+                    }
+                },
+                {
+                    "name": "Bénin Border",
+                    "id": "7666a7f7-397f-4754-ae0c-24170cdb5a33",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.397971582582404,
+                            11.88344928560306
+                        ]
+                    }
+                },
+                {
+                    "name": "Gaya",
+                    "id": "3dc71cbd-3cbd-45f1-9b37-dbe753febeda",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.455186553206042,
+                            11.888663540621032
+                        ]
+                    }
+                },
+                {
+                    "name": "Konni",
+                    "id": "6d500304-9e03-43e3-a50d-be1fdfc4c543",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            5.252645767947493,
+                            13.803977807535187
+                        ]
+                    }
+                },
+                {
+                    "name": "Illéla",
+                    "id": "eff8366c-2ce5-4242-8aa4-e9293fd5eaf0",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            5.250371442455055,
+                            14.45851869642013
+                        ]
+                    }
+                },
+                {
+                    "name": "Tahoua",
+                    "id": "4748a937-1903-4557-9861-7ed957a76647",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            5.262914534196092,
+                            14.89134647812341
+                        ]
+                    }
+                },
+                {
+                    "name": "Badaguichiri",
+                    "id": "901c7e3c-9a3b-49d1-ab99-092acd61aa18",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            5.374596556355328,
+                            14.519983350305667
+                        ]
+                    }
+                },
+                {
+                    "name": "Nigeria Border",
+                    "id": "c20c2bf3-d8d3-4387-a0a9-ba7eafa6dccb",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            5.280482002421953,
+                            13.7578711888986
+                        ]
+                    }
+                },
+                {
+                    "name": "Abalak",
+                    "id": "dda3fce0-5716-4408-ac03-130106731778",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            6.281460568536497,
+                            15.460767669683635
+                        ]
+                    }
+                },
+                {
+                    "name": "Agadez",
+                    "id": "5995effa-495c-41e9-aae4-000c33b80254",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            7.983984213698641,
+                            16.97588721457187
+                        ]
+                    }
+                },
+                {
+                    "name": "Arlit",
+                    "id": "74932e7b-01ec-4d48-86f4-6f4d4e56078a",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            7.385615455544131,
+                            18.73402956726985
+                        ]
+                    }
+                },
+                {
+                    "name": "Algeria Border",
+                    "id": "3dc2914c-5b97-4bcb-971e-c288694add20",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            5.786470860849251,
+                            19.439994585636832
+                        ]
+                    }
+                },
+                {
+                    "name": "Aderbissinat",
+                    "id": "dadb66a1-9ce1-46f6-8370-8447ea0c69f3",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            7.89816209673605,
+                            15.619629718094348
+                        ]
+                    }
+                },
+                {
+                    "name": "Tânout",
+                    "id": "886ed86d-6e4f-4b6b-8757-64e2c1c6153c",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            8.882509316903878,
+                            14.972231969230842
+                        ]
+                    }
+                },
+                {
+                    "name": "Zinder",
+                    "id": "718db1e4-e384-470c-8797-361bf68eefd1",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            8.98123929336075,
+                            13.81229495940558
+                        ]
+                    }
+                },
+                {
+                    "name": "Nigeria Border",
+                    "id": "850659a7-b58b-49c5-bbd5-39b25302266d",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            8.98431194740483,
+                            12.83973886362314
+                        ]
+                    }
+                },
+                {
+                    "name": "Gouré",
+                    "id": "98e9e07b-c62b-47ea-b12b-eb39539c3159",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.264327695486179,
+                            13.985725118929532
+                        ]
+                    }
+                },
+                {
+                    "name": "N'Guigmi",
+                    "id": "eccce718-1145-4aeb-b21a-86aba54f4455",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.101096099518871,
+                            14.262276075544552
+                        ]
+                    }
+                },
+                {
+                    "name": "Tchad Border",
+                    "id": "f25955de-d240-4895-a2c0-90de38898ab3",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.47052513133189,
+                            14.41848963042451
+                        ]
+                    }
+                },
+                {
+                    "name": "Filingué",
+                    "id": "b1e5f36f-16cc-4ddd-9a3f-b9268ad5f09f",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.321152674918815,
+                            14.35133879144851
+                        ]
+                    }
+                },
+                {
+                    "name": "Maradi",
+                    "id": "deb2e4bd-3f29-4dce-96bb-bd8adc186781",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            7.106907015147339,
+                            13.50876955409701
+                        ]
+                    }
+                },
+                {
+                    "name": "Nigeria Border",
+                    "id": "46e10b49-b7cb-48ff-abe6-241b286e60d7",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            7.2615560927429,
+                            13.12633330767052
+                        ]
+                    }
+                },
+                {
+                    "name": "Diffa",
+                    "id": "b5ddb733-316e-40fc-8bd1-26d35a11cd9e",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "Not processed",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.597087622874245,
+                            13.329871642294618
+                        ]
+                    }
+                },
+                {
+                    "name": "network fork",
+                    "id": "44d058ab-14b3-4f40-a212-495bb69bda6e",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "PROCESSED: Created fork (82.98m from span 54)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            5.347517680175304,
+                            13.89628643076943
+                        ]
+                    }
+                },
+                {
+                    "name": "network fork",
+                    "id": "c2661791-59d9-4e56-864b-52de3ea7fcf3",
+                    "physicalInfrastructureProvider": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "NIGER_TELECOMS",
+                            "name": "Niger Telecoms"
+                        }
+                    ],
+                    "phase6_status": "PROCESSED: Created fork (215.08m from span 61)",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            8.996976231275381,
+                            13.776764713168031
+                        ]
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "7bb5ea40-6ad3-4c7f-96c0-8fdb610119f9",
+                    "name": "Badaguichiri - Illéla",
+                    "pointNames": "Illéla",
+                    "start": "901c7e3c-9a3b-49d1-ab99-092acd61aa18",
+                    "end": "eff8366c-2ce5-4242-8aa4-e9293fd5eaf0",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                5.374596556355328,
+                                14.519983350305667
+                            ],
+                            [
+                                5.352213910584376,
+                                14.50654034906284
+                            ],
+                            [
+                                5.327312811267435,
+                                14.50414222523122
+                            ],
+                            [
+                                5.308210363470285,
+                                14.49428105711419
+                            ],
+                            [
+                                5.283225678275025,
+                                14.48514181084023
+                            ],
+                            [
+                                5.262380494995352,
+                                14.47002815545063
+                            ],
+                            [
+                                5.25037144317643,
+                                14.458518697111495
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "79a63698-a638-4ac2-bb87-1460fe0b7cf5",
+                    "name": "Badaguichiri - Tahoua",
+                    "pointNames": "",
+                    "start": "901c7e3c-9a3b-49d1-ab99-092acd61aa18",
+                    "end": "4748a937-1903-4557-9861-7ed957a76647",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                5.37416531607936,
+                                14.52339419952623
+                            ],
+                            [
+                                5.369273311024974,
+                                14.54127076688638
+                            ],
+                            [
+                                5.347112750536985,
+                                14.60418326665275
+                            ],
+                            [
+                                5.338749201453474,
+                                14.68596385254336
+                            ],
+                            [
+                                5.33285127390055,
+                                14.69672289698049
+                            ],
+                            [
+                                5.344019307123258,
+                                14.73440881560923
+                            ],
+                            [
+                                5.34766607584034,
+                                14.77165395054823
+                            ],
+                            [
+                                5.316559343444275,
+                                14.81699959337814
+                            ],
+                            [
+                                5.289843134623475,
+                                14.85447916680103
+                            ],
+                            [
+                                5.278780796621023,
+                                14.88880958803069
+                            ],
+                            [
+                                5.262914534196092,
+                                14.89134647812341
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "d3a580a7-511a-4f1a-958c-91f758acd92d",
+                    "name": "Filingué - Tahoua",
+                    "pointNames": "",
+                    "start": "b1e5f36f-16cc-4ddd-9a3f-b9268ad5f09f",
+                    "end": "4748a937-1903-4557-9861-7ed957a76647",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                3.32730743248844,
+                                14.36149068626158
+                            ],
+                            [
+                                3.507064521329712,
+                                14.50059815671439
+                            ],
+                            [
+                                3.818642909786341,
+                                14.67986984640424
+                            ],
+                            [
+                                4.167437978490076,
+                                14.82341812361096
+                            ],
+                            [
+                                4.696533309207364,
+                                14.86213699605325
+                            ],
+                            [
+                                5.010935221922472,
+                                14.88018091134047
+                            ],
+                            [
+                                5.262914534196092,
+                                14.89134647812341
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9fd53993-1f71-4f4c-a7f0-82d39c0e6eb7",
+                    "name": "Tahoua - Abalak",
+                    "pointNames": "Tahoua, Abalak, Agadez",
+                    "start": "4748a937-1903-4557-9861-7ed957a76647",
+                    "end": "dda3fce0-5716-4408-ac03-130106731778",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                5.262914535192211,
+                                14.891346478044404
+                            ],
+                            [
+                                5.280129692175477,
+                                14.88998108715272
+                            ],
+                            [
+                                5.298404269797654,
+                                14.88474413043435
+                            ],
+                            [
+                                5.366147531414606,
+                                14.89286516117923
+                            ],
+                            [
+                                5.447114183635639,
+                                14.9274579113729
+                            ],
+                            [
+                                5.514706481570397,
+                                14.96658039605123
+                            ],
+                            [
+                                5.595517587242169,
+                                15.00563864385269
+                            ],
+                            [
+                                5.681963651159457,
+                                15.11517838054112
+                            ],
+                            [
+                                5.72930852486242,
+                                15.13549754169179
+                            ],
+                            [
+                                5.809840857852513,
+                                15.22339938309744
+                            ],
+                            [
+                                5.894959919237641,
+                                15.25987659286348
+                            ],
+                            [
+                                5.954077304370342,
+                                15.27194146735405
+                            ],
+                            [
+                                6.008692078389468,
+                                15.26782961573689
+                            ],
+                            [
+                                6.040633735200118,
+                                15.26524073035176
+                            ],
+                            [
+                                6.051909997642153,
+                                15.27220864483975
+                            ],
+                            [
+                                6.075606211697052,
+                                15.32475906628578
+                            ],
+                            [
+                                6.080586707389575,
+                                15.34070759636689
+                            ],
+                            [
+                                6.125371671700634,
+                                15.38983041170563
+                            ],
+                            [
+                                6.181466903105424,
+                                15.41540290900511
+                            ],
+                            [
+                                6.2462777975429,
+                                15.43420579792968
+                            ],
+                            [
+                                6.281460567739336,
+                                15.460767669081806
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f51b3c8a-2acf-41b6-869e-09b90c0c97ad",
+                    "name": "Abalak - Agadez",
+                    "pointNames": "Tahoua, Abalak, Agadez",
+                    "start": "dda3fce0-5716-4408-ac03-130106731778",
+                    "end": "5995effa-495c-41e9-aae4-000c33b80254",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                6.281460569333657,
+                                15.460767670285467
+                            ],
+                            [
+                                6.292977635323229,
+                                15.46946268836271
+                            ],
+                            [
+                                6.369167549312522,
+                                15.55486756768462
+                            ],
+                            [
+                                6.426422729648877,
+                                15.6318343840156
+                            ],
+                            [
+                                6.656534428680829,
+                                15.76454038567013
+                            ],
+                            [
+                                6.851987777997075,
+                                15.86029597390832
+                            ],
+                            [
+                                6.967629580447074,
+                                15.96642801913699
+                            ],
+                            [
+                                7.046867446301146,
+                                16.00178486393646
+                            ],
+                            [
+                                7.141061613841249,
+                                16.12787757859329
+                            ],
+                            [
+                                7.168537615801873,
+                                16.21164729589587
+                            ],
+                            [
+                                7.182138101692111,
+                                16.34408105383831
+                            ],
+                            [
+                                7.21526654783327,
+                                16.45074326577297
+                            ],
+                            [
+                                7.338466570715734,
+                                16.56038347110842
+                            ],
+                            [
+                                7.398397325504202,
+                                16.65508705505843
+                            ],
+                            [
+                                7.403375685379943,
+                                16.71240755654729
+                            ],
+                            [
+                                7.438417026172521,
+                                16.73859927584622
+                            ],
+                            [
+                                7.489857896067207,
+                                16.74537456603826
+                            ],
+                            [
+                                7.526515983303108,
+                                16.77309977387631
+                            ],
+                            [
+                                7.797042483382793,
+                                16.85266714744177
+                            ],
+                            [
+                                7.880505370710824,
+                                16.87276814623653
+                            ],
+                            [
+                                7.932527361069379,
+                                16.89220417633163
+                            ],
+                            [
+                                7.96826029301934,
+                                16.94670869463489
+                            ],
+                            [
+                                7.983984213224327,
+                                16.975887213691696
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4b5e0d49-a073-4edc-b8e5-a4d7f39c62df",
+                    "name": "Agadez - Arlit",
+                    "pointNames": "Arlit",
+                    "start": "5995effa-495c-41e9-aae4-000c33b80254",
+                    "end": "74932e7b-01ec-4d48-86f4-6f4d4e56078a",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                7.983984213698641,
+                                16.97588721457187
+                            ],
+                            [
+                                7.981753670761167,
+                                16.98102596518407
+                            ],
+                            [
+                                7.965442221384953,
+                                16.98719885156958
+                            ],
+                            [
+                                7.958855525505315,
+                                16.990027962131
+                            ],
+                            [
+                                7.955342412559203,
+                                16.9984271115355
+                            ],
+                            [
+                                7.949564530278622,
+                                17.00131758197177
+                            ],
+                            [
+                                7.878846486904882,
+                                17.0177122892783
+                            ],
+                            [
+                                7.757333180018053,
+                                17.04276046750162
+                            ],
+                            [
+                                7.722814814681735,
+                                17.09056637495084
+                            ],
+                            [
+                                7.766509555611842,
+                                17.22226759260898
+                            ],
+                            [
+                                7.75299098425708,
+                                17.31722067468507
+                            ],
+                            [
+                                7.769062456204625,
+                                17.35810381960718
+                            ],
+                            [
+                                7.759323092351385,
+                                17.49848088219033
+                            ],
+                            [
+                                7.704553315027287,
+                                17.54051198253405
+                            ],
+                            [
+                                7.567841686383503,
+                                17.92460737161463
+                            ],
+                            [
+                                7.533925494814635,
+                                18.11914525385802
+                            ],
+                            [
+                                7.597531008136571,
+                                18.20705700644134
+                            ],
+                            [
+                                7.568623997461382,
+                                18.38171684638777
+                            ],
+                            [
+                                7.541440427481607,
+                                18.49413904090937
+                            ],
+                            [
+                                7.452523027126167,
+                                18.56479839637888
+                            ],
+                            [
+                                7.418929515007839,
+                                18.64379906344605
+                            ],
+                            [
+                                7.415135660066017,
+                                18.68736255516091
+                            ],
+                            [
+                                7.425594695868252,
+                                18.70373254822602
+                            ],
+                            [
+                                7.414439050027264,
+                                18.72817824562011
+                            ],
+                            [
+                                7.386484183010571,
+                                18.72812905206139
+                            ],
+                            [
+                                7.385615455689615,
+                                18.734029566281706
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "af28287f-54b8-4e4e-b8a9-f48703cc2445",
+                    "name": "Arlit - Algeria Border",
+                    "pointNames": "Algeria Border",
+                    "start": "74932e7b-01ec-4d48-86f4-6f4d4e56078a",
+                    "end": "3dc2914c-5b97-4bcb-971e-c288694add20",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                7.385615455544131,
+                                18.73402956726985
+                            ],
+                            [
+                                7.38455107324453,
+                                18.75310099347312
+                            ],
+                            [
+                                7.383014362688344,
+                                18.76606448323054
+                            ],
+                            [
+                                7.370888407869291,
+                                18.77732021193859
+                            ],
+                            [
+                                7.362724628166419,
+                                18.78357123355104
+                            ],
+                            [
+                                7.357726147362415,
+                                18.79040609064424
+                            ],
+                            [
+                                7.303961315578722,
+                                18.83350129007376
+                            ],
+                            [
+                                7.04602272488601,
+                                18.96407511192795
+                            ],
+                            [
+                                6.721025262242383,
+                                19.13012206916465
+                            ],
+                            [
+                                6.639403568721589,
+                                19.19644978969807
+                            ],
+                            [
+                                6.530315409973452,
+                                19.28364635928543
+                            ],
+                            [
+                                6.299533118994649,
+                                19.37942566026985
+                            ],
+                            [
+                                6.121653107201112,
+                                19.48989651117111
+                            ],
+                            [
+                                6.092647258899479,
+                                19.49962701151502
+                            ],
+                            [
+                                5.844065631834683,
+                                19.36839900922588
+                            ],
+                            [
+                                5.773816584525909,
+                                19.34360013050091
+                            ],
+                            [
+                                5.78647086071923,
+                                19.439994584646392
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "16320b35-f4f8-4ebe-9e90-03c8d316f8c7",
+                    "name": "Gouré - Diffa",
+                    "pointNames": "Gouré, N'Guigmi, Tchad Border, Diffa",
+                    "start": "98e9e07b-c62b-47ea-b12b-eb39539c3159",
+                    "end": "b5ddb733-316e-40fc-8bd1-26d35a11cd9e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                10.264327696412671,
+                                13.985725119304915
+                            ],
+                            [
+                                10.26651051359213,
+                                13.98660952280762
+                            ],
+                            [
+                                10.2870611182786,
+                                13.97736613669695
+                            ],
+                            [
+                                10.44777686495802,
+                                13.85289715563672
+                            ],
+                            [
+                                10.51632835225885,
+                                13.82675516978085
+                            ],
+                            [
+                                10.65669716963405,
+                                13.77948275315478
+                            ],
+                            [
+                                10.8052714160192,
+                                13.70040555500478
+                            ],
+                            [
+                                11.02411860981775,
+                                13.70461747602639
+                            ],
+                            [
+                                11.22543010062713,
+                                13.69679770563186
+                            ],
+                            [
+                                11.36885680597916,
+                                13.62756014746351
+                            ],
+                            [
+                                11.45559599804854,
+                                13.61830821897817
+                            ],
+                            [
+                                11.60501937967729,
+                                13.56446783317684
+                            ],
+                            [
+                                11.74061690551031,
+                                13.54702687193236
+                            ],
+                            [
+                                11.80079500348099,
+                                13.46903563895956
+                            ],
+                            [
+                                11.9414286991127,
+                                13.29114898569728
+                            ],
+                            [
+                                11.99650943818894,
+                                13.26592061632459
+                            ],
+                            [
+                                12.03488082838527,
+                                13.21720021303519
+                            ],
+                            [
+                                12.1930799079729,
+                                13.18997051280442
+                            ],
+                            [
+                                12.31411279164238,
+                                13.18263108594587
+                            ],
+                            [
+                                12.40516390992986,
+                                13.18626725549906
+                            ],
+                            [
+                                12.50550309984092,
+                                13.27393912240914
+                            ],
+                            [
+                                12.59179604872249,
+                                13.32724517602954
+                            ],
+                            [
+                                12.597087621979432,
+                                13.32987164185048
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "dc221f38-dfad-4dc4-8d14-446f2f8dec49",
+                    "name": "Diffa - N'Guigmi",
+                    "pointNames": "Gouré, N'Guigmi, Tchad Border, Diffa",
+                    "start": "b5ddb733-316e-40fc-8bd1-26d35a11cd9e",
+                    "end": "eccce718-1145-4aeb-b21a-86aba54f4455",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                12.597087623769058,
+                                13.329871642738759
+                            ],
+                            [
+                                12.68170045129303,
+                                13.37186911470291
+                            ],
+                            [
+                                12.76879947360077,
+                                13.41240064476748
+                            ],
+                            [
+                                12.88555531137726,
+                                13.58874832222702
+                            ],
+                            [
+                                12.95143336195278,
+                                13.78922804477643
+                            ],
+                            [
+                                12.94834651267719,
+                                13.92730805683516
+                            ],
+                            [
+                                12.97201501491045,
+                                14.03258689576147
+                            ],
+                            [
+                                12.97100585080786,
+                                14.1193849198655
+                            ],
+                            [
+                                13.04584994746859,
+                                14.2152810029509
+                            ],
+                            [
+                                13.101096098757717,
+                                14.262276074897077
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "26b76c33-f4f0-4acb-b261-e38da601f40d",
+                    "name": "N'Guigmi - Tchad Border",
+                    "pointNames": "Gouré, N'Guigmi, Tchad Border, Diffa",
+                    "start": "eccce718-1145-4aeb-b21a-86aba54f4455",
+                    "end": "f25955de-d240-4895-a2c0-90de38898ab3",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.101096100280026,
+                                14.262276076192027
+                            ],
+                            [
+                                13.11295799170847,
+                                14.27236637982567
+                            ],
+                            [
+                                13.14039830116712,
+                                14.35532208741335
+                            ],
+                            [
+                                13.1674777205557,
+                                14.4396542906614
+                            ],
+                            [
+                                13.214105554677,
+                                14.48784775042286
+                            ],
+                            [
+                                13.28987106161746,
+                                14.48254391743596
+                            ],
+                            [
+                                13.41526115335152,
+                                14.45560750291572
+                            ],
+                            [
+                                13.470525130501848,
+                                14.418489630982005
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a2ca1386-3361-443d-85df-59e11cdf38f7",
+                    "name": "Niamey - Makalondi",
+                    "pointNames": "Makalondi, Burkina Faso Border",
+                    "start": "c48d6368-b8c9-465c-8619-d566e491ac0c",
+                    "end": "ef2b9d3f-da48-471c-859e-30fcfcbb9cc7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                2.11236714499148,
+                                13.5295539626888
+                            ],
+                            [
+                                2.094244056031573,
+                                13.52068502453814
+                            ],
+                            [
+                                2.064961708431663,
+                                13.52391645275709
+                            ],
+                            [
+                                2.017557049163121,
+                                13.48095403076796
+                            ],
+                            [
+                                1.963703497389493,
+                                13.40464517368424
+                            ],
+                            [
+                                1.918325509131984,
+                                13.29069121256639
+                            ],
+                            [
+                                1.7971737767903,
+                                13.1121745780998
+                            ],
+                            [
+                                1.78502288423557,
+                                13.06322691697519
+                            ],
+                            [
+                                1.726609892557893,
+                                12.94201551285544
+                            ],
+                            [
+                                1.700140028736932,
+                                12.87478397303196
+                            ],
+                            [
+                                1.686792931792944,
+                                12.836441926581873
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ceffeb1c-344a-4273-95cf-3b47f306bbb3",
+                    "name": "Makalondi - Burkina Faso Border",
+                    "pointNames": "Makalondi, Burkina Faso Border",
+                    "start": "ef2b9d3f-da48-471c-859e-30fcfcbb9cc7",
+                    "end": "662e7207-3c66-4d09-8075-bdc5cff875b7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.686792931136199,
+                                12.836441924695247
+                            ],
+                            [
+                                1.680343043336092,
+                                12.81791340881892
+                            ],
+                            [
+                                1.633996902913852,
+                                12.740624531530052
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "227503ce-8566-4c93-a83e-ebfc2e099138",
+                    "name": "Niamey - Tillabéri",
+                    "pointNames": "Tillabéri, Mali Border, Ayorou",
+                    "start": "c48d6368-b8c9-465c-8619-d566e491ac0c",
+                    "end": "1762d400-bd90-4763-88c3-0ab0c064aaa5",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                2.11236714499148,
+                                13.5295539626888
+                            ],
+                            [
+                                2.060267308335433,
+                                13.55550984283772
+                            ],
+                            [
+                                1.979981984053287,
+                                13.60515021887723
+                            ],
+                            [
+                                1.921924902502021,
+                                13.62266041471782
+                            ],
+                            [
+                                1.804474307988972,
+                                13.6960960259619
+                            ],
+                            [
+                                1.698925556379991,
+                                13.76382626100532
+                            ],
+                            [
+                                1.638359016478146,
+                                13.80942104453416
+                            ],
+                            [
+                                1.621496013624781,
+                                13.84639485354457
+                            ],
+                            [
+                                1.608130514198371,
+                                13.86020313201767
+                            ],
+                            [
+                                1.581875494479099,
+                                13.90875067828567
+                            ],
+                            [
+                                1.568493120756789,
+                                13.96713162490516
+                            ],
+                            [
+                                1.546573644781672,
+                                14.00147826846884
+                            ],
+                            [
+                                1.54903375870163,
+                                14.04920289448984
+                            ],
+                            [
+                                1.536492774751554,
+                                14.10586535174385
+                            ],
+                            [
+                                1.516994757595456,
+                                14.14909099593988
+                            ],
+                            [
+                                1.484883177031977,
+                                14.18704801113995
+                            ],
+                            [
+                                1.453550656036855,
+                                14.205960528927433
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "3d46dd88-7fed-499c-a3f2-e68c239d81d5",
+                    "name": "Tillabéri - Ayorou",
+                    "pointNames": "Tillabéri, Mali Border, Ayorou",
+                    "start": "1762d400-bd90-4763-88c3-0ab0c064aaa5",
+                    "end": "80009623-a40b-4563-bffc-88eb6ea800b9",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                1.453550654326655,
+                                14.20596052995972
+                            ],
+                            [
+                                1.453299126181931,
+                                14.20611235401856
+                            ],
+                            [
+                                1.449217330480272,
+                                14.23383166481513
+                            ],
+                            [
+                                1.401832474543105,
+                                14.2846538067177
+                            ],
+                            [
+                                1.336114641200172,
+                                14.29280130072522
+                            ],
+                            [
+                                1.220663737310053,
+                                14.37872358924077
+                            ],
+                            [
+                                1.176296936367984,
+                                14.4465973526744
+                            ],
+                            [
+                                1.135248045054418,
+                                14.49017582438658
+                            ],
+                            [
+                                1.092899335593156,
+                                14.55275853746189
+                            ],
+                            [
+                                1.015452129744099,
+                                14.62156779876656
+                            ],
+                            [
+                                0.952198462336307,
+                                14.66266375575512
+                            ],
+                            [
+                                0.919261267257607,
+                                14.73645677578166
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f2af22f6-a1b6-4c99-955f-f9a4e61285d7",
+                    "name": "Ayorou - Mali Border",
+                    "pointNames": "Tillabéri, Mali Border, Ayorou",
+                    "start": "80009623-a40b-4563-bffc-88eb6ea800b9",
+                    "end": "3f4dfad6-72fc-40b5-8d20-20540618ec52",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                0.919261266443217,
+                                14.736456777606234
+                            ],
+                            [
+                                0.915832062524,
+                                14.74413962105666
+                            ],
+                            [
+                                0.888248193864483,
+                                14.80125492869721
+                            ],
+                            [
+                                0.880299946065335,
+                                14.85361644221211
+                            ],
+                            [
+                                0.872039103758668,
+                                14.9184199142815
+                            ],
+                            [
+                                0.850510819474133,
+                                14.93388811272902
+                            ],
+                            [
+                                0.813830056721268,
+                                14.93820663356632
+                            ],
+                            [
+                                0.796671090531105,
+                                14.94687727317271
+                            ],
+                            [
+                                0.75946049952956,
+                                14.963227710126368
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "5acb3848-9e85-4bb4-892a-ccdda0fb4852",
+                    "name": "Niamey - Dosso",
+                    "pointNames": "",
+                    "start": "c48d6368-b8c9-465c-8619-d566e491ac0c",
+                    "end": "ae968539-caec-48ab-8b30-4e58e6e9767d",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                2.108977672782033,
+                                13.52847870148966
+                            ],
+                            [
+                                2.139309205417075,
+                                13.49555033270868
+                            ],
+                            [
+                                2.283025822012916,
+                                13.41762163248936
+                            ],
+                            [
+                                2.323057269546975,
+                                13.42297679962086
+                            ],
+                            [
+                                2.403424123304172,
+                                13.4034161436419
+                            ],
+                            [
+                                2.415701512988793,
+                                13.40563919175055
+                            ],
+                            [
+                                2.491145782216151,
+                                13.35989331603303
+                            ],
+                            [
+                                2.551881434465542,
+                                13.35414448711531
+                            ],
+                            [
+                                2.606860507279278,
+                                13.3103932110152
+                            ],
+                            [
+                                2.668669006195294,
+                                13.25205377040949
+                            ],
+                            [
+                                2.702331086309244,
+                                13.22833205780099
+                            ],
+                            [
+                                2.73879890639515,
+                                13.14785596277886
+                            ],
+                            [
+                                2.945283361735904,
+                                13.08698521774832
+                            ],
+                            [
+                                3.00534128060324,
+                                13.10049796681423
+                            ],
+                            [
+                                3.197486494740494,
+                                13.04364773286738
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "14c06bd0-253f-4b82-b30c-785feddb567f",
+                    "name": "Dosso - Gaya",
+                    "pointNames": "Dosso, Bénin Border, Gaya",
+                    "start": "ae968539-caec-48ab-8b30-4e58e6e9767d",
+                    "end": "3dc71cbd-3cbd-45f1-9b37-dbe753febeda",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                3.197486494745785,
+                                13.043647731867638
+                            ],
+                            [
+                                3.197700708501023,
+                                13.00317198881548
+                            ],
+                            [
+                                3.200299702358052,
+                                12.9716520595699
+                            ],
+                            [
+                                3.166312938887361,
+                                12.8725815350588
+                            ],
+                            [
+                                3.188413382848454,
+                                12.76668668909231
+                            ],
+                            [
+                                3.156559702301978,
+                                12.70502959748036
+                            ],
+                            [
+                                3.197680503799492,
+                                12.65110630890683
+                            ],
+                            [
+                                3.226401365034359,
+                                12.5667053027217
+                            ],
+                            [
+                                3.310526398793856,
+                                12.46103522194391
+                            ],
+                            [
+                                3.342119882390526,
+                                12.37054932492159
+                            ],
+                            [
+                                3.437405195335359,
+                                12.22364994462173
+                            ],
+                            [
+                                3.476477837762129,
+                                12.12182483014135
+                            ],
+                            [
+                                3.49337274973416,
+                                12.05790827988396
+                            ],
+                            [
+                                3.547308702420062,
+                                12.00455355357185
+                            ],
+                            [
+                                3.532056641951866,
+                                11.97161511386068
+                            ],
+                            [
+                                3.514358849683248,
+                                11.95031874001372
+                            ],
+                            [
+                                3.494068897352971,
+                                11.94047487423247
+                            ],
+                            [
+                                3.485613574413327,
+                                11.92465861403381
+                            ],
+                            [
+                                3.476099194494329,
+                                11.90551010579622
+                            ],
+                            [
+                                3.456686915488689,
+                                11.88957529822693
+                            ],
+                            [
+                                3.455186554059607,
+                                11.888663541139737
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cddd6228-d6fc-4424-a98d-b9cb14821bca",
+                    "name": "Gaya - Bénin Border",
+                    "pointNames": "Dosso, Bénin Border, Gaya",
+                    "start": "3dc71cbd-3cbd-45f1-9b37-dbe753febeda",
+                    "end": "7666a7f7-397f-4754-ae0c-24170cdb5a33",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                3.455186552352476,
+                                11.888663540102327
+                            ],
+                            [
+                                3.439526041064376,
+                                11.87914677842128
+                            ],
+                            [
+                                3.421208637112136,
+                                11.88101704450364
+                            ],
+                            [
+                                3.412359746671343,
+                                11.88712341343851
+                            ],
+                            [
+                                3.402571353388926,
+                                11.8878182792956
+                            ],
+                            [
+                                3.39797158330679,
+                                11.883449286291102
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ba5e5171-b307-4e16-bdc9-e7cd62589e12",
+                    "name": "Niamey - Filingué",
+                    "pointNames": "Niamey, Filingué",
+                    "start": "c48d6368-b8c9-465c-8619-d566e491ac0c",
+                    "end": "b1e5f36f-16cc-4ddd-9a3f-b9268ad5f09f",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                2.112367145967628,
+                                13.529553962475198
+                            ],
+                            [
+                                2.153755862941913,
+                                13.52049724466064
+                            ],
+                            [
+                                2.249746028458175,
+                                13.53786108636546
+                            ],
+                            [
+                                2.338163802156328,
+                                13.54872386322271
+                            ],
+                            [
+                                2.525633329458332,
+                                13.59909219373773
+                            ],
+                            [
+                                2.854541878535235,
+                                13.7388617680778
+                            ],
+                            [
+                                3.082922135665414,
+                                13.88732750849275
+                            ],
+                            [
+                                3.212055839892349,
+                                14.01592415628747
+                            ],
+                            [
+                                3.277503742836629,
+                                14.17896669093524
+                            ],
+                            [
+                                3.32792100513563,
+                                14.26346131693304
+                            ],
+                            [
+                                3.321152674995545,
+                                14.35133879045228
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4fe31546-94e1-4c30-822d-54749cc7ba06",
+                    "name": "Dosso - Konni",
+                    "pointNames": "",
+                    "start": "ae968539-caec-48ab-8b30-4e58e6e9767d",
+                    "end": "6d500304-9e03-43e3-a50d-be1fdfc4c543",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                3.203139062462386,
+                                13.04283931587518
+                            ],
+                            [
+                                3.235211137460545,
+                                13.03418555237988
+                            ],
+                            [
+                                3.44189212674378,
+                                12.96579893364173
+                            ],
+                            [
+                                3.576157355288445,
+                                12.96072915880623
+                            ],
+                            [
+                                3.750431969539745,
+                                13.18205620475644
+                            ],
+                            [
+                                3.918962899062512,
+                                13.29626739157033
+                            ],
+                            [
+                                4.005109558317637,
+                                13.49457105943966
+                            ],
+                            [
+                                4.04938045953976,
+                                13.63529813139056
+                            ],
+                            [
+                                4.264183758532947,
+                                13.74033655918833
+                            ],
+                            [
+                                4.415380240476932,
+                                13.73355503634366
+                            ],
+                            [
+                                4.60410707645323,
+                                13.81809240550062
+                            ],
+                            [
+                                4.796253097526781,
+                                13.84315463176061
+                            ],
+                            [
+                                4.8237786300213,
+                                13.85285238799696
+                            ],
+                            [
+                                4.880887707103161,
+                                13.82524477410562
+                            ],
+                            [
+                                4.929345389236608,
+                                13.79965901772895
+                            ],
+                            [
+                                5.008412939630064,
+                                13.78550643404528
+                            ],
+                            [
+                                5.095489932697737,
+                                13.78549291403113
+                            ],
+                            [
+                                5.213310951825287,
+                                13.79049007690318
+                            ],
+                            [
+                                5.227401489556492,
+                                13.79195004632281
+                            ],
+                            [
+                                5.252645767947493,
+                                13.803977807535187
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c8958b42-c41b-4880-a3cf-6b8a3c97f2fa",
+                    "name": "Nigeria Border - Konni",
+                    "pointNames": "Konni, Nigeria Border",
+                    "start": "c20c2bf3-d8d3-4387-a0a9-ba7eafa6dccb",
+                    "end": "6d500304-9e03-43e3-a50d-be1fdfc4c543",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                5.280482001861017,
+                                13.757871189726089
+                            ],
+                            [
+                                5.268053107682091,
+                                13.77620620793999
+                            ],
+                            [
+                                5.260098374523475,
+                                13.78497998914083
+                            ],
+                            [
+                                5.253702349941167,
+                                13.78710397071746
+                            ],
+                            [
+                                5.25336513240841,
+                                13.7924905633556
+                            ],
+                            [
+                                5.252645768009924,
+                                13.803977806538255
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "29272ccb-3be4-43e3-a132-64d121a24ef1",
+                    "name": "Maradi - Nigeria Border",
+                    "pointNames": "Maradi, Nigeria Border",
+                    "start": "deb2e4bd-3f29-4dce-96bb-bd8adc186781",
+                    "end": "46e10b49-b7cb-48ff-abe6-241b286e60d7",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                7.106907015336246,
+                                13.508769553115307
+                            ],
+                            [
+                                7.110053238026484,
+                                13.49241941432652
+                            ],
+                            [
+                                7.121766714820501,
+                                13.46602294821702
+                            ],
+                            [
+                                7.174952945077544,
+                                13.41612174492577
+                            ],
+                            [
+                                7.226524327271477,
+                                13.33522276732833
+                            ],
+                            [
+                                7.260196066821997,
+                                13.25126631722847
+                            ],
+                            [
+                                7.256919698350311,
+                                13.19084761829546
+                            ],
+                            [
+                                7.256857148768616,
+                                13.1472044295172
+                            ],
+                            [
+                                7.261556092523459,
+                                13.126333308645206
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f0201b4a-94d5-4058-87cf-687cef7919e2",
+                    "name": "Maradi - Zinder",
+                    "pointNames": "Zinder",
+                    "start": "deb2e4bd-3f29-4dce-96bb-bd8adc186781",
+                    "end": "718db1e4-e384-470c-8797-361bf68eefd1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                7.106907015147339,
+                                13.50876955409701
+                            ],
+                            [
+                                7.107354285699934,
+                                13.51678999646382
+                            ],
+                            [
+                                7.111237410604378,
+                                13.52169874646578
+                            ],
+                            [
+                                7.123991879293701,
+                                13.53201966932068
+                            ],
+                            [
+                                7.171247404594867,
+                                13.53594931796114
+                            ],
+                            [
+                                7.202255226526832,
+                                13.5399352305849
+                            ],
+                            [
+                                7.261163169183231,
+                                13.52157271310141
+                            ],
+                            [
+                                7.306645872156579,
+                                13.51748990169575
+                            ],
+                            [
+                                7.367090172999888,
+                                13.53231372916545
+                            ],
+                            [
+                                7.395987221243978,
+                                13.53373330572477
+                            ],
+                            [
+                                7.453215444704602,
+                                13.548543837513
+                            ],
+                            [
+                                7.546574055819335,
+                                13.5548045321773
+                            ],
+                            [
+                                7.594370459003503,
+                                13.54897987783198
+                            ],
+                            [
+                                7.648531097242667,
+                                13.5229600483344
+                            ],
+                            [
+                                7.715039099197023,
+                                13.49517223890227
+                            ],
+                            [
+                                7.853102126053601,
+                                13.51482486083176
+                            ],
+                            [
+                                7.989528394740802,
+                                13.53284632328294
+                            ],
+                            [
+                                8.061955208175869,
+                                13.54573321713417
+                            ],
+                            [
+                                8.32496675056186,
+                                13.63280327289213
+                            ],
+                            [
+                                8.565155560286108,
+                                13.6915935412454
+                            ],
+                            [
+                                8.745972517060498,
+                                13.76854814038687
+                            ],
+                            [
+                                8.837874223651909,
+                                13.76835713331076
+                            ],
+                            [
+                                8.932015338317958,
+                                13.79522638830367
+                            ],
+                            [
+                                8.96638550759665,
+                                13.80216854423083
+                            ],
+                            [
+                                8.981239292534834,
+                                13.812294958842521
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1ebd41e0-f5dc-4c14-8546-1da2e5bad99b",
+                    "name": "Zinder - Tânout",
+                    "pointNames": "Aderbissinat, Tânout",
+                    "start": "718db1e4-e384-470c-8797-361bf68eefd1",
+                    "end": "886ed86d-6e4f-4b6b-8757-64e2c1c6153c",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                8.98123929336075,
+                                13.81229495940558
+                            ],
+                            [
+                                8.98066482363676,
+                                13.82330520202674
+                            ],
+                            [
+                                8.98462307599856,
+                                13.83607527513606
+                            ],
+                            [
+                                8.989964038285796,
+                                13.84881840288923
+                            ],
+                            [
+                                8.988611861512485,
+                                13.87318141832128
+                            ],
+                            [
+                                8.981154583403882,
+                                13.91452113736076
+                            ],
+                            [
+                                8.962425334343465,
+                                14.01561049091488
+                            ],
+                            [
+                                8.864744204304579,
+                                14.15197058469981
+                            ],
+                            [
+                                8.750829480300975,
+                                14.33708939702564
+                            ],
+                            [
+                                8.726623509876381,
+                                14.48871631773733
+                            ],
+                            [
+                                8.748841376210619,
+                                14.5904041359155
+                            ],
+                            [
+                                8.743600421094746,
+                                14.63565173486019
+                            ],
+                            [
+                                8.844988365767893,
+                                14.73589955396021
+                            ],
+                            [
+                                8.876522624684323,
+                                14.86156268279026
+                            ],
+                            [
+                                8.884422400059218,
+                                14.95575727332412
+                            ],
+                            [
+                                8.887298509271748,
+                                14.97027587262201
+                            ],
+                            [
+                                8.882509317829424,
+                                14.972231968852814
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "07d6d6c7-99ce-493c-85ad-7ddb1e9494d0",
+                    "name": "Tânout - Aderbissinat",
+                    "pointNames": "Aderbissinat, Tânout",
+                    "start": "886ed86d-6e4f-4b6b-8757-64e2c1c6153c",
+                    "end": "dadb66a1-9ce1-46f6-8370-8447ea0c69f3",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                8.882509315978332,
+                                14.972231969608872
+                            ],
+                            [
+                                8.87556020393259,
+                                14.97507026330496
+                            ],
+                            [
+                                8.799668698845807,
+                                15.00850472025088
+                            ],
+                            [
+                                8.775288476957154,
+                                15.01353153965895
+                            ],
+                            [
+                                8.69543752947334,
+                                15.01042539404093
+                            ],
+                            [
+                                8.665496460809774,
+                                15.01554585830046
+                            ],
+                            [
+                                8.653457128197587,
+                                15.05163245388779
+                            ],
+                            [
+                                8.566235803427126,
+                                15.11102141678831
+                            ],
+                            [
+                                8.549908553200765,
+                                15.11059440399377
+                            ],
+                            [
+                                8.516866498444031,
+                                15.13959638964091
+                            ],
+                            [
+                                8.448570083980051,
+                                15.1965246270547
+                            ],
+                            [
+                                8.311389831746014,
+                                15.31187852864401
+                            ],
+                            [
+                                8.217723303175468,
+                                15.36559003140131
+                            ],
+                            [
+                                8.221587030034662,
+                                15.39676789973053
+                            ],
+                            [
+                                8.194547205440802,
+                                15.42551795769509
+                            ],
+                            [
+                                8.099798459366564,
+                                15.43270789461227
+                            ],
+                            [
+                                7.983689796089289,
+                                15.5242861747658
+                            ],
+                            [
+                                7.955079351928265,
+                                15.58963225601599
+                            ],
+                            [
+                                7.897928362171973,
+                                15.61820179718797
+                            ],
+                            [
+                                7.898162096574688,
+                                15.61962971710856
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "50554d1f-d9df-4c26-928d-05fab1b67295",
+                    "name": "Aderbissinat - Agadez",
+                    "pointNames": "Aderbissinat, Tânout",
+                    "start": "dadb66a1-9ce1-46f6-8370-8447ea0c69f3",
+                    "end": "5995effa-495c-41e9-aae4-000c33b80254",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                7.898162096897413,
+                                15.619629719080136
+                            ],
+                            [
+                                7.913595255488781,
+                                15.71391329194839
+                            ],
+                            [
+                                7.864294374016323,
+                                15.76829069454035
+                            ],
+                            [
+                                7.835354348976691,
+                                15.8766307277914
+                            ],
+                            [
+                                7.815029282205259,
+                                16.22259488014931
+                            ],
+                            [
+                                7.939796569260564,
+                                16.52719500713612
+                            ],
+                            [
+                                7.971510546212947,
+                                16.75070528419276
+                            ],
+                            [
+                                7.979562232563239,
+                                16.88702262431166
+                            ],
+                            [
+                                7.980855519955319,
+                                16.94501147256079
+                            ],
+                            [
+                                7.983984213698641,
+                                16.97588721457187
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "39efa3e5-0296-435a-bce2-3f29ffe9fa44",
+                    "name": "network fork - Badaguichiri",
+                    "pointNames": "Badaguichiri",
+                    "start": "44d058ab-14b3-4f40-a212-495bb69bda6e",
+                    "end": "901c7e3c-9a3b-49d1-ab99-092acd61aa18",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                5.347517680175304,
+                                13.89628643076943
+                            ],
+                            [
+                                5.347008133219435,
+                                13.89683338708983
+                            ],
+                            [
+                                5.344692679317761,
+                                13.90137176263912
+                            ],
+                            [
+                                5.321637163626606,
+                                13.95275382340591
+                            ],
+                            [
+                                5.321462501595009,
+                                14.02203639216724
+                            ],
+                            [
+                                5.356518748469696,
+                                14.17092592718483
+                            ],
+                            [
+                                5.374318993201368,
+                                14.373204427984
+                            ],
+                            [
+                                5.363844546502654,
+                                14.44462649293908
+                            ],
+                            [
+                                5.370526606873836,
+                                14.47892286792952
+                            ],
+                            [
+                                5.374596556256694,
+                                14.519983349310575
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "beef470d-67fa-42b8-a810-0e56af9fc618",
+                    "name": "Konni - network fork",
+                    "pointNames": "",
+                    "start": "6d500304-9e03-43e3-a50d-be1fdfc4c543",
+                    "end": "44d058ab-14b3-4f40-a212-495bb69bda6e",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                5.252645767947493,
+                                13.803977807535187
+                            ],
+                            [
+                                5.305601539872216,
+                                13.83468477395611
+                            ],
+                            [
+                                5.347517680175304,
+                                13.89628643076943
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f40aa6d6-89c3-400b-b55d-f87cfd610e6d",
+                    "name": "network fork - Maradi",
+                    "pointNames": "",
+                    "start": "44d058ab-14b3-4f40-a212-495bb69bda6e",
+                    "end": "deb2e4bd-3f29-4dce-96bb-bd8adc186781",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                5.347517680175304,
+                                13.89628643076943
+                            ],
+                            [
+                                5.423978401250054,
+                                13.928883971019
+                            ],
+                            [
+                                5.644975882263363,
+                                13.97230947072627
+                            ],
+                            [
+                                5.699906863200839,
+                                13.97162098546812
+                            ],
+                            [
+                                5.789808553131863,
+                                14.0177043724607
+                            ],
+                            [
+                                5.877509683406172,
+                                14.0325865242184
+                            ],
+                            [
+                                5.957056084489849,
+                                14.07400114454428
+                            ],
+                            [
+                                6.061307484607634,
+                                13.98876257022149
+                            ],
+                            [
+                                6.175658652757141,
+                                13.89728871728904
+                            ],
+                            [
+                                6.272393666469025,
+                                13.85118775022236
+                            ],
+                            [
+                                6.340733155062108,
+                                13.84716621479419
+                            ],
+                            [
+                                6.387080287036535,
+                                13.83193866672452
+                            ],
+                            [
+                                6.464408629005634,
+                                13.76955137881983
+                            ],
+                            [
+                                6.54947265418381,
+                                13.62693562215161
+                            ],
+                            [
+                                6.662089050838502,
+                                13.63689711563934
+                            ],
+                            [
+                                6.761921496664042,
+                                13.67486764113082
+                            ],
+                            [
+                                6.893484102152678,
+                                13.65659240786547
+                            ],
+                            [
+                                6.978199727023671,
+                                13.61880775317167
+                            ],
+                            [
+                                7.015929896529391,
+                                13.62033067174932
+                            ],
+                            [
+                                7.052021364768231,
+                                13.5958120452886
+                            ],
+                            [
+                                7.061469673189076,
+                                13.58860420021666
+                            ],
+                            [
+                                7.072437677292855,
+                                13.5628815546399
+                            ],
+                            [
+                                7.10431737207138,
+                                13.52597682144593
+                            ],
+                            [
+                                7.10788995204979,
+                                13.52067335511831
+                            ],
+                            [
+                                7.105545687078028,
+                                13.51467158091003
+                            ],
+                            [
+                                7.106784079666843,
+                                13.50930413168293
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "e73f6daa-b972-4da4-abf7-b30baee9333c",
+                    "name": "network fork - Gouré",
+                    "pointNames": "Gouré, N'Guigmi, Tchad Border, Diffa",
+                    "start": "c2661791-59d9-4e56-864b-52de3ea7fcf3",
+                    "end": "98e9e07b-c62b-47ea-b12b-eb39539c3159",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                8.996976231275381,
+                                13.776764713168031
+                            ],
+                            [
+                                8.998902736692314,
+                                13.77697213872024
+                            ],
+                            [
+                                9.01072306312081,
+                                13.77438577688784
+                            ],
+                            [
+                                9.048026525775878,
+                                13.7466933288757
+                            ],
+                            [
+                                9.10023289243446,
+                                13.73849011650738
+                            ],
+                            [
+                                9.140175648260282,
+                                13.7161863927655
+                            ],
+                            [
+                                9.154083164446128,
+                                13.71676751817175
+                            ],
+                            [
+                                9.158002684406961,
+                                13.71373370028004
+                            ],
+                            [
+                                9.218927137530686,
+                                13.70063558771436
+                            ],
+                            [
+                                9.302259388445531,
+                                13.70865527588566
+                            ],
+                            [
+                                9.339313829065306,
+                                13.7038247634593
+                            ],
+                            [
+                                9.37627843859989,
+                                13.71254499201771
+                            ],
+                            [
+                                9.421910738919548,
+                                13.64460389994391
+                            ],
+                            [
+                                9.434309867007126,
+                                13.64790799816845
+                            ],
+                            [
+                                9.5534114548807,
+                                13.71111829430773
+                            ],
+                            [
+                                9.581959570914584,
+                                13.70622904319882
+                            ],
+                            [
+                                9.595983832991203,
+                                13.6872557382579
+                            ],
+                            [
+                                9.669292278423239,
+                                13.67230469400316
+                            ],
+                            [
+                                9.738270264894151,
+                                13.66008832752069
+                            ],
+                            [
+                                9.81898987108661,
+                                13.67812649544463
+                            ],
+                            [
+                                9.917790709659869,
+                                13.71907451964253
+                            ],
+                            [
+                                10.09823311361774,
+                                13.85016601411525
+                            ],
+                            [
+                                10.16603898934261,
+                                13.87672953697118
+                            ],
+                            [
+                                10.22240760877176,
+                                13.9518561679365
+                            ],
+                            [
+                                10.23662700778796,
+                                13.97450173959287
+                            ],
+                            [
+                                10.264327694559686,
+                                13.985725118554148
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "1f7f3a4c-6648-4a66-845d-f8d812659ac2",
+                    "name": "Nigeria Border - network fork",
+                    "pointNames": "Nigeria Border",
+                    "start": "850659a7-b58b-49c5-bbd5-39b25302266d",
+                    "end": "c2661791-59d9-4e56-864b-52de3ea7fcf3",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                8.984311946877824,
+                                12.83973886447173
+                            ],
+                            [
+                                8.975327728059675,
+                                12.85420533028709
+                            ],
+                            [
+                                8.957276830001428,
+                                12.90266576617318
+                            ],
+                            [
+                                8.93728764359376,
+                                12.92228841204592
+                            ],
+                            [
+                                8.911868386444697,
+                                12.98797972765188
+                            ],
+                            [
+                                8.908287049334646,
+                                13.04185193047179
+                            ],
+                            [
+                                8.87765273437833,
+                                13.10430327777032
+                            ],
+                            [
+                                8.888039641964804,
+                                13.18577147715876
+                            ],
+                            [
+                                8.975330749467718,
+                                13.33129853880531
+                            ],
+                            [
+                                8.984876980184834,
+                                13.4197149460327
+                            ],
+                            [
+                                9.00929375738972,
+                                13.46069879269143
+                            ],
+                            [
+                                9.0250243315847,
+                                13.56337571645207
+                            ],
+                            [
+                                9.025755350481315,
+                                13.65634869823175
+                            ],
+                            [
+                                9.021754322641355,
+                                13.72311361695265
+                            ],
+                            [
+                                8.997766101823007,
+                                13.76942863585027
+                            ],
+                            [
+                                8.996976231275381,
+                                13.776764713168031
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "eada1346-e547-4e6a-af63-45c78d427e84",
+                    "name": "network fork - Zinder",
+                    "pointNames": "Nigeria Border",
+                    "start": "c2661791-59d9-4e56-864b-52de3ea7fcf3",
+                    "end": "718db1e4-e384-470c-8797-361bf68eefd1",
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                8.996976231275381,
+                                13.776764713168031
+                            ],
+                            [
+                                8.995036033003176,
+                                13.79478468438924
+                            ],
+                            [
+                                8.981989158911823,
+                                13.81213925069038
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "NIGER_TELECOMS",
+                    "name": "Niger Telecoms"
+                }
+            ]
+        }
+    ]
+}
