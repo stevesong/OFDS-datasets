@@ -4,4 +4,4 @@ This map was digitized from the publicly available network map announced on [X](
 
 -- Steve Song, December 2025
 
-![Niger Telecoms](https://github.com/stevesong/OFDS-datasets/blob/main/Niger/Niger_Telecoms/niger.png?raw=true)
+![Niger Telecoms](https://github.com/stevesong/OFDS-datasets/blob/main/Niger/Niger_Telecoms/Niger.png?raw=true)
