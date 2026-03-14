@@ -1,0 +1,4925 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    18.189125026967204,
+                    -33.32858593224013
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "b0c01e39-9b85-4246-9617-889e139a5d09",
+                "name": "Yzerfontein PoP",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    18.46599958398791,
+                    -33.91492947251623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "35ea6d85-9a58-4d2d-b9e0-a1b3eb63f569",
+                "name": "Cape Town PoP",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    18.14562441669769,
+                    -32.9054091726529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "98199d3a-1a1f-451b-88a6-5f853c82cb9c",
+                "name": "Aurora",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    18.347800575836832,
+                    -31.61069926622146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "81cf97ec-11ab-4c39-9d6e-6b807e39841e",
+                "name": "Juno",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    18.898453748329874,
+                    -31.06245419902386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "24a7131c-243b-4caf-aa43-7dd49fdd9921",
+                "name": "Helois Juno T251",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    19.45722658748038,
+                    -30.472749986268656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "fae0e4a0-6b17-4d2a-9b23-feeef26bc79a",
+                "name": "Helios",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.24946032349256,
+                    -28.447032964386345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "ad4aa726-b29a-43e5-b2e4-73d923e824aa",
+                "name": "Uppington BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    19.302477725263806,
+                    -28.739597184896503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "91c154ad-1b1b-439f-93ef-2aabdd1f22c5",
+                "name": "Onseepkans",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    22.538903159387324,
+                    -32.285649860148915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3ce623ee-b796-4d08-b80a-192407f1b2a9",
+                "name": "Beaufort West",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    22.13463053769886,
+                    -30.952920746985885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "b8db4ac9-afbe-4fb4-8386-142332ed0927",
+                "name": "Carnavon",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    23.060905335148952,
+                    -31.502264522527252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3b490e11-519c-4530-9a6c-d9b294e780bf",
+                "name": "Hutchinson",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    22.32371181438296,
+                    -29.95639583731054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "df5521b4-ed97-4834-bb96-391cac52a783",
+                "name": "Kronos",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.787248413032554,
+                    -28.732618808593212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "09f019b1-47cd-453b-aa4b-cdfef3c1d8e5",
+                "name": "Kimberly",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.85856805738925,
+                    -28.116191096806368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8844b92c-973c-45af-bdcf-e91a245a322e",
+                "name": "Warrenton",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.542212352467185,
+                    -27.570688604994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "0e51dd8e-5ebe-4e0a-b9e2-ac11616b2025",
+                "name": "Bloemhof",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.713965888235823,
+                    -29.198753261965905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8efc7378-2c82-46eb-890d-bcb8735020fc",
+                "name": "Vaalkraal",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.202125121173413,
+                    -29.12240250838508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8c68d8b4-db0d-4c7a-a6de-2ae677062415",
+                "name": "Bloemfontein",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.69778222810835,
+                    -30.2509411774385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "e731b2fa-9cfb-4a0d-9bc3-c2f13e6ac272",
+                "name": "Springfontein",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.09754630888907,
+                    -30.73942046972787
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "59006608-2183-4586-a3e9-b56fe0e937e6",
+                "name": "Colesburg",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.56850932176591,
+                    -32.92954501397023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "5b004a3a-f2c2-41ab-b2cd-201778a9954f",
+                "name": "Prince Albert",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.87239538387064,
+                    -34.071396485135054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "30ded3a5-4038-4528-9048-6935796d12d8",
+                "name": "Proteus",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    23.11741426384078,
+                    -33.65915663198437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "735f99f9-a4f4-446f-9942-610eb8eea1fe",
+                "name": "Uniondale",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    23.62766829519035,
+                    -33.768639634111466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "51724939-c3fa-469a-9c54-966a29da11c3",
+                "name": "Louterwater",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    19.44678600047542,
+                    -33.64684535792493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "d8e07b01-7db1-4d46-b7cf-8ff7910d05a5",
+                "name": "Worcester",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    19.410044291434744,
+                    -33.80209992480509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "4a4708d2-a45d-450a-9434-a9c59dcb2ba0",
+                "name": "Bacchus",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    20.844988335737426,
+                    -33.161786448808584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "278834b5-1bca-4b08-bd6e-ad4e50c60bf5",
+                "name": "Laingsberg BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    20.67184894107583,
+                    -32.35597120206213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "a11e93f3-a844-43ab-8a3c-7c9ee4b7ad34",
+                "name": "SALT",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    18.37027918284386,
+                    -32.225359181427685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "df0d0fe8-e24b-415c-a5fa-cbe67132e842",
+                "name": "Aurora Juno T25",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    18.95352728823526,
+                    -33.72624985437055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "ac8b27bf-2f2b-4738-a656-5252c87e0881",
+                "name": "Paarl",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.27016526836367,
+                    -34.09773938035769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "6a698614-e6bf-4458-8ef3-175e2d9ba4ed",
+                "name": "Riversdale",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    20.283840655172476,
+                    -34.046656324435745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "a2ab3063-6787-4bd6-9aa9-0520d6ab829d",
+                "name": "Bacchus Proteus T251",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    22.397671571058485,
+                    -33.926677569518525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "ffb36191-945b-49b9-8a3f-38de7d974cd3",
+                "name": "Blanco",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.716448443592846,
+                    -33.95432109719825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "b2d20f4f-8a22-4b2c-9524-3ce527b72eba",
+                "name": "Melkhout",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.6011640234901,
+                    -33.91417946521353
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "c5da5335-4aee-415f-bcdf-1dd1e518990e",
+                "name": "North End PoP",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.07522149001732,
+                    -33.31130356160039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "541b7b82-44fe-420b-abf3-b107ca8010bc",
+                "name": "Alicedale BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.517263740613792,
+                    -33.30561204712739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "6a2ab612-1d46-4b03-9bc5-049679203af5",
+                "name": "Rhodes University",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.5837804778438,
+                    -33.26470118906527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "24529055-53b8-4839-87d6-aa448f271f77",
+                "name": "Albany",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.883686767383743,
+                    -33.00425446971381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "638ae455-d3ad-477a-aa41-a20748a3a109",
+                "name": "East London",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.52942742303511,
+                    -32.868033243319566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2817c0ef-97ff-449c-9bdc-86c4514cc91b",
+                "name": "Pembroke",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.80347540926396,
+                    -32.747138759153984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "cd7f8731-1136-4453-9dce-0809807be413",
+                "name": "Cookhouse",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.925833450057176,
+                    -32.734415308693826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "7e66c003-58c0-4431-b55a-5cb90c24f284",
+                "name": "Poseidon",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.621531075800274,
+                    -32.7857867896821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "cc9b70ec-f67a-41b4-8698-6bb6da03ac75",
+                "name": "KwaMaqona",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.139276357221974,
+                    -32.32399069075344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "eef17265-9853-4fd3-acb4-2f6c17effb59",
+                "name": "Butterworth",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.63141853214443,
+                    -32.17562139500686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "dfa608ba-d7a4-46bf-a918-b6531f03a35c",
+                "name": "Craddock",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    23.96317999898506,
+                    -30.64001952314856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "29bd7376-74d8-4fb3-af5c-aa47602ccfa8",
+                "name": "De Aar BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.942848140232694,
+                    -31.175676785796988
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "39463631-e681-4a3c-8793-3b5ab76dba58",
+                "name": "Nouport",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.41065059733258,
+                    -30.686529835587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "91135afd-aab3-42a5-82ae-e7c1a05a3d7c",
+                "name": "SKA Core site",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.1723941616247,
+                    -29.66451855303719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "ea3b5e95-80da-4e8e-b013-167ac32325bb",
+                "name": "Oranjerivier",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.75258078691305,
+                    -28.634971256675318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "62dfc49d-d956-49e8-9937-63a9bcc585cf",
+                "name": "Perseus",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    20.782800067218368,
+                    -29.48343839172489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "7f8363d8-40d4-4be1-89c1-bfa82415c133",
+                "name": "Aries",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.01942020985884,
+                    -29.314946631359184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "4b8ee77a-7b47-40ab-b1c8-48e23609c401",
+                "name": "Loop 13",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.6421232874782,
+                    -28.9373556874587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "12eb27db-6c9b-4d64-8419-797323a6a972",
+                "name": "Loop 15",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    20.80037652557956,
+                    -28.760354799058277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "04933825-dd7f-4107-be76-48f8f8ae5a85",
+                "name": "Taaipit",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    19.943200502791964,
+                    -28.838999007880368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1bfa16e3-5b48-4ac2-9a01-1024d28e279a",
+                "name": "Regen 8",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    19.700808979028377,
+                    -28.582200831633852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "aad57372-54af-48bf-bfa1-946991bd9dff",
+                "name": "Skuit Drift",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    20.52485810996724,
+                    -28.745704576007505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "48367a4d-241a-48ee-9fb6-43a5ced2da2a",
+                "name": "Alheit?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    20.26104098698112,
+                    -29.956699963854735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "e4cda4f6-ccda-4921-9715-8f3a09d6c7c6",
+                "name": "Ares Helio T198",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.361435420726337,
+                    -29.690269680741007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "9f81a442-c3f8-4f99-8078-b4afaf22bbfb",
+                "name": "Johnniesdale?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.9001241973404,
+                    -27.99163226974079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "636195d4-5f9a-4957-aa54-31b16f328aad",
+                "name": "Everest",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.762081038591745,
+                    -27.9629946325423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "f5e08645-4f93-4d61-9d0a-95b7fbe67dcf",
+                "name": "Welkom PoP",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.3197756888594,
+                    -28.21250430201976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "95c2bc66-d965-4417-b553-53bd36adad24",
+                "name": "Bethlehem",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.068540842139125,
+                    -28.49933374683241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "a4436e48-a69d-42d5-a97a-1237ebb07e5e",
+                "name": "Boundry Olien T21",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    23.601719121985074,
+                    -29.1486746023138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "721645d7-fbbd-4d18-bcc1-726f102a6117",
+                "name": "Ovaal",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    22.94893389531716,
+                    -29.567752896816103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "fa3855c5-0c90-490f-9528-87d9c2fb9e6d",
+                "name": "Mooidraal",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.988782875414604,
+                    -22.229715163337712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "eb2b4faf-859a-4a6a-961f-86606200cdd4",
+                "name": "Beitbridge",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.025260155030235,
+                    -22.343771108015343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8635e240-8516-4680-9e38-f44b82e52252",
+                "name": "Musina",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.920673850644146,
+                    -23.49474344505323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8be6d72e-3010-4c82-8a71-53a43fe16640",
+                "name": "Soekmekaar",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.458368218786646,
+                    -23.898440831563754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8aa006b1-ec7e-434d-8127-57fc4a605c7e",
+                "name": "Polokwane BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.164805486637544,
+                    -23.82542592808395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "369ca57d-3303-483a-a7fe-c2d328c08776",
+                "name": "Tzaneen BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.608222705043598,
+                    -23.95311052042849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "ba84ffcc-756d-41e4-a007-b5c628516bff",
+                "name": "Gravellote",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.947387964935608,
+                    -24.359723235863665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "196f73c6-e360-4865-ad5d-8aedf8c31345",
+                "name": "Hoedspruit BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.148064041570713,
+                    -25.045127392751855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "75bbe7ca-1c50-4f40-b481-ea43cdd1873d",
+                "name": "Hazyview BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.951505951544497,
+                    -25.439769930148156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "4f128263-e8d1-45c7-a242-d0746d09014f",
+                "name": "Komatipoort",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.968758558773626,
+                    -25.483364439195995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "eb2ee757-d182-4b61-97e6-4204b9c280a0",
+                "name": "Nelspruit BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.337354416225235,
+                    -25.498153115935935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "40f660c8-0ed7-4ce3-abbf-7c71e9b906ff",
+                "name": "Kapmuiden BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.261834370103212,
+                    -24.88080115595209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "04d6dcaf-1fc8-4222-bde3-210862129cb9",
+                "name": "Bela Bela",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.407549358168698,
+                    -24.704604256116724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "6b366abe-2f55-4337-be49-a55572fdeaf0",
+                "name": "Modimolle",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.00129497031557,
+                    -24.17416690806989
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "c771cf3d-8f07-48e5-8c57-c4bce1bf76e5",
+                "name": "Mokopane",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.189438904616487,
+                    -25.757792219657524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "6518a828-65ad-48c9-b38d-4c61a9a583f3",
+                "name": "NZASM PoP",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.531568779501967,
+                    -25.736909533976657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "f449bc55-a9e3-41d4-994c-159f7c0f4461",
+                "name": "Rayton",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.463801777871222,
+                    -25.777968051600052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "f091ddfa-309a-4045-ad52-609991d1ab2b",
+                "name": "Middelburg",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.032555817183024,
+                    -25.682315953436646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "60c2d6ee-0404-4831-8676-4d874fddda7d",
+                "name": "eMakhazeni",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.552280080109373,
+                    -25.60023759144337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3511aee1-7176-4391-9dd6-37d5713b79cb",
+                "name": "Panorama?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.560402544348104,
+                    -25.650649432524087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "e659f091-0139-49c7-bf57-d560de76d4c7",
+                "name": "Ramathlabamba",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.639167992975082,
+                    -25.864276488533918
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8c2d3e1a-4098-4a85-89c3-c78b2c346388",
+                "name": "Mafikeng",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.1294224271063,
+                    -26.165580513607214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1d6f565a-75b8-4ca8-9022-8b0322aa80d5",
+                "name": "Lichtenburg",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.672675386323906,
+                    -26.872855743524138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3ef0cbcf-9879-4182-b753-ce6b4b3694f2",
+                "name": "Klerksdorp",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    26.793233680557943,
+                    -26.340857021357117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "a098c404-c99f-4ed8-9879-ad41de588e36",
+                "name": "Ventersdorp",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.901329987816915,
+                    -26.815196393224813
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3915be81-760e-4108-a84c-336861b3f5c9",
+                "name": "Makalu",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.234000330087174,
+                    -27.664356802736613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3dc8dbca-7b13-4d55-a79c-b13b645f2478",
+                "name": "Kroonstad",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.26503502032174,
+                    -27.35344909663003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8cdec32b-18a4-4178-9db7-f8cb7138d2bb",
+                "name": "Makalu Everest T194",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.85008841995266,
+                    -28.01170141458276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "a994cec8-9083-41d7-9d9b-0baee15dbf88",
+                "name": "Arlington?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.767271799095113,
+                    -28.546429270494038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "085350be-9cda-4b14-8822-5f4f3911f434",
+                "name": "Ladysmith",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.84667303465782,
+                    -28.94087708897539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "978ac370-319c-4c0a-b827-d182293b7529",
+                "name": "Venus",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.73905875787615,
+                    -28.94000985007379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "61b2e029-d92a-41af-acce-a4c2263c4b9e",
+                "name": "Mtunzini",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.427199318252924,
+                    -28.29053500352084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1c7e947d-3a6a-4894-8732-cb3d8c28e077",
+                "name": "Ulundi",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.067443461820606,
+                    -29.730511414666054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "33d13c23-2e5e-4b3e-b4b9-8a7cb5103f6c",
+                "name": "Umhlanga Rocks Data Centre (IS Site)",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.95202337285087,
+                    -29.90505186185344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "dcd3f9b1-c970-4b82-86a5-adb7e3da191f",
+                "name": "Durban Teraco",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.294204881567758,
+                    -29.340043073098556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "42c183c2-623c-4b9a-876c-1bfb5933b876",
+                "name": "Kwa Dukuza",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.942009036214703,
+                    -28.736349231505507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "a3b46936-16be-43d3-9ccb-7b9c36be8976",
+                "name": "Richard's Bay?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.968641990515813,
+                    -27.72319903115777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "eef6ecd8-ef3e-4606-961d-75003176b99a",
+                "name": "Newcastle BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.991675360447047,
+                    -27.838473694607487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "94eb32fe-d0f6-485a-bec5-1ef149fbf84b",
+                "name": "Chivelson",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.458625581777103,
+                    -26.379861132319824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "7b6d12e2-f366-4ab0-baef-aa25be86eb8b",
+                "name": "Carletonville?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.537263532101395,
+                    -26.21517304079363
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "dd3e5aa4-9511-4b4f-8fa6-41e96f47c3ca",
+                "name": "Nevis",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.360944768361794,
+                    -26.181618948057594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "91db113f-1695-4705-8921-948e36ebd174",
+                "name": "Komati?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.123897239631432,
+                    -25.884937098379424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "f4bedf9f-1d6a-48d4-8389-a9a905ebac8e",
+                "name": "eMalahleni?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.065309878503594,
+                    -26.1793907605087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "0e37b242-44ca-4337-a109-7a7907c14567",
+                "name": "Johannesburg?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.38752228783909,
+                    -26.203754047861725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "b372a32f-00f2-4b9c-aadf-9e04e93cb164",
+                "name": "Roodepoort",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.357145097989644,
+                    -30.691242437858495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "a076c48f-92d5-4fe2-9475-df2aed4db110",
+                "name": "Oribi",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.90519095335182,
+                    -30.6013987962464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "db0b8415-a937-4888-8378-6ed034e32223",
+                "name": "Eros",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.38862503964102,
+                    -29.61184224084718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "29cd78e1-d51f-4b13-9c69-99080849aec3",
+                "name": "Pietermaritzburg?",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.295648116143322,
+                    -30.743269497440004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "401b0b04-6c1f-45b4-8ad1-7d4d7e951d33",
+                "name": "Mzintlava",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.60643513301335,
+                    -31.775188518703413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "fb484341-5eb7-4a87-bae3-2568f1bc7440",
+                "name": "Quno",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.075275979535192,
+                    -26.597182929769847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "71e46305-7cff-46b9-97db-5de3e28de407",
+                "name": "Camden",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    30.886795714708366,
+                    -28.17535520402981
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "e974398d-8d6d-4de9-9840-aa4eb3154355",
+                "name": "Mahamba",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    28.370818276069453,
+                    -26.487976111267997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "50919479-fdc5-4100-8bdd-bfbeb12724f9",
+                "name": "Heidelberg BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.249971268881517,
+                    -28.55561306120322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "24c98bc4-0ef6-4b73-a4cd-e3b404ac7667",
+                "name": "Tugela",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    29.863829840477276,
+                    -27.37881738954415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "9ceaf371-95af-4873-923a-57163f685d5e",
+                "name": "Camden Incandu T239",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    27.46278449839016,
+                    -29.30571293253814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "f8d3e021-2af6-4613-91e2-a8b1adcc9a46",
+                "name": "Maseru BBI",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    31.075122161308617,
+                    -23.913109822676077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "47e773c7-0999-41a7-a170-4a66f5ddef42",
+                "name": "Phalabora",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    23.064153477665872,
+                    -31.406226684625807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "704514a6-dfd8-4276-8031-03611523724e",
+                "name": "network fork",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.668909695705068,
+                    -33.38448494686325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "511e2c38-7768-4dac-9eb9-47cc6a6a24a4",
+                "name": "network fork",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.76566862777691,
+                    -33.0320273088259
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8ee4d65d-57b1-4094-a425-15ada75770b7",
+                "name": "Auto generated missing node",
+                "status": "operational",
+                "physicalInfrastructureProvider": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
+                "networkProviders": [
+                    {
+                        "id": "BBI-1",
+                        "name": "Broadband Infraco"
+                    }
+                ],
+                "network": {
+                    "links": [
+                        {
+                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "rel": "describedby"
+                        }
+                    ],
+                    "crs": {
+                        "name": "urn:ogc:def:crs:OGC::CRS84",
+                        "uri": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+                    },
+                    "id": "724e8b5e-e1c5-4a88-aaf6-d482f2c26dfb",
+                    "name": "Broadband Infraco"
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
