@@ -1,0 +1,3264 @@
+{
+    "networks": [
+        {
+            "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+            "name": "Vocus National Network",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Alice Springs",
+                    "id": "e46bd164-0da7-4f7b-9678-f939e55ed11b",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            133.8670397777191,
+                            -23.70050363107261
+                        ]
+                    }
+                },
+                {
+                    "name": "Darwin",
+                    "id": "5ec40bdf-2109-401f-9641-ce0bd7d6b05d",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            130.8546290597786,
+                            -12.46057354470299
+                        ]
+                    }
+                },
+                {
+                    "name": "Townsville",
+                    "id": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            146.8096768880376,
+                            -19.27438362704894
+                        ]
+                    }
+                },
+                {
+                    "name": "Cairns",
+                    "id": "a18d1f4c-665a-42f8-849a-8f775ef92803",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            145.77588641898973,
+                            -16.92196840865122
+                        ]
+                    }
+                },
+                {
+                    "name": "Brisbane",
+                    "id": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            153.02493938572238,
+                            -27.456491158921164
+                        ]
+                    }
+                },
+                {
+                    "name": "Sydney",
+                    "id": "153d37bb-49b8-4b47-9af9-274d100069dc",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            151.20584142829176,
+                            -33.894289593417504
+                        ]
+                    }
+                },
+                {
+                    "name": "Canberra",
+                    "id": "9a8a8f1a-0a39-4faa-aef8-89fc40a47781",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            149.1311281500221,
+                            -35.3178545488283
+                        ]
+                    }
+                },
+                {
+                    "name": "Melbourne",
+                    "id": "a379aa02-edf1-4e86-a9e8-857e8eec56eb",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            144.95840968636398,
+                            -37.80047111397962
+                        ]
+                    }
+                },
+                {
+                    "name": "Hobart",
+                    "id": "681036bb-808b-4291-bf5b-a6a4ebaf21cd",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            147.33068887391158,
+                            -42.871937067559344
+                        ]
+                    }
+                },
+                {
+                    "name": "Adelaide",
+                    "id": "8af7483e-d617-4547-990c-a006cffa3d59",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            138.6084443959521,
+                            -34.92571343078614
+                        ]
+                    }
+                },
+                {
+                    "name": "Perth",
+                    "id": "d96ab91a-5134-417c-88da-b0d5d29e1070",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            115.8617873109558,
+                            -31.949555456513
+                        ]
+                    }
+                },
+                {
+                    "name": "Geraldton",
+                    "id": "2c1c503e-ad87-42f5-b5f5-34e5fc72222a",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            114.6336335883842,
+                            -28.78298608863611
+                        ]
+                    }
+                },
+                {
+                    "name": "Port Hedland",
+                    "id": "91a00cdf-cb04-4d46-be43-c6416a2d857d",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            118.6530131886539,
+                            -20.34794203497606
+                        ]
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "c89492fa-3e55-4288-b916-6774bea809a7",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            135.87192884376972,
+                            -31.097198895014063
+                        ]
+                    }
+                },
+                {
+                    "name": "Boat Harbour Landing point",
+                    "id": "3f9df1cc-3cbf-4ce2-9f90-ecc3e4490cbf",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            145.619330571283,
+                            -40.93156754984238
+                        ]
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "3410f35c-ad55-4842-9a36-da75f351215f",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            148.07800839457792,
+                            -34.87887088268435
+                        ]
+                    }
+                },
+                {
+                    "name": "Newcastle",
+                    "id": "3613c11d-d4ca-493f-949f-7556dd76bf1c",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            151.74925240522273,
+                            -32.87141050713831
+                        ]
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "7bdc7cef-deb8-4771-824b-d5f91f85bdcc",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            151.35112155717258,
+                            -27.955898961257105
+                        ]
+                    }
+                },
+                {
+                    "name": "Broken Hill",
+                    "id": "0503ed55-a53d-4dfd-8da2-85d4d18938e7",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            141.495676712855,
+                            -31.96663649510846
+                        ]
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            142.16142779892104,
+                            -34.20345571021855
+                        ]
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "9f30eef1-e8b1-4b1e-9966-0b2abafb0d60",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            145.0549050022202,
+                            -37.79275025578396
+                        ]
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "6f77b598-bdd5-45e4-845d-078f6e94dd1a",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            145.0169673217945,
+                            -37.86077105623412
+                        ]
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "e84e0c9c-4725-4f25-a048-4ca856df17ab",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            151.2875541316366,
+                            -33.85798177722424
+                        ]
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "2a374634-55e3-48c0-9a34-a2b3c16c23a4",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            151.236060415804,
+                            -33.83084355465002
+                        ]
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            151.36670704058812,
+                            -27.940059851120246
+                        ]
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "0572cb5a-9805-441b-a36b-d33835d2b310",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            142.9243244527931,
+                            -20.733807861031107
+                        ]
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            134.2289527239986,
+                            -19.45281044030402
+                        ]
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            145.22258088735026,
+                            -36.80260608846167
+                        ]
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "5d50033e-7204-4c33-a7d4-0a27ebb557ca",
+                    "name": "Perth - Geraldton",
+                    "start": "d96ab91a-5134-417c-88da-b0d5d29e1070",
+                    "end": "2c1c503e-ad87-42f5-b5f5-34e5fc72222a",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                115.86170086654982,
+                                -31.94950540094389
+                            ],
+                            [
+                                115.8598819453983,
+                                -31.94845215600147
+                            ],
+                            [
+                                115.8584374324029,
+                                -31.94742022584256
+                            ],
+                            [
+                                115.8028654880942,
+                                -31.88161509302212
+                            ],
+                            [
+                                115.8033711896921,
+                                -31.87926878711516
+                            ],
+                            [
+                                115.8970102024079,
+                                -31.80913405361638
+                            ],
+                            [
+                                115.9728694553013,
+                                -31.61331153349192
+                            ],
+                            [
+                                115.9703109805915,
+                                -31.58834651465322
+                            ],
+                            [
+                                115.967534154554,
+                                -31.57674658557819
+                            ],
+                            [
+                                115.8892811671195,
+                                -31.36551195254887
+                            ],
+                            [
+                                115.5408692824989,
+                                -30.72014948150861
+                            ],
+                            [
+                                115.5334147127046,
+                                -30.694396217675
+                            ],
+                            [
+                                115.5182323814837,
+                                -30.65623632417076
+                            ],
+                            [
+                                115.5082679496741,
+                                -30.63007102883211
+                            ],
+                            [
+                                115.4338783260884,
+                                -30.26246334833496
+                            ],
+                            [
+                                115.2717062824389,
+                                -29.8272362997712
+                            ],
+                            [
+                                115.2699563290763,
+                                -29.81127882277392
+                            ],
+                            [
+                                115.260056143303,
+                                -29.78502519894906
+                            ],
+                            [
+                                115.1779039087598,
+                                -29.57875065534839
+                            ],
+                            [
+                                115.1648571834411,
+                                -29.56767351469039
+                            ],
+                            [
+                                115.0185163510531,
+                                -29.3758286966487
+                            ],
+                            [
+                                114.9334468022922,
+                                -29.16232318110242
+                            ],
+                            [
+                                114.7345657052562,
+                                -28.90176546022112
+                            ],
+                            [
+                                114.7364336730887,
+                                -28.89308659762488
+                            ],
+                            [
+                                114.63370175953291,
+                                -28.78305910100952
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c6b5f877-46af-47df-95e3-5d3558e09322",
+                    "name": "Perth - fork",
+                    "start": "d96ab91a-5134-417c-88da-b0d5d29e1070",
+                    "end": "c89492fa-3e55-4288-b916-6774bea809a7",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                115.8617873109558,
+                                -31.949555456513
+                            ],
+                            [
+                                116.429019057353,
+                                -31.70138266756991
+                            ],
+                            [
+                                116.4714328108763,
+                                -31.69890907408413
+                            ],
+                            [
+                                116.544264819287,
+                                -31.70100354221321
+                            ],
+                            [
+                                116.5806668888217,
+                                -31.70203532327022
+                            ],
+                            [
+                                117.6607909489443,
+                                -31.61634468931459
+                            ],
+                            [
+                                119.1624786884488,
+                                -31.33820317592183
+                            ],
+                            [
+                                119.1953588976652,
+                                -31.32915801491337
+                            ],
+                            [
+                                119.2325533586676,
+                                -31.32508355878916
+                            ],
+                            [
+                                120.1677920146159,
+                                -31.21457633012675
+                            ],
+                            [
+                                120.2002394559183,
+                                -31.20953946663934
+                            ],
+                            [
+                                121.0715464284776,
+                                -31.01950721206832
+                            ],
+                            [
+                                121.0905377558424,
+                                -31.03055230124742
+                            ],
+                            [
+                                121.5623013721919,
+                                -31.19028470828517
+                            ],
+                            [
+                                122.7108207830444,
+                                -31.18603560195018
+                            ],
+                            [
+                                122.7310836069351,
+                                -31.18811529708624
+                            ],
+                            [
+                                122.7614801344692,
+                                -31.19122855898227
+                            ],
+                            [
+                                122.8121476115495,
+                                -31.19640062599366
+                            ],
+                            [
+                                122.9129100899457,
+                                -31.21101763275898
+                            ],
+                            [
+                                124.6114149413865,
+                                -31.20735910606589
+                            ],
+                            [
+                                127.3051415455076,
+                                -31.18083357172045
+                            ],
+                            [
+                                129.1368437084819,
+                                -30.98492294859084
+                            ],
+                            [
+                                131.0846208855698,
+                                -30.61427946595776
+                            ],
+                            [
+                                131.8469122050097,
+                                -30.47735874942785
+                            ],
+                            [
+                                133.9524152657182,
+                                -30.83690494875323
+                            ],
+                            [
+                                135.87182986235834,
+                                -31.097185472727045
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c01714c7-a7c8-4cdf-a5f9-f43cd68c2c22",
+                    "name": "fork - Adelaide",
+                    "start": "c89492fa-3e55-4288-b916-6774bea809a7",
+                    "end": "8af7483e-d617-4547-990c-a006cffa3d59",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                135.8720278251811,
+                                -31.09721231730108
+                            ],
+                            [
+                                136.0573449699132,
+                                -31.12234208531297
+                            ],
+                            [
+                                136.883345608824,
+                                -31.27561362085083
+                            ],
+                            [
+                                138.2400198699714,
+                                -31.62783297619045
+                            ],
+                            [
+                                138.9139875467718,
+                                -32.15630223921914
+                            ],
+                            [
+                                139.3441938046267,
+                                -32.69200547784319
+                            ],
+                            [
+                                139.3596086716491,
+                                -33.26222143413773
+                            ],
+                            [
+                                139.3599589035862,
+                                -33.27096109163105
+                            ],
+                            [
+                                139.1095927868847,
+                                -34.37586278492648
+                            ],
+                            [
+                                138.6084443959521,
+                                -34.92571343078614
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0ffc9796-9290-4662-9211-23c8784b1ced",
+                    "name": "Adelaide - Perth",
+                    "start": "8af7483e-d617-4547-990c-a006cffa3d59",
+                    "end": "d96ab91a-5134-417c-88da-b0d5d29e1070",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                138.6084443959521,
+                                -34.92571343078614
+                            ],
+                            [
+                                138.7105081732302,
+                                -34.57443786652684
+                            ],
+                            [
+                                138.7162272657951,
+                                -34.56692694383241
+                            ],
+                            [
+                                138.7588032623424,
+                                -34.23861182863325
+                            ],
+                            [
+                                138.9238481208826,
+                                -33.3300781050734
+                            ],
+                            [
+                                138.9094062392626,
+                                -33.30422248518145
+                            ],
+                            [
+                                138.5349572020287,
+                                -32.65714684569596
+                            ],
+                            [
+                                137.9592769062824,
+                                -32.00264844621849
+                            ],
+                            [
+                                137.0831057729988,
+                                -31.73157858524902
+                            ],
+                            [
+                                136.4589669800429,
+                                -31.66155582717337
+                            ],
+                            [
+                                134.591281408832,
+                                -31.43751564997853
+                            ],
+                            [
+                                133.4322154755831,
+                                -31.31889804592969
+                            ],
+                            [
+                                132.1184412796893,
+                                -30.99853170700902
+                            ],
+                            [
+                                131.0840747344394,
+                                -31.09067947138787
+                            ],
+                            [
+                                130.5244179059929,
+                                -31.12014508515676
+                            ],
+                            [
+                                128.884731521635,
+                                -31.53503561348675
+                            ],
+                            [
+                                127.1339885151336,
+                                -31.83965421099094
+                            ],
+                            [
+                                126.6791058562298,
+                                -31.86380364693605
+                            ],
+                            [
+                                125.5235394629073,
+                                -32.16608533934269
+                            ],
+                            [
+                                124.4795494056894,
+                                -32.3971970083814
+                            ],
+                            [
+                                123.4106452179719,
+                                -32.77218257899538
+                            ],
+                            [
+                                121.9527339657651,
+                                -33.26991680823311
+                            ],
+                            [
+                                121.0530706959976,
+                                -33.29925610222887
+                            ],
+                            [
+                                119.7599865476746,
+                                -33.35989141750053
+                            ],
+                            [
+                                119.742838236887,
+                                -33.35389881274483
+                            ],
+                            [
+                                119.7079071412845,
+                                -33.34562304342417
+                            ],
+                            [
+                                119.6863300591999,
+                                -33.33905703637733
+                            ],
+                            [
+                                118.6535537435736,
+                                -33.19170897116353
+                            ],
+                            [
+                                118.6410441646445,
+                                -33.18623096109783
+                            ],
+                            [
+                                118.6204352015704,
+                                -33.17586782910582
+                            ],
+                            [
+                                118.5836386172207,
+                                -33.15573286244329
+                            ],
+                            [
+                                117.4728895932184,
+                                -32.81560516653159
+                            ],
+                            [
+                                116.3568537444104,
+                                -32.3450559240489
+                            ],
+                            [
+                                116.1019607356454,
+                                -32.13483417810951
+                            ],
+                            [
+                                115.8617873109558,
+                                -31.949555456513
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "89117b29-0cf3-46c3-8121-e27a810cb731",
+                    "name": "fork - Alice Springs",
+                    "start": "c89492fa-3e55-4288-b916-6774bea809a7",
+                    "end": "e46bd164-0da7-4f7b-9678-f939e55ed11b",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                135.87192884376972,
+                                -31.097198895014063
+                            ],
+                            [
+                                135.6950915714283,
+                                -30.89427409954935
+                            ],
+                            [
+                                135.530031948878,
+                                -30.76773716140593
+                            ],
+                            [
+                                135.5202838525427,
+                                -30.75647283239332
+                            ],
+                            [
+                                135.5079363181166,
+                                -30.7394845567206
+                            ],
+                            [
+                                135.3508828403103,
+                                -30.48561856004922
+                            ],
+                            [
+                                135.1672587437334,
+                                -29.96086478945858
+                            ],
+                            [
+                                135.1617357998445,
+                                -29.94166047082071
+                            ],
+                            [
+                                135.158560397411,
+                                -29.92430860161656
+                            ],
+                            [
+                                134.9453794474357,
+                                -29.29595636219187
+                            ],
+                            [
+                                134.9437658473628,
+                                -29.26383442555965
+                            ],
+                            [
+                                134.9420734376654,
+                                -29.2300696254935
+                            ],
+                            [
+                                134.3368855693129,
+                                -28.63423146691522
+                            ],
+                            [
+                                134.3297393787502,
+                                -28.62282859908226
+                            ],
+                            [
+                                134.3180907812445,
+                                -28.60963617286462
+                            ],
+                            [
+                                134.1257450497817,
+                                -28.13102368398926
+                            ],
+                            [
+                                133.9728323150652,
+                                -27.72916330417251
+                            ],
+                            [
+                                133.9456934758264,
+                                -27.71052486083062
+                            ],
+                            [
+                                133.6826925757456,
+                                -27.37082098123079
+                            ],
+                            [
+                                133.6916372258662,
+                                -27.37637731037126
+                            ],
+                            [
+                                133.3013708092324,
+                                -26.71890702145399
+                            ],
+                            [
+                                133.1678541727025,
+                                -26.09048059849879
+                            ],
+                            [
+                                133.2569700593367,
+                                -25.75695967034823
+                            ],
+                            [
+                                133.1951904011077,
+                                -25.24268523980568
+                            ],
+                            [
+                                133.204370460346,
+                                -25.22795183004378
+                            ],
+                            [
+                                133.2196100644134,
+                                -25.20146078659712
+                            ],
+                            [
+                                133.200663858174,
+                                -24.78419514789154
+                            ],
+                            [
+                                133.4193959504773,
+                                -24.34696163792798
+                            ],
+                            [
+                                133.428595368456,
+                                -24.33511193266842
+                            ],
+                            [
+                                133.5903481353338,
+                                -24.1013453163265
+                            ],
+                            [
+                                133.7745090788797,
+                                -23.86036650749199
+                            ],
+                            [
+                                133.8747292778451,
+                                -23.78726529373049
+                            ],
+                            [
+                                133.8690564779681,
+                                -23.71173340492636
+                            ],
+                            [
+                                133.8670574403492,
+                                -23.70060198348853
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "f7a0fd70-1eb8-4eb7-95a3-02071407287a",
+                    "name": "Hobart - Boat Harbour Landing point",
+                    "start": "681036bb-808b-4291-bf5b-a6a4ebaf21cd",
+                    "end": "3f9df1cc-3cbf-4ce2-9f90-ecc3e4490cbf",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                147.33059833254575,
+                                -42.87189489493505
+                            ],
+                            [
+                                147.0014189408355,
+                                -42.71856874747937
+                            ],
+                            [
+                                146.9912568841288,
+                                -42.70349116847108
+                            ],
+                            [
+                                146.9729585587958,
+                                -42.68387655343025
+                            ],
+                            [
+                                146.9348383328615,
+                                -42.65554946954601
+                            ],
+                            [
+                                146.3774934027564,
+                                -42.12021868749325
+                            ],
+                            [
+                                146.0529375452027,
+                                -41.65824314977226
+                            ],
+                            [
+                                145.9829379323914,
+                                -41.33388665869935
+                            ],
+                            [
+                                145.8155799213774,
+                                -41.15059677731963
+                            ],
+                            [
+                                145.8125201346524,
+                                -41.14415923580145
+                            ],
+                            [
+                                145.7465381561258,
+                                -41.06363940859402
+                            ],
+                            [
+                                145.6267300277296,
+                                -40.94561860513458
+                            ],
+                            [
+                                145.61937715323864,
+                                -40.9316560057498
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c8f87e01-3c78-4eba-bf19-b42eaf52276d",
+                    "name": "Adelaide - Melbourne",
+                    "start": "8af7483e-d617-4547-990c-a006cffa3d59",
+                    "end": "a379aa02-edf1-4e86-a9e8-857e8eec56eb",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                138.60854138473684,
+                                -34.92573729031742
+                            ],
+                            [
+                                138.6517457490099,
+                                -34.93636569321752
+                            ],
+                            [
+                                139.1032097211,
+                                -35.10711750164036
+                            ],
+                            [
+                                139.3869302266605,
+                                -35.21223024957723
+                            ],
+                            [
+                                140.0070060438402,
+                                -35.86509400399261
+                            ],
+                            [
+                                140.8048294815895,
+                                -36.32633871381546
+                            ],
+                            [
+                                141.0938563766321,
+                                -36.3740500752916
+                            ],
+                            [
+                                141.8991978674752,
+                                -36.77474415665588
+                            ],
+                            [
+                                142.6904779865712,
+                                -37.02929688552941
+                            ],
+                            [
+                                142.6999083125282,
+                                -37.03756517673919
+                            ],
+                            [
+                                142.7101370182992,
+                                -37.0525043722143
+                            ],
+                            [
+                                143.376502541507,
+                                -37.41325654599335
+                            ],
+                            [
+                                143.8832738471818,
+                                -37.64041340991014
+                            ],
+                            [
+                                144.3666579180327,
+                                -38.14693459981596
+                            ],
+                            [
+                                144.6715050716897,
+                                -37.90182856373643
+                            ],
+                            [
+                                144.95831551015436,
+                                -37.80050438448118
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c30de37a-a42b-49b8-a674-36aea091d8bc",
+                    "name": "fork - Sydney",
+                    "start": "3410f35c-ad55-4842-9a36-da75f351215f",
+                    "end": "153d37bb-49b8-4b47-9af9-274d100069dc",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                148.07810795326634,
+                                -34.878861899580514
+                            ],
+                            [
+                                148.5205248258875,
+                                -34.83894296565701
+                            ],
+                            [
+                                149.3972766726286,
+                                -34.90555344844783
+                            ],
+                            [
+                                150.0651701969986,
+                                -34.7767380403665
+                            ],
+                            [
+                                150.0823595797005,
+                                -34.76360795449341
+                            ],
+                            [
+                                150.1091912725001,
+                                -34.7330262850046
+                            ],
+                            [
+                                150.1382088716951,
+                                -34.71285231809608
+                            ],
+                            [
+                                150.8049040140324,
+                                -34.20158788243388
+                            ],
+                            [
+                                150.81140605923,
+                                -34.2006133648594
+                            ],
+                            [
+                                151.20584142829176,
+                                -33.894289593417504
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "a53aed13-539e-4f77-9322-aeef2809c107",
+                    "name": "default-node - Canberra",
+                    "start": "9f30eef1-e8b1-4b1e-9966-0b2abafb0d60",
+                    "end": "9a8a8f1a-0a39-4faa-aef8-89fc40a47781",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                145.0549050022202,
+                                -37.79275025578396
+                            ],
+                            [
+                                145.7371524659985,
+                                -37.08958862880186
+                            ],
+                            [
+                                146.517401146013,
+                                -36.42410071966159
+                            ],
+                            [
+                                146.9247145968853,
+                                -36.11446347654351
+                            ],
+                            [
+                                147.694089801435,
+                                -35.6915375157075
+                            ],
+                            [
+                                147.7187342922807,
+                                -35.68328050670385
+                            ],
+                            [
+                                148.4113541250454,
+                                -35.50227423888635
+                            ],
+                            [
+                                148.4487638365556,
+                                -35.49220688353538
+                            ],
+                            [
+                                149.1310313783592,
+                                -35.317879275158546
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "039dc147-1b9b-4ed8-b4d9-20c53d5b160b",
+                    "name": "Canberra - Sydney",
+                    "start": "9a8a8f1a-0a39-4faa-aef8-89fc40a47781",
+                    "end": "153d37bb-49b8-4b47-9af9-274d100069dc",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                149.1312279681881,
+                                -35.31785084751229
+                            ],
+                            [
+                                149.6690431298716,
+                                -35.29790834657245
+                            ],
+                            [
+                                149.6959055892137,
+                                -35.29952897849714
+                            ],
+                            [
+                                150.4777745940167,
+                                -34.91830410761327
+                            ],
+                            [
+                                150.7024410101816,
+                                -34.47847855718882
+                            ],
+                            [
+                                151.20577620816388,
+                                -33.8943652804403
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "28ae6c4f-0a24-483b-b7f2-644863696819",
+                    "name": "default-node - Sydney",
+                    "start": "6f77b598-bdd5-45e4-845d-078f6e94dd1a",
+                    "end": "153d37bb-49b8-4b47-9af9-274d100069dc",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                145.0169673217945,
+                                -37.86077105623412
+                            ],
+                            [
+                                145.4105910838198,
+                                -37.95502250894526
+                            ],
+                            [
+                                145.4290835600224,
+                                -37.94241246878534
+                            ],
+                            [
+                                145.4526834685223,
+                                -37.91856398955833
+                            ],
+                            [
+                                145.4895961422284,
+                                -37.89335621132727
+                            ],
+                            [
+                                145.5139169360997,
+                                -37.87479630968788
+                            ],
+                            [
+                                146.2366216459686,
+                                -37.21263102280606
+                            ],
+                            [
+                                147.1977499321322,
+                                -36.51262606680756
+                            ],
+                            [
+                                147.2088391174809,
+                                -36.50076287621989
+                            ],
+                            [
+                                148.0105626027377,
+                                -36.02473001987833
+                            ],
+                            [
+                                148.8526439276225,
+                                -36.21749002359235
+                            ],
+                            [
+                                149.1318699944652,
+                                -36.2189075189447
+                            ],
+                            [
+                                149.831095047852,
+                                -35.8909773273421
+                            ],
+                            [
+                                150.5530726769501,
+                                -35.14978569542644
+                            ],
+                            [
+                                150.5584903239776,
+                                -35.14359638871863
+                            ],
+                            [
+                                150.8880844607314,
+                                -34.49850718134225
+                            ],
+                            [
+                                151.20584142829176,
+                                -33.894289593417504
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "cb664654-60df-40d0-a4d5-052f28c9f6f4",
+                    "name": "fork - fork",
+                    "start": "3410f35c-ad55-4842-9a36-da75f351215f",
+                    "end": "7bdc7cef-deb8-4771-824b-d5f91f85bdcc",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                148.07800839457792,
+                                -34.87887088268435
+                            ],
+                            [
+                                148.0632669929249,
+                                -34.86149128490563
+                            ],
+                            [
+                                148.2983133749032,
+                                -34.3498043959703
+                            ],
+                            [
+                                148.4398932789481,
+                                -34.16684865403093
+                            ],
+                            [
+                                148.6978686699485,
+                                -33.60791949719247
+                            ],
+                            [
+                                148.7001221568412,
+                                -33.59654907502409
+                            ],
+                            [
+                                148.8380733607508,
+                                -33.20833717765837
+                            ],
+                            [
+                                148.9108561924805,
+                                -32.56037959451391
+                            ],
+                            [
+                                149.1427104096838,
+                                -31.69939959835809
+                            ],
+                            [
+                                149.809196619652,
+                                -30.30252698013414
+                            ],
+                            [
+                                150.025441365977,
+                                -29.10885930840157
+                            ],
+                            [
+                                150.0457144153261,
+                                -29.10205381627213
+                            ],
+                            [
+                                150.7712731696126,
+                                -28.6228841993054
+                            ],
+                            [
+                                151.1113377224901,
+                                -28.19854680248422
+                            ],
+                            [
+                                151.1356416445395,
+                                -28.16810412417939
+                            ],
+                            [
+                                151.1746515111153,
+                                -28.13524075135942
+                            ],
+                            [
+                                151.35105144499724,
+                                -27.955970214386532
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "35d36452-d6a4-4b77-adf5-7a14d18aa0df",
+                    "name": "default-node - Newcastle",
+                    "start": "e84e0c9c-4725-4f25-a048-4ca856df17ab",
+                    "end": "3613c11d-d4ca-493f-949f-7556dd76bf1c",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                151.2875541316366,
+                                -33.85798177722424
+                            ],
+                            [
+                                151.6268536706161,
+                                -33.04533172906446
+                            ],
+                            [
+                                151.6547771729572,
+                                -32.99482395078124
+                            ],
+                            [
+                                151.6703703504869,
+                                -32.95942614589237
+                            ],
+                            [
+                                151.7491857434522,
+                                -32.871484887532354
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "9bbff0a9-ad87-4b5b-884d-ba8ee2f72f18",
+                    "name": "Newcastle - Brisbane",
+                    "start": "3613c11d-d4ca-493f-949f-7556dd76bf1c",
+                    "end": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                151.74931906699328,
+                                -32.87133612674426
+                            ],
+                            [
+                                152.2142770458486,
+                                -32.35254166024867
+                            ],
+                            [
+                                152.2340025019489,
+                                -32.33617452758232
+                            ],
+                            [
+                                152.8872595865331,
+                                -30.97594605057909
+                            ],
+                            [
+                                152.9124808422382,
+                                -30.91885271578764
+                            ],
+                            [
+                                153.1444126287001,
+                                -30.00169848797949
+                            ],
+                            [
+                                153.275666908034,
+                                -29.31191413807008
+                            ],
+                            [
+                                153.5343064849275,
+                                -28.57596271039607
+                            ],
+                            [
+                                153.5169433962226,
+                                -28.53257564771248
+                            ],
+                            [
+                                153.4257488842756,
+                                -28.0893144734177
+                            ],
+                            [
+                                153.3706225617465,
+                                -28.07943882769998
+                            ],
+                            [
+                                153.02493938572238,
+                                -27.456491158921164
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "61709bff-1264-4f4f-8151-154d573c77b1",
+                    "name": "default-node - Brisbane",
+                    "start": "2a374634-55e3-48c0-9a34-a2b3c16c23a4",
+                    "end": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                151.236060415804,
+                                -33.83084355465002
+                            ],
+                            [
+                                151.2612403910027,
+                                -33.80057221531921
+                            ],
+                            [
+                                151.4549592918013,
+                                -33.20410116518435
+                            ],
+                            [
+                                151.6805674372289,
+                                -32.84017334903849
+                            ],
+                            [
+                                151.8572927987329,
+                                -32.35797906688696
+                            ],
+                            [
+                                151.8562210677449,
+                                -32.35317144705382
+                            ],
+                            [
+                                151.8614650730881,
+                                -31.60979006010791
+                            ],
+                            [
+                                151.8097970543175,
+                                -30.15651639635078
+                            ],
+                            [
+                                151.8985153485188,
+                                -28.52729798547017
+                            ],
+                            [
+                                151.8967993696106,
+                                -28.49270015934034
+                            ],
+                            [
+                                152.0137663220669,
+                                -28.08401510573269
+                            ],
+                            [
+                                152.717003177221,
+                                -27.7123208825188
+                            ],
+                            [
+                                153.02493938572238,
+                                -27.456491158921164
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "6c98dbf4-bb4c-4b26-b16a-277466fd499d",
+                    "name": "Brisbane - Townsville",
+                    "start": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
+                    "end": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                153.02493938572238,
+                                -27.456491158921164
+                            ],
+                            [
+                                153.0386454726643,
+                                -27.3877932002084
+                            ],
+                            [
+                                153.0334211314555,
+                                -27.36494789372351
+                            ],
+                            [
+                                152.508577947468,
+                                -26.10410998090308
+                            ],
+                            [
+                                152.5036920128795,
+                                -26.08144710227971
+                            ],
+                            [
+                                151.5713054327082,
+                                -25.45926869042852
+                            ],
+                            [
+                                151.5539428581822,
+                                -25.43864217837679
+                            ],
+                            [
+                                151.5342558544203,
+                                -25.40665073136876
+                            ],
+                            [
+                                151.1666881588089,
+                                -24.55125175589387
+                            ],
+                            [
+                                150.4897800558669,
+                                -23.42021789921371
+                            ],
+                            [
+                                149.4828690872672,
+                                -22.46543206255239
+                            ],
+                            [
+                                149.4636090041452,
+                                -22.43258479158546
+                            ],
+                            [
+                                149.4392160642291,
+                                -22.40644893981803
+                            ],
+                            [
+                                148.9648671876855,
+                                -21.23240413119298
+                            ],
+                            [
+                                148.9484068314207,
+                                -21.21141357880895
+                            ],
+                            [
+                                148.9319573847178,
+                                -21.19042561904866
+                            ],
+                            [
+                                148.4323269742002,
+                                -20.49885830597659
+                            ],
+                            [
+                                147.5903411031211,
+                                -19.8238913284542
+                            ],
+                            [
+                                146.80975858783643,
+                                -19.27444113534483
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4f569062-454a-44c8-ba51-180edd8341be",
+                    "name": "Port Hedland - Geraldton",
+                    "start": "91a00cdf-cb04-4d46-be43-c6416a2d857d",
+                    "end": "2c1c503e-ad87-42f5-b5f5-34e5fc72222a",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                118.6531040798706,
+                                -20.347983467902854
+                            ],
+                            [
+                                119.0934751082236,
+                                -20.54872740380671
+                            ],
+                            [
+                                119.1124454254104,
+                                -20.55872388877366
+                            ],
+                            [
+                                119.1364954297692,
+                                -20.57251261378822
+                            ],
+                            [
+                                119.1521921166186,
+                                -20.57885158572044
+                            ],
+                            [
+                                119.8016196329803,
+                                -20.92940643315597
+                            ],
+                            [
+                                119.8138766581894,
+                                -20.9354316645723
+                            ],
+                            [
+                                119.8346250661332,
+                                -20.94889096803555
+                            ],
+                            [
+                                119.9954258166625,
+                                -21.26214479158849
+                            ],
+                            [
+                                120.0041686892149,
+                                -21.27674769583021
+                            ],
+                            [
+                                120.015001687909,
+                                -21.29615655387776
+                            ],
+                            [
+                                120.1144713031669,
+                                -21.68729242247775
+                            ],
+                            [
+                                119.9798536750177,
+                                -22.58741808439196
+                            ],
+                            [
+                                119.8366347492496,
+                                -23.33596149476895
+                            ],
+                            [
+                                119.7914572460252,
+                                -23.5326636625338
+                            ],
+                            [
+                                119.5338078018453,
+                                -24.84928118108655
+                            ],
+                            [
+                                119.1556295491242,
+                                -25.70128650201502
+                            ],
+                            [
+                                118.8358861134253,
+                                -25.96494928016794
+                            ],
+                            [
+                                118.6342660997817,
+                                -26.37518401820027
+                            ],
+                            [
+                                118.0329216648393,
+                                -27.18730660519485
+                            ],
+                            [
+                                117.8927838284684,
+                                -27.84049833685349
+                            ],
+                            [
+                                117.8424922081597,
+                                -28.11332488768103
+                            ],
+                            [
+                                116.7370436893434,
+                                -28.32883360434213
+                            ],
+                            [
+                                115.6502252759181,
+                                -28.50506957802617
+                            ],
+                            [
+                                115.1957712910432,
+                                -28.66905567879637
+                            ],
+                            [
+                                114.6336335883842,
+                                -28.78298608863611
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "7f2d8c12-a310-4289-86cb-f477ac4ceb8d",
+                    "name": "fork - Adelaide",
+                    "start": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
+                    "end": "8af7483e-d617-4547-990c-a006cffa3d59",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                142.16142779892104,
+                                -34.20345571021855
+                            ],
+                            [
+                                142.1554938406992,
+                                -34.20772562646066
+                            ],
+                            [
+                                142.1577763936482,
+                                -34.40759620925156
+                            ],
+                            [
+                                141.8457746493862,
+                                -34.60056712690572
+                            ],
+                            [
+                                141.830687844917,
+                                -34.6020256791693
+                            ],
+                            [
+                                141.2857670195592,
+                                -34.60459163554678
+                            ],
+                            [
+                                141.2702848311418,
+                                -34.60322427546254
+                            ],
+                            [
+                                141.2618913644191,
+                                -34.60399788090375
+                            ],
+                            [
+                                141.2484604361797,
+                                -34.60523459023812
+                            ],
+                            [
+                                141.2400652739015,
+                                -34.60600686839747
+                            ],
+                            [
+                                141.2314825594206,
+                                -34.605397814897
+                            ],
+                            [
+                                140.1662819490103,
+                                -34.53231400852228
+                            ],
+                            [
+                                139.6066879706499,
+                                -34.63469865036362
+                            ],
+                            [
+                                138.9665413951342,
+                                -34.79336285713541
+                            ],
+                            [
+                                138.6084443959521,
+                                -34.92571343078614
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "b1045416-20b8-4415-b002-285202b51c5a",
+                    "name": "fork - Broken Hill",
+                    "start": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
+                    "end": "0503ed55-a53d-4dfd-8da2-85d4d18938e7",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                142.16142779892104,
+                                -34.20345571021855
+                            ],
+                            [
+                                141.7930242848719,
+                                -33.69148054789736
+                            ],
+                            [
+                                141.6934789674537,
+                                -33.15259154157706
+                            ],
+                            [
+                                141.5327310456398,
+                                -32.42826390036599
+                            ],
+                            [
+                                141.5343206738784,
+                                -32.41188066386052
+                            ],
+                            [
+                                141.5459864903841,
+                                -32.38479805500673
+                            ],
+                            [
+                                141.5518155054361,
+                                -32.37125526928914
+                            ],
+                            [
+                                141.3990129698668,
+                                -32.07342183053936
+                            ],
+                            [
+                                141.49560968385634,
+                                -31.96671054266635
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "4e6f9350-91cb-4813-bc90-3a373ac8b883",
+                    "name": "fork - fork",
+                    "start": "7bdc7cef-deb8-4771-824b-d5f91f85bdcc",
+                    "end": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                151.3511916693479,
+                                -27.955827708127668
+                            ],
+                            [
+                                151.36670704058812,
+                                -27.940059851120246
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ec229f39-73a9-4ecc-a1dc-c9fc3da3c927",
+                    "name": "fork - Brisbane",
+                    "start": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
+                    "end": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                151.36670704058812,
+                                -27.940059851120246
+                            ],
+                            [
+                                151.573400591648,
+                                -27.73000272087135
+                            ],
+                            [
+                                152.3885258746051,
+                                -27.50788721092568
+                            ],
+                            [
+                                152.4034544465199,
+                                -27.50522099178496
+                            ],
+                            [
+                                153.0248397694416,
+                                -27.456498969705315
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "0454f010-cea4-4359-8711-45686b374627",
+                    "name": "fork - fork",
+                    "start": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
+                    "end": "0572cb5a-9805-441b-a36b-d33835d2b310",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                151.36670704058812,
+                                -27.940059851120246
+                            ],
+                            [
+                                151.3364486348643,
+                                -27.91028596379226
+                            ],
+                            [
+                                151.3291538932337,
+                                -27.87673219855995
+                            ],
+                            [
+                                151.2844010562193,
+                                -27.79144821655575
+                            ],
+                            [
+                                151.2394616332961,
+                                -27.73517783146712
+                            ],
+                            [
+                                150.7525608089193,
+                                -27.34701677517805
+                            ],
+                            [
+                                150.1975901686607,
+                                -26.96415937197246
+                            ],
+                            [
+                                149.353861830062,
+                                -26.64788544721135
+                            ],
+                            [
+                                148.5034937964025,
+                                -26.63835243499686
+                            ],
+                            [
+                                148.0379582663853,
+                                -26.4818435714606
+                            ],
+                            [
+                                147.9374272378158,
+                                -25.06393452601922
+                            ],
+                            [
+                                147.9519714236363,
+                                -25.03886537329307
+                            ],
+                            [
+                                147.9882060204863,
+                                -24.9934130685341
+                            ],
+                            [
+                                148.0150663311319,
+                                -24.96653372475832
+                            ],
+                            [
+                                148.2726715202949,
+                                -24.36008681634336
+                            ],
+                            [
+                                148.2890706097186,
+                                -24.34614453113028
+                            ],
+                            [
+                                148.3116027975599,
+                                -24.33128264672157
+                            ],
+                            [
+                                148.1025262738869,
+                                -23.61895611293355
+                            ],
+                            [
+                                147.3027284620613,
+                                -23.75188490765521
+                            ],
+                            [
+                                145.5058277663039,
+                                -23.75430411329782
+                            ],
+                            [
+                                144.4118349754002,
+                                -23.67024409092051
+                            ],
+                            [
+                                143.5069333183803,
+                                -23.50800851508927
+                            ],
+                            [
+                                143.4669087167356,
+                                -23.44415833044991
+                            ],
+                            [
+                                142.467544893149,
+                                -22.26089194715288
+                            ],
+                            [
+                                142.4897331828903,
+                                -22.24127391339852
+                            ],
+                            [
+                                143.0848702566328,
+                                -21.57198205672583
+                            ],
+                            [
+                                142.9186662235352,
+                                -20.76395292563457
+                            ],
+                            [
+                                142.9243244527931,
+                                -20.733807861031107
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "dcd8c13f-d21d-4610-a56f-8e56209c7c25",
+                    "name": "fork - Darwin",
+                    "start": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
+                    "end": "5ec40bdf-2109-401f-9641-ce0bd7d6b05d",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                134.2289527239986,
+                                -19.45281044030402
+                            ],
+                            [
+                                134.2236247875703,
+                                -19.42264365357937
+                            ],
+                            [
+                                134.222774668258,
+                                -19.41285931921424
+                            ],
+                            [
+                                133.9525748519116,
+                                -18.59485101153024
+                            ],
+                            [
+                                133.6675092489495,
+                                -17.84415215987681
+                            ],
+                            [
+                                133.666715371362,
+                                -17.83439468869313
+                            ],
+                            [
+                                133.4950024117814,
+                                -17.36298773186311
+                            ],
+                            [
+                                133.4178879273221,
+                                -16.47662633748208
+                            ],
+                            [
+                                133.2113652841556,
+                                -15.3993531016502
+                            ],
+                            [
+                                133.2059827773742,
+                                -15.37359399603362
+                            ],
+                            [
+                                133.1382443174323,
+                                -15.02212749329699
+                            ],
+                            [
+                                132.1233671972333,
+                                -14.30005110766086
+                            ],
+                            [
+                                132.1082591436399,
+                                -14.27815355576104
+                            ],
+                            [
+                                131.7515104650653,
+                                -13.71682571017285
+                            ],
+                            [
+                                131.1471758975998,
+                                -13.28203393415455
+                            ],
+                            [
+                                131.1458572662651,
+                                -13.26251168516367
+                            ],
+                            [
+                                131.1314872491937,
+                                -12.84848794922839
+                            ],
+                            [
+                                131.1266295848171,
+                                -12.82592220104855
+                            ],
+                            [
+                                131.1226406440875,
+                                -12.81637292776478
+                            ],
+                            [
+                                131.0604817644292,
+                                -12.53585064665324
+                            ],
+                            [
+                                130.85472286634393,
+                                -12.460607848291056
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "c9727b52-2da8-450e-a36d-eb2b89c4677b",
+                    "name": "Alice Springs - fork",
+                    "start": "e46bd164-0da7-4f7b-9678-f939e55ed11b",
+                    "end": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                133.86702211508901,
+                                -23.70040527865669
+                            ],
+                            [
+                                133.7763916948148,
+                                -23.1957397367826
+                            ],
+                            [
+                                133.5184155338427,
+                                -22.90678467576455
+                            ],
+                            [
+                                133.5149660831233,
+                                -22.89817562084001
+                            ],
+                            [
+                                133.3492245587624,
+                                -22.54880379832978
+                            ],
+                            [
+                                133.4720743571842,
+                                -22.05643804162398
+                            ],
+                            [
+                                133.490182259903,
+                                -22.03273865709529
+                            ],
+                            [
+                                133.7378145470473,
+                                -21.70637689721501
+                            ],
+                            [
+                                134.1147378838028,
+                                -21.23467386016796
+                            ],
+                            [
+                                134.258107319414,
+                                -20.88465226452596
+                            ],
+                            [
+                                134.2237159742231,
+                                -19.84319971734989
+                            ],
+                            [
+                                134.2223241080459,
+                                -19.45398115976864
+                            ],
+                            [
+                                134.2289527239986,
+                                -19.45281044030402
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "dfc597e4-7a7b-4d75-a208-06b6f672b92a",
+                    "name": "fork - fork",
+                    "start": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
+                    "end": "0572cb5a-9805-441b-a36b-d33835d2b310",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                134.2289527239986,
+                                -19.45281044030402
+                            ],
+                            [
+                                134.5069648116535,
+                                -19.40370906458085
+                            ],
+                            [
+                                134.5191268646673,
+                                -19.39455317780505
+                            ],
+                            [
+                                134.8768195922472,
+                                -19.32039121553493
+                            ],
+                            [
+                                135.3515574981674,
+                                -19.41774305424067
+                            ],
+                            [
+                                135.998812226981,
+                                -19.82046042615278
+                            ],
+                            [
+                                136.0861584868226,
+                                -19.86084123128253
+                            ],
+                            [
+                                136.6998575700579,
+                                -20.03349408865451
+                            ],
+                            [
+                                136.7162165469268,
+                                -20.04735602810251
+                            ],
+                            [
+                                136.9619750821874,
+                                -20.07766257599641
+                            ],
+                            [
+                                136.980754360376,
+                                -20.07685510321224
+                            ],
+                            [
+                                137.0181666584074,
+                                -20.0723253382508
+                            ],
+                            [
+                                137.3559808758223,
+                                -20.02829900930378
+                            ],
+                            [
+                                137.3691329685337,
+                                -20.0364870296275
+                            ],
+                            [
+                                137.8619648478409,
+                                -19.95627217940924
+                            ],
+                            [
+                                137.8741685089785,
+                                -19.95276061067051
+                            ],
+                            [
+                                138.2494547772876,
+                                -19.93097664183956
+                            ],
+                            [
+                                138.2685008572823,
+                                -19.93583004467982
+                            ],
+                            [
+                                138.6512602495097,
+                                -20.03287601562711
+                            ],
+                            [
+                                138.6673572739087,
+                                -20.03789078421739
+                            ],
+                            [
+                                139.0556710156795,
+                                -20.28178351384161
+                            ],
+                            [
+                                139.4595973477202,
+                                -20.46314668972726
+                            ],
+                            [
+                                139.463313886427,
+                                -20.47164838392967
+                            ],
+                            [
+                                139.4736606376451,
+                                -20.48557141409366
+                            ],
+                            [
+                                139.4738629791565,
+                                -20.4884673816221
+                            ],
+                            [
+                                139.51354121523,
+                                -20.69557881850594
+                            ],
+                            [
+                                139.7064304426767,
+                                -20.71624993109231
+                            ],
+                            [
+                                139.7319004409208,
+                                -20.72056957486982
+                            ],
+                            [
+                                140.0646468636251,
+                                -20.79702186849958
+                            ],
+                            [
+                                140.0803571994811,
+                                -20.79895154362348
+                            ],
+                            [
+                                140.1175520181905,
+                                -20.79663467976583
+                            ],
+                            [
+                                140.4390828051775,
+                                -20.71818467184503
+                            ],
+                            [
+                                140.4484110655437,
+                                -20.71758924368937
+                            ],
+                            [
+                                140.6994600369254,
+                                -20.72474892685506
+                            ],
+                            [
+                                141.1625581893697,
+                                -20.65441830016594
+                            ],
+                            [
+                                141.7963236133851,
+                                -20.65426556568742
+                            ],
+                            [
+                                141.7997154961197,
+                                -20.65694814138061
+                            ],
+                            [
+                                142.8774401457971,
+                                -20.72500767562531
+                            ],
+                            [
+                                142.9243244527931,
+                                -20.733807861031107
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "2ced054b-4ca3-4026-9752-b025725df6df",
+                    "name": "fork - fork",
+                    "start": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
+                    "end": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                145.22258088735026,
+                                -36.80260608846167
+                            ],
+                            [
+                                145.2000367163605,
+                                -36.78704057774058
+                            ],
+                            [
+                                145.1752878847077,
+                                -36.76394722419995
+                            ],
+                            [
+                                144.0878634841422,
+                                -36.11408345669312
+                            ],
+                            [
+                                144.088496616555,
+                                -36.09452865872813
+                            ],
+                            [
+                                144.0846367036376,
+                                -36.07223138692116
+                            ],
+                            [
+                                143.9078333791471,
+                                -35.64990325859929
+                            ],
+                            [
+                                143.5425757268513,
+                                -35.42225245971673
+                            ],
+                            [
+                                143.5240367448265,
+                                -35.38210872400157
+                            ],
+                            [
+                                143.4971754216263,
+                                -35.33962700326217
+                            ],
+                            [
+                                143.0826056064016,
+                                -34.71201154217903
+                            ],
+                            [
+                                143.0688986359901,
+                                -34.7004407161567
+                            ],
+                            [
+                                143.0381080784063,
+                                -34.68089549930847
+                            ],
+                            [
+                                142.7638909826574,
+                                -34.57243316650325
+                            ],
+                            [
+                                142.1689866933467,
+                                -34.21396040426451
+                            ],
+                            [
+                                142.16142779892104,
+                                -34.20345571021855
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "96dc36c8-4818-4900-956e-17fc59cbe9af",
+                    "name": "Melbourne - fork",
+                    "start": "a379aa02-edf1-4e86-a9e8-857e8eec56eb",
+                    "end": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                144.95850386257356,
+                                -37.80043784347804
+                            ],
+                            [
+                                144.9677114523814,
+                                -37.79718499297096
+                            ],
+                            [
+                                144.8496546153603,
+                                -37.65676947964464
+                            ],
+                            [
+                                144.8469085589516,
+                                -37.63846173683164
+                            ],
+                            [
+                                144.7922553535544,
+                                -37.42844241710032
+                            ],
+                            [
+                                144.7998173429177,
+                                -37.41663363363677
+                            ],
+                            [
+                                144.8149343456846,
+                                -37.39301738323753
+                            ],
+                            [
+                                145.22258088735026,
+                                -36.80260608846167
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "24ac1ef8-e5a8-49f2-9704-42da3e0b7c76",
+                    "name": "fork - fork",
+                    "start": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
+                    "end": "3410f35c-ad55-4842-9a36-da75f351215f",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                145.22258088735026,
+                                -36.80260608846167
+                            ],
+                            [
+                                145.3891913953163,
+                                -36.56129721992679
+                            ],
+                            [
+                                146.0431215920854,
+                                -35.83842079769442
+                            ],
+                            [
+                                146.8641246277577,
+                                -35.30598461628912
+                            ],
+                            [
+                                147.7353046093149,
+                                -34.90979278147677
+                            ],
+                            [
+                                148.0779088358895,
+                                -34.878879865788186
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "831e7312-c33a-458e-a3b1-77466df94996",
+                    "name": "fork - Townsville",
+                    "start": "0572cb5a-9805-441b-a36b-d33835d2b310",
+                    "end": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                142.9243244527931,
+                                -20.733807861031107
+                            ],
+                            [
+                                143.5082400451359,
+                                -20.84340882995214
+                            ],
+                            [
+                                144.1595255459583,
+                                -20.86635069280314
+                            ],
+                            [
+                                144.731470286118,
+                                -20.84509673178644
+                            ],
+                            [
+                                144.7591225023485,
+                                -20.83690325095269
+                            ],
+                            [
+                                145.3558084897799,
+                                -20.61127106977037
+                            ],
+                            [
+                                145.8372585675581,
+                                -20.24255003272512
+                            ],
+                            [
+                                146.1915624257343,
+                                -20.09474704646492
+                            ],
+                            [
+                                146.6041034316037,
+                                -19.91851005207196
+                            ],
+                            [
+                                146.6213243016056,
+                                -19.90510699908472
+                            ],
+                            [
+                                146.6474949655557,
+                                -19.88788119916285
+                            ],
+                            [
+                                146.6592029391578,
+                                -19.88086397144777
+                            ],
+                            [
+                                146.8450913256035,
+                                -19.75390364318886
+                            ],
+                            [
+                                146.8585918241083,
+                                -19.73497855089293
+                            ],
+                            [
+                                146.8432506313529,
+                                -19.46455967022652
+                            ],
+                            [
+                                146.8096768880376,
+                                -19.27438362704894
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "id": "ac7951e9-8b6e-4c83-b287-bc1bd2ae52fe",
+                    "name": "Townsville - Cairns",
+                    "start": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
+                    "end": "a18d1f4c-665a-42f8-849a-8f775ef92803",
+                    "status": "operational",
+                    "physicalInfrastructureProvider": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
+                    },
+                    "networkProviders": [
+                        {
+                            "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                            "name": "Vocus"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                146.8096768880376,
+                                -19.27438362704894
+                            ],
+                            [
+                                146.7969858293562,
+                                -19.27621360591448
+                            ],
+                            [
+                                146.6300542911981,
+                                -19.22235409368998
+                            ],
+                            [
+                                146.6186188878367,
+                                -19.20580296661226
+                            ],
+                            [
+                                146.6044334982942,
+                                -19.19245748581788
+                            ],
+                            [
+                                146.5809375536324,
+                                -19.18000262360381
+                            ],
+                            [
+                                146.5609123360709,
+                                -19.17015987579373
+                            ],
+                            [
+                                146.3122618485783,
+                                -18.94481503942992
+                            ],
+                            [
+                                146.3119279603096,
+                                -18.9419211159624
+                            ],
+                            [
+                                146.1610519097974,
+                                -18.79277104031216
+                            ],
+                            [
+                                146.2038352196935,
+                                -18.53748445790373
+                            ],
+                            [
+                                146.0686306512771,
+                                -18.32319347557889
+                            ],
+                            [
+                                145.8988816737359,
+                                -18.1241506265347
+                            ],
+                            [
+                                146.0728647299776,
+                                -17.73739330215137
+                            ],
+                            [
+                                145.995824101732,
+                                -17.42450806053798
+                            ],
+                            [
+                                145.9062911696998,
+                                -17.18866609604749
+                            ],
+                            [
+                                145.8045821880621,
+                                -17.09383802556539
+                            ],
+                            [
+                                145.7530335487058,
+                                -16.99152940798987
+                            ],
+                            [
+                                145.77585523412029,
+                                -16.92206333111193
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                {
+                    "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                    "name": "Vocus"
+                }
+            ]
+        }
+    ]
+}
