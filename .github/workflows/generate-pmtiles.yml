@@ -194,3 +194,22 @@ jobs:
           EOF
           
           aws s3 cp pmtiles_metadata.json s3://${{ secrets.S3_BUCKET_NAME }}/pmtiles_metadata.json --content-type 'application/json' --cache-control 'max-age=300'
+      
+      # CloudFront serves a cached copy of S3 objects until TTL or invalidation. Set repository secret
+      # CLOUDFRONT_DISTRIBUTION_ID (e.g. E1234567890ABC) and grant the IAM user cloudfront:CreateInvalidation.
+      - name: Invalidate CloudFront cache
+        env:
+          CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
+        run: |
+          if [ -z "$CLOUDFRONT_DISTRIBUTION_ID" ]; then
+            echo "CLOUDFRONT_DISTRIBUTION_ID not set; skipping CloudFront invalidation."
+            exit 0
+          fi
+          aws cloudfront create-invalidation \
+            --distribution-id "$CLOUDFRONT_DISTRIBUTION_ID" \
+            --paths \
+              "/ofds_spans_by_layer.pmtiles" \
+              "/ofds_nodes_combined.pmtiles" \
+              "/ofds_nodes_combined.geojson" \
+              "/ofds_spans_layers_list.txt" \
+              "/pmtiles_metadata.json"
