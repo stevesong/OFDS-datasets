@@ -24,6 +24,9 @@ jobs:
           sudo make install
       
       - name: Generate Spans Layers Per Operator
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
         run: |
           # Create an array to store tippecanoe arguments for spans
           tippecanoe_spans_args=("-o" "ofds_spans_by_layer.pmtiles" "-Z0" "-z16" "--drop-densest-as-needed" "--quiet")
@@ -58,8 +61,21 @@ jobs:
                 echo "Spans Layer: $layerName"
                 echo "  Spans: $spansFile"
                 
-                # Add layer argument for spans file
-                tippecanoe_spans_args+=("-L" "${layerName}:${spansFile}")
+                # Flat properties for map consumers (popups, labels): OFDS network name, repo operator folder, GitHub tree URL
+                enrichedFile=$(mktemp /tmp/ofds_spans_enriched_XXXXXX.geojson)
+                githubSource="https://github.com/${GITHUB_REPOSITORY}/tree/${GITHUB_REF_NAME}/${countryName}/${operatorName}"
+                jq --arg op "$operatorName" \
+                   --arg gh "$githubSource" \
+                   '.features |= map(
+                      .properties |= . + {
+                        network_name: ((.network // {}) | .name) // "",
+                        operator: $op,
+                        github_source: $gh
+                      }
+                    )' "$spansFile" > "$enrichedFile"
+                
+                # Add layer argument for enriched spans file
+                tippecanoe_spans_args+=("-L" "${layerName}:${enrichedFile}")
                 
                 # Save layer info for metadata
                 echo "$layerName" >> spans_layers_list.txt
