@@ -68,7 +68,7 @@ jobs:
                    --arg gh "$githubSource" \
                    '.features |= map(
                       .properties |= . + {
-                        network_name: ((.network // {}) | .name) // "",
+                        network_name: (.network.name // ""),
                         operator: $op,
                         github_source: $gh
                       }
