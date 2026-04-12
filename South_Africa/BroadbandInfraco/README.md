@@ -4,4 +4,4 @@ This map was digitized from the publicly available Broadband Infraco map at <htt
 
 ![Broadband Infraco](https://github.com/stevesong/OFDS-datasets/blob/main/South_Africa/BroadbandInfraco/BBI_2025.png?raw=true)
 
--- Steve Song, November 2025
+-- Steve Song, February 2026
