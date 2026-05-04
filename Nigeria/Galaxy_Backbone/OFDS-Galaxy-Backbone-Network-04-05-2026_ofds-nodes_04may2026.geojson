@@ -1,0 +1,653 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40773527807679,
+                    8.89813915208173
+                ]
+            },
+            "properties": {
+                "name": "Akwanga OA",
+                "id": "e0033a83-ee35-4e4f-8324-73744354c232",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.519946844247047,
+                    8.501116788007208
+                ]
+            },
+            "properties": {
+                "name": "Lafia",
+                "id": "9a7c4498-9fc1-433d-9b88-1ab546f8c33a",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.483263115235126,
+                    9.059892556632757
+                ]
+            },
+            "properties": {
+                "name": "Abuja",
+                "id": "e2d944cb-0b67-4a68-b4b1-a097fa7572a2",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.541017433969222,
+                    7.725693651369067
+                ]
+            },
+            "properties": {
+                "name": "Makurdi",
+                "id": "87422e2d-0b8a-4601-891e-fbb991a906a1",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7809000563086395,
+                    7.171174715601243
+                ]
+            },
+            "properties": {
+                "name": "Ugbokolo OA",
+                "id": "12a7643e-d2f0-4ef2-8a34-6b7ba213c283",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.403820039097837,
+                    6.455484691001892
+                ]
+            },
+            "properties": {
+                "name": "Enugu",
+                "id": "d29613d6-0b9b-4812-b963-b94dacf503db",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.068104456212883,
+                    6.2113790161628755
+                ]
+            },
+            "properties": {
+                "name": "Awka",
+                "id": "e9e0fbbb-eda6-4959-9580-febeeb3c4125",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.026058462149792,
+                    5.484430252206292
+                ]
+            },
+            "properties": {
+                "name": "Oweri",
+                "id": "a744f463-633b-4ee6-9933-41e1d66786fa",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.884974969295399,
+                    5.735726867121991
+                ]
+            },
+            "properties": {
+                "name": "Mgbidi",
+                "id": "e248fb02-c309-4bd2-a3f4-67b3e1d3be37",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.006150532390924,
+                    4.871806976768266
+                ]
+            },
+            "properties": {
+                "name": "Port Harcourt",
+                "id": "7abf0481-63ba-4821-b3e4-fdf2313567fe",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.922473755791276,
+                    4.6469524861639036
+                ]
+            },
+            "properties": {
+                "name": "Eket",
+                "id": "d892267b-8779-41a5-ac42-45f5500f2a0e",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.923541888583926,
+                    5.046649697510372
+                ]
+            },
+            "properties": {
+                "name": "Uyo",
+                "id": "ec7746e3-c3ee-407f-8206-05034ffda241",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.920908444764072,
+                    4.645799292641172
+                ]
+            },
+            "properties": {
+                "name": "Kwa Ibo (Landing Point)",
+                "id": "01fd5233-8632-4bf8-beac-7b9a1dd0ffff",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.61502295585447,
+                    6.35483362224425
+                ]
+            },
+            "properties": {
+                "name": "Benin",
+                "id": "555a8574-2368-4488-9888-c86b90be982e",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.882506881037112,
+                    6.756503518725394
+                ]
+            },
+            "properties": {
+                "name": "Ore",
+                "id": "2f6c07f0-64ef-4b90-bd9a-5c53dd01f5f7",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.93524590672213,
+                    6.78862971600863
+                ]
+            },
+            "properties": {
+                "name": "Ijebo Ode",
+                "id": "b2bd7c10-c71b-4fbb-b484-416fbd558595",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.783950304779674,
+                    6.144054890589365
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "21fc0ac1-a043-41c6-a93a-5d7e22dde2d4",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.35005304619636,
+                    6.49654348181414
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "a5e05dfe-db64-4098-9b8b-54d0e98c4dc7",
+                "networkProviders": [
+                    {
+                        "id": "ca1a444a-b52c-417c-9808-3540ec821363",
+                        "name": "Galaxy Backbone"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a0a5f95d-5dbc-4985-8c68-11a5da17b20d",
+                    "name": "Galaxy Backbone"
+                },
+                "network": {
+                    "id": "fae5e7be-442c-4ccf-ac14-eccbfe8985cc",
+                    "name": "Galaxy Backbone Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

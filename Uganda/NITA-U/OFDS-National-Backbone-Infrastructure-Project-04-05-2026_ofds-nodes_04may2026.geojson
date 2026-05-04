@@ -1,0 +1,977 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.814374392888,
+                    3.3680339262151473
+                ]
+            },
+            "properties": {
+                "name": "Nimule",
+                "id": "7caace53-7e41-4a15-9d41-d38d6bea9919",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.439201501124867,
+                    2.4528645650469314
+                ]
+            },
+            "properties": {
+                "name": "Atiak",
+                "id": "d509d1d3-856e-4475-b791-f52fc95b425b",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.423930671997965,
+                    2.868564808181083
+                ]
+            },
+            "properties": {
+                "name": "Gulu",
+                "id": "943b0e66-365a-40d8-b26d-3da9ae7ac396",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.458622103414626,
+                    2.736226784248979
+                ]
+            },
+            "properties": {
+                "name": "Lira",
+                "id": "3b862cbb-a998-4265-82cc-d0dc5cb6b3de",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.57282089234467,
+                    1.7527579990374964
+                ]
+            },
+            "properties": {
+                "name": "Soroti",
+                "id": "7aec8bb0-3135-42fb-aecb-bc47dc83fd74",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.175528759611,
+                    1.0046101161710832
+                ]
+            },
+            "properties": {
+                "name": "Mbale",
+                "id": "1886c55e-67ab-44f6-a8b0-6a29e631bb04",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9469148035793,
+                    1.4753577558611908
+                ]
+            },
+            "properties": {
+                "name": "Kumi",
+                "id": "6b1b06fb-7bce-4460-97aa-b7bd59229dc1",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.17499133071719,
+                    0.6625257241738554
+                ]
+            },
+            "properties": {
+                "name": "Malaba",
+                "id": "3b97bb0e-7056-4bea-8fdd-7fbf78fa35cb",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.78434709770406,
+                    0.5326853104024966
+                ]
+            },
+            "properties": {
+                "name": "Bugiri",
+                "id": "3151254a-7f2f-406e-baa8-ee8d09167397",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.55163135571136,
+                    0.6288941839856708
+                ]
+            },
+            "properties": {
+                "name": "Iganga",
+                "id": "46f540e4-25a1-41b2-acea-6c060ebdc057",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.255784274617035,
+                    0.4736710142715395
+                ]
+            },
+            "properties": {
+                "name": "Jinja",
+                "id": "988f86b0-49e4-4ca2-8988-0cfb11f8de5d",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.58060727251655,
+                    0.317039025884328
+                ]
+            },
+            "properties": {
+                "name": "Kampala",
+                "id": "26d46cd4-e039-4dfd-9230-4f6a3a4e5a9a",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.53052750600995,
+                    0.1161366411935408
+                ]
+            },
+            "properties": {
+                "name": "Mukono",
+                "id": "90d00dab-4b7d-45a0-b631-41c336c43ef2",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.46749753940566,
+                    0.05417817710721655
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "be6ff179-ceb7-4743-af96-0a2aa08973c9",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.03756600227067,
+                    1.5500674617535182
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "eaec8e46-d155-4ad3-84ad-e282c6def10a",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.659814608243018,
+                    -0.6054175476938874
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "6f263361-5635-471b-b637-99b8df1fd494",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.04897645275836,
+                    3.604039198275657
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "92ed7d89-5d84-45fc-b61e-c7e1c4ed46b4",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.326510448695615,
+                    2.2481696025963154
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "f8adcaf1-0120-467d-8694-84208c3a2d9f",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.01554720399703,
+                    -1.433753296313344
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "c2066dd1-f33f-4169-bbcd-a53535429c0f",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.24703011956976,
+                    2.256851355305366
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "118a0831-6682-40ec-b81b-b7ddc6d67a13",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.124961312104666,
+                    3.2629796643119837
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "62d6a74e-1f7c-4185-a876-f00a70f46211",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.290281709579986,
+                    2.766720846264652
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "40048de3-09bd-407b-8dc8-c622e5c8db5f",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.16868915730745,
+                    1.1242702689115618
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "e346344c-5794-4ff4-8afc-93de566ad1ac",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.29713011920945,
+                    1.336006890330148
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "dfdd47fa-d672-403f-89a2-308c76d0a3ec",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.80462529291098,
+                    1.229559714802655
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "90ccf5b0-536b-4acb-b738-0ede57de99bb",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.997727573743894,
+                    -0.0010060364868769156
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "3f15964c-2fa6-4693-95a5-428db1eae6ed",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.71987212859279,
+                    0.03922325148378532
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "0b242e30-8546-400e-bba3-1a338a8ad15e",
+                "networkProviders": [
+                    {
+                        "id": "ed463313-5ec0-4d0c-9c83-51ba1e6c94e0",
+                        "name": "Uganda Telecom Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "571846d8-f839-4407-9d57-67829f105768",
+                    "name": "NITA-U"
+                },
+                "network": {
+                    "id": "6da77c02-7d82-475a-a45a-eadce436a91c",
+                    "name": "National Backbone Infrastructure Project",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
