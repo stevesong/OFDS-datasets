@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Alice Springs",
                     "id": "e46bd164-0da7-4f7b-9678-f939e55ed11b",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -30,15 +26,15 @@
                             133.8670397777191,
                             -23.70050363107261
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Darwin",
                     "id": "5ec40bdf-2109-401f-9641-ce0bd7d6b05d",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -52,15 +48,15 @@
                             130.8546290597786,
                             -12.46057354470299
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Townsville",
                     "id": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -74,15 +70,15 @@
                             146.8096768880376,
                             -19.27438362704894
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Cairns",
                     "id": "a18d1f4c-665a-42f8-849a-8f775ef92803",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -96,15 +92,15 @@
                             145.77588641898973,
                             -16.92196840865122
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Brisbane",
                     "id": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -118,15 +114,15 @@
                             153.02493938572238,
                             -27.456491158921164
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Sydney",
                     "id": "153d37bb-49b8-4b47-9af9-274d100069dc",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -140,15 +136,15 @@
                             151.20584142829176,
                             -33.894289593417504
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Canberra",
                     "id": "9a8a8f1a-0a39-4faa-aef8-89fc40a47781",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -162,15 +158,15 @@
                             149.1311281500221,
                             -35.3178545488283
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Melbourne",
                     "id": "a379aa02-edf1-4e86-a9e8-857e8eec56eb",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -184,15 +180,15 @@
                             144.95840968636398,
                             -37.80047111397962
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Hobart",
                     "id": "681036bb-808b-4291-bf5b-a6a4ebaf21cd",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -206,15 +202,15 @@
                             147.33068887391158,
                             -42.871937067559344
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Adelaide",
                     "id": "8af7483e-d617-4547-990c-a006cffa3d59",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -228,15 +224,15 @@
                             138.6084443959521,
                             -34.92571343078614
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Perth",
                     "id": "d96ab91a-5134-417c-88da-b0d5d29e1070",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -250,15 +246,15 @@
                             115.8617873109558,
                             -31.949555456513
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Geraldton",
                     "id": "2c1c503e-ad87-42f5-b5f5-34e5fc72222a",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -272,15 +268,15 @@
                             114.6336335883842,
                             -28.78298608863611
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Port Hedland",
                     "id": "91a00cdf-cb04-4d46-be43-c6416a2d857d",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -294,15 +290,15 @@
                             118.6530131886539,
                             -20.34794203497606
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "c89492fa-3e55-4288-b916-6774bea809a7",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -316,15 +312,15 @@
                             135.87192884376972,
                             -31.097198895014063
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Boat Harbour Landing point",
                     "id": "3f9df1cc-3cbf-4ce2-9f90-ecc3e4490cbf",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -338,15 +334,15 @@
                             145.619330571283,
                             -40.93156754984238
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "3410f35c-ad55-4842-9a36-da75f351215f",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -360,15 +356,15 @@
                             148.07800839457792,
                             -34.87887088268435
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Newcastle",
                     "id": "3613c11d-d4ca-493f-949f-7556dd76bf1c",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -382,15 +378,15 @@
                             151.74925240522273,
                             -32.87141050713831
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "7bdc7cef-deb8-4771-824b-d5f91f85bdcc",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -404,15 +400,15 @@
                             151.35112155717258,
                             -27.955898961257105
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "Broken Hill",
                     "id": "0503ed55-a53d-4dfd-8da2-85d4d18938e7",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -426,15 +422,15 @@
                             141.495676712855,
                             -31.96663649510846
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -448,15 +444,15 @@
                             142.16142779892104,
                             -34.20345571021855
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "default-node",
                     "id": "9f30eef1-e8b1-4b1e-9966-0b2abafb0d60",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -470,15 +466,15 @@
                             145.0549050022202,
                             -37.79275025578396
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "default-node",
                     "id": "6f77b598-bdd5-45e4-845d-078f6e94dd1a",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -492,15 +488,15 @@
                             145.0169673217945,
                             -37.86077105623412
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "default-node",
                     "id": "e84e0c9c-4725-4f25-a048-4ca856df17ab",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -514,15 +510,15 @@
                             151.2875541316366,
                             -33.85798177722424
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "default-node",
                     "id": "2a374634-55e3-48c0-9a34-a2b3c16c23a4",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -536,15 +532,15 @@
                             151.236060415804,
                             -33.83084355465002
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -558,15 +554,15 @@
                             151.36670704058812,
                             -27.940059851120246
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "0572cb5a-9805-441b-a36b-d33835d2b310",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -580,15 +576,15 @@
                             142.9243244527931,
                             -20.733807861031107
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -602,15 +598,15 @@
                             134.2289527239986,
                             -19.45281044030402
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -624,6 +620,10 @@
                             145.22258088735026,
                             -36.80260608846167
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 }
             ],
@@ -634,10 +634,6 @@
                     "start": "d96ab91a-5134-417c-88da-b0d5d29e1070",
                     "end": "2c1c503e-ad87-42f5-b5f5-34e5fc72222a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -748,6 +744,10 @@
                                 -28.78305910100952
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -756,10 +756,6 @@
                     "start": "d96ab91a-5134-417c-88da-b0d5d29e1070",
                     "end": "c89492fa-3e55-4288-b916-6774bea809a7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -874,6 +870,10 @@
                                 -31.097185472727045
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -882,10 +882,6 @@
                     "start": "c89492fa-3e55-4288-b916-6774bea809a7",
                     "end": "8af7483e-d617-4547-990c-a006cffa3d59",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -936,6 +932,10 @@
                                 -34.92571343078614
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -944,10 +944,6 @@
                     "start": "8af7483e-d617-4547-990c-a006cffa3d59",
                     "end": "d96ab91a-5134-417c-88da-b0d5d29e1070",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1098,6 +1094,10 @@
                                 -31.949555456513
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1106,10 +1106,6 @@
                     "start": "c89492fa-3e55-4288-b916-6774bea809a7",
                     "end": "e46bd164-0da7-4f7b-9678-f939e55ed11b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1256,6 +1252,10 @@
                                 -23.70060198348853
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1264,10 +1264,6 @@
                     "start": "681036bb-808b-4291-bf5b-a6a4ebaf21cd",
                     "end": "3f9df1cc-3cbf-4ce2-9f90-ecc3e4490cbf",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1330,6 +1326,10 @@
                                 -40.9316560057498
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1338,10 +1338,6 @@
                     "start": "8af7483e-d617-4547-990c-a006cffa3d59",
                     "end": "a379aa02-edf1-4e86-a9e8-857e8eec56eb",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1416,6 +1412,10 @@
                                 -37.80050438448118
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1424,10 +1424,6 @@
                     "start": "3410f35c-ad55-4842-9a36-da75f351215f",
                     "end": "153d37bb-49b8-4b47-9af9-274d100069dc",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1478,6 +1474,10 @@
                                 -33.894289593417504
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1486,10 +1486,6 @@
                     "start": "9f30eef1-e8b1-4b1e-9966-0b2abafb0d60",
                     "end": "9a8a8f1a-0a39-4faa-aef8-89fc40a47781",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1536,6 +1532,10 @@
                                 -35.317879275158546
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1544,10 +1544,6 @@
                     "start": "9a8a8f1a-0a39-4faa-aef8-89fc40a47781",
                     "end": "153d37bb-49b8-4b47-9af9-274d100069dc",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1582,6 +1578,10 @@
                                 -33.8943652804403
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1590,10 +1590,6 @@
                     "start": "6f77b598-bdd5-45e4-845d-078f6e94dd1a",
                     "end": "153d37bb-49b8-4b47-9af9-274d100069dc",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1672,6 +1668,10 @@
                                 -33.894289593417504
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1680,10 +1680,6 @@
                     "start": "3410f35c-ad55-4842-9a36-da75f351215f",
                     "end": "7bdc7cef-deb8-4771-824b-d5f91f85bdcc",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1762,6 +1758,10 @@
                                 -27.955970214386532
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1770,10 +1770,6 @@
                     "start": "e84e0c9c-4725-4f25-a048-4ca856df17ab",
                     "end": "3613c11d-d4ca-493f-949f-7556dd76bf1c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1804,6 +1800,10 @@
                                 -32.871484887532354
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1812,10 +1812,6 @@
                     "start": "3613c11d-d4ca-493f-949f-7556dd76bf1c",
                     "end": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1874,6 +1870,10 @@
                                 -27.456491158921164
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1882,10 +1882,6 @@
                     "start": "2a374634-55e3-48c0-9a34-a2b3c16c23a4",
                     "end": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -1948,6 +1944,10 @@
                                 -27.456491158921164
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -1956,10 +1956,6 @@
                     "start": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
                     "end": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2046,6 +2042,10 @@
                                 -19.27444113534483
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2054,10 +2054,6 @@
                     "start": "91a00cdf-cb04-4d46-be43-c6416a2d857d",
                     "end": "2c1c503e-ad87-42f5-b5f5-34e5fc72222a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2172,6 +2168,10 @@
                                 -28.78298608863611
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2180,10 +2180,6 @@
                     "start": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
                     "end": "8af7483e-d617-4547-990c-a006cffa3d59",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2254,6 +2250,10 @@
                                 -34.92571343078614
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2262,10 +2262,6 @@
                     "start": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
                     "end": "0503ed55-a53d-4dfd-8da2-85d4d18938e7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2312,6 +2308,10 @@
                                 -31.96671054266635
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2320,10 +2320,6 @@
                     "start": "7bdc7cef-deb8-4771-824b-d5f91f85bdcc",
                     "end": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2342,6 +2338,10 @@
                                 -27.940059851120246
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2350,10 +2350,6 @@
                     "start": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
                     "end": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2384,6 +2380,10 @@
                                 -27.456498969705315
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2392,10 +2392,6 @@
                     "start": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
                     "end": "0572cb5a-9805-441b-a36b-d33835d2b310",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2518,6 +2514,10 @@
                                 -20.733807861031107
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2526,10 +2526,6 @@
                     "start": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
                     "end": "5ec40bdf-2109-401f-9641-ce0bd7d6b05d",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2624,6 +2620,10 @@
                                 -12.460607848291056
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2632,10 +2632,6 @@
                     "start": "e46bd164-0da7-4f7b-9678-f939e55ed11b",
                     "end": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2698,6 +2694,10 @@
                                 -19.45281044030402
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2706,10 +2706,6 @@
                     "start": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
                     "end": "0572cb5a-9805-441b-a36b-d33835d2b310",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2876,6 +2872,10 @@
                                 -20.733807861031107
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2884,10 +2884,6 @@
                     "start": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
                     "end": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -2962,6 +2958,10 @@
                                 -34.20345571021855
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -2970,10 +2970,6 @@
                     "start": "a379aa02-edf1-4e86-a9e8-857e8eec56eb",
                     "end": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -3016,6 +3012,10 @@
                                 -36.80260608846167
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -3024,10 +3024,6 @@
                     "start": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
                     "end": "3410f35c-ad55-4842-9a36-da75f351215f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -3062,6 +3058,10 @@
                                 -34.878879865788186
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -3070,10 +3070,6 @@
                     "start": "0572cb5a-9805-441b-a36b-d33835d2b310",
                     "end": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -3148,6 +3144,10 @@
                                 -19.27438362704894
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 },
                 {
@@ -3156,10 +3156,6 @@
                     "start": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
                     "end": "a18d1f4c-665a-42f8-849a-8f775ef92803",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
-                        "name": "Vocus Group Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
@@ -3246,6 +3242,10 @@
                                 -16.92206333111193
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                        "name": "Vocus Group Limited"
                     }
                 }
             ],
