@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Niamey",
                     "id": "c48d6368-b8c9-465c-8619-d566e491ac0c",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -30,15 +26,15 @@
                             2.11236714499148,
                             13.5295539626888
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Tillabéri",
                     "id": "1762d400-bd90-4763-88c3-0ab0c064aaa5",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -52,15 +48,15 @@
                             1.453550655181755,
                             14.205960529443576
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Mali Border",
                     "id": "3f4dfad6-72fc-40b5-8d20-20540618ec52",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -74,15 +70,15 @@
                             0.759460498614793,
                             14.963227710528319
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Ayorou",
                     "id": "80009623-a40b-4563-bffc-88eb6ea800b9",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -96,15 +92,15 @@
                             0.919261266850412,
                             14.736456776693947
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Makalondi",
                     "id": "ef2b9d3f-da48-471c-859e-30fcfcbb9cc7",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -118,15 +114,15 @@
                             1.686792931464572,
                             12.83644192563856
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Dosso",
                     "id": "ae968539-caec-48ab-8b30-4e58e6e9767d",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -140,15 +136,15 @@
                             3.197486494740494,
                             13.04364773286738
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Burkina Faso Border",
                     "id": "662e7207-3c66-4d09-8075-bdc5cff875b7",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -162,15 +158,15 @@
                             1.633996902400197,
                             12.74062453067346
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Bénin Border",
                     "id": "7666a7f7-397f-4754-ae0c-24170cdb5a33",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -184,15 +180,15 @@
                             3.397971582582404,
                             11.88344928560306
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Gaya",
                     "id": "3dc71cbd-3cbd-45f1-9b37-dbe753febeda",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -206,15 +202,15 @@
                             3.455186553206042,
                             11.888663540621032
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Konni",
                     "id": "6d500304-9e03-43e3-a50d-be1fdfc4c543",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -228,15 +224,15 @@
                             5.252645767947493,
                             13.803977807535187
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Illéla",
                     "id": "eff8366c-2ce5-4242-8aa4-e9293fd5eaf0",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -250,15 +246,15 @@
                             5.250371442455055,
                             14.45851869642013
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Tahoua",
                     "id": "4748a937-1903-4557-9861-7ed957a76647",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -272,15 +268,15 @@
                             5.262914534196092,
                             14.89134647812341
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Badaguichiri",
                     "id": "901c7e3c-9a3b-49d1-ab99-092acd61aa18",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -294,15 +290,15 @@
                             5.374596556355328,
                             14.519983350305667
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Nigeria Border",
                     "id": "c20c2bf3-d8d3-4387-a0a9-ba7eafa6dccb",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -316,15 +312,15 @@
                             5.280482002421953,
                             13.7578711888986
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Abalak",
                     "id": "dda3fce0-5716-4408-ac03-130106731778",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -338,15 +334,15 @@
                             6.281460568536497,
                             15.460767669683635
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Agadez",
                     "id": "5995effa-495c-41e9-aae4-000c33b80254",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -360,15 +356,15 @@
                             7.983984213698641,
                             16.97588721457187
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Arlit",
                     "id": "74932e7b-01ec-4d48-86f4-6f4d4e56078a",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -382,15 +378,15 @@
                             7.385615455544131,
                             18.73402956726985
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Algeria Border",
                     "id": "3dc2914c-5b97-4bcb-971e-c288694add20",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -404,15 +400,15 @@
                             5.786470860849251,
                             19.439994585636832
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Aderbissinat",
                     "id": "dadb66a1-9ce1-46f6-8370-8447ea0c69f3",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -426,15 +422,15 @@
                             7.89816209673605,
                             15.619629718094348
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Tânout",
                     "id": "886ed86d-6e4f-4b6b-8757-64e2c1c6153c",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -448,15 +444,15 @@
                             8.882509316903878,
                             14.972231969230842
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Zinder",
                     "id": "718db1e4-e384-470c-8797-361bf68eefd1",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -470,15 +466,15 @@
                             8.98123929336075,
                             13.81229495940558
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Nigeria Border",
                     "id": "850659a7-b58b-49c5-bbd5-39b25302266d",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -492,15 +488,15 @@
                             8.98431194740483,
                             12.83973886362314
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Gouré",
                     "id": "98e9e07b-c62b-47ea-b12b-eb39539c3159",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -514,15 +510,15 @@
                             10.264327695486179,
                             13.985725118929532
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "N'Guigmi",
                     "id": "eccce718-1145-4aeb-b21a-86aba54f4455",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -536,15 +532,15 @@
                             13.101096099518871,
                             14.262276075544552
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Tchad Border",
                     "id": "f25955de-d240-4895-a2c0-90de38898ab3",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -558,15 +554,15 @@
                             13.47052513133189,
                             14.41848963042451
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Filingué",
                     "id": "b1e5f36f-16cc-4ddd-9a3f-b9268ad5f09f",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -580,15 +576,15 @@
                             3.321152674918815,
                             14.35133879144851
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Maradi",
                     "id": "deb2e4bd-3f29-4dce-96bb-bd8adc186781",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -602,15 +598,15 @@
                             7.106907015147339,
                             13.50876955409701
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Nigeria Border",
                     "id": "46e10b49-b7cb-48ff-abe6-241b286e60d7",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -624,15 +620,15 @@
                             7.2615560927429,
                             13.12633330767052
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "Diffa",
                     "id": "b5ddb733-316e-40fc-8bd1-26d35a11cd9e",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -646,15 +642,15 @@
                             12.597087622874245,
                             13.329871642294618
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "44d058ab-14b3-4f40-a212-495bb69bda6e",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -668,15 +664,15 @@
                             5.347517680175304,
                             13.89628643076943
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "c2661791-59d9-4e56-864b-52de3ea7fcf3",
-                    "physicalInfrastructureProvider": {
-                        "id": "NIGER_TELECOMS",
-                        "name": "Niger Telecoms"
-                    },
                     "networkProviders": [
                         {
                             "id": "NIGER_TELECOMS",
@@ -690,6 +686,10 @@
                             8.996976231275381,
                             13.776764713168031
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "NIGER_TELECOMS",
+                        "name": "Niger Telecoms"
                     }
                 }
             ],

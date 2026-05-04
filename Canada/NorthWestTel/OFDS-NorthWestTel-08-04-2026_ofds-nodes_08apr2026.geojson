@@ -1,1 +1,977 @@
-{"type": "FeatureCollection", "features": [{"id": "0", "type": "Feature", "properties": {"name": "Carcross", "id": "07e3e710-1ad1-4d3d-a845-420b102c2406", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-134.70620144011576, 60.16791986506099]}}, {"id": "1", "type": "Feature", "properties": {"name": "Carmacks", "id": "1ed066be-21a3-4565-8a87-2f8ad3e65644", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-136.2919738058901, 62.08766806959566]}}, {"id": "2", "type": "Feature", "properties": {"name": "Dawson City", "id": "db3bd6a0-6bdf-4e4f-b950-13d9064fd13d", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-139.436879, 64.060255]}}, {"id": "3", "type": "Feature", "properties": {"name": "Dawson Creek", "id": "c3b5d486-fbc4-44d1-9fe3-e20edf765a8a", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-120.246932, 55.764392]}}, {"id": "4", "type": "Feature", "properties": {"name": "Fort Resolution", "id": "bfd4c46d-5d97-42a4-b370-65f186d9ee44", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-113.67373, 61.171388]}}, {"id": "5", "type": "Feature", "properties": {"name": "Fort Smith", "id": "e77c44cc-3627-4988-845e-6bcd4b05218f", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-111.906402, 60.009944]}}, {"id": "6", "type": "Feature", "properties": {"name": "Haines Junction", "id": "5cfe9c92-10fa-4674-a40a-ea74b36f61f6", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-137.510492, 60.753065]}}, {"id": "7", "type": "Feature", "properties": {"name": "High Level", "id": "fd6b7178-adcd-4b52-a612-d6565d91c3e5", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-117.115636, 58.524136]}}, {"id": "8", "type": "Feature", "properties": {"name": "Marsh Lake", "id": "4413d971-f940-410a-8770-65d7d741d633", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-134.33021, 60.515647]}}, {"id": "9", "type": "Feature", "properties": {"name": "Pelly Crossing", "id": "922cc56d-463f-4365-bd20-f291204223db", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-136.569347, 62.818611]}}, {"id": "10", "type": "Feature", "properties": {"name": "Stewart Crossing", "id": "5a8a13bd-7018-4b59-ab14-ea912a7f466e", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-136.678592, 63.374774]}}, {"id": "11", "type": "Feature", "properties": {"name": "Swift River", "id": "570e5254-9f63-4605-9e70-498cb558ac7a", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-131.05745449441557, 60.03057538035059]}}, {"id": "12", "type": "Feature", "properties": {"name": "Tagish", "id": "75967388-6d90-46b9-970d-30e1463d2f96", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-134.2723059584305, 60.31317065594058]}}, {"id": "13", "type": "Feature", "properties": {"name": "Teslin", "id": "120035bc-34aa-4390-9aeb-0cda7fadf53a", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-132.72468901093882, 60.1659714846186]}}, {"id": "14", "type": "Feature", "properties": {"name": "Toad River", "id": "e12eba66-4098-4a66-9c28-36a4673b624b", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-125.233594, 58.84762700000001]}}, {"id": "15", "type": "Feature", "properties": {"name": "Upper Liard", "id": "81a20039-e224-4284-94b9-90b5dcad1d75", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-128.90066797262403, 60.049918840188084]}}, {"id": "16", "type": "Feature", "properties": {"name": "Watson Lake", "id": "fb3fd8a8-121a-4089-a1d6-d5c8b7f2b185", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-128.7162301016737, 60.062955080980515]}}, {"id": "17", "type": "Feature", "properties": {"name": "Whitehorse", "id": "c9451109-3b16-48b5-9469-4e3e4c154fe6", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-135.057466, 60.720521]}}, {"id": "18", "type": "Feature", "properties": {"name": "Yellowknife", "id": "84635f2a-4317-47e0-a061-76ee162263d2", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-114.371288, 62.45489300000001]}}, {"id": "19", "type": "Feature", "properties": {"name": "Fort Nelson", "id": "1dab5a51-a67a-4590-a427-e4c625c03ef1", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-122.68163138018717, 58.80257791832702]}}, {"id": "21", "type": "Feature", "properties": {"name": "fork", "id": "62180cef-ffa2-412f-b686-21633c66885d", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-135.20518568650218, 60.81044602031931]}}, {"id": "23", "type": "Feature", "properties": {"name": "fork", "id": "a3f71b79-43d4-4be4-924f-dda4bf89b0d0", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-134.87754761633076, 60.59948798921358]}}, {"id": "26", "type": "Feature", "properties": {"name": "fork", "id": "ceab33f2-2c70-4712-afd5-de85ef11769b", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-133.98496242400324, 60.33967554645755]}}, {"id": "29", "type": "Feature", "properties": {"name": "fork", "id": "191a1c80-c98e-45c6-b7ed-8f81f8b5a3b7", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-122.7425319686124, 58.804245143895706]}}, {"id": "30", "type": "Feature", "properties": {"name": "fork", "id": "2d995c0a-6314-408f-bda6-302e10b3572c", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-116.139613, 60.558469]}}, {"id": "31", "type": "Feature", "properties": {"name": "fork", "id": "2679448a-734e-42fc-a1df-9688f9239e22", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-114.82121537263035, 60.74034774731152]}}, {"id": "32", "type": "Feature", "properties": {"name": "fork", "id": "7dc220c7-3714-43f4-a0eb-0ee9dd3c8840", "network": {"id": "946c104a-e2ef-430c-88f6-e64916b96c83", "name": "NorthWestTel", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "5c38619c-0295-4a8e-8f63-9032e5259096", "name": "NorthWestTel"}, "networkProviders": [{"id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2", "name": "NorthWestTel"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-117.50106146327117, 61.07364430519396]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.70620144011576,
+                    60.16791986506099
+                ]
+            },
+            "properties": {
+                "name": "Carcross",
+                "id": "07e3e710-1ad1-4d3d-a845-420b102c2406",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -136.2919738058901,
+                    62.08766806959566
+                ]
+            },
+            "properties": {
+                "name": "Carmacks",
+                "id": "1ed066be-21a3-4565-8a87-2f8ad3e65644",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139.436879,
+                    64.060255
+                ]
+            },
+            "properties": {
+                "name": "Dawson City",
+                "id": "db3bd6a0-6bdf-4e4f-b950-13d9064fd13d",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.246932,
+                    55.764392
+                ]
+            },
+            "properties": {
+                "name": "Dawson Creek",
+                "id": "c3b5d486-fbc4-44d1-9fe3-e20edf765a8a",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.67373,
+                    61.171388
+                ]
+            },
+            "properties": {
+                "name": "Fort Resolution",
+                "id": "bfd4c46d-5d97-42a4-b370-65f186d9ee44",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.906402,
+                    60.009944
+                ]
+            },
+            "properties": {
+                "name": "Fort Smith",
+                "id": "e77c44cc-3627-4988-845e-6bcd4b05218f",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -137.510492,
+                    60.753065
+                ]
+            },
+            "properties": {
+                "name": "Haines Junction",
+                "id": "5cfe9c92-10fa-4674-a40a-ea74b36f61f6",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.115636,
+                    58.524136
+                ]
+            },
+            "properties": {
+                "name": "High Level",
+                "id": "fd6b7178-adcd-4b52-a612-d6565d91c3e5",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.33021,
+                    60.515647
+                ]
+            },
+            "properties": {
+                "name": "Marsh Lake",
+                "id": "4413d971-f940-410a-8770-65d7d741d633",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -136.569347,
+                    62.818611
+                ]
+            },
+            "properties": {
+                "name": "Pelly Crossing",
+                "id": "922cc56d-463f-4365-bd20-f291204223db",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -136.678592,
+                    63.374774
+                ]
+            },
+            "properties": {
+                "name": "Stewart Crossing",
+                "id": "5a8a13bd-7018-4b59-ab14-ea912a7f466e",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -131.05745449441557,
+                    60.03057538035059
+                ]
+            },
+            "properties": {
+                "name": "Swift River",
+                "id": "570e5254-9f63-4605-9e70-498cb558ac7a",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.2723059584305,
+                    60.31317065594058
+                ]
+            },
+            "properties": {
+                "name": "Tagish",
+                "id": "75967388-6d90-46b9-970d-30e1463d2f96",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -132.72468901093882,
+                    60.1659714846186
+                ]
+            },
+            "properties": {
+                "name": "Teslin",
+                "id": "120035bc-34aa-4390-9aeb-0cda7fadf53a",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.233594,
+                    58.84762700000001
+                ]
+            },
+            "properties": {
+                "name": "Toad River",
+                "id": "e12eba66-4098-4a66-9c28-36a4673b624b",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.90066797262403,
+                    60.049918840188084
+                ]
+            },
+            "properties": {
+                "name": "Upper Liard",
+                "id": "81a20039-e224-4284-94b9-90b5dcad1d75",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.7162301016737,
+                    60.062955080980515
+                ]
+            },
+            "properties": {
+                "name": "Watson Lake",
+                "id": "fb3fd8a8-121a-4089-a1d6-d5c8b7f2b185",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.057466,
+                    60.720521
+                ]
+            },
+            "properties": {
+                "name": "Whitehorse",
+                "id": "c9451109-3b16-48b5-9469-4e3e4c154fe6",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.371288,
+                    62.45489300000001
+                ]
+            },
+            "properties": {
+                "name": "Yellowknife",
+                "id": "84635f2a-4317-47e0-a061-76ee162263d2",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68163138018717,
+                    58.80257791832702
+                ]
+            },
+            "properties": {
+                "name": "Fort Nelson",
+                "id": "1dab5a51-a67a-4590-a427-e4c625c03ef1",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.20518568650218,
+                    60.81044602031931
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "62180cef-ffa2-412f-b686-21633c66885d",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.87754761633076,
+                    60.59948798921358
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "a3f71b79-43d4-4be4-924f-dda4bf89b0d0",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -133.98496242400324,
+                    60.33967554645755
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "ceab33f2-2c70-4712-afd5-de85ef11769b",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7425319686124,
+                    58.804245143895706
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "191a1c80-c98e-45c6-b7ed-8f81f8b5a3b7",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.139613,
+                    60.558469
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "2d995c0a-6314-408f-bda6-302e10b3572c",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.82121537263035,
+                    60.74034774731152
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "2679448a-734e-42fc-a1df-9688f9239e22",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.50106146327117,
+                    61.07364430519396
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "7dc220c7-3714-43f4-a0eb-0ee9dd3c8840",
+                "networkProviders": [
+                    {
+                        "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
+                        "name": "NorthWestTel"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                    "name": "NorthWestTel"
+                },
+                "network": {
+                    "id": "946c104a-e2ef-430c-88f6-e64916b96c83",
+                    "name": "NorthWestTel",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Fort Good Hope",
                     "id": "a7d8f447-79ab-4c95-aca0-cc265126e6a2",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -30,15 +26,15 @@
                             -128.6404056423802,
                             66.26228246669405
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
                     "name": "Inuvik",
                     "id": "2aa9cefb-a084-4dd3-94b4-2ca26b8fb5b6",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -52,15 +48,15 @@
                             -133.7151561120257,
                             68.35993955581883
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
                     "name": "Fort Simpson",
                     "id": "17db81fa-30a5-4653-9228-33c97d79bc5b",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -74,15 +70,15 @@
                             -121.34543960320568,
                             61.87760982476631
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
                     "name": "Wrigley",
                     "id": "47dc9446-c878-4595-8a6c-fa7e35afdd3d",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -96,15 +92,15 @@
                             -123.48440122886058,
                             63.18469530938402
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
                     "name": "McGill Lake",
                     "id": "0adc51b7-4907-4760-98be-c395f95000cc",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -118,15 +114,15 @@
                             -121.1158050156832,
                             61.41569607882347
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
                     "name": "Norman Wells",
                     "id": "1494c70e-92cc-4d35-991a-b25ae6056f66",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -140,15 +136,15 @@
                             -126.829879269562,
                             65.27644815830241
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
                     "name": "Tulita",
                     "id": "d3d37528-1815-4218-a341-65523e1f2d88",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -162,6 +158,10 @@
                             -125.57463773295484,
                             64.90754788324087
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 }
             ],
@@ -172,10 +172,6 @@
                     "start": "0adc51b7-4907-4760-98be-c395f95000cc",
                     "end": "17db81fa-30a5-4653-9228-33c97d79bc5b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -242,6 +238,10 @@
                                 61.877564236770645
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
@@ -250,10 +250,6 @@
                     "start": "17db81fa-30a5-4653-9228-33c97d79bc5b",
                     "end": "47dc9446-c878-4595-8a6c-fa7e35afdd3d",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -348,6 +344,10 @@
                                 63.184632608951645
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
@@ -356,10 +356,6 @@
                     "start": "47dc9446-c878-4595-8a6c-fa7e35afdd3d",
                     "end": "d3d37528-1815-4218-a341-65523e1f2d88",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -442,6 +438,10 @@
                                 64.90754064580604
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
@@ -450,10 +450,6 @@
                     "start": "d3d37528-1815-4218-a341-65523e1f2d88",
                     "end": "1494c70e-92cc-4d35-991a-b25ae6056f66",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -504,6 +500,10 @@
                                 65.27643749212204
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
@@ -512,10 +512,6 @@
                     "start": "1494c70e-92cc-4d35-991a-b25ae6056f66",
                     "end": "a7d8f447-79ab-4c95-aca0-cc265126e6a2",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -606,6 +602,10 @@
                                 66.26225493141733
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 },
                 {
@@ -614,10 +614,6 @@
                     "start": "a7d8f447-79ab-4c95-aca0-cc265126e6a2",
                     "end": "2aa9cefb-a084-4dd3-94b4-2ca26b8fb5b6",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
-                        "name": "Mackenzie Valley Fibre Link"
-                    },
                     "networkProviders": [
                         {
                             "id": "e8914b2f-b557-46ee-92aa-f28de4e0e952",
@@ -756,6 +752,10 @@
                                 68.35992425179876
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "96d63f3c-dcf8-44cd-bd2d-940bbf19e84b",
+                        "name": "Mackenzie Valley Fibre Link"
                     }
                 }
             ],

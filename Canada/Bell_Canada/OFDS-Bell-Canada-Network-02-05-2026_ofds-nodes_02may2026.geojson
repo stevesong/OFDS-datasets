@@ -1,0 +1,2669 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.67017957993575,
+                    52.157701500889324
+                ]
+            },
+            "properties": {
+                "name": "Saskatoon",
+                "id": "d7f4f4a0-655c-47f0-9634-4c0093976c85",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13853,
+                    49.89542
+                ]
+            },
+            "properties": {
+                "name": "Winnipeg",
+                "id": "be3847d5-fff5-472a-ae6f-7795e60c0661",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.61889492446325,
+                    50.44552994253482
+                ]
+            },
+            "properties": {
+                "name": "Regina",
+                "id": "d26c3612-8216-4ec2-ba1e-058a09b648cc",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.49373593341244,
+                    53.54617123530939
+                ]
+            },
+            "properties": {
+                "name": "Edmonton",
+                "id": "4d8f0e96-7341-49e8-977d-41650a7a8c9e",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.82094284013534,
+                    52.26758197362986
+                ]
+            },
+            "properties": {
+                "name": "Red Deer",
+                "id": "fc96c9c3-ed8d-46e5-846f-3b51a60248f7",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0718924432463,
+                    51.04469053632236
+                ]
+            },
+            "properties": {
+                "name": "Calgary",
+                "id": "d94ffef4-e364-4739-9f7b-fcfacfc1662c",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -140.87538,
+                    62.38376
+                ]
+            },
+            "properties": {
+                "name": "Beaver Creek",
+                "id": "edd7e228-9038-4531-9875-a94792b15685",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.05558891469667,
+                    60.7185197480226
+                ]
+            },
+            "properties": {
+                "name": "Whitehorse",
+                "id": "21984758-c450-4be3-bc02-95aad2876c60",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69726,
+                    58.80501
+                ]
+            },
+            "properties": {
+                "name": "Fort Nelson",
+                "id": "10e15fe7-ea9a-4651-bd43-ad5553872308",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.84745,
+                    56.25198999999999
+                ]
+            },
+            "properties": {
+                "name": "Fort St. John",
+                "id": "c22bd23a-eee6-4bac-aa85-e78f5d791f38",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.23742595495533,
+                    55.76184423806425
+                ]
+            },
+            "properties": {
+                "name": "Dawson Creek",
+                "id": "cb3fefec-6e28-44ad-8ad7-8538e71c6217",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74967,
+                    53.91706
+                ]
+            },
+            "properties": {
+                "name": "Prince George",
+                "id": "0594a379-3102-48ce-8f8f-f4d50738f2ac",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.32727,
+                    50.67449
+                ]
+            },
+            "properties": {
+                "name": "Kamloops",
+                "id": "8f1030d0-b433-4f8d-8713-2a1ea8a2af29",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.94004,
+                    49.16593000000001
+                ]
+            },
+            "properties": {
+                "name": "Nanaimo",
+                "id": "2ab70f77-b4f1-4548-8a73-3b585f6f75f0",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.12088298160037,
+                    49.28284854805083
+                ]
+            },
+            "properties": {
+                "name": "Vancouver",
+                "id": "518461fa-5115-46f2-bc40-4f3b6eabd1d5",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.36588381982251,
+                    48.42832584610069
+                ]
+            },
+            "properties": {
+                "name": "Victoria",
+                "id": "242b6e5b-8461-4648-8bdb-0505538c9710",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.49659150189537,
+                    49.886320575697596
+                ]
+            },
+            "properties": {
+                "name": "Kelowna",
+                "id": "8c87df58-9809-413f-bb0a-e88cf2f29c91",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.27361839933181,
+                    50.26780803232013
+                ]
+            },
+            "properties": {
+                "name": "Vernon",
+                "id": "ae0f8644-4e3f-40fc-a8ea-56a76bdabbf2",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.37175,
+                    62.45399
+                ]
+            },
+            "properties": {
+                "name": "Yellowknife",
+                "id": "588e02df-f2bc-4efe-aaae-7aeca30820c7",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.79013,
+                    60.81091
+                ]
+            },
+            "properties": {
+                "name": "Hay River",
+                "id": "b7911578-9eeb-40a9-a435-2c9be4659498",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.14038,
+                    58.50701000000001
+                ]
+            },
+            "properties": {
+                "name": "High Level",
+                "id": "3d67bc92-5eac-49ab-a166-e4d40b8629de",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.37905,
+                    56.72663
+                ]
+            },
+            "properties": {
+                "name": "Fort McMurray",
+                "id": "9fb5d3c0-605a-46c9-a292-322236c65ff0",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.70368820626445,
+                    50.02846893763107
+                ]
+            },
+            "properties": {
+                "name": "Medicine Hat",
+                "id": "9746f756-fee7-4683-9853-f8aa8f6fdad5",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.84514,
+                    49.69562000000001
+                ]
+            },
+            "properties": {
+                "name": "Lethbridge",
+                "id": "e3792dda-c941-4532-b765-fe09331ca8c2",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.24768228868419,
+                    48.380878155319536
+                ]
+            },
+            "properties": {
+                "name": "Thunder Bay",
+                "id": "0b2c1be8-5d76-457d-9c31-b75517f4a727",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.99301,
+                    46.49173
+                ]
+            },
+            "properties": {
+                "name": "Sudbury",
+                "id": "518099c1-6af4-4bf4-b3a8-0272f9d5d639",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.33575,
+                    46.51364999999999
+                ]
+            },
+            "properties": {
+                "name": "Sault Ste. Marie",
+                "id": "0ece6a4a-17a9-49bb-9399-6d5b336994d2",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.31396,
+                    48.47689999999999
+                ]
+            },
+            "properties": {
+                "name": "Timmins",
+                "id": "cdb5d843-d957-4c06-a564-c4a47ba408aa",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.69443140016652,
+                    47.499646368183505
+                ]
+            },
+            "properties": {
+                "name": "New Liskeard",
+                "id": "77183e78-dbbd-4569-b658-1453d14a899c",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.46607,
+                    46.31616000000001
+                ]
+            },
+            "properties": {
+                "name": "North Bay",
+                "id": "f04a8447-c9b7-4a12-8561-b45d665e8a0a",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38848,
+                    43.65481
+                ]
+            },
+            "properties": {
+                "name": "Toronto",
+                "id": "15e61e0e-56e1-4bf3-8609-6cff9d7b5080",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.23305,
+                    42.9827
+                ]
+            },
+            "properties": {
+                "name": "London",
+                "id": "c6c2d585-c31e-4030-aa3c-ce3d32bd4721",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.01876966954539,
+                    48.23429701986137
+                ]
+            },
+            "properties": {
+                "name": "Rouyn-Noranda",
+                "id": "a4212cee-0889-4970-bcd6-aead3cfa390f",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70035,
+                    45.42005
+                ]
+            },
+            "properties": {
+                "name": "Ottawa",
+                "id": "e6ba6241-51dd-4285-b2b6-405aad893794",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.56742,
+                    45.50187
+                ]
+            },
+            "properties": {
+                "name": "Montreal",
+                "id": "11b30e3c-6fac-429e-82ca-60ecdddc3d0b",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.36939403285382,
+                    49.91341053141534
+                ]
+            },
+            "properties": {
+                "name": "Chibougamau",
+                "id": "55e4473f-32c9-479c-a2d7-47a25fe2d107",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0510522367855,
+                    48.4120200555191
+                ]
+            },
+            "properties": {
+                "name": "Chicoutimi",
+                "id": "69a6d2de-0f35-4867-81bf-2f584077d7bb",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.15039042261995,
+                    49.221261674507836
+                ]
+            },
+            "properties": {
+                "name": "Baie-Comeau",
+                "id": "23a56e7b-b6c2-4b82-9cca-7a9ae5c9aa29",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.37579,
+                    50.2133
+                ]
+            },
+            "properties": {
+                "name": "Sept-Iles",
+                "id": "65a37658-d076-4737-94b5-33d8dce35b78",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.79675664458827,
+                    48.0968968459611
+                ]
+            },
+            "properties": {
+                "name": "Val-d'Or",
+                "id": "a3616123-fe98-45d7-ac8b-6fdd427c20b9",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5029686543608,
+                    46.541310276196455
+                ]
+            },
+            "properties": {
+                "name": "Mont-Laurier",
+                "id": "d82f628a-8ad0-4ee9-8750-d268489ff046",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.89429,
+                    45.40517000000001
+                ]
+            },
+            "properties": {
+                "name": "Sherbrooke",
+                "id": "c42f367c-f342-4a93-9609-da3ae1244c16",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.54033,
+                    48.43273
+                ]
+            },
+            "properties": {
+                "name": "Rimouski",
+                "id": "49ef430a-ca0b-454f-a37f-08913be3cd79",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.91536,
+                    52.93842
+                ]
+            },
+            "properties": {
+                "name": "Labrador City",
+                "id": "71675f62-81ca-4536-930f-a738c43e0ae6",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.37626,
+                    53.30861
+                ]
+            },
+            "properties": {
+                "name": "Happy Valley-Goose Bay",
+                "id": "cb6ccb88-287d-49a8-aba6-03f4d552dc2b",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20745,
+                    46.81308
+                ]
+            },
+            "properties": {
+                "name": "Québec City",
+                "id": "d045fba0-b6b7-400e-9183-750900a6a3af",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.48684,
+                    48.83165
+                ]
+            },
+            "properties": {
+                "name": "Gaspé",
+                "id": "adc65799-843b-4fdb-adcc-7bc997de27b6",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.64277,
+                    45.96344
+                ]
+            },
+            "properties": {
+                "name": "Fredericton",
+                "id": "1f91b72f-0150-45de-99da-5dae66db36e7",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.0636047774051,
+                    45.27315171351534
+                ]
+            },
+            "properties": {
+                "name": "Saint John",
+                "id": "24c36cc3-0580-42f2-ab9f-74ae68eb076d",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.77821480906616,
+                    46.0878292117615
+                ]
+            },
+            "properties": {
+                "name": "Moncton",
+                "id": "40c3966a-10dd-4fa2-b9b0-656c8ca25682",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.308145170067014,
+                    45.35110251466286
+                ]
+            },
+            "properties": {
+                "name": "Truro",
+                "id": "69b896fc-06c5-478d-8a30-fe5f619d17ab",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.94604,
+                    48.95233000000001
+                ]
+            },
+            "properties": {
+                "name": "Corner Brook",
+                "id": "0a345493-3096-4cd6-9582-8e72e4e7e196",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.74525,
+                    47.55561
+                ]
+            },
+            "properties": {
+                "name": "St. John's",
+                "id": "5fbf4d77-214f-4395-aff4-3a6d7ff07f3d",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.19427,
+                    46.13677999999999
+                ]
+            },
+            "properties": {
+                "name": "Sydney",
+                "id": "f4f94f73-30b2-4773-9721-2961b6bed961",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.59233,
+                    44.65086
+                ]
+            },
+            "properties": {
+                "name": "Halifax",
+                "id": "593a7ae7-7e0e-426f-b392-45ec843f03d9",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.03990235519868,
+                    42.32628483252991
+                ]
+            },
+            "properties": {
+                "name": "Detroit",
+                "id": "d4f7161b-aaf1-4a89-81dd-ff766549bb73",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63239,
+                    41.88323
+                ]
+            },
+            "properties": {
+                "name": "Chicago",
+                "id": "22ca51b7-e514-42ee-bb48-e852b7f8bb9e",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.26996803059092,
+                    44.97137415911023
+                ]
+            },
+            "properties": {
+                "name": "Minneappolis",
+                "id": "2d293b49-9d10-47c6-aeb5-d8bebf997e64",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.85481190943713,
+                    42.88042025622477
+                ]
+            },
+            "properties": {
+                "name": "Buffalo",
+                "id": "b1efb873-70f7-4c2b-8f89-04078cad0ab2",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.67508054819153,
+                    41.51178027379818
+                ]
+            },
+            "properties": {
+                "name": "Cleveland",
+                "id": "ac2f5473-1687-47b9-855e-07b318c414c0",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92942290033432,
+                    40.8041324007225
+                ]
+            },
+            "properties": {
+                "name": "New York",
+                "id": "8071d075-db33-4c4e-bbd7-3d46cdd31cd8",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05494659279422,
+                    42.35447301553362
+                ]
+            },
+            "properties": {
+                "name": "Boston",
+                "id": "8719c8c3-2bd2-408d-bbe1-86e379b207f0",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75434,
+                    42.65203
+                ]
+            },
+            "properties": {
+                "name": "Albany",
+                "id": "e3f43bfd-a6bb-4c4f-b31b-7253ba9740e3",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.59387,
+                    49.4991
+                ]
+            },
+            "properties": {
+                "name": "Penticton",
+                "id": "523522d0-3da4-41f7-a7b8-c63484001be2",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33284,
+                    47.60613
+                ]
+            },
+            "properties": {
+                "name": "Seattle",
+                "id": "281a765e-1e6c-4efa-a1b7-354bd225dd8a",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.47964551027489,
+                    61.12849420389825
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "764c55ff-600d-4f31-b747-dbb2c634ca65",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.17315,
+                    54.46425
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "00f6595f-5240-4784-a00d-737817ec3025",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.093820105738,
+                    46.81420021731673
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "b5e44ab0-bdb6-4da6-a0f0-6cf244403b3e",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.39905,
+                    48.09962
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "d926a490-3386-4c89-8ca8-4424c21c172b",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.13115,
+                    46.23832999999999
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "0fcf3a32-a711-4928-a23c-dd06fc07b3ec",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.53705717684775,
+                    47.812677790137066
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "5d183fcd-6470-4162-a229-3b516bbdd3d3",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.95689,
+                    42.46979
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "0f33396c-4f08-414b-86e5-03d8fb097b3e",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00622,
+                    40.71248
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "3fa44c95-10c2-435f-b6f6-38d4cbb76c08",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.89445,
+                    43.26035
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "ae983c72-e539-4780-8543-25fdb6166c5c",
+                "networkProviders": [
+                    {
+                        "id": "d798eb48-13f1-4b01-93bd-2d8a8dcb5eef",
+                        "name": "Bell Canada"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "9aed253a-75b5-4701-baf3-9316a953afed",
+                    "name": "Bell Canada"
+                },
+                "network": {
+                    "id": "0ba52d2e-caab-4f32-92ce-84fff3ca3c3b",
+                    "name": "Bell Canada Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

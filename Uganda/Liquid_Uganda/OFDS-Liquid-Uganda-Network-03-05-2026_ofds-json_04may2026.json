@@ -1,0 +1,774 @@
+{
+    "networks": [
+        {
+            "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+            "name": "Liquid Uganda Network",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Kampala",
+                    "id": "4410613c-20bf-446a-b692-f9cd6a234ba8",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.5703403212071,
+                            0.330581929673162
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "Karuma",
+                    "id": "76230d0a-8c63-4003-9608-8b9e47f3070c",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.25383041389608,
+                            2.236907442602469
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "Masaka",
+                    "id": "859c0fbf-3e64-447d-b3d9-c233379fc338",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.74526903616238,
+                            -0.3245867344493615
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "Masindi",
+                    "id": "bbfb78d9-b2d4-4555-b2e6-2d8583f1faf5",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.721221032726927,
+                            1.6838171478443982
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "Mbale",
+                    "id": "5d7c2a25-bf48-4cc9-b43b-84e58f8629da",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.1814486405025,
+                            1.0780962181075393
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "Mbarara",
+                    "id": "31a04081-0220-4934-8d29-fd5a0ce48af9",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.632163476096945,
+                            -0.5883172678337367
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "Nimule",
+                    "id": "6f36d23e-177c-4551-b64f-dd2db06c316e",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.06312599748997,
+                            3.5874543003190795
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "Tororo",
+                    "id": "c72b27bb-84f0-468f-a21b-51a1ef21e5fa",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.190967894627185,
+                            0.6887443027806713
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "d058ef89-d355-430e-8f58-d194f12209db",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.0138547942401,
+                            -1.43475842156401
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "4d74ba9c-ced5-4c45-b54e-215fbc5847c2",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.57458494543321,
+                            4.85914093840235
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "7c24ed76-3af4-4873-8599-b54df5d5bfd9",
+                    "name": "default-node - Mbarara",
+                    "start": "d058ef89-d355-430e-8f58-d194f12209db",
+                    "end": "31a04081-0220-4934-8d29-fd5a0ce48af9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.0138547942401,
+                                -1.43475842156401
+                            ],
+                            [
+                                30.0044752683714,
+                                -1.27964507470189
+                            ],
+                            [
+                                30.1253004620859,
+                                -1.22197560995713
+                            ],
+                            [
+                                30.1747304366868,
+                                -1.11560794397759
+                            ],
+                            [
+                                30.2245215436586,
+                                -0.950326536024556
+                            ],
+                            [
+                                30.2799502796053,
+                                -0.837049850742389
+                            ],
+                            [
+                                30.3432757651402,
+                                -0.718544192685473
+                            ],
+                            [
+                                30.5770361070373,
+                                -0.621024930125847
+                            ],
+                            [
+                                30.63207757677799,
+                                -0.5883682328255976
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "id": "9169c9c3-350a-4a26-80ee-009d67cb904e",
+                    "name": "Mbarara - Masaka",
+                    "start": "31a04081-0220-4934-8d29-fd5a0ce48af9",
+                    "end": "859c0fbf-3e64-447d-b3d9-c233379fc338",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.6322493754159,
+                                -0.5882663028418745
+                            ],
+                            [
+                                30.666869505351,
+                                -0.56772580657402
+                            ],
+                            [
+                                30.8270820961469,
+                                -0.501825874202964
+                            ],
+                            [
+                                30.9938441285802,
+                                -0.472557978004618
+                            ],
+                            [
+                                31.2483177106617,
+                                -0.375456972351356
+                            ],
+                            [
+                                31.497137393255,
+                                -0.3606719500436369
+                            ],
+                            [
+                                31.7427903875273,
+                                -0.32757333320848
+                            ],
+                            [
+                                31.74520518898682,
+                                -0.3246636658435935
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "id": "3b8aa493-8015-4ec1-884f-19d0d8cfbbcd",
+                    "name": "Masindi - Karuma",
+                    "start": "bbfb78d9-b2d4-4555-b2e6-2d8583f1faf5",
+                    "end": "76230d0a-8c63-4003-9608-8b9e47f3070c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.721130606227156,
+                                1.6838595633325844
+                            ],
+                            [
+                                31.7164375366916,
+                                1.68606089630413
+                            ],
+                            [
+                                31.8306932464868,
+                                1.78334413395511
+                            ],
+                            [
+                                31.9977448989751,
+                                1.82066273410678
+                            ],
+                            [
+                                32.1599439339291,
+                                1.97638068404115
+                            ],
+                            [
+                                32.2445874625607,
+                                2.23371418275262
+                            ],
+                            [
+                                32.25373600380595,
+                                2.2368748257532265
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "id": "d456c9e9-76f5-4c3f-83a5-2b88973dc8d9",
+                    "name": "Karuma - Nimule",
+                    "start": "76230d0a-8c63-4003-9608-8b9e47f3070c",
+                    "end": "6f36d23e-177c-4551-b64f-dd2db06c316e",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.25392482398622,
+                                2.2369400594517104
+                            ],
+                            [
+                                32.3577839844964,
+                                2.2728213786605
+                            ],
+                            [
+                                32.3871421899675,
+                                2.35463153495725
+                            ],
+                            [
+                                32.2956167684058,
+                                2.78235405406538
+                            ],
+                            [
+                                32.2052840329752,
+                                2.8021523547285
+                            ],
+                            [
+                                32.1426644495599,
+                                2.9625085973138
+                            ],
+                            [
+                                32.1648554070578,
+                                3.05609831268924
+                            ],
+                            [
+                                32.0731758836477,
+                                3.383107016354809
+                            ],
+                            [
+                                32.0753389150788,
+                                3.5675057490283
+                            ],
+                            [
+                                32.06317815078777,
+                                3.5873691132432968
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "id": "530a51fa-48a3-42bd-8365-0e8f4faf5d1c",
+                    "name": "Nimule - default-node",
+                    "start": "6f36d23e-177c-4551-b64f-dd2db06c316e",
+                    "end": "4d74ba9c-ced5-4c45-b54e-215fbc5847c2",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.06307384419217,
+                                3.587539487394864
+                            ],
+                            [
+                                31.9818751084799,
+                                3.72016931415992
+                            ],
+                            [
+                                31.9844994485737,
+                                3.78736399244969
+                            ],
+                            [
+                                31.9227437040507,
+                                3.92469509588926
+                            ],
+                            [
+                                31.9453113710189,
+                                3.98163140891051
+                            ],
+                            [
+                                31.9533545977877,
+                                4.06134790901376
+                            ],
+                            [
+                                31.9940122586439,
+                                4.17184715836741
+                            ],
+                            [
+                                32.0139748251408,
+                                4.32744498123177
+                            ],
+                            [
+                                31.8915672765052,
+                                4.41279891415026
+                            ],
+                            [
+                                31.8664851118604,
+                                4.45821103072709
+                            ],
+                            [
+                                31.8296498554767,
+                                4.55638499474028
+                            ],
+                            [
+                                31.7305794225926,
+                                4.66996201470881
+                            ],
+                            [
+                                31.57458494543321,
+                                4.85914093840235
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "id": "e6093a1c-e849-4aae-9c44-4c7fceeab109",
+                    "name": "Kampala - Tororo",
+                    "start": "4410613c-20bf-446a-b692-f9cd6a234ba8",
+                    "end": "c72b27bb-84f0-468f-a21b-51a1ef21e5fa",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.57031459438228,
+                                0.3306784507252298
+                            ],
+                            [
+                                32.5698202479846,
+                                0.332533123220784
+                            ],
+                            [
+                                32.5824420834142,
+                                0.338658736864282
+                            ],
+                            [
+                                32.7534947158997,
+                                0.365765815548156
+                            ],
+                            [
+                                32.999559427043,
+                                0.394317084052142
+                            ],
+                            [
+                                33.1808425876242,
+                                0.443855257019874
+                            ],
+                            [
+                                33.3762448669563,
+                                0.530342683165306
+                            ],
+                            [
+                                33.4866207143828,
+                                0.597812513969621
+                            ],
+                            [
+                                33.6141810736871,
+                                0.623271255472608
+                            ],
+                            [
+                                33.7414858375342,
+                                0.584086258923815
+                            ],
+                            [
+                                33.7935511431594,
+                                0.528692035418484
+                            ],
+                            [
+                                33.9606598829694,
+                                0.528684073143209
+                            ],
+                            [
+                                34.1067914454231,
+                                0.459364020408332
+                            ],
+                            [
+                                33.9676385281856,
+                                0.527988384469082
+                            ],
+                            [
+                                34.1921157108906,
+                                0.677572985669651
+                            ],
+                            [
+                                34.19097811346704,
+                                0.6886448461827749
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "id": "2c6274a0-84eb-4357-ba3a-ceec7403141b",
+                    "name": "Tororo - Mbale",
+                    "start": "c72b27bb-84f0-468f-a21b-51a1ef21e5fa",
+                    "end": "5d7c2a25-bf48-4cc9-b43b-84e58f8629da",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                34.190957675787324,
+                                0.6888437593785675
+                            ],
+                            [
+                                34.1697483919186,
+                                0.8952667238786759
+                            ],
+                            [
+                                34.18144226101784,
+                                1.0779965315115236
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "id": "9beaa62c-f7e1-4d50-9bc4-58830cccb2e4",
+                    "name": "Masaka - Kampala",
+                    "start": "859c0fbf-3e64-447d-b3d9-c233379fc338",
+                    "end": "4410613c-20bf-446a-b692-f9cd6a234ba8",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.745332883337944,
+                                -0.32450980305513005
+                            ],
+                            [
+                                31.8186048646282,
+                                -0.23622217515077
+                            ],
+                            [
+                                31.9371217146931,
+                                -0.10279456522676
+                            ],
+                            [
+                                32.1151803765303,
+                                0.056545899621365
+                            ],
+                            [
+                                32.3377208662266,
+                                0.219890936790937
+                            ],
+                            [
+                                32.5703403212071,
+                                0.330581929673162
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                },
+                {
+                    "id": "80913a0b-0925-4a53-87e6-ac96173cb3f3",
+                    "name": "Kampala - Masindi",
+                    "start": "4410613c-20bf-446a-b692-f9cd6a234ba8",
+                    "end": "bbfb78d9-b2d4-4555-b2e6-2d8583f1faf5",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                            "name": "Liquid Uganda"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.5703403212071,
+                                0.330581929673162
+                            ],
+                            [
+                                32.5698202479846,
+                                0.332533123220784
+                            ],
+                            [
+                                32.5374749803285,
+                                0.453885030630628
+                            ],
+                            [
+                                32.539172170743,
+                                0.47026033411501
+                            ],
+                            [
+                                32.4954645097946,
+                                0.930575008662108
+                            ],
+                            [
+                                32.4755614694322,
+                                1.26118820838319
+                            ],
+                            [
+                                32.3376535385516,
+                                1.37957116538718
+                            ],
+                            [
+                                32.1684378731143,
+                                1.43867462846601
+                            ],
+                            [
+                                32.0482379851663,
+                                1.53042645243598
+                            ],
+                            [
+                                31.721311459226698,
+                                1.6837747323562116
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                        "name": "Liquid Intelligent Technologies"
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                {
+                    "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                    "name": "Liquid Uganda"
+                }
+            ]
+        }
+    ]
+}

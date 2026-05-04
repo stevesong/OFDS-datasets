@@ -1,25 +1,21 @@
 {
     "networks": [
         {
-            "id": "UFINET-NI",
-            "name": "Ufinet Nicaragua",
+            "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+            "name": "UFINET Nicaragua",
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Granada",
-                    "id": "641449ff-981b-42eb-b843-bdfed2b5ec9f",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "cee182a7-bb6e-4eea-9a9b-1b9fb3ad9ae0",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -30,18 +26,18 @@
                             -85.95622216081787,
                             11.933717221550973
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Nandaime",
-                    "id": "12cf4659-4b8a-43df-8967-7067b2cf36ef",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "c0b40805-c50e-4bac-a247-c76d639b5f5e",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -52,18 +48,18 @@
                             -86.04623837249672,
                             11.763006767459869
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Rivas",
-                    "id": "3af695f4-c6cb-4794-928f-dd96d9a7ea6f",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "d9abaa5b-ed7c-4d71-8860-e72ee3904d72",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -71,21 +67,21 @@
                     "location": {
                         "type": "Point",
                         "coordinates": [
-                            -85.82805766511453,
-                            11.438634278917085
+                            -85.82342797709596,
+                            11.44074888955008
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "San Juan del Sur",
-                    "id": "3b491c96-9cda-454f-bbab-c148a69a63e3",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "45eee30b-4952-4d04-9611-c7a604ef6937",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -96,18 +92,18 @@
                             -85.86464100186834,
                             11.25820988668258
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Bena Blanca",
-                    "id": "747cf58c-95f9-4b91-9caf-24558ec83ebe",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "bc4f8888-c4aa-4128-a4c0-f9b0ce85a432",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -118,18 +114,18 @@
                             -85.61395914783748,
                             11.2195282632728
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Jinotepe",
-                    "id": "57f8f928-ea3a-40af-8e20-74540c4a9eb3",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "f41026ef-0789-4516-b702-1250adcb1af1",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -140,18 +136,18 @@
                             -86.19968557228576,
                             11.852710233170844
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Pochomil",
-                    "id": "ab080851-240d-41e1-9737-804c4887f4fc",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "b2a20569-c218-4cea-aa22-0f2d53674267",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -162,18 +158,18 @@
                             -86.5158351091369,
                             11.78487040682834
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Managua",
-                    "id": "9ae59196-d3ab-4d60-a22a-26e072475ae3",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "9f2fe714-4624-49a9-a3b9-e8114d09e161",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -184,18 +180,18 @@
                             -86.26825870894044,
                             12.14282807561254
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Leon",
-                    "id": "58cf2b56-d1b3-43d0-9f8b-7415282d4ed4",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "3e346623-7356-4f94-94b5-7e8cb53073ef",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -206,18 +202,18 @@
                             -86.87471069115736,
                             12.43751015701555
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Corinto",
-                    "id": "73bc637f-bde0-4a52-b7fa-8a20acaf74b0",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "65938920-2e53-4963-aa67-b7087fe4e764",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -228,18 +224,18 @@
                             -87.17621065527236,
                             12.4862851311158
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Chinandega",
-                    "id": "4bc2a46e-8e5f-4a13-9bae-754e90005044",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "192dfb2e-f8f5-465d-b97a-675047e784d7",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -250,18 +246,18 @@
                             -87.12000191317532,
                             12.63324253422065
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Guasaule",
-                    "id": "26441fce-1fc7-4ef5-976e-7a6e88795119",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "d4c656a3-53ad-4bd0-b199-75013e33aef7",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -272,18 +268,18 @@
                             -86.94531318402089,
                             13.06061881188658
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Esteli",
-                    "id": "5cd91660-e1c3-4b1b-b9cb-b4f38ca3fef7",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "7afcbfcf-ac77-4aed-a6e1-602743adfa02",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -294,18 +290,18 @@
                             -86.35125566504301,
                             13.099505304425517
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Matagalpa",
-                    "id": "3ae3fd91-36db-442b-ab94-a724d5aa1722",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "ddf5a55c-951f-49d6-834e-c858e223759e",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -316,18 +312,18 @@
                             -85.91584887078923,
                             12.93913344105069
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Jinotega",
-                    "id": "b20bb7d5-7fc9-4dbc-85fc-78405f14d7ff",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "f88f519f-cf3d-46a0-9723-73349b6bbafa",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -338,18 +334,18 @@
                             -85.99265240000942,
                             13.093555633255084
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Somoto",
-                    "id": "e03e8764-134c-4c44-a615-9b63adc3fc1c",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "3c5f8409-9323-4614-9102-6751de89952b",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -360,18 +356,18 @@
                             -86.58284483527596,
                             13.481876263118544
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Ocotal",
-                    "id": "a1627e09-8753-4e24-ab76-9acafe875272",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "524b677c-2ae4-40f8-83a6-f798f960750c",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -382,18 +378,18 @@
                             -86.4773656056726,
                             13.635169232702168
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Las Manos",
-                    "id": "83092146-7436-41b3-a402-830950fe8260",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "62470948-71cd-4362-a8dd-7a8259e87231",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -404,18 +400,18 @@
                             -86.57017180583745,
                             13.7925294944789
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Rio Blanco",
-                    "id": "372d8c51-0502-4e41-956f-79b26f5f6a93",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "ad94e98f-07d6-4761-9f5d-9933e77cbc97",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -426,18 +422,18 @@
                             -85.2285954307847,
                             12.92703218557882
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Boaco",
-                    "id": "fc760541-3956-4805-8178-fb4e324df235",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "626ef8b2-3288-40c5-ba6a-ad25da8a711f",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -448,18 +444,18 @@
                             -85.66079394693179,
                             12.4722172485908
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Juigalpa",
-                    "id": "14046aae-1c3a-4258-9f5b-43561a717010",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "9246529c-a4dd-4811-a0ee-48fb4600040c",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -470,18 +466,18 @@
                             -85.37235473922871,
                             12.112360114605073
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Nueva Guinea",
-                    "id": "4bd4f8f6-a669-4d70-b380-d06d4aef90c5",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "c6aecd62-ff7f-4ff3-9aea-ad10c15befc3",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -492,18 +488,18 @@
                             -84.45529420367939,
                             11.693236964232673
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Bluefields",
-                    "id": "ba4b4ad8-ef29-4664-aada-a70f68f1fa8a",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "bae65cb8-d793-4520-a069-3978cf132530",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -514,18 +510,18 @@
                             -83.77099171564636,
                             12.01124749959019
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "El Rama",
-                    "id": "63317fc1-fae5-43f6-9a2e-35edda296fad",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "cb13d3b5-8128-4197-99ee-9f298d3fb099",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -536,18 +532,18 @@
                             -84.2209450365802,
                             12.162708310885813
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "La Virgen",
-                    "id": "e9adc57d-98f0-4668-a7c0-8ce920b77574",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "id": "9b321056-330a-45f3-9444-ade63ad271a3",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -558,18 +554,18 @@
                             -85.75670011624428,
                             11.37259761800264
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "name": "Auto generated missing node",
-                    "id": "4d6de666-0f1b-413b-ad96-090f6b2b75f4",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "name": "Los Chiles",
+                    "id": "6a353545-ed83-4464-93c3-012a17bb3ce4",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -577,285 +573,21 @@
                     "location": {
                         "type": "Point",
                         "coordinates": [
-                            -85.98071870624543,
-                            11.83422301144221
+                            -84.7187323454054,
+                            11.0640137798575
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "name": "network fork",
-                    "id": "d17fee9b-60c5-46ed-ab5a-ad88890f0723",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "name": "Border",
+                    "id": "aeff35f0-a249-4a60-aaca-d2d5ff5af461",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -86.30528903144494,
-                            11.971952544432238
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "bbe34563-252e-4a9a-ae29-afed2a695f5b",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -86.3125641656262,
-                            12.107668690585971
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "e1d24a33-3663-4464-9961-13e080e7bed5",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -87.02388437168705,
-                            12.59147288126869
-                        ]
-                    }
-                },
-                {
-                    "name": "Auto generated missing node",
-                    "id": "2a53a133-75a4-4f99-9937-be303e4ba325",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -87.04197371664995,
-                            12.53043369740603
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "e452ecb6-f8c2-44e8-9e92-72dfbc3c1469",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -86.49896672017303,
-                            13.490732954636467
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "465de9db-72a4-4a5f-9291-0b3aaeee1592",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -86.10511114472973,
-                            11.992958844462873
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "e939cbf8-e4ba-42e8-b1f0-e64ccbba1730",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -86.09777823717853,
-                            12.191066621746183
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "fb8d2945-c347-45bf-abff-d459c8d4b2c8",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -86.10275902078794,
-                            12.859283848743472
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "fd067880-3845-461c-a226-fbf70a658c51",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -86.05444065496218,
-                            12.313966491462184
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "c26b761c-24d8-47ae-8d5c-1a25c2fc9d06",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -85.62737878321161,
-                            12.770394257631128
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "fd8ff4e9-fd7d-4eea-b33d-3ef942939e05",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -85.8249054225332,
-                            12.86435185419055
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "964b3419-fbed-49b1-bcca-4f077ed2088d",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -85.7114488987146,
-                            12.533223252715484
-                        ]
-                    }
-                },
-                {
-                    "name": "Auto generated missing node",
-                    "id": "50007e9e-8075-4bf5-93c9-41e150c6bc7b",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -866,18 +598,414 @@
                             -84.88039021056859,
                             10.96678152530585
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "name": "network fork",
-                    "id": "9bfc95c0-719e-4a18-987e-679a2adcc5c0",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "name": "default-node",
+                    "id": "8f9f9777-4891-4c1a-96c3-fb58ba34fe68",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -85.98071870624543,
+                            11.83422301144221
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "6b11dce9-720a-4f1a-abef-bbff662448d8",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.30528903144494,
+                            11.971952544432238
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "20b8a6a6-1327-4cf0-bfc1-804e331ece3c",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.40722494166035,
+                            11.87445684468255
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "5d54dfc3-5b2f-485c-ac43-03f69e23af43",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.40848893704809,
+                            11.83885184295728
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "d8b54ee8-d633-4b1c-9303-ec26d24471a4",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.49248121035066,
+                            11.809715594330822
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "9b627e90-8718-4afe-975c-2a01e3559b42",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.3125641656262,
+                            12.107668690585971
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "69c249d8-2fdf-433e-ab31-76e1903e3e66",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -87.02388437168705,
+                            12.59147288126869
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "9c5af438-1342-443b-962c-7cb321084381",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -87.04197371664995,
+                            12.53043369740603
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "349aecb1-1934-4a30-af9b-91e19eaec147",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.49896672017303,
+                            13.490732954636467
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "575b0fdc-0da9-4c2e-baaf-9fe36381adab",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.10511114472973,
+                            11.992958844462873
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "32989c5e-d455-4ecb-a470-bc527c32f97e",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.09777823717853,
+                            12.191066621746183
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "90d84593-aa88-4bd4-93a6-7f277e3f6fa7",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.10275902078794,
+                            12.859283848743472
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "2452a414-f88a-4331-874e-a5ba7cddc473",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -86.05444065496218,
+                            12.313966491462184
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "e586018b-7a9c-4c8d-8dac-e3db871fd00a",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -85.62737878321161,
+                            12.770394257631128
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "ae92774d-832d-4a5b-9972-97faf145f40e",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -85.8249054225332,
+                            12.86435185419055
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "ac86b4be-7d07-40eb-b660-d5f869df70fa",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -85.7114488987146,
+                            12.533223252715484
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "69c89aae-14e8-41e3-b440-3f68fc6a17d6",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -85.73526724850016,
+                            12.431368658688164
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "51f17f2d-80a7-4c53-9cd7-fe91b823c5f1",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -85.75058731379063,
+                            12.41967637356645
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "ac4cfdb0-a7ba-4fdb-9991-634bcb0f3e1e",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -888,40 +1016,18 @@
                             -84.76420682174401,
                             11.140718994987289
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "name": "Auto generated missing node",
-                    "id": "5100ddd6-5be5-4157-9738-184e676ae60c",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "name": "fork",
+                    "id": "e70732a0-f225-4937-90cf-d137b2dbbb0f",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "status": "operational",
-                    "location": {
-                        "type": "Point",
-                        "coordinates": [
-                            -84.69696532372164,
-                            11.0683111417202
-                        ]
-                    }
-                },
-                {
-                    "name": "network fork",
-                    "id": "bdf4f9ec-4566-4311-9396-f912c1012f20",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -932,18 +1038,18 @@
                             -85.16482047073339,
                             12.00421552415721
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "name": "network fork",
-                    "id": "0066be3f-2d04-4d05-b0c6-3b73a173267e",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "name": "fork",
+                    "id": "579f9a0d-3ccb-45d0-9813-f399f0acc54f",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -954,18 +1060,18 @@
                             -84.76175353711697,
                             12.000367716807173
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "name": "network fork",
-                    "id": "f4e676b4-a0ce-48f3-8d41-d1f06891d09a",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "name": "fork",
+                    "id": "6114b88f-4b85-49a4-8840-52e5ea05b833",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -976,18 +1082,18 @@
                             -84.84270001356178,
                             11.589353540506504
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "name": "network fork",
-                    "id": "47eda305-dcc9-4186-b697-faeee3553543",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "name": "fork",
+                    "id": "94acc607-463a-4961-93c8-60339dd1fce9",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -998,18 +1104,18 @@
                             -84.606127683742,
                             11.790978719713195
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "name": "network fork",
-                    "id": "3f4de534-d415-40ab-9362-27d68bed8e6e",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
+                    "name": "default-node",
+                    "id": "4b869395-b33e-46a6-842d-eb8e3e3e365b",
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -1017,26 +1123,26 @@
                     "location": {
                         "type": "Point",
                         "coordinates": [
-                            -86.41617116166567,
-                            11.855920407461243
+                            -85.79113199213288,
+                            11.45231688924947
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 }
             ],
             "spans": [
                 {
-                    "id": "0160e82c-4da5-4591-ad8f-06360e3cdb40",
+                    "id": "7227c63c-7abf-438d-84b8-5aff1cdbd34e",
                     "name": "Bena Blanca - La Virgen",
-                    "start": "747cf58c-95f9-4b91-9caf-24558ec83ebe",
-                    "end": "e9adc57d-98f0-4668-a7c0-8ce920b77574",
+                    "start": "bc4f8888-c4aa-4128-a4c0-f9b0ce85a432",
+                    "end": "9b321056-330a-45f3-9444-ade63ad271a3",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -1044,8 +1150,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -85.6139591480967,
-                                11.21952826423752
+                                -85.61398507051472,
+                                11.21962473526639
                             ],
                             [
                                 -85.61412739861728,
@@ -1152,149 +1258,25 @@
                                 11.37117404293018
                             ],
                             [
-                                -85.75670011566413,
-                                11.372597617189392
+                                -85.7566421026515,
+                                11.372516292957508
                             ]
                         ]
-                    }
-                },
-                {
-                    "id": "79334e49-329b-4cbe-a83a-e5b041fb99b9",
-                    "name": "La Virgen - Rivas",
-                    "start": "e9adc57d-98f0-4668-a7c0-8ce920b77574",
-                    "end": "3af695f4-c6cb-4794-928f-dd96d9a7ea6f",
-                    "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
                     },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "route": {
-                        "type": "LineString",
-                        "coordinates": [
-                            [
-                                -85.7567001168244,
-                                11.372597618815893
-                            ],
-                            [
-                                -85.76626211018095,
-                                11.38600188330017
-                            ],
-                            [
-                                -85.7875526323493,
-                                11.40204355635217
-                            ],
-                            [
-                                -85.81108282428617,
-                                11.42561093932485
-                            ],
-                            [
-                                -85.81487343593703,
-                                11.42917684693879
-                            ],
-                            [
-                                -85.82805766430285,
-                                11.438634278334838
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "id": "c83f938a-b708-4453-811b-0c5e3e949c8c",
-                    "name": "Rivas - Nandaime",
-                    "start": "3af695f4-c6cb-4794-928f-dd96d9a7ea6f",
-                    "end": "12cf4659-4b8a-43df-8967-7067b2cf36ef",
-                    "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
                         "name": "Ufinet"
-                    },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "route": {
-                        "type": "LineString",
-                        "coordinates": [
-                            [
-                                -85.82805766592621,
-                                11.438634279499325
-                            ],
-                            [
-                                -85.83917104407507,
-                                11.44660622965863
-                            ],
-                            [
-                                -85.86299083588328,
-                                11.47642245065642
-                            ],
-                            [
-                                -85.8852669368438,
-                                11.51020117523005
-                            ],
-                            [
-                                -85.89838333272417,
-                                11.53251330598714
-                            ],
-                            [
-                                -85.90245016564984,
-                                11.57657512713386
-                            ],
-                            [
-                                -85.904977555017,
-                                11.59036628271769
-                            ],
-                            [
-                                -85.92601798684925,
-                                11.60013651114988
-                            ],
-                            [
-                                -85.94668262821213,
-                                11.61297421106869
-                            ],
-                            [
-                                -85.94655608791683,
-                                11.61399701869387
-                            ],
-                            [
-                                -85.97454867665256,
-                                11.6619626271841
-                            ],
-                            [
-                                -86.01502699621325,
-                                11.72077817434493
-                            ],
-                            [
-                                -86.02204669788783,
-                                11.74135258617161
-                            ],
-                            [
-                                -86.0462383717525,
-                                11.76300676679371
-                            ]
-                        ]
                     }
                 },
                 {
-                    "id": "e97beb96-7500-49f4-b5e4-a8db3ff53c79",
+                    "id": "f77b6abf-61e4-418e-917c-702ef9694066",
                     "name": "Nandaime - Granada",
-                    "start": "12cf4659-4b8a-43df-8967-7067b2cf36ef",
-                    "end": "641449ff-981b-42eb-b843-bdfed2b5ec9f",
+                    "start": "c0b40805-c50e-4bac-a247-c76d639b5f5e",
+                    "end": "cee182a7-bb6e-4eea-9a9b-1b9fb3ad9ae0",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -1302,8 +1284,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.04623837324094,
-                                11.763006768126028
+                                -86.0463127945352,
+                                11.763073383282844
                             ],
                             [
                                 -86.04882272124404,
@@ -1334,25 +1316,25 @@
                                 11.9325143968946
                             ],
                             [
-                                -85.95622215995743,
-                                11.933717221043743
+                                -85.95613611639915,
+                                11.933666498643444
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "2092949f-a17a-4086-a9e6-bb19170b2e6c",
+                    "id": "9a534635-f02b-4ed0-b4d5-037f696dc568",
                     "name": "La Virgen - San Juan del Sur",
-                    "start": "e9adc57d-98f0-4668-a7c0-8ce920b77574",
-                    "end": "3b491c96-9cda-454f-bbab-c148a69a63e3",
+                    "start": "9b321056-330a-45f3-9444-ade63ad271a3",
+                    "end": "45eee30b-4952-4d04-9611-c7a604ef6937",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -1396,25 +1378,25 @@
                                 11.26170500372831
                             ],
                             [
-                                -85.86464100094742,
-                                11.25820988707151
+                                -85.86454890940018,
+                                11.258248779776547
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "143374ef-3485-4c5b-b5d0-2216a35db821",
+                    "id": "c28b5355-eae5-46ca-82c6-49cd3ea11ef3",
                     "name": "Nandaime - Jinotepe",
-                    "start": "12cf4659-4b8a-43df-8967-7067b2cf36ef",
-                    "end": "57f8f928-ea3a-40af-8e20-74540c4a9eb3",
+                    "start": "c0b40805-c50e-4bac-a247-c76d639b5f5e",
+                    "end": "f41026ef-0789-4516-b702-1250adcb1af1",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -1458,87 +1440,25 @@
                                 11.84844816094175
                             ],
                             [
-                                -86.19968557158302,
-                                11.852710232459778
+                                -86.19961529886127,
+                                11.852639126189136
                             ]
                         ]
-                    }
-                },
-                {
-                    "id": "6b7a5f67-69c7-449e-809d-1f15aa1f1872",
-                    "name": "Pochomil - Unknown",
-                    "start": "ab080851-240d-41e1-9737-804c4887f4fc",
-                    "end": "ce43519b-9642-4378-8b13-ae84b868979b",
-                    "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
                     },
-                    "networkProviders": [
-                        {
-                            "id": "UFINET-NI",
-                            "name": "Ufinet Nicaragua"
-                        }
-                    ],
-                    "route": {
-                        "type": "LineString",
-                        "coordinates": [
-                            [
-                                -86.51583510845272,
-                                11.784870407556216
-                            ],
-                            [
-                                -86.49092748672214,
-                                11.81136853267875
-                            ],
-                            [
-                                -86.47589798717321,
-                                11.81732823153579
-                            ],
-                            [
-                                -86.47566700121222,
-                                11.81923055402558
-                            ],
-                            [
-                                -86.47324998918255,
-                                11.83100845384762
-                            ],
-                            [
-                                -86.44738003337329,
-                                11.84487222212144
-                            ],
-                            [
-                                -86.43033191207921,
-                                11.8510824233339
-                            ],
-                            [
-                                -86.42385094588164,
-                                11.85563448183773
-                            ],
-                            [
-                                -86.41563721065823,
-                                11.86626345758613
-                            ],
-                            [
-                                -86.40722494166035,
-                                11.87445684468255
-                            ]
-                        ]
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "8e46f2f7-6972-4524-943a-c7047d034ec6",
+                    "id": "46b3bb54-ff5b-47fe-aaac-08039fc03920",
                     "name": "Managua - Leon",
-                    "start": "9ae59196-d3ab-4d60-a22a-26e072475ae3",
-                    "end": "58cf2b56-d1b3-43d0-9f8b-7415282d4ed4",
+                    "start": "9f2fe714-4624-49a9-a3b9-e8114d09e161",
+                    "end": "3e346623-7356-4f94-94b5-7e8cb53073ef",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -1694,25 +1614,25 @@
                                 12.43717558285438
                             ],
                             [
-                                -86.87471069144979,
-                                12.437510156059377
+                                -86.87473993397319,
+                                12.437414539676956
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "6cbe0da0-6ffa-4cf0-821f-c85537d10e2f",
+                    "id": "32c14d39-2e85-49b5-bfd2-b5066a6be25b",
                     "name": "Chinandega - Guasaule",
-                    "start": "4bc2a46e-8e5f-4a13-9bae-754e90005044",
-                    "end": "26441fce-1fc7-4ef5-976e-7a6e88795119",
+                    "start": "192dfb2e-f8f5-465d-b97a-675047e784d7",
+                    "end": "d4c656a3-53ad-4bd0-b199-75013e33aef7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -1720,8 +1640,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -87.1200019132294,
-                                12.633242535217992
+                                -87.12000732215465,
+                                12.633342268494534
                             ],
                             [
                                 -87.12006431423826,
@@ -1812,25 +1732,25 @@
                                 13.04973110164084
                             ],
                             [
-                                -86.94531318305263,
-                                13.06061881164143
+                                -86.94521635938182,
+                                13.060594297049008
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "d3b5f69f-f8d3-4943-b695-c7f45acb82b1",
+                    "id": "1a0ee7dc-1ddc-48ea-b4ff-9cbff503a966",
                     "name": "Guasaule - Somoto",
-                    "start": "26441fce-1fc7-4ef5-976e-7a6e88795119",
-                    "end": "e03e8764-134c-4c44-a615-9b63adc3fc1c",
+                    "start": "d4c656a3-53ad-4bd0-b199-75013e33aef7",
+                    "end": "3c5f8409-9323-4614-9102-6751de89952b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -1838,8 +1758,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.94531318303889,
-                                13.060618812073512
+                                -86.94521498448351,
+                                13.060637505140058
                             ],
                             [
                                 -86.92307182793886,
@@ -2190,25 +2110,25 @@
                                 13.48139625187325
                             ],
                             [
-                                -86.5828448356345,
-                                13.481876262186024
+                                -86.58288068831828,
+                                13.481783010956809
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "26485360-c067-4669-bfad-9762de9abb7a",
+                    "id": "8f6f19d1-82a3-4a75-972e-f047f7ff0d39",
                     "name": "Ocotal - Las Manos",
-                    "start": "a1627e09-8753-4e24-ab76-9acafe875272",
-                    "end": "83092146-7436-41b3-a402-830950fe8260",
+                    "start": "524b677c-2ae4-40f8-83a6-f798f960750c",
+                    "end": "62470948-71cd-4362-a8dd-7a8259e87231",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -2216,8 +2136,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.47736560574972,
-                                13.63516923369838
+                                -86.4773733181529,
+                                13.635268853812308
                             ],
                             [
                                 -86.47811852796335,
@@ -2264,25 +2184,25 @@
                                 13.76558436311374
                             ],
                             [
-                                -86.57017180508346,
-                                13.79252949382352
+                                -86.5700964070352,
+                                13.792463956348671
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "3f3e5ec7-dddc-4f73-811c-3fa66043690d",
+                    "id": "00dba43d-624e-4440-b96f-66bc3ff7647e",
                     "name": "Esteli - Jinotega",
-                    "start": "5cd91660-e1c3-4b1b-b9cb-b4f38ca3fef7",
-                    "end": "b20bb7d5-7fc9-4dbc-85fc-78405f14d7ff",
+                    "start": "7afcbfcf-ac77-4aed-a6e1-602743adfa02",
+                    "end": "f88f519f-cf3d-46a0-9723-73349b6bbafa",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -2414,25 +2334,25 @@
                                 13.10255577274634
                             ],
                             [
-                                -85.99265240025869,
-                                13.093555634222296
+                                -85.99267732746323,
+                                13.093652354539168
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "35dbfcf1-e646-44be-94f0-5c96c18fb74e",
+                    "id": "ec90120d-48c9-4bed-b73c-031c6864c7b8",
                     "name": "Nueva Guinea - Bluefields",
-                    "start": "4bd4f8f6-a669-4d70-b380-d06d4aef90c5",
-                    "end": "ba4b4ad8-ef29-4664-aada-a70f68f1fa8a",
+                    "start": "c6aecd62-ff7f-4ff3-9aea-ad10c15befc3",
+                    "end": "bae65cb8-d793-4520-a069-3978cf132530",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -2440,8 +2360,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -84.45529420268026,
-                                11.693236964250538
+                                -84.45519429143718,
+                                11.693238750583777
                             ],
                             [
                                 -84.40202509520383,
@@ -2588,25 +2508,25 @@
                                 11.99480358048519
                             ],
                             [
-                                -83.77099171657012,
-                                12.01124749920727
+                                -83.77108409238437,
+                                12.011209207534344
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "096dd3c7-a16a-4595-8268-2bbaa67eb620",
-                    "name": "Jinotepe - Auto generated missing node",
-                    "start": "57f8f928-ea3a-40af-8e20-74540c4a9eb3",
-                    "end": "4d6de666-0f1b-413b-ad96-090f6b2b75f4",
+                    "id": "c5b91b7b-db67-428f-813b-4b6f8bd144c8",
+                    "name": "Rivas - default-node",
+                    "start": "d9abaa5b-ed7c-4d71-8860-e72ee3904d72",
+                    "end": "4b869395-b33e-46a6-842d-eb8e3e3e365b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -2614,8 +2534,86 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.19968557298849,
-                                11.852710233881915
+                                -85.82333302064643,
+                                11.44071779967303
+                            ],
+                            [
+                                -85.82274600185409,
+                                11.44052560270092
+                            ],
+                            [
+                                -85.82160943577517,
+                                11.44007914539503
+                            ],
+                            [
+                                -85.82047253469068,
+                                11.44007848017796
+                            ],
+                            [
+                                -85.81933581047497,
+                                11.43985490972088
+                            ],
+                            [
+                                -85.81387808278468,
+                                11.44074314365265
+                            ],
+                            [
+                                -85.81114942378319,
+                                11.44096428501861
+                            ],
+                            [
+                                -85.80933009792138,
+                                11.44140887362263
+                            ],
+                            [
+                                -85.80819289447761,
+                                11.44185390340373
+                            ],
+                            [
+                                -85.80227849958376,
+                                11.44541601700891
+                            ],
+                            [
+                                -85.80114095984143,
+                                11.44630673347475
+                            ],
+                            [
+                                -85.79841062240646,
+                                11.4487564212527
+                            ],
+                            [
+                                -85.79704571045552,
+                                11.44964691794147
+                            ],
+                            [
+                                -85.79113199213288,
+                                11.45231688924947
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "id": "8e0a7211-5627-48f7-8034-ed9b8cd63112",
+                    "name": "Jinotepe - default-node",
+                    "start": "f41026ef-0789-4516-b702-1250adcb1af1",
+                    "end": "8f9f9777-4891-4c1a-96c3-fb58ba34fe68",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                -86.19975584571024,
+                                11.852781340152559
                             ],
                             [
                                 -86.2056600684313,
@@ -2694,21 +2692,21 @@
                                 11.83422301144221
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "bc5814c3-c83c-4b4d-8511-a179b73e3046",
-                    "name": "network fork - network fork",
-                    "start": "d17fee9b-60c5-46ed-ab5a-ad88890f0723",
-                    "end": "3f4de534-d415-40ab-9362-27d68bed8e6e",
+                    "id": "a6433501-9f4d-4971-90e8-8b5204d0e2af",
+                    "name": "fork - default-node",
+                    "start": "6b11dce9-720a-4f1a-abef-bbff662448d8",
+                    "end": "5d54dfc3-5b2f-485c-ac43-03f69e23af43",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -2772,25 +2770,77 @@
                                 11.85943397663356
                             ],
                             [
-                                -86.41617116166567,
-                                11.855920407461243
+                                -86.42587187896015,
+                                11.85568035864463
+                            ],
+                            [
+                                -86.4230988889941,
+                                11.85469258356051
+                            ],
+                            [
+                                -86.42295325073991,
+                                11.8545117445685
+                            ],
+                            [
+                                -86.42027008782661,
+                                11.84637433622679
+                            ],
+                            [
+                                -86.4200432629866,
+                                11.84618555519007
+                            ],
+                            [
+                                -86.41967190652717,
+                                11.84581773314708
+                            ],
+                            [
+                                -86.41688224577459,
+                                11.84015826946741
+                            ],
+                            [
+                                -86.41632902597688,
+                                11.83993234972091
+                            ],
+                            [
+                                -86.41585779009074,
+                                11.83971607426903
+                            ],
+                            [
+                                -86.41530477899849,
+                                11.83949023828625
+                            ],
+                            [
+                                -86.41499745425982,
+                                11.83929324277529
+                            ],
+                            [
+                                -86.4109250096521,
+                                11.83865470768717
+                            ],
+                            [
+                                -86.41066916949431,
+                                11.8387051602304
+                            ],
+                            [
+                                -86.40848893704809,
+                                11.83885184295728
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "ceca091d-f9e6-4339-8466-cd6768a7fef9",
-                    "name": "Jinotepe - network fork",
-                    "start": "57f8f928-ea3a-40af-8e20-74540c4a9eb3",
-                    "end": "d17fee9b-60c5-46ed-ab5a-ad88890f0723",
+                    "id": "92c8ddbc-5cec-4fba-84a3-f8446317c664",
+                    "name": "Jinotepe - fork",
+                    "start": "f41026ef-0789-4516-b702-1250adcb1af1",
+                    "end": "6b11dce9-720a-4f1a-abef-bbff662448d8",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -2850,21 +2900,21 @@
                                 11.971952544432238
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "c45da837-b4bf-4d2f-8fc4-39a4e21940cc",
-                    "name": "Pochomil - network fork",
-                    "start": "ab080851-240d-41e1-9737-804c4887f4fc",
-                    "end": "bbe34563-252e-4a9a-ae29-afed2a695f5b",
+                    "id": "11c275b7-9a0d-47e9-8afa-36ad93307757",
+                    "name": "Pochomil - fork",
+                    "start": "b2a20569-c218-4cea-aa22-0f2d53674267",
+                    "end": "d8b54ee8-d633-4b1c-9303-ec26d24471a4",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -2872,8 +2922,104 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.5158351091369,
-                                11.78487040682834
+                                -86.51576669025663,
+                                11.784943194670946
+                            ],
+                            [
+                                -86.49248121035066,
+                                11.809715594330822
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "id": "5e59f4e6-6b45-4226-953c-9b6c698180a8",
+                    "name": "fork - default-node",
+                    "start": "d8b54ee8-d633-4b1c-9303-ec26d24471a4",
+                    "end": "20b8a6a6-1327-4cf0-bfc1-804e331ece3c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                -86.49248121035066,
+                                11.809715594330822
+                            ],
+                            [
+                                -86.49092748672214,
+                                11.81136853267875
+                            ],
+                            [
+                                -86.47589798717321,
+                                11.81732823153579
+                            ],
+                            [
+                                -86.47566700121222,
+                                11.81923055402558
+                            ],
+                            [
+                                -86.47324998918255,
+                                11.83100845384762
+                            ],
+                            [
+                                -86.44738003337329,
+                                11.84487222212144
+                            ],
+                            [
+                                -86.43033191207921,
+                                11.8510824233339
+                            ],
+                            [
+                                -86.42385094588164,
+                                11.85563448183773
+                            ],
+                            [
+                                -86.41563721065823,
+                                11.86626345758613
+                            ],
+                            [
+                                -86.40722494166035,
+                                11.87445684468255
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "id": "5a16fcec-93d8-4edc-9aa2-ec1a8834f063",
+                    "name": "fork - fork",
+                    "start": "d8b54ee8-d633-4b1c-9303-ec26d24471a4",
+                    "end": "9b627e90-8718-4afe-975c-2a01e3559b42",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                -86.49248121035066,
+                                11.809715594330822
+                            ],
+                            [
+                                -86.49280346445539,
+                                11.81001850569926
                             ],
                             [
                                 -86.49617989034148,
@@ -3000,21 +3146,21 @@
                                 12.107668690585971
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "9b67256e-dec1-4109-b6cc-9b5bfcd8f26d",
-                    "name": "network fork - network fork",
-                    "start": "d17fee9b-60c5-46ed-ab5a-ad88890f0723",
-                    "end": "bbe34563-252e-4a9a-ae29-afed2a695f5b",
+                    "id": "5bf9b55a-d50b-4f2e-9283-99196a7e39a6",
+                    "name": "fork - fork",
+                    "start": "6b11dce9-720a-4f1a-abef-bbff662448d8",
+                    "end": "9b627e90-8718-4afe-975c-2a01e3559b42",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3050,21 +3196,21 @@
                                 12.14282807561254
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "cb0e37a4-174e-4949-a535-8735aa207400",
-                    "name": "network fork - Managua",
-                    "start": "bbe34563-252e-4a9a-ae29-afed2a695f5b",
-                    "end": "9ae59196-d3ab-4d60-a22a-26e072475ae3",
+                    "id": "5e365547-9d24-49d8-94fd-18cff445b9ff",
+                    "name": "fork - Managua",
+                    "start": "9b627e90-8718-4afe-975c-2a01e3559b42",
+                    "end": "9f2fe714-4624-49a9-a3b9-e8114d09e161",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3112,21 +3258,21 @@
                                 12.107668690585971
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "ddec3a01-5755-403a-a4ef-4f41551eb733",
-                    "name": "network fork - Auto generated missing node",
-                    "start": "e1d24a33-3663-4464-9961-13e080e7bed5",
-                    "end": "2a53a133-75a4-4f99-9937-be303e4ba325",
+                    "id": "2d44f253-d053-491f-b0dc-a6896918265e",
+                    "name": "fork - default-node",
+                    "start": "69c249d8-2fdf-433e-ab31-76e1903e3e66",
+                    "end": "9c5af438-1342-443b-962c-7cb321084381",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3154,21 +3300,21 @@
                                 12.53043369740603
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "07e95d70-6d1b-41bd-97ba-a5df66f6628a",
-                    "name": "Leon - network fork",
-                    "start": "58cf2b56-d1b3-43d0-9f8b-7415282d4ed4",
-                    "end": "e1d24a33-3663-4464-9961-13e080e7bed5",
+                    "id": "0af400c7-470e-4711-9f77-1c3f44e454a8",
+                    "name": "Leon - fork",
+                    "start": "3e346623-7356-4f94-94b5-7e8cb53073ef",
+                    "end": "69c249d8-2fdf-433e-ab31-76e1903e3e66",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3176,8 +3322,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.87471069086493,
-                                12.437510157971724
+                                -86.87468144834153,
+                                12.437605774354145
                             ],
                             [
                                 -86.8661401408715,
@@ -3212,21 +3358,21 @@
                                 12.59147288126869
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "6858a202-2e7e-4c37-bea8-c9f839743bb3",
-                    "name": "network fork - Esteli",
-                    "start": "e452ecb6-f8c2-44e8-9e92-72dfbc3c1469",
-                    "end": "5cd91660-e1c3-4b1b-b9cb-b4f38ca3fef7",
+                    "id": "3ae60e75-a55d-4e28-84d5-cb9406c99914",
+                    "name": "fork - Esteli",
+                    "start": "349aecb1-1934-4a30-af9b-91e19eaec147",
+                    "end": "7afcbfcf-ac77-4aed-a6e1-602743adfa02",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3446,25 +3592,25 @@
                                 13.11963726485012
                             ],
                             [
-                                -86.3512556654842,
-                                13.099505305321724
+                                -86.3512997847279,
+                                13.099594924900273
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "b2c4c337-d11e-4d73-bdf8-70ef86122387",
-                    "name": "Somoto - network fork",
-                    "start": "e03e8764-134c-4c44-a615-9b63adc3fc1c",
-                    "end": "e452ecb6-f8c2-44e8-9e92-72dfbc3c1469",
+                    "id": "8ca6607a-bed4-42a7-ac9e-d7c2798e384f",
+                    "name": "Somoto - fork",
+                    "start": "3c5f8409-9323-4614-9102-6751de89952b",
+                    "end": "349aecb1-1934-4a30-af9b-91e19eaec147",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3472,8 +3618,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.58284483491744,
-                                13.481876264051067
+                                -86.58280898223364,
+                                13.481969515280282
                             ],
                             [
                                 -86.57785235435695,
@@ -3528,21 +3674,21 @@
                                 13.490732954636467
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "cf194302-b549-433e-8cb7-f119ea88f988",
-                    "name": "network fork - Ocotal",
-                    "start": "e452ecb6-f8c2-44e8-9e92-72dfbc3c1469",
-                    "end": "a1627e09-8753-4e24-ab76-9acafe875272",
+                    "id": "948b25cb-d99d-4bac-bc93-a30ee596042d",
+                    "name": "fork - Ocotal",
+                    "start": "349aecb1-1934-4a30-af9b-91e19eaec147",
+                    "end": "524b677c-2ae4-40f8-83a6-f798f960750c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3614,25 +3760,25 @@
                                 13.63270336479687
                             ],
                             [
-                                -86.47736560559547,
-                                13.635169231705957
+                                -86.47735789319229,
+                                13.635069611592028
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "2b23713c-2e9e-4152-97ae-7d341a1b3574",
-                    "name": "Granada - network fork",
-                    "start": "641449ff-981b-42eb-b843-bdfed2b5ec9f",
-                    "end": "465de9db-72a4-4a5f-9291-0b3aaeee1592",
+                    "id": "42f56f69-f24a-4c40-9fd6-41191036fcb9",
+                    "name": "Granada - fork",
+                    "start": "cee182a7-bb6e-4eea-9a9b-1b9fb3ad9ae0",
+                    "end": "575b0fdc-0da9-4c2e-baaf-9fe36381adab",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3640,8 +3786,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -85.95622216167831,
-                                11.9337172220582
+                                -85.9563082052366,
+                                11.933767944458499
                             ],
                             [
                                 -86.00276793689191,
@@ -3664,21 +3810,21 @@
                                 11.992958844462873
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "312f4ec0-5622-4482-be4b-8671715bd2d5",
-                    "name": "network fork - Managua",
-                    "start": "465de9db-72a4-4a5f-9291-0b3aaeee1592",
-                    "end": "9ae59196-d3ab-4d60-a22a-26e072475ae3",
+                    "id": "68504777-c781-4166-9844-f4945df99f04",
+                    "name": "fork - Managua",
+                    "start": "575b0fdc-0da9-4c2e-baaf-9fe36381adab",
+                    "end": "9f2fe714-4624-49a9-a3b9-e8114d09e161",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3714,21 +3860,21 @@
                                 12.14282807561254
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "7169967d-9ef8-4f45-b9fd-77b00dd53d1c",
-                    "name": "network fork - network fork",
-                    "start": "465de9db-72a4-4a5f-9291-0b3aaeee1592",
-                    "end": "e939cbf8-e4ba-42e8-b1f0-e64ccbba1730",
+                    "id": "78f27973-8452-42a1-a3e8-1dc4053bcbb0",
+                    "name": "fork - fork",
+                    "start": "575b0fdc-0da9-4c2e-baaf-9fe36381adab",
+                    "end": "32989c5e-d455-4ecb-a470-bc527c32f97e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3836,21 +3982,21 @@
                                 12.191066621746183
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "82fc4923-1981-4de2-8788-7f6e171f2904",
-                    "name": "network fork - Managua",
-                    "start": "e939cbf8-e4ba-42e8-b1f0-e64ccbba1730",
-                    "end": "9ae59196-d3ab-4d60-a22a-26e072475ae3",
+                    "id": "4e3505bf-7c8f-42be-a0ce-ba67a0e96766",
+                    "name": "fork - Managua",
+                    "start": "32989c5e-d455-4ecb-a470-bc527c32f97e",
+                    "end": "9f2fe714-4624-49a9-a3b9-e8114d09e161",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3882,25 +4028,25 @@
                                 12.14692712168223
                             ],
                             [
-                                -86.26825870795238,
-                                12.142828075758668
+                                -86.26815990412057,
+                                12.142842688382935
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "4d4084a4-b671-49ba-8117-d74178fd47d5",
-                    "name": "Jinotega - network fork",
-                    "start": "b20bb7d5-7fc9-4dbc-85fc-78405f14d7ff",
-                    "end": "fb8d2945-c347-45bf-abff-d459c8d4b2c8",
+                    "id": "56553c6c-9ea0-4cf0-bc99-6c2cbf4d9d76",
+                    "name": "Jinotega - fork",
+                    "start": "f88f519f-cf3d-46a0-9723-73349b6bbafa",
+                    "end": "90d84593-aa88-4bd4-93a6-7f277e3f6fa7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -3908,8 +4054,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -85.99265239976015,
-                                13.09355563228787
+                                -85.99262747255563,
+                                13.093458911970998
                             ],
                             [
                                 -85.99078956171009,
@@ -3988,21 +4134,21 @@
                                 12.859283848743472
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "c2efba54-db26-4a35-a1e6-099a6a596933",
-                    "name": "Esteli - network fork",
-                    "start": "5cd91660-e1c3-4b1b-b9cb-b4f38ca3fef7",
-                    "end": "fb8d2945-c347-45bf-abff-d459c8d4b2c8",
+                    "id": "2284a506-3f50-4908-a738-ddc78a0c7ed1",
+                    "name": "Esteli - fork",
+                    "start": "7afcbfcf-ac77-4aed-a6e1-602743adfa02",
+                    "end": "90d84593-aa88-4bd4-93a6-7f277e3f6fa7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4010,8 +4156,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.35125566460181,
-                                13.09950530352931
+                                -86.35121154535811,
+                                13.099415683950761
                             ],
                             [
                                 -86.3505436453704,
@@ -4086,21 +4232,21 @@
                                 12.859283848743472
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "7d0144b4-77b3-4818-a238-a1db7fc18600",
-                    "name": "network fork - network fork",
-                    "start": "fb8d2945-c347-45bf-abff-d459c8d4b2c8",
-                    "end": "fd067880-3845-461c-a226-fbf70a658c51",
+                    "id": "1f19344b-3be9-4ee2-a16e-4d1336c702b4",
+                    "name": "fork - fork",
+                    "start": "90d84593-aa88-4bd4-93a6-7f277e3f6fa7",
+                    "end": "2452a414-f88a-4331-874e-a5ba7cddc473",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4124,21 +4270,21 @@
                                 12.191066621746183
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "4214d5a8-692b-4da1-a2a0-986f8c885d0a",
-                    "name": "network fork - network fork",
-                    "start": "fd067880-3845-461c-a226-fbf70a658c51",
-                    "end": "e939cbf8-e4ba-42e8-b1f0-e64ccbba1730",
+                    "id": "74e8b4e3-340d-4cd7-a203-89c72b79a064",
+                    "name": "fork - fork",
+                    "start": "2452a414-f88a-4331-874e-a5ba7cddc473",
+                    "end": "32989c5e-d455-4ecb-a470-bc527c32f97e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4198,21 +4344,21 @@
                                 12.313966491462184
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "f17f6652-6c89-4bab-ac8e-d91b432d9381",
-                    "name": "network fork - Rio Blanco",
-                    "start": "c26b761c-24d8-47ae-8d5c-1a25c2fc9d06",
-                    "end": "372d8c51-0502-4e41-956f-79b26f5f6a93",
+                    "id": "c004811a-8d12-48e9-8cd6-71e774549578",
+                    "name": "fork - Rio Blanco",
+                    "start": "e586018b-7a9c-4c8d-8dac-e3db871fd00a",
+                    "end": "ad94e98f-07d6-4761-9f5d-9933e77cbc97",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4280,25 +4426,25 @@
                                 12.92234831632848
                             ],
                             [
-                                -85.22859543174322,
-                                12.927032185294808
+                                -85.22869128195444,
+                                12.927003784433843
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "8587fab2-d52b-40ab-ab16-b99fce9baf3c",
-                    "name": "network fork - network fork",
-                    "start": "fd067880-3845-461c-a226-fbf70a658c51",
-                    "end": "fd8ff4e9-fd7d-4eea-b33d-3ef942939e05",
+                    "id": "8b7d713b-fc39-49e2-9d95-a1cf63cfa3ed",
+                    "name": "fork - fork",
+                    "start": "2452a414-f88a-4331-874e-a5ba7cddc473",
+                    "end": "ae92774d-832d-4a5b-9972-97faf145f40e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4326,25 +4472,25 @@
                                 12.94499358123969
                             ],
                             [
-                                -85.91584886980198,
-                                12.939133441202179
+                                -85.91575014549676,
+                                12.939148589951225
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "aa0846f9-fe84-4a49-91b0-559b857353fb",
-                    "name": "network fork - network fork",
-                    "start": "fd8ff4e9-fd7d-4eea-b33d-3ef942939e05",
-                    "end": "c26b761c-24d8-47ae-8d5c-1a25c2fc9d06",
+                    "id": "ee5a23ff-02e8-4049-b280-185ae3c2a207",
+                    "name": "fork - fork",
+                    "start": "ae92774d-832d-4a5b-9972-97faf145f40e",
+                    "end": "e586018b-7a9c-4c8d-8dac-e3db871fd00a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4388,21 +4534,21 @@
                                 12.86435185419055
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "340722d8-324c-4460-9551-065445ac2202",
-                    "name": "network fork - network fork",
-                    "start": "fd8ff4e9-fd7d-4eea-b33d-3ef942939e05",
-                    "end": "964b3419-fbed-49b1-bcca-4f077ed2088d",
+                    "id": "7504e96a-367f-4570-b97a-9086562e3487",
+                    "name": "fork - fork",
+                    "start": "ae92774d-832d-4a5b-9972-97faf145f40e",
+                    "end": "ac86b4be-7d07-40eb-b660-d5f869df70fa",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4734,21 +4880,21 @@
                                 12.533223252715484
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "e8971762-4eea-4796-a6fc-7e3f959f85c2",
-                    "name": "Boaco - network fork",
-                    "start": "fc760541-3956-4805-8178-fb4e324df235",
-                    "end": "964b3419-fbed-49b1-bcca-4f077ed2088d",
+                    "id": "88a77e06-e9dc-4b31-997d-a63b2d4ea1a9",
+                    "name": "fork - Boaco",
+                    "start": "ac86b4be-7d07-40eb-b660-d5f869df70fa",
+                    "end": "626ef8b2-3288-40c5-ba6a-ad25da8a711f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4756,125 +4902,125 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -85.66079394725958,
-                                12.472217249534323
-                            ],
-                            [
-                                -85.66423129268235,
-                                12.48211156057997
-                            ],
-                            [
-                                -85.66411551188669,
-                                12.48301516602263
-                            ],
-                            [
-                                -85.657897811177,
-                                12.48746642606364
-                            ],
-                            [
-                                -85.65720254906621,
-                                12.48799452581444
-                            ],
-                            [
-                                -85.65677761520551,
-                                12.48886109994555
-                            ],
-                            [
-                                -85.65631398936529,
-                                12.4900289662917
-                            ],
-                            [
-                                -85.64615248388252,
-                                12.4958428041885
-                            ],
-                            [
-                                -85.64568844973688,
-                                12.49701096990673
-                            ],
-                            [
-                                -85.64557223159834,
-                                12.49791502647606
-                            ],
-                            [
-                                -85.6388028757505,
-                                12.51148640342979
-                            ],
-                            [
-                                -85.63109797253331,
-                                12.52740264431576
-                            ],
-                            [
-                                -85.63388026540333,
-                                12.53018758532547
-                            ],
-                            [
-                                -85.64230512515073,
-                                12.5379393930929
-                            ],
-                            [
-                                -85.64311652136205,
-                                12.53895596525565
-                            ],
-                            [
-                                -85.64817937809435,
-                                12.5435469782122
-                            ],
-                            [
-                                -85.64875919130891,
-                                12.54392299579782
-                            ],
-                            [
-                                -85.65792088593429,
-                                12.54839323599181
-                            ],
-                            [
-                                -85.65908048199606,
-                                12.549145246408
-                            ],
-                            [
-                                -85.65996958216685,
-                                12.54955836559525
-                            ],
-                            [
-                                -85.67067714312594,
-                                12.55421384148435
-                            ],
-                            [
-                                -85.68223479801796,
-                                12.54977866244401
-                            ],
-                            [
-                                -85.68254397056296,
-                                12.54981575345453
-                            ],
-                            [
-                                -85.68420571466224,
-                                12.54909603059722
+                                -85.7114488987146,
+                                12.533223252715484
                             ],
                             [
                                 -85.69676168057087,
                                 12.54171970467132
                             ],
                             [
-                                -85.7114488987146,
-                                12.533223252715484
+                                -85.68420571466224,
+                                12.54909603059722
+                            ],
+                            [
+                                -85.68254397056296,
+                                12.54981575345453
+                            ],
+                            [
+                                -85.68223479801796,
+                                12.54977866244401
+                            ],
+                            [
+                                -85.67067714312594,
+                                12.55421384148435
+                            ],
+                            [
+                                -85.65996958216685,
+                                12.54955836559525
+                            ],
+                            [
+                                -85.65908048199606,
+                                12.549145246408
+                            ],
+                            [
+                                -85.65792088593429,
+                                12.54839323599181
+                            ],
+                            [
+                                -85.64875919130891,
+                                12.54392299579782
+                            ],
+                            [
+                                -85.64817937809435,
+                                12.5435469782122
+                            ],
+                            [
+                                -85.64311652136205,
+                                12.53895596525565
+                            ],
+                            [
+                                -85.64230512515073,
+                                12.5379393930929
+                            ],
+                            [
+                                -85.63388026540333,
+                                12.53018758532547
+                            ],
+                            [
+                                -85.63109797253331,
+                                12.52740264431576
+                            ],
+                            [
+                                -85.6388028757505,
+                                12.51148640342979
+                            ],
+                            [
+                                -85.64557223159834,
+                                12.49791502647606
+                            ],
+                            [
+                                -85.64568844973688,
+                                12.49701096990673
+                            ],
+                            [
+                                -85.64615248388252,
+                                12.4958428041885
+                            ],
+                            [
+                                -85.65631398936529,
+                                12.4900289662917
+                            ],
+                            [
+                                -85.65677761520551,
+                                12.48886109994555
+                            ],
+                            [
+                                -85.65720254906621,
+                                12.48799452581444
+                            ],
+                            [
+                                -85.657897811177,
+                                12.48746642606364
+                            ],
+                            [
+                                -85.66411551188669,
+                                12.48301516602263
+                            ],
+                            [
+                                -85.66423129268235,
+                                12.48211156057997
+                            ],
+                            [
+                                -85.6608267254859,
+                                12.472311600822005
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "6d2b049e-31e5-4f31-a143-aa36a65f4e8b",
-                    "name": "network fork - Juigalpa",
-                    "start": "964b3419-fbed-49b1-bcca-4f077ed2088d",
-                    "end": "14046aae-1c3a-4258-9f5b-43561a717010",
+                    "id": "78cb6d11-d13a-415d-b680-6e1348ad2bc3",
+                    "name": "fork - fork",
+                    "start": "69c89aae-14e8-41e3-b440-3f68fc6a17d6",
+                    "end": "ac86b4be-7d07-40eb-b660-d5f869df70fa",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -4882,120 +5028,150 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -85.7114488987146,
-                                12.533223252715484
+                                -85.73526724850016,
+                                12.431368658688164
                             ],
                             [
-                                -85.7116661716667,
-                                12.53309756184735
-                            ],
-                            [
-                                -85.71444499955254,
-                                12.53098203148032
-                            ],
-                            [
-                                -85.71510125095382,
-                                12.5307546713953
-                            ],
-                            [
-                                -85.71783565210829,
-                                12.52159492199505
-                            ],
-                            [
-                                -85.71787402033489,
-                                12.52129351025197
-                            ],
-                            [
-                                -85.72218273772354,
-                                12.50467807785264
-                            ],
-                            [
-                                -85.72268304314441,
-                                12.50320884393274
-                            ],
-                            [
-                                -85.72345375009955,
-                                12.50207799077378
-                            ],
-                            [
-                                -85.72544444051802,
-                                12.48641636605227
-                            ],
-                            [
-                                -85.72552096676,
-                                12.48581411740363
-                            ],
-                            [
-                                -85.72974889677536,
-                                12.47226148732942
-                            ],
-                            [
-                                -85.73059532283628,
-                                12.47052955662555
-                            ],
-                            [
-                                -85.73101850801761,
-                                12.46966361844932
-                            ],
-                            [
-                                -85.73213517637349,
-                                12.46826986984846
-                            ],
-                            [
-                                -85.73891330000079,
-                                12.46175107734948
-                            ],
-                            [
-                                -85.73995322784637,
-                                12.46095946751842
-                            ],
-                            [
-                                -85.74103125864798,
-                                12.45986693650476
-                            ],
-                            [
-                                -85.74176262881478,
-                                12.45903829109627
-                            ],
-                            [
-                                -85.74314903477693,
-                                12.45798287773256
-                            ],
-                            [
-                                -85.7444972520439,
-                                12.45722839501937
-                            ],
-                            [
-                                -85.74557508132679,
-                                12.45613595232529
-                            ],
-                            [
-                                -85.74638252591524,
-                                12.45470558167814
-                            ],
-                            [
-                                -85.74779948204024,
-                                12.4484613301595
-                            ],
-                            [
-                                -85.74787566643843,
-                                12.44785962012033
-                            ],
-                            [
-                                -85.74806611640847,
-                                12.44635538213357
-                            ],
-                            [
-                                -85.73860617910647,
-                                12.43452911721348
+                                -85.73578928041206,
+                                12.43205266210501
                             ],
                             [
                                 -85.73721678085613,
                                 12.43314049611397
                             ],
                             [
-                                -85.73578928041206,
-                                12.43205266210501
+                                -85.73860617910647,
+                                12.43452911721348
+                            ],
+                            [
+                                -85.74806611640847,
+                                12.44635538213357
+                            ],
+                            [
+                                -85.74787566643843,
+                                12.44785962012033
+                            ],
+                            [
+                                -85.74779948204024,
+                                12.4484613301595
+                            ],
+                            [
+                                -85.74638252591524,
+                                12.45470558167814
+                            ],
+                            [
+                                -85.74557508132679,
+                                12.45613595232529
+                            ],
+                            [
+                                -85.7444972520439,
+                                12.45722839501937
+                            ],
+                            [
+                                -85.74314903477693,
+                                12.45798287773256
+                            ],
+                            [
+                                -85.74176262881478,
+                                12.45903829109627
+                            ],
+                            [
+                                -85.74103125864798,
+                                12.45986693650476
+                            ],
+                            [
+                                -85.73995322784637,
+                                12.46095946751842
+                            ],
+                            [
+                                -85.73891330000079,
+                                12.46175107734948
+                            ],
+                            [
+                                -85.73213517637349,
+                                12.46826986984846
+                            ],
+                            [
+                                -85.73101850801761,
+                                12.46966361844932
+                            ],
+                            [
+                                -85.73059532283628,
+                                12.47052955662555
+                            ],
+                            [
+                                -85.72974889677536,
+                                12.47226148732942
+                            ],
+                            [
+                                -85.72552096676,
+                                12.48581411740363
+                            ],
+                            [
+                                -85.72544444051802,
+                                12.48641636605227
+                            ],
+                            [
+                                -85.72345375009955,
+                                12.50207799077378
+                            ],
+                            [
+                                -85.72268304314441,
+                                12.50320884393274
+                            ],
+                            [
+                                -85.72218273772354,
+                                12.50467807785264
+                            ],
+                            [
+                                -85.71787402033489,
+                                12.52129351025197
+                            ],
+                            [
+                                -85.71783565210829,
+                                12.52159492199505
+                            ],
+                            [
+                                -85.71510125095382,
+                                12.5307546713953
+                            ],
+                            [
+                                -85.71444499955254,
+                                12.53098203148032
+                            ],
+                            [
+                                -85.7116661716667,
+                                12.53309756184735
+                            ],
+                            [
+                                -85.7114488987146,
+                                12.533223252715484
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "id": "6cd2ba7d-d9d6-4835-a40a-98b7e4576904",
+                    "name": "fork - Juigalpa",
+                    "start": "51f17f2d-80a7-4c53-9cd7-fe91b823c5f1",
+                    "end": "9246529c-a4dd-4811-a0ee-48fb4600040c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                -85.75058731379063,
+                                12.41967637356645
                             ],
                             [
                                 -85.74596457785593,
@@ -5210,29 +5386,125 @@
                                 12.11804170722999
                             ],
                             [
-                                -85.3723758577856,
-                                12.11237904450959
-                            ],
-                            [
-                                -85.37235473997247,
-                                12.11236011527175
+                                -85.37241737259161,
+                                12.112438013395174
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "f2703bc4-89d5-479d-9944-b371bc55989c",
-                    "name": "network fork - Auto generated missing node",
-                    "start": "9bfc95c0-719e-4a18-987e-679a2adcc5c0",
-                    "end": "5100ddd6-5be5-4157-9738-184e676ae60c",
+                    "id": "62850413-9cfd-4ffd-8a2d-22a56f4f261d",
+                    "name": "fork - fork",
+                    "start": "69c89aae-14e8-41e3-b440-3f68fc6a17d6",
+                    "end": "51f17f2d-80a7-4c53-9cd7-fe91b823c5f1",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                -85.75058731379063,
+                                12.41967637356645
+                            ],
+                            [
+                                -85.73526724850016,
+                                12.431368658688164
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "id": "1f5326dd-9d47-4db5-973c-96bd1a730072",
+                    "name": "fork - Matagalpa",
+                    "start": "51f17f2d-80a7-4c53-9cd7-fe91b823c5f1",
+                    "end": "ddf5a55c-951f-49d6-834e-c858e223759e",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                -86.05444065496218,
+                                12.313966491462184
+                            ],
+                            [
+                                -86.04087346589858,
+                                12.31394718084344
+                            ],
+                            [
+                                -85.93063150802212,
+                                12.35179720713023
+                            ],
+                            [
+                                -85.9265245770449,
+                                12.35261403313723
+                            ],
+                            [
+                                -85.89514911014416,
+                                12.35801519231053
+                            ],
+                            [
+                                -85.88841336031581,
+                                12.35851789942062
+                            ],
+                            [
+                                -85.88430739414055,
+                                12.35933341218027
+                            ],
+                            [
+                                -85.86497701879611,
+                                12.38572258143583
+                            ],
+                            [
+                                -85.82791254711931,
+                                12.41519950838897
+                            ],
+                            [
+                                -85.82002532490819,
+                                12.4142570853043
+                            ],
+                            [
+                                -85.75137590827516,
+                                12.4190745176746
+                            ],
+                            [
+                                -85.75058731379063,
+                                12.41967637356645
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "id": "73f8c23d-addc-47df-9083-be013fa316f1",
+                    "name": "fork - Los Chiles",
+                    "start": "ac4cfdb0-a7ba-4fdb-9991-634bcb0f3e1e",
+                    "end": "6a353545-ed83-4464-93c3-012a17bb3ce4",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -5340,25 +5612,25 @@
                                 11.08638083323182
                             ],
                             [
-                                -84.69696532372164,
-                                11.0683111417202
+                                -84.71865403727125,
+                                11.06407586128385
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "bbbb698d-3454-4195-8479-0a2884a7e7ff",
-                    "name": "network fork - Auto generated missing node",
-                    "start": "9bfc95c0-719e-4a18-987e-679a2adcc5c0",
-                    "end": "50007e9e-8075-4bf5-93c9-41e150c6bc7b",
+                    "id": "2fe334a4-df3e-448c-9c88-56f23b3f37a0",
+                    "name": "fork - Border",
+                    "start": "ac4cfdb0-a7ba-4fdb-9991-634bcb0f3e1e",
+                    "end": "aeff35f0-a249-4a60-aaca-d2d5ff5af461",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -5430,25 +5702,25 @@
                                 10.98479258134522
                             ],
                             [
-                                -84.88039021056859,
-                                10.96678152530585
+                                -84.88037540411786,
+                                10.966880301395955
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "2bc53634-8eb3-4221-940e-9781a180b87c",
-                    "name": "Juigalpa - network fork",
-                    "start": "14046aae-1c3a-4258-9f5b-43561a717010",
-                    "end": "bdf4f9ec-4566-4311-9396-f912c1012f20",
+                    "id": "6c2d17eb-c975-48b2-b593-850264fb469e",
+                    "name": "Juigalpa - fork",
+                    "start": "9246529c-a4dd-4811-a0ee-48fb4600040c",
+                    "end": "e70732a0-f225-4937-90cf-d137b2dbbb0f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -5456,8 +5728,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -85.37235473848496,
-                                12.112360113938403
+                                -85.372280363887,
+                                12.112293447260146
                             ],
                             [
                                 -85.34660814539149,
@@ -5500,21 +5772,21 @@
                                 12.00421552415721
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "514d4d2e-9226-489e-9db3-976050704dcb",
-                    "name": "network fork - network fork",
-                    "start": "bdf4f9ec-4566-4311-9396-f912c1012f20",
-                    "end": "0066be3f-2d04-4d05-b0c6-3b73a173267e",
+                    "id": "6ede204f-b2cd-45c2-82f5-fe81aa052b32",
+                    "name": "fork - fork",
+                    "start": "e70732a0-f225-4937-90cf-d137b2dbbb0f",
+                    "end": "579f9a0d-3ccb-45d0-9813-f399f0acc54f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -5722,25 +5994,25 @@
                                 12.19225051395712
                             ],
                             [
-                                -84.2209450372981,
-                                12.162708311581019
+                                -84.22101682603696,
+                                12.162777831315129
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "c20a2ae0-a74d-4476-9a71-9d7971bf14ad",
-                    "name": "network fork - El Rama",
-                    "start": "0066be3f-2d04-4d05-b0c6-3b73a173267e",
-                    "end": "63317fc1-fae5-43f6-9a2e-35edda296fad",
+                    "id": "22f16137-f3f9-47a7-9105-480f787b8941",
+                    "name": "fork - El Rama",
+                    "start": "579f9a0d-3ccb-45d0-9813-f399f0acc54f",
+                    "end": "cb13d3b5-8128-4197-99ee-9f298d3fb099",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -5904,21 +6176,21 @@
                                 12.000367716807173
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "a4faeca1-1240-4c32-878b-1155cb117229",
-                    "name": "network fork - network fork",
-                    "start": "bdf4f9ec-4566-4311-9396-f912c1012f20",
-                    "end": "f4e676b4-a0ce-48f3-8d41-d1f06891d09a",
+                    "id": "3082d424-b24e-4705-93aa-46aec02a6785",
+                    "name": "fork - fork",
+                    "start": "e70732a0-f225-4937-90cf-d137b2dbbb0f",
+                    "end": "6114b88f-4b85-49a4-8840-52e5ea05b833",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6258,21 +6530,21 @@
                                 11.140718994987289
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "a09be43d-e3d7-41de-a32a-953ffa5b9913",
-                    "name": "network fork - network fork",
-                    "start": "f4e676b4-a0ce-48f3-8d41-d1f06891d09a",
-                    "end": "9bfc95c0-719e-4a18-987e-679a2adcc5c0",
+                    "id": "89f1efc1-12c4-43ca-97e3-1f0c026c9784",
+                    "name": "fork - fork",
+                    "start": "6114b88f-4b85-49a4-8840-52e5ea05b833",
+                    "end": "ac4cfdb0-a7ba-4fdb-9991-634bcb0f3e1e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6368,21 +6640,21 @@
                                 11.589353540506504
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "5ec4df42-d858-4cd7-bf9a-afa282980c81",
-                    "name": "network fork - network fork",
-                    "start": "f4e676b4-a0ce-48f3-8d41-d1f06891d09a",
-                    "end": "47eda305-dcc9-4186-b697-faeee3553543",
+                    "id": "4e5b153c-6ba6-4882-892b-e8480dacf9c9",
+                    "name": "fork - fork",
+                    "start": "6114b88f-4b85-49a4-8840-52e5ea05b833",
+                    "end": "94acc607-463a-4961-93c8-60339dd1fce9",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6502,21 +6774,21 @@
                                 11.790978719713195
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "997b79bc-93bd-41bd-9aa5-9bb91ab19d9e",
-                    "name": "network fork - network fork",
-                    "start": "0066be3f-2d04-4d05-b0c6-3b73a173267e",
-                    "end": "47eda305-dcc9-4186-b697-faeee3553543",
+                    "id": "e2f3299a-7aaf-4ff2-b40c-2b9d1f452b2b",
+                    "name": "fork - fork",
+                    "start": "579f9a0d-3ccb-45d0-9813-f399f0acc54f",
+                    "end": "94acc607-463a-4961-93c8-60339dd1fce9",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6584,25 +6856,25 @@
                                 11.69318067216689
                             ],
                             [
-                                -84.45529420467851,
-                                11.69323696421481
+                                -84.45539411592159,
+                                11.69323517788157
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "21d3347a-eed7-4eed-8179-c4aa88a6cf47",
-                    "name": "network fork - Nueva Guinea",
-                    "start": "47eda305-dcc9-4186-b697-faeee3553543",
-                    "end": "4bd4f8f6-a669-4d70-b380-d06d4aef90c5",
+                    "id": "bfb1c4ec-8e51-4bd6-8420-be93b6afebe3",
+                    "name": "fork - Nueva Guinea",
+                    "start": "94acc607-463a-4961-93c8-60339dd1fce9",
+                    "end": "c6aecd62-ff7f-4ff3-9aea-ad10c15befc3",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6698,21 +6970,145 @@
                                 11.790978719713195
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "da0b2e65-ef16-4a3d-b2f2-adfa62e27b94",
-                    "name": "network fork - Chinandega",
-                    "start": "e1d24a33-3663-4464-9961-13e080e7bed5",
-                    "end": "4bc2a46e-8e5f-4a13-9bae-754e90005044",
+                    "id": "a9269b10-2fb3-4dcc-b017-26a28f46f939",
+                    "name": "La Virgen - Rivas",
+                    "start": "9b321056-330a-45f3-9444-ade63ad271a3",
+                    "end": "d9abaa5b-ed7c-4d71-8860-e72ee3904d72",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                -85.75675812983705,
+                                11.372678943047777
+                            ],
+                            [
+                                -85.76626211018095,
+                                11.38600188330017
+                            ],
+                            [
+                                -85.7875526323493,
+                                11.40204355635217
+                            ],
+                            [
+                                -85.81108282428617,
+                                11.42561093932485
+                            ],
+                            [
+                                -85.81487343593703,
+                                11.42917684693879
+                            ],
+                            [
+                                -85.82342797709596,
+                                11.44074888955008
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "id": "9d9366d0-1855-47f5-93f0-b43f9acad9d4",
+                    "name": "Rivas - Nandaime",
+                    "start": "d9abaa5b-ed7c-4d71-8860-e72ee3904d72",
+                    "end": "c0b40805-c50e-4bac-a247-c76d639b5f5e",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                            "name": "Ufinet Nicaragua"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                -85.82342797709596,
+                                11.44074888955008
+                            ],
+                            [
+                                -85.83917104407507,
+                                11.44660622965863
+                            ],
+                            [
+                                -85.86299083588328,
+                                11.47642245065642
+                            ],
+                            [
+                                -85.8852669368438,
+                                11.51020117523005
+                            ],
+                            [
+                                -85.89838333272417,
+                                11.53251330598714
+                            ],
+                            [
+                                -85.90245016564984,
+                                11.57657512713386
+                            ],
+                            [
+                                -85.904977555017,
+                                11.59036628271769
+                            ],
+                            [
+                                -85.92601798684925,
+                                11.60013651114988
+                            ],
+                            [
+                                -85.94668262821213,
+                                11.61297421106869
+                            ],
+                            [
+                                -85.94655608791683,
+                                11.61399701869387
+                            ],
+                            [
+                                -85.97454867665256,
+                                11.6619626271841
+                            ],
+                            [
+                                -86.01502699621325,
+                                11.72077817434493
+                            ],
+                            [
+                                -86.02204669788783,
+                                11.74135258617161
+                            ],
+                            [
+                                -86.04616395045824,
+                                11.762940151636894
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
+                    }
+                },
+                {
+                    "id": "437b36f6-b01c-4184-800b-c01d05e926a0",
+                    "name": "fork - Chinandega",
+                    "start": "69c249d8-2fdf-433e-ab31-76e1903e3e66",
+                    "end": "192dfb2e-f8f5-465d-b97a-675047e784d7",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6748,21 +7144,21 @@
                                 12.63324253422065
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "0a7c6369-fe86-4160-8a51-1967409f98fe",
+                    "id": "480e9b1d-f78a-4bf3-b722-e8ab184293ed",
                     "name": "Chinandega - Corinto",
-                    "start": "4bc2a46e-8e5f-4a13-9bae-754e90005044",
-                    "end": "73bc637f-bde0-4a52-b7fa-8a20acaf74b0",
+                    "start": "192dfb2e-f8f5-465d-b97a-675047e784d7",
+                    "end": "65938920-2e53-4963-aa67-b7087fe4e764",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6822,25 +7218,25 @@
                                 12.49661256652294
                             ],
                             [
-                                -87.17621065558446,
-                                12.486285132064934
+                                -87.17624186548387,
+                                12.486380044508959
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "b03cc688-bad2-4af6-bbaf-737d1963475d",
-                    "name": "network fork - Boaco",
-                    "start": "c26b761c-24d8-47ae-8d5c-1a25c2fc9d06",
-                    "end": "fc760541-3956-4805-8178-fb4e324df235",
+                    "id": "c4d93e8a-e2ec-4489-b6f2-8c95f4677c95",
+                    "name": "fork - Boaco",
+                    "start": "e586018b-7a9c-4c8d-8dac-e3db871fd00a",
+                    "end": "626ef8b2-3288-40c5-ba6a-ad25da8a711f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6848,48 +7244,8 @@
                         "type": "LineString",
                         "coordinates": [
                             [
-                                -86.05444065496218,
-                                12.313966491462184
-                            ],
-                            [
-                                -86.04087346589858,
-                                12.31394718084344
-                            ],
-                            [
-                                -85.93063150802212,
-                                12.35179720713023
-                            ],
-                            [
-                                -85.9265245770449,
-                                12.35261403313723
-                            ],
-                            [
-                                -85.89514911014416,
-                                12.35801519231053
-                            ],
-                            [
-                                -85.88841336031581,
-                                12.35851789942062
-                            ],
-                            [
-                                -85.88430739414055,
-                                12.35933341218027
-                            ],
-                            [
-                                -85.86497701879611,
-                                12.38572258143583
-                            ],
-                            [
-                                -85.82791254711931,
-                                12.41519950838897
-                            ],
-                            [
-                                -85.82002532490819,
-                                12.4142570853043
-                            ],
-                            [
-                                -85.75137590827516,
-                                12.4190745176746
+                                -85.73526724850016,
+                                12.431368658688164
                             ],
                             [
                                 -85.73071302856344,
@@ -6908,21 +7264,21 @@
                                 12.4722172485908
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 },
                 {
-                    "id": "7006246a-19ca-403e-aef2-33d950217948",
-                    "name": "Boaco - Matagalpa",
-                    "start": "fc760541-3956-4805-8178-fb4e324df235",
-                    "end": "3ae3fd91-36db-442b-ab94-a724d5aa1722",
+                    "id": "4234767f-474b-45c8-a6c9-4102f8b8d7e4",
+                    "name": "Boaco - fork",
+                    "start": "626ef8b2-3288-40c5-ba6a-ad25da8a711f",
+                    "end": "69c89aae-14e8-41e3-b440-3f68fc6a17d6",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
-                            "id": "UFINET-NI",
+                            "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                             "name": "Ufinet Nicaragua"
                         }
                     ],
@@ -6986,16 +7342,20 @@
                                 12.770394257631128
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                        "name": "Ufinet"
                     }
                 }
             ],
             "organisations": [
                 {
-                    "id": "UFINET",
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
                     "name": "Ufinet"
                 },
                 {
-                    "id": "UFINET-NI",
+                    "id": "93035769-15a4-406d-a8c0-65988cf702bc",
                     "name": "Ufinet Nicaragua"
                 }
             ]

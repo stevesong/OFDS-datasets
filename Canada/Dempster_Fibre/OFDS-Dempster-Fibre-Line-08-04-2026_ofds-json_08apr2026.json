@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Dawson City",
                     "id": "9873744c-9968-40c1-81cf-c573bd1f5ae2",
-                    "physicalInfrastructureProvider": {
-                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
-                        "name": "Dempster Fibre Line"
-                    },
                     "networkProviders": [
                         {
                             "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
@@ -30,15 +26,15 @@
                             -139.43080007518242,
                             64.06011728267492
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                        "name": "Dempster Fibre Line"
                     }
                 },
                 {
                     "name": "Fort McPherson",
                     "id": "ebaac5d6-5989-4d37-b1f1-0d959990d004",
-                    "physicalInfrastructureProvider": {
-                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
-                        "name": "Dempster Fibre Line"
-                    },
                     "networkProviders": [
                         {
                             "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
@@ -52,15 +48,15 @@
                             -134.880838,
                             67.43518
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                        "name": "Dempster Fibre Line"
                     }
                 },
                 {
                     "name": "Inuvik",
                     "id": "07b38a27-5591-4a85-9dda-da689a0b9d4f",
-                    "physicalInfrastructureProvider": {
-                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
-                        "name": "Dempster Fibre Line"
-                    },
                     "networkProviders": [
                         {
                             "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
@@ -74,15 +70,15 @@
                             -133.72946364023892,
                             68.35927921216967
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                        "name": "Dempster Fibre Line"
                     }
                 },
                 {
                     "name": "Tsiigehtchic",
                     "id": "514c6894-c023-498b-b15d-03c5a153e775",
-                    "physicalInfrastructureProvider": {
-                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
-                        "name": "Dempster Fibre Line"
-                    },
                     "networkProviders": [
                         {
                             "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
@@ -96,6 +92,10 @@
                             -133.744003,
                             67.442684
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                        "name": "Dempster Fibre Line"
                     }
                 }
             ],
@@ -106,10 +106,6 @@
                     "start": "07b38a27-5591-4a85-9dda-da689a0b9d4f",
                     "end": "514c6894-c023-498b-b15d-03c5a153e775",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
-                        "name": "Dempster Fibre Line"
-                    },
                     "networkProviders": [
                         {
                             "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
@@ -2072,6 +2068,10 @@
                                 67.44276409188991
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                        "name": "Dempster Fibre Line"
                     }
                 },
                 {
@@ -2080,10 +2080,6 @@
                     "start": "514c6894-c023-498b-b15d-03c5a153e775",
                     "end": "ebaac5d6-5989-4d37-b1f1-0d959990d004",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
-                        "name": "Dempster Fibre Line"
-                    },
                     "networkProviders": [
                         {
                             "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
@@ -3222,6 +3218,10 @@
                                 67.43508004985011
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                        "name": "Dempster Fibre Line"
                     }
                 },
                 {
@@ -3230,10 +3230,6 @@
                     "start": "ebaac5d6-5989-4d37-b1f1-0d959990d004",
                     "end": "9873744c-9968-40c1-81cf-c573bd1f5ae2",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
-                        "name": "Dempster Fibre Line"
-                    },
                     "networkProviders": [
                         {
                             "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
@@ -22548,6 +22544,10 @@
                                 64.06006222233789
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                        "name": "Dempster Fibre Line"
                     }
                 }
             ],

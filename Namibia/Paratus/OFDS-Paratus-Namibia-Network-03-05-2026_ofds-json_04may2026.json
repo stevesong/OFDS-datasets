@@ -1,0 +1,4078 @@
+{
+    "networks": [
+        {
+            "id": "f67a19aa-8c57-4888-a600-15a77c9eda0f",
+            "name": "Paratus Namibia Network",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Keetmanshoop",
+                    "id": "ef3ceeaf-5935-4575-be38-23e89aeb7dc6",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.135566709365335,
+                            -26.57301910235801
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Luderitz",
+                    "id": "4e163ddf-56b7-44ce-8cbd-0bfe4c8f3d94",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.21878176240063,
+                            -26.66598476943825
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Rosh Pinah",
+                    "id": "3e21c44d-373a-41b1-a88e-2b219b089231",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.767100096132648,
+                            -27.96629881453674
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Oranjemund",
+                    "id": "590df8c5-d5ec-4d84-846d-3f864d4633e6",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.44833059806091,
+                            -28.53612474507629
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Mariental",
+                    "id": "26757161-4f72-4eca-b3e0-8fc528e0892b",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.955262139055527,
+                            -24.630209198502005
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Stampriet",
+                    "id": "f5359f6a-7fb6-4c7a-b86d-cd984549813b",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.394661011743814,
+                            -24.327992896752946
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Aranos",
+                    "id": "3172f66b-5947-41d4-86c0-234b5e1495a9",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            19.11032153224152,
+                            -24.14612681142159
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Grunau",
+                    "id": "160b67da-ae54-4d4b-bf54-2437ca6b7898",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.38115074753475,
+                            -27.73070242118401
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Karasburg",
+                    "id": "75dff145-012e-4710-8f94-95f11c19b675",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.75512493551848,
+                            -28.00491725923818
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Ariamsvlei",
+                    "id": "1ccddaef-a4c4-4f77-ad08-844ff68c4e81",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            19.835832150043824,
+                            -28.1200392962071
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Hardap Scheme",
+                    "id": "0bce97f6-f613-401f-82c4-0925589b8622",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.87704502002095,
+                            -24.4898256307136
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Rehoboth",
+                    "id": "74b86e7b-ea4f-4108-8028-5945b58acc06",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.11408622779643,
+                            -23.311560776560793
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Omeya",
+                    "id": "9d2bb37b-bd77-46a7-9863-6ad176b46f74",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.107063920199927,
+                            -22.86331769055565
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Windhoek",
+                    "id": "92812adb-1125-47f6-b375-1e61cc01090a",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.068223841052824,
+                            -22.582321959054283
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Finkenstein",
+                    "id": "f8a3e3b5-312f-4fdf-b06f-63c7b750f1cf",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.21904272299479,
+                            -22.55512533392389
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Neudamm",
+                    "id": "a84bc498-3310-406b-9779-2eb595e8f43c",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.3711510211228,
+                            -22.50906839343626
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Buitepos",
+                    "id": "83cd629d-8ce2-4217-804a-92fc3ddf82d8",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            19.98013284539472,
+                            -22.28355822075752
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Gobabis",
+                    "id": "c9d7a0a5-f055-4f2d-8aa8-557f08733cfa",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.97166967548954,
+                            -22.431625496930053
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Witvlei",
+                    "id": "8329803b-f8df-49a2-8fa6-0de3531967dd",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.49368401400577,
+                            -22.381462233418468
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Xai Quaz",
+                    "id": "466af0a6-7c09-45f8-badf-95396ef31502",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.895557090902336,
+                            -22.417225593630675
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Seeis",
+                    "id": "d5437ac0-7f75-4f27-a1e0-5cd163c09e82",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.588733705706893,
+                            -22.437199035913682
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Osona",
+                    "id": "89542263-d912-4505-a3bd-cb450c5238b9",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.935559727686265,
+                            -22.028525925073836
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Kappsfarm",
+                    "id": "6f6726b4-f7da-4766-a26e-35a64ef97aaa",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.259760819943914,
+                            -22.543439323807494
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Okahandja",
+                    "id": "778237fc-1760-4925-9224-eb8a79219a5c",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.909761810028993,
+                            -21.970367777121158
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Wilhelmstal",
+                    "id": "10c9dfad-c367-4c4f-ae6f-41cb7d81f8cf",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.32400082704654,
+                            -21.929906839059452
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Arandis",
+                    "id": "f392195a-1a8e-44d1-83b2-cefc7d4c0236",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.9858311628422,
+                            -22.433524169588303
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Walvis Bay",
+                    "id": "dd357d56-d732-4e8c-b862-cb79a6765837",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.5066187262759,
+                            -22.95791012381313
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Swakopmund",
+                    "id": "158fdd5a-a87e-468c-8f63-970b61030402",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.536928205326365,
+                            -22.684654710428347
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Ngoma",
+                    "id": "27b23da7-6280-4368-aa16-9ecaf1223743",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.6952625858911,
+                            -17.90942195419492
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Katima Mulilo",
+                    "id": "2cadeec4-05b3-41b8-b453-2b2acce34658",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.273241232826923,
+                            -17.50139979136977
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Kongola",
+                    "id": "537dbe3a-eafe-44ff-b850-b4fc4e74eaf9",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.389693675657753,
+                            -17.801274528568623
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Rundu",
+                    "id": "6cc3a0b7-d6fe-4e8d-b4e7-d5eed72ed429",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            19.75402851053302,
+                            -17.915539047383557
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Ngone",
+                    "id": "2a2aa53d-9159-44ff-91cb-bc644c96eed6",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            20.415533160847954,
+                            -17.94250740641239
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Grootfontein",
+                    "id": "8f3c82cd-f9ce-4290-b01f-5c0c2cee9faa",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.11687895952068,
+                            -19.55768214462432
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Otavi",
+                    "id": "0839b964-24e3-47bf-bef9-e54647c88f54",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.337539618510274,
+                            -19.642203924073943
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Otjiwarongo",
+                    "id": "51422df5-18f3-498e-b52f-96d13696af6d",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.651027921351588,
+                            -20.46065966688302
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Maruru",
+                    "id": "8d86a41f-43c5-4a81-8850-0e85db70035d",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.965896276375833,
+                            -21.421482271279295
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Khorixas",
+                    "id": "05b4319a-29ee-4587-a357-12712485baf0",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.99159763767346,
+                            -20.35141545864725
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Kamanjab",
+                    "id": "7140e0f5-dba2-4e21-9aab-b6e311cce4db",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.846579711766527,
+                            -19.62163306998187
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Opuwo",
+                    "id": "7f4990f0-dab9-4928-94a7-7996b567b4a2",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            13.85881560033731,
+                            -18.05345902738491
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Onesi",
+                    "id": "322cb25a-ec80-4688-b62e-097e37cd3086",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.676848431142872,
+                            -17.607560776173134
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Oshivelo",
+                    "id": "47531646-d01c-4b98-a2db-c177c0338a90",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.1746597623246,
+                            -18.616168692769374
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Outjo",
+                    "id": "910a4d35-ee3c-42a4-b2c3-0ddcf02dd327",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.17001346777643,
+                            -20.11258400917858
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Omuthiya",
+                    "id": "f236eeb9-4d96-45be-920d-9d498b2fc17c",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.58527217496496,
+                            -18.356348163071527
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Okahao",
+                    "id": "42052bd0-0e40-4e6e-b6fa-cd655ece9f09",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.06743968668439,
+                            -17.87688995468376
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Omaalala",
+                    "id": "0f4d5372-aeca-4d4e-9348-48c1f5904470",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.855956918983484,
+                            -17.824949784891114
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Ondobe",
+                    "id": "d9649a8d-d0da-4362-acc3-86826d1acce5",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.060755220156857,
+                            -17.51301897183829
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Eenhana",
+                    "id": "26197e0a-c614-42e5-8276-00f6492a8dc3",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.33075540485664,
+                            -17.4720728885074
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Ongwediva",
+                    "id": "656832fb-403a-41a7-b8cc-39fcf105da85",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.764961532429114,
+                            -17.775035576727156
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Oshakati",
+                    "id": "22503b52-58ed-493e-b037-c9636dfeee00",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.705804936386585,
+                            -17.789402331016355
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Outapi",
+                    "id": "dc04cd86-9493-4a9b-89fa-b26af919374b",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.992833693029217,
+                            -17.503941653637348
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Engela",
+                    "id": "f0d5f6f0-d35b-4527-aaaa-306af723f3e0",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.823708198300078,
+                            -17.441295172851085
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Tsandi",
+                    "id": "b924c8da-385d-4fcf-b1f8-da91a0526537",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.893181280331753,
+                            -17.737425537042473
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Tsumeb",
+                    "id": "c863416e-28cc-4414-bb39-559702a6cadf",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.727410167261695,
+                            -19.245189702045256
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Kalkfeld",
+                    "id": "06d2be4c-e9a1-49bd-bc27-939aaed1f2a7",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            16.168886074887016,
+                            -20.87890613319256
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Usakos",
+                    "id": "eb16f878-6db0-4c61-8ed6-4d040d90595e",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.609430975362308,
+                            -22.042650394225788
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Ogongo",
+                    "id": "cad80587-58c2-4c84-b01a-ab8199de8685",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.29308075329845,
+                            -17.67644602231452
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Oshifu",
+                    "id": "4e85b1a4-8dcf-4e76-8532-0988518390a9",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            14.436571268882672,
+                            -17.43151801655577
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Ombathi",
+                    "id": "be88f6be-6c3a-4a80-9f3b-f8cc742bea30",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.094637568606824,
+                            -17.562019113672115
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "Oshuungu",
+                    "id": "e8b17ef7-b485-47e5-930b-3aaa418b0a80",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.535128761366002,
+                            -17.689921229167496
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "0af5e1c3-610c-48e3-a8f0-121e9f80a3d8",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.13011748485028,
+                            -26.50641631779876
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "6dd56a7c-06ba-4766-8d0a-d53752c99707",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            17.85678237259043,
+                            -24.43797596258716
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "0f09bcc1-350b-4e66-8b00-5ecbc9db94db",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            15.761731319822953,
+                            -21.933703960204205
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "b673ea0e-5ab7-4b4c-a5b6-3a1c165d2dda",
+                    "name": "Oranjemund - Rosh Pinah",
+                    "start": "590df8c5-d5ec-4d84-846d-3f864d4633e6",
+                    "end": "3e21c44d-373a-41b1-a88e-2b219b089231",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.44837475006855,
+                                -28.536035139889055
+                            ],
+                            [
+                                16.52430318726571,
+                                -28.38194063331601
+                            ],
+                            [
+                                16.53156436798113,
+                                -28.37880095801469
+                            ],
+                            [
+                                16.60361305811501,
+                                -28.19014451369641
+                            ],
+                            [
+                                16.74167345092367,
+                                -28.01316139789643
+                            ],
+                            [
+                                16.76705241955789,
+                                -27.96638668485705
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "3d90601f-1f65-4a15-9f02-e2bea423bdba",
+                    "name": "Rosh Pinah - Keetmanshoop",
+                    "start": "3e21c44d-373a-41b1-a88e-2b219b089231",
+                    "end": "ef3ceeaf-5935-4575-be38-23e89aeb7dc6",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.767147772707407,
+                                -27.966210944216424
+                            ],
+                            [
+                                16.77258336067375,
+                                -27.956192882766
+                            ],
+                            [
+                                16.97800305900948,
+                                -27.77375574874324
+                            ],
+                            [
+                                17.25004987520035,
+                                -27.6277655599601
+                            ],
+                            [
+                                17.56942450464756,
+                                -27.3914393665587
+                            ],
+                            [
+                                17.90529710083243,
+                                -27.05593600602346
+                            ],
+                            [
+                                17.98134926248149,
+                                -26.84601494460172
+                            ],
+                            [
+                                18.135517567039415,
+                                -26.573106094140886
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "f6d8608b-67d0-445c-9bdd-b02c1e50edbc",
+                    "name": "Karasburg - Grunau",
+                    "start": "75dff145-012e-4710-8f94-95f11c19b675",
+                    "end": "160b67da-ae54-4d4b-bf54-2437ca6b7898",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                18.75512493551848,
+                                -28.00491725923818
+                            ],
+                            [
+                                18.60968614474581,
+                                -27.86071311172295
+                            ],
+                            [
+                                18.381237584612073,
+                                -27.73075182162055
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "40ade17e-b1de-4c7e-9035-14c041930bd3",
+                    "name": "Grunau - Keetmanshoop",
+                    "start": "160b67da-ae54-4d4b-bf54-2437ca6b7898",
+                    "end": "ef3ceeaf-5935-4575-be38-23e89aeb7dc6",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                18.381203729818747,
+                                -27.73061773098343
+                            ],
+                            [
+                                18.46356523622877,
+                                -27.59896594152508
+                            ],
+                            [
+                                18.54881086760917,
+                                -27.31080977427943
+                            ],
+                            [
+                                18.57855983213679,
+                                -26.98287823034762
+                            ],
+                            [
+                                18.46712737579043,
+                                -26.74598767735585
+                            ],
+                            [
+                                18.135566709365335,
+                                -26.57301910235801
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "79b1c9d6-bbb5-4648-974d-db9f9513c5cb",
+                    "name": "Ariamsvlei - Karasburg",
+                    "start": "1ccddaef-a4c4-4f77-ad08-844ff68c4e81",
+                    "end": "75dff145-012e-4710-8f94-95f11c19b675",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                19.835734378699634,
+                                -28.120018560828232
+                            ],
+                            [
+                                19.68872904519898,
+                                -28.08884162129297
+                            ],
+                            [
+                                19.52461656789976,
+                                -28.08863065188406
+                            ],
+                            [
+                                19.32825174540207,
+                                -28.06981314300119
+                            ],
+                            [
+                                19.1374387615341,
+                                -28.00476826549236
+                            ],
+                            [
+                                19.03654274695263,
+                                -28.00732737995915
+                            ],
+                            [
+                                18.87136946955264,
+                                -28.00509721607033
+                            ],
+                            [
+                                18.755224927913787,
+                                -28.004917414035262
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "d285e91c-b2c2-4782-bcfe-0c0ab2b000b4",
+                    "name": "Luderitz - Keetmanshoop",
+                    "start": "4e163ddf-56b7-44ce-8cbd-0bfe4c8f3d94",
+                    "end": "ef3ceeaf-5935-4575-be38-23e89aeb7dc6",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.218880309006527,
+                                -26.66600112294585
+                            ],
+                            [
+                                15.38534131372979,
+                                -26.69362481714754
+                            ],
+                            [
+                                15.61595376267821,
+                                -26.60440870424389
+                            ],
+                            [
+                                15.84432776507664,
+                                -26.59361496043586
+                            ],
+                            [
+                                16.18999450131222,
+                                -26.6146686445134
+                            ],
+                            [
+                                16.63678118458024,
+                                -26.64442841174768
+                            ],
+                            [
+                                16.93764224917319,
+                                -26.64334585729848
+                            ],
+                            [
+                                17.22736415140792,
+                                -26.72258128523444
+                            ],
+                            [
+                                17.37108616545622,
+                                -26.79016746296909
+                            ],
+                            [
+                                17.60951588241927,
+                                -26.76689779106816
+                            ],
+                            [
+                                17.92252534710696,
+                                -26.75819360736941
+                            ],
+                            [
+                                18.135566709365335,
+                                -26.57301910235801
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "9905f48d-1e45-4bfd-9783-c6d6f7eefe68",
+                    "name": "default-node - Mariental",
+                    "start": "0af5e1c3-610c-48e3-a8f0-121e9f80a3d8",
+                    "end": "26757161-4f72-4eca-b3e0-8fc528e0892b",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                18.13011748485028,
+                                -26.50641631779876
+                            ],
+                            [
+                                18.12997134380609,
+                                -26.4931389134654
+                            ],
+                            [
+                                18.10672022285355,
+                                -25.87145007271355
+                            ],
+                            [
+                                17.97261419054815,
+                                -25.58170083528604
+                            ],
+                            [
+                                17.90674669974943,
+                                -25.30757483124171
+                            ],
+                            [
+                                17.91143957416534,
+                                -25.05937329030845
+                            ],
+                            [
+                                17.93679731252658,
+                                -24.7998845446706
+                            ],
+                            [
+                                17.95665829105403,
+                                -24.6327150028725
+                            ],
+                            [
+                                17.95531077659757,
+                                -24.630296492840692
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "519af56f-13e0-4e50-aa3a-96017b9f0581",
+                    "name": "Mariental - Hardap Scheme",
+                    "start": "26757161-4f72-4eca-b3e0-8fc528e0892b",
+                    "end": "0bce97f6-f613-401f-82c4-0925589b8622",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.955213501513487,
+                                -24.630121904163314
+                            ],
+                            [
+                                17.87709365756299,
+                                -24.48991292505229
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "a5c54025-9665-4a96-9c11-9872d28202da",
+                    "name": "Rehoboth - Omeya",
+                    "start": "74b86e7b-ea4f-4108-8028-5945b58acc06",
+                    "end": "9d2bb37b-bd77-46a7-9863-6ad176b46f74",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.11403067527586,
+                                -23.31147762690073
+                            ],
+                            [
+                                17.11162192696136,
+                                -23.30787227107765
+                            ],
+                            [
+                                17.11799285496409,
+                                -23.02328830852871
+                            ],
+                            [
+                                17.10756852905509,
+                                -22.86912836056157
+                            ],
+                            [
+                                17.107072567485112,
+                                -22.86341726574177
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "48685fb3-2ba5-48ac-9c35-c64b2cb4b0c4",
+                    "name": "Omeya - Windhoek",
+                    "start": "9d2bb37b-bd77-46a7-9863-6ad176b46f74",
+                    "end": "92812adb-1125-47f6-b375-1e61cc01090a",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.10705527291474,
+                                -22.86321811536953
+                            ],
+                            [
+                                17.09518777892777,
+                                -22.72656159289723
+                            ],
+                            [
+                                17.07471290862024,
+                                -22.63196458291643
+                            ],
+                            [
+                                17.068236788675463,
+                                -22.58242101087549
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "aba815f7-4d01-4908-b137-3365ecb64ac1",
+                    "name": "Stampriet - Aranos",
+                    "start": "f5359f6a-7fb6-4c7a-b86d-cd984549813b",
+                    "end": "3172f66b-5947-41d4-86c0-234b5e1495a9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                18.394750562143344,
+                                -24.327948628906437
+                            ],
+                            [
+                                18.47506506677322,
+                                -24.28824640331797
+                            ],
+                            [
+                                18.67723229643408,
+                                -24.21678595375194
+                            ],
+                            [
+                                18.91371197847304,
+                                -24.16501570613086
+                            ],
+                            [
+                                19.110222002001372,
+                                -24.14613637360303
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "19a99856-6f66-4310-86b3-5fc429443a30",
+                    "name": "Buitepos - Gobabis",
+                    "start": "83cd629d-8ce2-4217-804a-92fc3ddf82d8",
+                    "end": "c9d7a0a5-f055-4f2d-8aa8-557f08733cfa",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                19.980033312218822,
+                                -22.283567723180347
+                            ],
+                            [
+                                19.78599187902937,
+                                -22.30209284033226
+                            ],
+                            [
+                                19.56012615005848,
+                                -22.31650242374771
+                            ],
+                            [
+                                19.30115160074475,
+                                -22.35794134752098
+                            ],
+                            [
+                                19.13722667833146,
+                                -22.39236072909553
+                            ],
+                            [
+                                19.00243627217603,
+                                -22.43773870406846
+                            ],
+                            [
+                                18.971767757071877,
+                                -22.431644985371864
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "9dc28426-42e0-436b-b697-4ee2bd373915",
+                    "name": "Gobabis - Xai Quaz",
+                    "start": "c9d7a0a5-f055-4f2d-8aa8-557f08733cfa",
+                    "end": "466af0a6-7c09-45f8-badf-95396ef31502",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                18.971571593907203,
+                                -22.431606008488238
+                            ],
+                            [
+                                18.90681344284911,
+                                -22.41873880723902
+                            ],
+                            [
+                                18.895656089187277,
+                                -22.417238902165508
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "bee2c188-a5c3-41a5-969b-efbe7d107c92",
+                    "name": "Xai Quaz - Witvlei",
+                    "start": "466af0a6-7c09-45f8-badf-95396ef31502",
+                    "end": "8329803b-f8df-49a2-8fa6-0de3531967dd",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                18.895458092617396,
+                                -22.417212285095843
+                            ],
+                            [
+                                18.66768991747642,
+                                -22.38659295977617
+                            ],
+                            [
+                                18.51008685432695,
+                                -22.38201645253326
+                            ],
+                            [
+                                18.493783848291056,
+                                -22.38146560661897
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "3f1d1eae-82db-4cc9-9945-3aea0abdbd5d",
+                    "name": "Witvlei - Seeis",
+                    "start": "8329803b-f8df-49a2-8fa6-0de3531967dd",
+                    "end": "d5437ac0-7f75-4f27-a1e0-5cd163c09e82",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                18.493584179720482,
+                                -22.381458860217965
+                            ],
+                            [
+                                18.36757095892586,
+                                -22.37720112592844
+                            ],
+                            [
+                                18.01106877141991,
+                                -22.36153685260883
+                            ],
+                            [
+                                17.74252617606282,
+                                -22.3976676057584
+                            ],
+                            [
+                                17.588830442482838,
+                                -22.43717417030685
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "a458f5eb-16b9-44f1-a78a-b6171e580382",
+                    "name": "Seeis - Neudamm",
+                    "start": "d5437ac0-7f75-4f27-a1e0-5cd163c09e82",
+                    "end": "a84bc498-3310-406b-9779-2eb595e8f43c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.58863696893095,
+                                -22.437223901520515
+                            ],
+                            [
+                                17.57049456737577,
+                                -22.44188729679772
+                            ],
+                            [
+                                17.46135861478685,
+                                -22.47884255779271
+                            ],
+                            [
+                                17.37217907794048,
+                                -22.50863314072372
+                            ],
+                            [
+                                17.371243075572522,
+                                -22.50902941995906
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "c037d48c-fc89-4d04-8e10-0870f6e852e1",
+                    "name": "Neudamm - Kappsfarm",
+                    "start": "a84bc498-3310-406b-9779-2eb595e8f43c",
+                    "end": "6f6726b4-f7da-4766-a26e-35a64ef97aaa",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.371058966673075,
+                                -22.509107366913458
+                            ],
+                            [
+                                17.31527512606612,
+                                -22.53272480470722
+                            ],
+                            [
+                                17.26757523439635,
+                                -22.54119660292447
+                            ],
+                            [
+                                17.25985687957593,
+                                -22.543411754890585
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "8d8675e2-12e1-48f1-a89f-b06fba2853f4",
+                    "name": "Kappsfarm - Finkenstein",
+                    "start": "6f6726b4-f7da-4766-a26e-35a64ef97aaa",
+                    "end": "f8a3e3b5-312f-4fdf-b06f-63c7b750f1cf",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.259664760311896,
+                                -22.543466892724407
+                            ],
+                            [
+                                17.219138782626807,
+                                -22.555097765006977
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "041f8c2b-245a-43b2-a612-bde2e85191f5",
+                    "name": "Finkenstein - Windhoek",
+                    "start": "f8a3e3b5-312f-4fdf-b06f-63c7b750f1cf",
+                    "end": "92812adb-1125-47f6-b375-1e61cc01090a",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.21894666336277,
+                                -22.5551529028408
+                            ],
+                            [
+                                17.21829894233158,
+                                -22.55533879744517
+                            ],
+                            [
+                                17.1262677741232,
+                                -22.57826264347236
+                            ],
+                            [
+                                17.068223841052824,
+                                -22.582321959054283
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "27ad0c4f-be1b-4535-ab42-4c559e69d9c2",
+                    "name": "Ngoma - Katima Mulilo",
+                    "start": "27b23da7-6280-4368-aa16-9ecaf1223743",
+                    "end": "2cadeec4-05b3-41b8-b453-2b2acce34658",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.69520156960654,
+                                -17.90934285609778
+                            ],
+                            [
+                                24.69149119182203,
+                                -17.90453292995219
+                            ],
+                            [
+                                24.60324527743791,
+                                -17.79552255278191
+                            ],
+                            [
+                                24.59756657373705,
+                                -17.78734843871183
+                            ],
+                            [
+                                24.48029611619572,
+                                -17.69635502371344
+                            ],
+                            [
+                                24.34387980092038,
+                                -17.56565521475998
+                            ],
+                            [
+                                24.28228022601733,
+                                -17.48731405532057
+                            ],
+                            [
+                                24.273295200558586,
+                                -17.50131569182379
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "5bb81792-321b-405e-adb4-f95fa5d8d1d9",
+                    "name": "Katima Mulilo - Kongola",
+                    "start": "2cadeec4-05b3-41b8-b453-2b2acce34658",
+                    "end": "537dbe3a-eafe-44ff-b850-b4fc4e74eaf9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.273187265095256,
+                                -17.501483890915747
+                            ],
+                            [
+                                24.1912963420138,
+                                -17.62909698930535
+                            ],
+                            [
+                                23.85188071311863,
+                                -17.73640500286665
+                            ],
+                            [
+                                23.66060562426464,
+                                -17.84932632880627
+                            ],
+                            [
+                                23.47829074524503,
+                                -17.84237818997612
+                            ],
+                            [
+                                23.38978428176778,
+                                -17.801316564302823
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "2d370781-904d-4122-bbac-38e6c0e86396",
+                    "name": "Kongola - Ngone",
+                    "start": "537dbe3a-eafe-44ff-b850-b4fc4e74eaf9",
+                    "end": "2a2aa53d-9159-44ff-91cb-bc644c96eed6",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                23.389603069547725,
+                                -17.801232492834423
+                            ],
+                            [
+                                23.37366632070344,
+                                -17.7938388089182
+                            ],
+                            [
+                                23.22016987722595,
+                                -17.79249616554272
+                            ],
+                            [
+                                22.71972755594622,
+                                -17.92522830949219
+                            ],
+                            [
+                                22.22343680280201,
+                                -18.02761210893166
+                            ],
+                            [
+                                21.9314387093511,
+                                -18.03415368286213
+                            ],
+                            [
+                                21.47540657140934,
+                                -18.09163721707286
+                            ],
+                            [
+                                21.20232802888486,
+                                -17.99093771765834
+                            ],
+                            [
+                                21.08600150751175,
+                                -17.99705540579631
+                            ],
+                            [
+                                20.82435380980287,
+                                -18.04995053161088
+                            ],
+                            [
+                                20.57402160057504,
+                                -18.03159095753791
+                            ],
+                            [
+                                20.42674597768798,
+                                -17.94388992071699
+                            ],
+                            [
+                                20.415632319703334,
+                                -17.942519632469228
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "295d484e-8ae9-4f7a-ad4b-a783c6caabb0",
+                    "name": "Ngone - Rundu",
+                    "start": "2a2aa53d-9159-44ff-91cb-bc644c96eed6",
+                    "end": "6cc3a0b7-d6fe-4e8d-b4e7-d5eed72ed429",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                20.415434001992573,
+                                -17.942495180355554
+                            ],
+                            [
+                                20.25112403552063,
+                                -17.92223614265994
+                            ],
+                            [
+                                20.07665603924691,
+                                -17.94235643479935
+                            ],
+                            [
+                                19.754128103842426,
+                                -17.91554732576071
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "c0b15c81-6749-4307-84d8-7bff7593d9bd",
+                    "name": "Rundu - Grootfontein",
+                    "start": "6cc3a0b7-d6fe-4e8d-b4e7-d5eed72ed429",
+                    "end": "8f3c82cd-f9ce-4290-b01f-5c0c2cee9faa",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                19.75392891722361,
+                                -17.915530769006402
+                            ],
+                            [
+                                19.74272771817082,
+                                -17.91459970495332
+                            ],
+                            [
+                                19.53314764677338,
+                                -18.15257853998684
+                            ],
+                            [
+                                19.31677622564398,
+                                -18.39961107729149
+                            ],
+                            [
+                                18.82407720326422,
+                                -18.89824930830174
+                            ],
+                            [
+                                18.52451686148058,
+                                -19.22194576360314
+                            ],
+                            [
+                                18.116956142807897,
+                                -19.557618575369837
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "76e28b13-676c-4bff-aea8-c93d22a49621",
+                    "name": "Grootfontein - Tsumeb",
+                    "start": "8f3c82cd-f9ce-4290-b01f-5c0c2cee9faa",
+                    "end": "c863416e-28cc-4414-bb39-559702a6cadf",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                18.116801483297746,
+                                -19.557618941495544
+                            ],
+                            [
+                                17.90492561523137,
+                                -19.38477600637797
+                            ],
+                            [
+                                17.727488712028542,
+                                -19.245251464409346
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "4a920550-f4c6-4908-a25b-9e7857c49199",
+                    "name": "Tsumeb - Oshivelo",
+                    "start": "c863416e-28cc-4414-bb39-559702a6cadf",
+                    "end": "47531646-d01c-4b98-a2db-c177c0338a90",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.727331622494848,
+                                -19.24512793968117
+                            ],
+                            [
+                                17.72474509936148,
+                                -19.24309407046366
+                            ],
+                            [
+                                17.57605017662787,
+                                -19.1859628284054
+                            ],
+                            [
+                                17.48833777296512,
+                                -19.04044082838635
+                            ],
+                            [
+                                17.24616861158606,
+                                -18.77625578734578
+                            ],
+                            [
+                                17.174700507552192,
+                                -18.61625990924357
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "8efa315b-0be1-4ea6-862b-8de75d10df04",
+                    "name": "Oshivelo - Omuthiya",
+                    "start": "47531646-d01c-4b98-a2db-c177c0338a90",
+                    "end": "f236eeb9-4d96-45be-920d-9d498b2fc17c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.174619017097,
+                                -18.616077476295178
+                            ],
+                            [
+                                17.17122716061933,
+                                -18.60848411611195
+                            ],
+                            [
+                                17.08677428143653,
+                                -18.52398085474961
+                            ],
+                            [
+                                16.78418335040192,
+                                -18.45389836004283
+                            ],
+                            [
+                                16.77533397893715,
+                                -18.45389889637194
+                            ],
+                            [
+                                16.60537492353927,
+                                -18.37997311841148
+                            ],
+                            [
+                                16.585336933737658,
+                                -18.35642426824228
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "fad702d9-f571-478d-96e8-2240a36d9818",
+                    "name": "Omuthiya - Omaalala",
+                    "start": "f236eeb9-4d96-45be-920d-9d498b2fc17c",
+                    "end": "0f4d5372-aeca-4d4e-9348-48c1f5904470",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.585207416192265,
+                                -18.356272057900775
+                            ],
+                            [
+                                16.56818200751954,
+                                -18.33626362382765
+                            ],
+                            [
+                                16.30847992011017,
+                                -18.13809306101586
+                            ],
+                            [
+                                16.16760617613291,
+                                -18.0085021699029
+                            ],
+                            [
+                                15.97373317492826,
+                                -17.90863892581881
+                            ],
+                            [
+                                15.856038353725367,
+                                -17.82500765057495
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "b76c7e88-7bfa-4c98-8c9f-e83847247112",
+                    "name": "Omaalala - Ongwediva",
+                    "start": "0f4d5372-aeca-4d4e-9348-48c1f5904470",
+                    "end": "656832fb-403a-41a7-b8cc-39fcf105da85",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.855875484241599,
+                                -17.82489191920728
+                            ],
+                            [
+                                15.85212884940402,
+                                -17.82222964531844
+                            ],
+                            [
+                                15.78196268980706,
+                                -17.80094053273149
+                            ],
+                            [
+                                15.76582048878981,
+                                -17.77480855671072
+                            ],
+                            [
+                                15.765058104356605,
+                                -17.77501005300841
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "4f8d2be0-d942-4915-b02a-d1749cd3d3cd",
+                    "name": "Ongwediva - Oshakati",
+                    "start": "656832fb-403a-41a7-b8cc-39fcf105da85",
+                    "end": "22503b52-58ed-493e-b037-c9636dfeee00",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.764864960501622,
+                                -17.775061100445903
+                            ],
+                            [
+                                15.70745137614484,
+                                -17.79023536710324
+                            ],
+                            [
+                                15.705894089401768,
+                                -17.789447439061473
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "dbaee6f7-611b-4c1f-b5d3-d11d32b96270",
+                    "name": "Oshakati - Oshuungu",
+                    "start": "22503b52-58ed-493e-b037-c9636dfeee00",
+                    "end": "e8b17ef7-b485-47e5-930b-3aaa418b0a80",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.705715783371403,
+                                -17.789357222971233
+                            ],
+                            [
+                                15.66988876343398,
+                                -17.77123010939553
+                            ],
+                            [
+                                15.552618047755,
+                                -17.70408943579728
+                            ],
+                            [
+                                15.535206440993683,
+                                -17.68998415803671
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "e7301b99-17e9-4327-8c73-78e08c168a10",
+                    "name": "Oshuungu - Ogongo",
+                    "start": "e8b17ef7-b485-47e5-930b-3aaa418b0a80",
+                    "end": "cad80587-58c2-4c84-b01a-ab8199de8685",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.535051081738322,
+                                -17.689858300298276
+                            ],
+                            [
+                                15.50540376922827,
+                                -17.66584078235515
+                            ],
+                            [
+                                15.41934259009681,
+                                -17.65201184023933
+                            ],
+                            [
+                                15.31788170822488,
+                                -17.66389012560543
+                            ],
+                            [
+                                15.31509974024012,
+                                -17.66454984979359
+                            ],
+                            [
+                                15.31092882681794,
+                                -17.66454804512941
+                            ],
+                            [
+                                15.30397752276027,
+                                -17.66520672427868
+                            ],
+                            [
+                                15.30119676644905,
+                                -17.66520570133145
+                            ],
+                            [
+                                15.29313922714216,
+                                -17.676365038614737
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "d375d7b6-e963-4ebe-8e59-69f482ae445a",
+                    "name": "Ogongo - Okahao",
+                    "start": "cad80587-58c2-4c84-b01a-ab8199de8685",
+                    "end": "42052bd0-0e40-4e6e-b6fa-cd655ece9f09",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.293022279454739,
+                                -17.6765270060143
+                            ],
+                            [
+                                15.28449630720013,
+                                -17.68833510231186
+                            ],
+                            [
+                                15.28310335747728,
+                                -17.69031759939879
+                            ],
+                            [
+                                15.28031762484429,
+                                -17.69296052096869
+                            ],
+                            [
+                                15.16360017163221,
+                                -17.79502865006733
+                            ],
+                            [
+                                15.06751577677955,
+                                -17.876825179277716
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "6716ba2e-1621-48b9-81f4-8c0bc321070e",
+                    "name": "Tsumeb - Otavi",
+                    "start": "c863416e-28cc-4414-bb39-559702a6cadf",
+                    "end": "0839b964-24e3-47bf-bef9-e54647c88f54",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.727410167261695,
+                                -19.245189702045256
+                            ],
+                            [
+                                17.55996074507248,
+                                -19.48343777745
+                            ],
+                            [
+                                17.33762092564396,
+                                -19.64214588633037
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "39d39577-780a-49bb-a383-9f3924ed3c04",
+                    "name": "Otavi - Otjiwarongo",
+                    "start": "0839b964-24e3-47bf-bef9-e54647c88f54",
+                    "end": "51422df5-18f3-498e-b52f-96d13696af6d",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.337458311376587,
+                                -19.642261961817514
+                            ],
+                            [
+                                17.33724967183676,
+                                -19.64241089054692
+                            ],
+                            [
+                                16.98784156785968,
+                                -20.02581085976085
+                            ],
+                            [
+                                16.79737220383566,
+                                -20.26464170631076
+                            ],
+                            [
+                                16.66616906534475,
+                                -20.45079145490225
+                            ],
+                            [
+                                16.651111657132528,
+                                -20.460605092246055
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "8dabef5b-962a-4989-a921-a6f3af9ebea0",
+                    "name": "Otjiwarongo - Kalkfeld",
+                    "start": "51422df5-18f3-498e-b52f-96d13696af6d",
+                    "end": "06d2be4c-e9a1-49bd-bc27-939aaed1f2a7",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.650944185570648,
+                                -20.460714241519987
+                            ],
+                            [
+                                16.25961940753378,
+                                -20.71575942600141
+                            ],
+                            [
+                                16.168934645548408,
+                                -20.878818798767153
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "180632ad-b672-4c04-976a-9d000ff826e1",
+                    "name": "Kalkfeld - Maruru",
+                    "start": "06d2be4c-e9a1-49bd-bc27-939aaed1f2a7",
+                    "end": "8d86a41f-43c5-4a81-8850-0e85db70035d",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.168837504225625,
+                                -20.87899346761797
+                            ],
+                            [
+                                16.12694915174367,
+                                -20.95431249952986
+                            ],
+                            [
+                                15.97333360319729,
+                                -21.25283473717671
+                            ],
+                            [
+                                15.965900676824873,
+                                -21.421382487459496
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "3f4bc957-964d-4c0f-907d-776af9b97e30",
+                    "name": "Usakos - Arandis",
+                    "start": "eb16f878-6db0-4c61-8ed6-4d040d90595e",
+                    "end": "f392195a-1a8e-44d1-83b2-cefc7d4c0236",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.609346133285966,
+                                -22.042703123120386
+                            ],
+                            [
+                                15.41956159909128,
+                                -22.16065319142502
+                            ],
+                            [
+                                15.15075954389863,
+                                -22.34439031973723
+                            ],
+                            [
+                                14.98591911825813,
+                                -22.433476634987
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "1d963760-3bcc-48ae-a502-1eab55a21f9a",
+                    "name": "Arandis - Swakopmund",
+                    "start": "f392195a-1a8e-44d1-83b2-cefc7d4c0236",
+                    "end": "158fdd5a-a87e-468c-8f63-970b61030402",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.98574320742627,
+                                -22.433571704189607
+                            ],
+                            [
+                                14.98487253592739,
+                                -22.43404224966003
+                            ],
+                            [
+                                14.72460755168548,
+                                -22.58952260855744
+                            ],
+                            [
+                                14.55704788180329,
+                                -22.66153833446015
+                            ],
+                            [
+                                14.536993791712053,
+                                -22.68457935536229
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "d0a1c6e7-07a0-4cff-8436-f124f44bf35e",
+                    "name": "Swakopmund - Walvis Bay",
+                    "start": "158fdd5a-a87e-468c-8f63-970b61030402",
+                    "end": "dd357d56-d732-4e8c-b862-cb79a6765837",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.536862618940676,
+                                -22.684730065494403
+                            ],
+                            [
+                                14.5367022174614,
+                                -22.68491435776695
+                            ],
+                            [
+                                14.54120518021092,
+                                -22.74709353319468
+                            ],
+                            [
+                                14.56032494580351,
+                                -22.81489616148345
+                            ],
+                            [
+                                14.55620496475203,
+                                -22.86693830009584
+                            ],
+                            [
+                                14.54685848778601,
+                                -22.9105207685974
+                            ],
+                            [
+                                14.53047514165968,
+                                -22.93884589121321
+                            ],
+                            [
+                                14.506696803217686,
+                                -22.957847730659967
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "b58eb3c6-b368-41cd-b1bc-13c02ee8aa5c",
+                    "name": "Windhoek - Osona",
+                    "start": "92812adb-1125-47f6-b375-1e61cc01090a",
+                    "end": "89542263-d912-4505-a3bd-cb450c5238b9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.068223841052824,
+                                -22.582321959054283
+                            ],
+                            [
+                                17.07488198431225,
+                                -22.41989639178164
+                            ],
+                            [
+                                17.01724767171898,
+                                -22.26334992990927
+                            ],
+                            [
+                                16.94567957777831,
+                                -22.08564681485307
+                            ],
+                            [
+                                16.9366524918829,
+                                -22.03098942397594
+                            ],
+                            [
+                                16.93560023880406,
+                                -22.02861725227372
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "7c11a517-0d00-4cc1-be42-50c9992d1634",
+                    "name": "Osona - Okahandja",
+                    "start": "89542263-d912-4505-a3bd-cb450c5238b9",
+                    "end": "778237fc-1760-4925-9224-eb8a79219a5c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.93551921656847,
+                                -22.02843459787395
+                            ],
+                            [
+                                16.90980232114679,
+                                -21.97045910432104
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "ec85db97-c7f4-4633-9205-2573c8d5ffd5",
+                    "name": "Okahandja - Otjiwarongo",
+                    "start": "778237fc-1760-4925-9224-eb8a79219a5c",
+                    "end": "51422df5-18f3-498e-b52f-96d13696af6d",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.909721298911197,
+                                -21.970276449921272
+                            ],
+                            [
+                                16.90742978831609,
+                                -21.96511052862499
+                            ],
+                            [
+                                16.82486665884232,
+                                -21.30773390742512
+                            ],
+                            [
+                                16.84149816412839,
+                                -21.00887575964734
+                            ],
+                            [
+                                16.79541788813351,
+                                -20.76842925450762
+                            ],
+                            [
+                                16.651027921351588,
+                                -20.46065966688302
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "269ce863-ef91-4a1a-bc0a-b0517ae8ea35",
+                    "name": "Okahandja - Wilhelmstal",
+                    "start": "778237fc-1760-4925-9224-eb8a79219a5c",
+                    "end": "10c9dfad-c367-4c4f-ae6f-41cb7d81f8cf",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.909761810028993,
+                                -21.970367777121158
+                            ],
+                            [
+                                16.53831352946726,
+                                -21.92446108347024
+                            ],
+                            [
+                                16.32410070236925,
+                                -21.929904301194963
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "47467ccb-6cb1-45ea-8888-6ef2d7348eac",
+                    "name": "Khorixas - Kamanjab",
+                    "start": "05b4319a-29ee-4587-a357-12712485baf0",
+                    "end": "7140e0f5-dba2-4e21-9aab-b6e311cce4db",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.991587128184028,
+                                -20.351316045163145
+                            ],
+                            [
+                                14.96534080864472,
+                                -20.10304156072931
+                            ],
+                            [
+                                14.9331169744386,
+                                -19.89625864753671
+                            ],
+                            [
+                                14.87350688174331,
+                                -19.76619132757957
+                            ],
+                            [
+                                14.86375972021612,
+                                -19.63412701452498
+                            ],
+                            [
+                                14.84666049285756,
+                                -19.62169181701185
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "895a77b7-eafc-4631-ae08-60efa2647d49",
+                    "name": "Kamanjab - Opuwo",
+                    "start": "7140e0f5-dba2-4e21-9aab-b6e311cce4db",
+                    "end": "7f4990f0-dab9-4928-94a7-7996b567b4a2",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.846498930675494,
+                                -19.621574322951886
+                            ],
+                            [
+                                14.61300501765102,
+                                -19.4517688185459
+                            ],
+                            [
+                                14.33804746670993,
+                                -19.04702610032781
+                            ],
+                            [
+                                14.28438733549515,
+                                -18.63615863593426
+                            ],
+                            [
+                                13.98576481433618,
+                                -18.30944993560661
+                            ],
+                            [
+                                13.85885998268627,
+                                -18.053548523628816
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "e762376c-4176-4e53-9b19-864954669520",
+                    "name": "Opuwo - Onesi",
+                    "start": "7f4990f0-dab9-4928-94a7-7996b567b4a2",
+                    "end": "322cb25a-ec80-4688-b62e-097e37cd3086",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                13.858869386677323,
+                                -18.05337481911696
+                            ],
+                            [
+                                14.03135858718462,
+                                -17.78332452732578
+                            ],
+                            [
+                                14.1792442950681,
+                                -17.64071926525289
+                            ],
+                            [
+                                14.34347811621184,
+                                -17.58708914580528
+                            ],
+                            [
+                                14.574136561653,
+                                -17.60317505171924
+                            ],
+                            [
+                                14.66426400844827,
+                                -17.6000063384165
+                            ],
+                            [
+                                14.676762796481865,
+                                -17.60750936962616
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "c56ea775-640f-481a-b71c-ea18697b221f",
+                    "name": "Onesi - Tsandi",
+                    "start": "322cb25a-ec80-4688-b62e-097e37cd3086",
+                    "end": "b924c8da-385d-4fcf-b1f8-da91a0526537",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.676934065803877,
+                                -17.607612182720107
+                            ],
+                            [
+                                14.893095645670746,
+                                -17.7373741304955
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "d9446f0c-8b8e-4072-8a6d-d77906537c59",
+                    "name": "Onesi - Oshifu",
+                    "start": "322cb25a-ec80-4688-b62e-097e37cd3086",
+                    "end": "4e85b1a4-8dcf-4e76-8532-0988518390a9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.676848431142872,
+                                -17.607560776173134
+                            ],
+                            [
+                                14.52234291277435,
+                                -17.50286968583139
+                            ],
+                            [
+                                14.51441722464783,
+                                -17.49834235005837
+                            ],
+                            [
+                                14.5112444791249,
+                                -17.49532475595272
+                            ],
+                            [
+                                14.436647235353607,
+                                -17.43158292836013
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "96548d88-ffe4-4d82-837d-28aa5ae2b4d5",
+                    "name": "Oshifu - Outapi",
+                    "start": "4e85b1a4-8dcf-4e76-8532-0988518390a9",
+                    "end": "dc04cd86-9493-4a9b-89fa-b26af919374b",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.436495302411734,
+                                -17.431453104751416
+                            ],
+                            [
+                                14.4334514830206,
+                                -17.42885222298898
+                            ],
+                            [
+                                14.5110339629373,
+                                -17.41836402375515
+                            ],
+                            [
+                                14.61869938851626,
+                                -17.42748425733065
+                            ],
+                            [
+                                14.74681658064474,
+                                -17.43952142933279
+                            ],
+                            [
+                                14.86221804415463,
+                                -17.46500926409365
+                            ],
+                            [
+                                14.98705728016527,
+                                -17.49939056280537
+                            ],
+                            [
+                                14.992755204945668,
+                                -17.50387981484468
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "34433a8b-9631-4c34-99ff-562336047b10",
+                    "name": "Outapi - Ombathi",
+                    "start": "dc04cd86-9493-4a9b-89fa-b26af919374b",
+                    "end": "be88f6be-6c3a-4a80-9f3b-f8cc742bea30",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                14.992912181112766,
+                                -17.504003492430016
+                            ],
+                            [
+                                15.02205210516525,
+                                -17.52696210780662
+                            ],
+                            [
+                                15.05093402221211,
+                                -17.54827653254105
+                            ],
+                            [
+                                15.094542216301603,
+                                -17.561989130137626
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "ec1bb8d3-2383-47de-ad97-b6d6b866bac8",
+                    "name": "Ombathi - Ogongo",
+                    "start": "be88f6be-6c3a-4a80-9f3b-f8cc742bea30",
+                    "end": "cad80587-58c2-4c84-b01a-ab8199de8685",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.094732920912048,
+                                -17.5620490972066
+                            ],
+                            [
+                                15.09610554922434,
+                                -17.56248072020978
+                            ],
+                            [
+                                15.15645187994297,
+                                -17.58200328252703
+                            ],
+                            [
+                                15.22967996763029,
+                                -17.63123470370665
+                            ],
+                            [
+                                15.29308075329845,
+                                -17.67644602231452
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "cd8fbe63-d815-4aa1-a325-ac979e39cb61",
+                    "name": "Oshakati - Ondobe",
+                    "start": "22503b52-58ed-493e-b037-c9636dfeee00",
+                    "end": "d9649a8d-d0da-4362-acc3-86826d1acce5",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.705804936386585,
+                                -17.789402331016355
+                            ],
+                            [
+                                15.73266639862059,
+                                -17.59766458390276
+                            ],
+                            [
+                                15.84363787177947,
+                                -17.53562730843015
+                            ],
+                            [
+                                15.97553614710018,
+                                -17.51742733405877
+                            ],
+                            [
+                                16.06065547364468,
+                                -17.513024131701453
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "24fc22f7-a635-44ac-ad15-3079c012af0b",
+                    "name": "Ondobe - Eenhana",
+                    "start": "d9649a8d-d0da-4362-acc3-86826d1acce5",
+                    "end": "26197e0a-c614-42e5-8276-00f6492a8dc3",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.060854966669034,
+                                -17.513013811975128
+                            ],
+                            [
+                                16.09696474606982,
+                                -17.51114586174297
+                            ],
+                            [
+                                16.26233220809753,
+                                -17.48865868284084
+                            ],
+                            [
+                                16.330658333553664,
+                                -17.47209641860747
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "248ffe13-f0fc-4491-baac-2c1fd64e740f",
+                    "name": "Ondobe - Engela",
+                    "start": "d9649a8d-d0da-4362-acc3-86826d1acce5",
+                    "end": "f0d5f6f0-d35b-4527-aaaa-306af723f3e0",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.060755220156857,
+                                -17.51301897183829
+                            ],
+                            [
+                                15.93771189529285,
+                                -17.45360101614397
+                            ],
+                            [
+                                15.823807579452874,
+                                -17.4413059003005
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "f424dc1a-991e-4411-88a9-71cae5edf801",
+                    "name": "Otjiwarongo - Outjo",
+                    "start": "51422df5-18f3-498e-b52f-96d13696af6d",
+                    "end": "910a4d35-ee3c-42a4-b2c3-0ddcf02dd327",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.651027921351588,
+                                -20.46065966688302
+                            ],
+                            [
+                                16.3993303842461,
+                                -20.30920547621358
+                            ],
+                            [
+                                16.22734761188395,
+                                -20.1588442446396
+                            ],
+                            [
+                                16.17009126470939,
+                                -20.11264677987993
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "5ccaaa4d-67d4-4161-8842-1ba510fe5692",
+                    "name": "fork - Stampriet",
+                    "start": "6dd56a7c-06ba-4766-8d0a-d53752c99707",
+                    "end": "f5359f6a-7fb6-4c7a-b86d-cd984549813b",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.85678237259043,
+                                -24.43797596258716
+                            ],
+                            [
+                                17.89755048488428,
+                                -24.42849503583211
+                            ],
+                            [
+                                18.05517694396636,
+                                -24.44641689817076
+                            ],
+                            [
+                                18.34048010494221,
+                                -24.35477638492035
+                            ],
+                            [
+                                18.394571461344285,
+                                -24.328037164599458
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "fa1a8afd-6905-4c25-9125-23e452057ee9",
+                    "name": "Hardap Scheme - fork",
+                    "start": "0bce97f6-f613-401f-82c4-0925589b8622",
+                    "end": "6dd56a7c-06ba-4766-8d0a-d53752c99707",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.876996382478907,
+                                -24.489738336374913
+                            ],
+                            [
+                                17.86296242956725,
+                                -24.46455029053239
+                            ],
+                            [
+                                17.85678237259043,
+                                -24.43797596258716
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "12dacbea-1e4e-428d-80ab-0b2d3f01235f",
+                    "name": "fork - Rehoboth",
+                    "start": "6dd56a7c-06ba-4766-8d0a-d53752c99707",
+                    "end": "74b86e7b-ea4f-4108-8028-5945b58acc06",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                17.85678237259043,
+                                -24.43797596258716
+                            ],
+                            [
+                                17.78433690403557,
+                                -24.12645947548298
+                            ],
+                            [
+                                17.50246255498051,
+                                -23.78718301147179
+                            ],
+                            [
+                                17.22373395833537,
+                                -23.47567882966164
+                            ],
+                            [
+                                17.114141780317002,
+                                -23.311643926220857
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "f1e96f0e-9fd9-4f33-9895-769264650d53",
+                    "name": "Wilhelmstal - fork",
+                    "start": "10c9dfad-c367-4c4f-ae6f-41cb7d81f8cf",
+                    "end": "0f09bcc1-350b-4e66-8b00-5ecbc9db94db",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                16.32390095172383,
+                                -21.92990937692394
+                            ],
+                            [
+                                16.23111269885886,
+                                -21.93226715665862
+                            ],
+                            [
+                                15.93877137065754,
+                                -21.95013677367465
+                            ],
+                            [
+                                15.76878545590658,
+                                -21.94291584512995
+                            ],
+                            [
+                                15.761731319822953,
+                                -21.933703960204205
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "b70bd7dc-fb11-4454-aef8-b58b9ad350eb",
+                    "name": "Maruru - fork",
+                    "start": "8d86a41f-43c5-4a81-8850-0e85db70035d",
+                    "end": "0f09bcc1-350b-4e66-8b00-5ecbc9db94db",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.965891875926795,
+                                -21.421582055099094
+                            ],
+                            [
+                                15.95990960949454,
+                                -21.55723489198049
+                            ],
+                            [
+                                15.95610557490545,
+                                -21.56073647016614
+                            ],
+                            [
+                                15.92429556891109,
+                                -21.80694931300616
+                            ],
+                            [
+                                15.90898344332,
+                                -21.82094348543446
+                            ],
+                            [
+                                15.761731319822953,
+                                -21.933703960204205
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                },
+                {
+                    "id": "601815ce-2848-440c-828a-6763261084a1",
+                    "name": "fork - Usakos",
+                    "start": "0f09bcc1-350b-4e66-8b00-5ecbc9db94db",
+                    "end": "eb16f878-6db0-4c61-8ed6-4d040d90595e",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                            "name": "Paratus Namibia"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                15.761731319822953,
+                                -21.933703960204205
+                            ],
+                            [
+                                15.66266302216418,
+                                -22.00956696315002
+                            ],
+                            [
+                                15.60951581743865,
+                                -22.04259766533119
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                        "name": "Paratus Africa"
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "705dbdde-6665-42bf-a463-f44ed86ea67d",
+                    "name": "Paratus Africa"
+                },
+                {
+                    "id": "44b8834c-162c-4357-8e41-09a75128af44",
+                    "name": "Paratus Namibia"
+                }
+            ]
+        }
+    ]
+}

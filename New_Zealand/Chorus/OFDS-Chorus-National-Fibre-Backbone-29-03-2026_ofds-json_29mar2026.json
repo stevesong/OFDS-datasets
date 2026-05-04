@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Auckland",
                     "id": "b9ed44fa-3b16-4978-9004-59868c0a4c36",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -30,15 +26,15 @@
                             174.7595446192833,
                             -36.85894054433111
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Blenheim",
                     "id": "7e20f16b-b9d0-4430-9708-97cb3b583187",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -52,15 +48,15 @@
                             173.95540823136216,
                             -41.5136114564148
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Christchurch",
                     "id": "5c05e6e7-3541-4a99-97b0-f4a04cbb0108",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -74,15 +70,15 @@
                             172.6312234185049,
                             -43.53261254479296
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Dunedin",
                     "id": "5c254edb-cc01-4763-9de6-fa453e636707",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -96,15 +92,15 @@
                             170.4997024091791,
                             -45.87870952184011
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Forrest Hill",
                     "id": "d27c3d8a-062b-4ae1-a30d-18db761efcc6",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -118,15 +114,15 @@
                             174.7445126186977,
                             -36.76714203847091
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Invercargill",
                     "id": "856d09d9-1680-4a40-b9e7-2c4eb96a923f",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -140,15 +136,15 @@
                             168.3524300282912,
                             -46.40871823946832
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Kaikōura",
                     "id": "cee8e0fc-f53b-4d2e-a7fd-59d0b9d2507f",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -162,15 +158,15 @@
                             173.669569878921,
                             -42.38731136634846
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Levin",
                     "id": "23dcddf9-8409-4363-9c48-4f5feaf5a9eb",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -184,15 +180,15 @@
                             175.2915227124586,
                             -40.62672034985619
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Massey",
                     "id": "9b1c4802-1c74-4d35-b917-55cfbdc90b51",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -206,15 +202,15 @@
                             174.6228157018869,
                             -36.83380991514012
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Masterton",
                     "id": "ff067332-70cc-4923-a8fd-eb58a627987b",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -228,15 +224,15 @@
                             175.66295617728147,
                             -40.94709241808441
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Mount Eden",
                     "id": "c8377c4c-601d-4bfa-a78e-e6e1782aeb9c",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -250,15 +246,15 @@
                             174.74746785198036,
                             -36.88697437345632
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Napier",
                     "id": "a86174d2-046f-4bc7-aa0e-a7e4de4ec50d",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -272,15 +268,15 @@
                             176.9245269570814,
                             -39.48703238692762
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Nelson",
                     "id": "5233d81e-88cc-4e23-80e6-c4521a84bfb2",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -294,15 +290,15 @@
                             173.24114242728882,
                             -41.29462641674272
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "New Plymouth",
                     "id": "ba3d2654-f851-4c67-9f92-efb4ab8201d1",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -316,15 +312,15 @@
                             174.07648321101607,
                             -39.06063358466076
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Oamaru",
                     "id": "ab29bcc7-bd9d-4039-b9f0-fa6275d86b51",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -338,15 +334,15 @@
                             170.97105254151964,
                             -45.0946329278213
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Palmerston",
                     "id": "39848c77-0983-446f-a83a-011f1b70a951",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -360,15 +356,15 @@
                             175.6257598338883,
                             -40.35316092276442
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Queenstown",
                     "id": "c0d84d00-b046-4777-b67f-7eab3be98904",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -382,15 +378,15 @@
                             168.6664154467994,
                             -45.02477782893599
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Rotorua",
                     "id": "ca1a1127-e177-47ff-afaa-d1639c34ee0b",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -404,15 +400,15 @@
                             176.241207542702,
                             -38.14636296857985
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Taupo",
                     "id": "9bb79186-968b-4f78-b677-f9a50691a751",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -426,15 +422,15 @@
                             176.11835089814733,
                             -38.70667721301774
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Tauranga",
                     "id": "2a1b8459-51b6-4e3a-8646-2594e5c088ee",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -448,15 +444,15 @@
                             176.163478049455,
                             -37.68119345278
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Timaru",
                     "id": "dcebf96b-704c-4fe3-a690-a0fcd5032150",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -470,15 +466,15 @@
                             171.2372006290442,
                             -44.38966566261156
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Warkworth",
                     "id": "b34b99eb-2ba8-4fe5-b649-0765342cb01b",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -492,15 +488,15 @@
                             174.6591395133619,
                             -36.39700481911049
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Wellington",
                     "id": "7ba37f76-e582-4f1e-9bf8-e0981e668083",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -514,15 +510,15 @@
                             174.780100420583,
                             -41.28820162157576
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Whanganui",
                     "id": "c6c9b35d-b5a9-4d1f-8f15-2fcdfd360e60",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -536,15 +532,15 @@
                             175.03627935820182,
                             -39.92199560316056
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Whangārei",
                     "id": "d28b8663-3e7d-42db-9d4e-97cae7a679e9",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -558,15 +554,15 @@
                             174.3153504148453,
                             -35.72636635895687
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Hamilton",
                     "id": "a101a2d1-ef2d-45e1-9b92-8dd62729d52e",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -580,15 +576,15 @@
                             175.2534580879171,
                             -37.78295585001229
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Fighting Bay Landing Station",
                     "id": "acc409cc-82d3-4732-8d2d-660654efbb54",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -602,15 +598,15 @@
                             174.2013822113485,
                             -41.30773190394847
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "Oteranga Bay Landing Station",
                     "id": "31b82dfe-91d7-400d-807c-1ceccb4a62a8",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -624,15 +620,15 @@
                             174.6294659956969,
                             -41.29464788834841
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "8d500042-f2ad-490c-84bb-67bb9d75b893",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -646,15 +642,15 @@
                             175.1650351986814,
                             -38.30111823066492
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "0a55097d-228c-4e98-ab69-228de385d1cb",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -668,15 +664,15 @@
                             174.20567958307703,
                             -35.756213263806096
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "47f01097-cbb8-454c-bd69-79c3433a7515",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -690,15 +686,15 @@
                             174.95355568150785,
                             -37.11096583763377
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "d5a59a4a-6d80-4057-bd36-4902290ff7cb",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -712,15 +708,15 @@
                             175.2115512474362,
                             -37.73757340580632
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "a86587da-ada8-46c0-b1bb-3b0dccf9cf97",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -734,15 +730,15 @@
                             175.65447506927848,
                             -37.3786023120548
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "b4fcd2ba-1fec-4f2b-918c-d2ba036afdf7",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -756,15 +752,15 @@
                             176.40576833548198,
                             -37.81185276955505
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "51396aa2-394f-4849-bba4-4c3a29aff486",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -778,15 +774,15 @@
                             176.87300603238424,
                             -39.39031139819292
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "3c3ff9ee-cd2a-4943-b6b3-b4229c2878a0",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -800,15 +796,15 @@
                             175.38082409992177,
                             -40.17838091599337
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "534d0bdb-3aa6-4d08-a3b1-9483e02d9a3b",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -822,15 +818,15 @@
                             175.3869140321109,
                             -39.173513929861834
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "2d3cdbac-84e9-4c97-bf5e-bda40263272c",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -844,15 +840,15 @@
                             175.85617450079576,
                             -40.334438163479646
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "7ea4db65-b94f-4f0f-95e6-b706d8064553",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -866,15 +862,15 @@
                             172.76819767097146,
                             -43.058012939614564
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "dc77e619-ce8b-44dc-b3fb-23b40da9ed8a",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -888,15 +884,15 @@
                             173.82050550043485,
                             -41.490403167066695
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "8bbba7a8-c003-4e93-8f58-be8305e5ac8c",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -910,15 +906,15 @@
                             172.9341600784228,
                             -41.77094627262467
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "17fe5ecd-01af-4fd2-a5e8-009a4d84112c",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -932,15 +928,15 @@
                             171.34798278965417,
                             -42.43522027853015
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "150be523-4ce1-410d-ae3e-8db586b81982",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -954,15 +950,15 @@
                             168.99723445062014,
                             -46.07816628596682
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "cb1e4c29-aa30-477c-b9aa-cebeec1220cf",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -976,15 +972,15 @@
                             169.96810304225946,
                             -44.48378973974585
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "b223a25f-5590-4e05-ba6b-c040cbecc9da",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -998,6 +994,10 @@
                             172.13443285745166,
                             -43.42970587711773
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 }
             ],
@@ -1008,10 +1008,6 @@
                     "start": "b9ed44fa-3b16-4978-9004-59868c0a4c36",
                     "end": "c8377c4c-601d-4bfa-a78e-e6e1782aeb9c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1042,6 +1038,10 @@
                                 -36.886943788963436
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1050,10 +1050,6 @@
                     "start": "c8377c4c-601d-4bfa-a78e-e6e1782aeb9c",
                     "end": "9b1c4802-1c74-4d35-b917-55cfbdc90b51",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1128,6 +1124,10 @@
                                 -36.833857442880706
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1136,10 +1136,6 @@
                     "start": "b9ed44fa-3b16-4978-9004-59868c0a4c36",
                     "end": "d27c3d8a-062b-4ae1-a30d-18db761efcc6",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1226,6 +1222,10 @@
                                 -36.767226359438645
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1234,10 +1234,6 @@
                     "start": "d27c3d8a-062b-4ae1-a30d-18db761efcc6",
                     "end": "b34b99eb-2ba8-4fe5-b649-0765342cb01b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1356,6 +1352,10 @@
                                 -36.39696499439806
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1364,10 +1364,6 @@
                     "start": "b34b99eb-2ba8-4fe5-b649-0765342cb01b",
                     "end": "d28b8663-3e7d-42db-9d4e-97cae7a679e9",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1546,6 +1542,10 @@
                                 -35.72636635895687
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1554,10 +1554,6 @@
                     "start": "9bb79186-968b-4f78-b677-f9a50691a751",
                     "end": "ca1a1127-e177-47ff-afaa-d1639c34ee0b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1728,6 +1724,10 @@
                                 -38.14646201797436
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1736,10 +1736,6 @@
                     "start": "c6c9b35d-b5a9-4d1f-8f15-2fcdfd360e60",
                     "end": "ba3d2654-f851-4c67-9f92-efb4ab8201d1",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1830,6 +1826,10 @@
                                 -39.06066948196127
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1838,10 +1838,6 @@
                     "start": "ff067332-70cc-4923-a8fd-eb58a627987b",
                     "end": "7ba37f76-e582-4f1e-9bf8-e0981e668083",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1896,6 +1892,10 @@
                                 -41.28814371136479
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1904,10 +1904,6 @@
                     "start": "39848c77-0983-446f-a83a-011f1b70a951",
                     "end": "23dcddf9-8409-4363-9c48-4f5feaf5a9eb",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1934,6 +1930,10 @@
                                 -40.62664959185343
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -1942,10 +1942,6 @@
                     "start": "7e20f16b-b9d0-4430-9708-97cb3b583187",
                     "end": "cee8e0fc-f53b-4d2e-a7fd-59d0b9d2507f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -1992,6 +1988,10 @@
                                 -42.387220726981745
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -2000,10 +2000,6 @@
                     "start": "c0d84d00-b046-4777-b67f-7eab3be98904",
                     "end": "856d09d9-1680-4a40-b9e7-2c4eb96a923f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -2090,6 +2086,10 @@
                                 -46.40861870950992
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -2098,10 +2098,6 @@
                     "start": "7e20f16b-b9d0-4430-9708-97cb3b583187",
                     "end": "acc409cc-82d3-4732-8d2d-660654efbb54",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -2148,6 +2144,10 @@
                                 -41.30773190394847
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -2156,10 +2156,6 @@
                     "start": "5c05e6e7-3541-4a99-97b0-f4a04cbb0108",
                     "end": "ab29bcc7-bd9d-4039-b9f0-fa6275d86b51",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -2302,6 +2298,10 @@
                                 -45.094613314161435
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -2310,10 +2310,6 @@
                     "start": "ab29bcc7-bd9d-4039-b9f0-fa6275d86b51",
                     "end": "5c254edb-cc01-4763-9de6-fa453e636707",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -2428,6 +2424,10 @@
                                 -45.878627864312755
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -2436,10 +2436,6 @@
                     "start": "8d500042-f2ad-490c-84bb-67bb9d75b893",
                     "end": "ba3d2654-f851-4c67-9f92-efb4ab8201d1",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -2630,6 +2626,10 @@
                                 -39.06063358466076
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -2638,10 +2638,6 @@
                     "start": "0a55097d-228c-4e98-ab69-228de385d1cb",
                     "end": "d28b8663-3e7d-42db-9d4e-97cae7a679e9",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -2828,6 +2824,10 @@
                                 -35.726266565076166
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -2836,10 +2836,6 @@
                     "start": "9b1c4802-1c74-4d35-b917-55cfbdc90b51",
                     "end": "0a55097d-228c-4e98-ab69-228de385d1cb",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3034,6 +3030,10 @@
                                 -35.756213263806096
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3042,10 +3042,6 @@
                     "start": "a101a2d1-ef2d-45e1-9b92-8dd62729d52e",
                     "end": "d5a59a4a-6d80-4057-bd36-4902290ff7cb",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3104,6 +3100,10 @@
                                 -37.73757340580632
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3112,10 +3112,6 @@
                     "start": "8d500042-f2ad-490c-84bb-67bb9d75b893",
                     "end": "d5a59a4a-6d80-4057-bd36-4902290ff7cb",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3254,6 +3250,10 @@
                                 -37.73757340580632
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3262,10 +3262,6 @@
                     "start": "d5a59a4a-6d80-4057-bd36-4902290ff7cb",
                     "end": "47f01097-cbb8-454c-bd69-79c3433a7515",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3340,6 +3336,10 @@
                                 -37.11096583763377
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3348,10 +3348,6 @@
                     "start": "2a1b8459-51b6-4e3a-8646-2594e5c088ee",
                     "end": "a86587da-ada8-46c0-b1bb-3b0dccf9cf97",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3422,6 +3418,10 @@
                                 -37.3786023120548
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3430,10 +3430,6 @@
                     "start": "47f01097-cbb8-454c-bd69-79c3433a7515",
                     "end": "a86587da-ada8-46c0-b1bb-3b0dccf9cf97",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3516,6 +3512,10 @@
                                 -37.78301188753841
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3524,10 +3524,6 @@
                     "start": "a86587da-ada8-46c0-b1bb-3b0dccf9cf97",
                     "end": "a101a2d1-ef2d-45e1-9b92-8dd62729d52e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3674,6 +3670,10 @@
                                 -37.3786023120548
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3682,10 +3682,6 @@
                     "start": "ca1a1127-e177-47ff-afaa-d1639c34ee0b",
                     "end": "b4fcd2ba-1fec-4f2b-918c-d2ba036afdf7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3752,6 +3748,10 @@
                                 -37.81185276955505
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3760,10 +3760,6 @@
                     "start": "b4fcd2ba-1fec-4f2b-918c-d2ba036afdf7",
                     "end": "2a1b8459-51b6-4e3a-8646-2594e5c088ee",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -3806,6 +3802,10 @@
                                 -37.68115375754495
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -3814,10 +3814,6 @@
                     "start": "b4fcd2ba-1fec-4f2b-918c-d2ba036afdf7",
                     "end": "51396aa2-394f-4849-bba4-4c3a29aff486",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -4232,6 +4228,10 @@
                                 -39.39031139819292
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -4240,10 +4240,6 @@
                     "start": "a86174d2-046f-4bc7-aa0e-a7e4de4ec50d",
                     "end": "51396aa2-394f-4849-bba4-4c3a29aff486",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -4310,6 +4306,10 @@
                                 -39.39031139819292
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -4318,10 +4318,6 @@
                     "start": "51396aa2-394f-4849-bba4-4c3a29aff486",
                     "end": "9bb79186-968b-4f78-b677-f9a50691a751",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -4500,6 +4496,10 @@
                                 -38.70671171053745
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -4508,10 +4508,6 @@
                     "start": "39848c77-0983-446f-a83a-011f1b70a951",
                     "end": "3c3ff9ee-cd2a-4943-b6b3-b4229c2878a0",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -4550,6 +4546,10 @@
                                 -40.17838091599337
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -4558,10 +4558,6 @@
                     "start": "3c3ff9ee-cd2a-4943-b6b3-b4229c2878a0",
                     "end": "c6c9b35d-b5a9-4d1f-8f15-2fcdfd360e60",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -4608,6 +4604,10 @@
                                 -39.92205250114005
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -4616,10 +4616,6 @@
                     "start": "3c3ff9ee-cd2a-4943-b6b3-b4229c2878a0",
                     "end": "534d0bdb-3aa6-4d08-a3b1-9483e02d9a3b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -4706,6 +4702,10 @@
                                 -39.173513929861834
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -4714,10 +4714,6 @@
                     "start": "9bb79186-968b-4f78-b677-f9a50691a751",
                     "end": "534d0bdb-3aa6-4d08-a3b1-9483e02d9a3b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -4832,6 +4828,10 @@
                                 -39.173513929861834
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -4840,10 +4840,6 @@
                     "start": "534d0bdb-3aa6-4d08-a3b1-9483e02d9a3b",
                     "end": "8d500042-f2ad-490c-84bb-67bb9d75b893",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -4962,6 +4958,10 @@
                                 -38.30111823066492
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -4970,10 +4970,6 @@
                     "start": "2d3cdbac-84e9-4c97-bf5e-bda40263272c",
                     "end": "ff067332-70cc-4923-a8fd-eb58a627987b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5024,6 +5020,10 @@
                                 -40.94699390123997
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5032,10 +5032,6 @@
                     "start": "a86174d2-046f-4bc7-aa0e-a7e4de4ec50d",
                     "end": "2d3cdbac-84e9-4c97-bf5e-bda40263272c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5126,6 +5122,10 @@
                                 -40.334438163479646
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5134,10 +5134,6 @@
                     "start": "2d3cdbac-84e9-4c97-bf5e-bda40263272c",
                     "end": "39848c77-0983-446f-a83a-011f1b70a951",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5172,6 +5168,10 @@
                                 -40.35311423657002
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5180,10 +5180,6 @@
                     "start": "7e20f16b-b9d0-4430-9708-97cb3b583187",
                     "end": "7ea4db65-b94f-4f0f-95e6-b706d8064553",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5282,6 +5278,10 @@
                                 -43.058012939614564
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5290,10 +5290,6 @@
                     "start": "cee8e0fc-f53b-4d2e-a7fd-59d0b9d2507f",
                     "end": "7ea4db65-b94f-4f0f-95e6-b706d8064553",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5348,6 +5344,10 @@
                                 -43.058012939614564
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5356,10 +5356,6 @@
                     "start": "7ea4db65-b94f-4f0f-95e6-b706d8064553",
                     "end": "5c05e6e7-3541-4a99-97b0-f4a04cbb0108",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5394,6 +5390,10 @@
                                 -43.53261254479296
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5402,10 +5402,6 @@
                     "start": "7e20f16b-b9d0-4430-9708-97cb3b583187",
                     "end": "dc77e619-ce8b-44dc-b3fb-23b40da9ed8a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5432,6 +5428,10 @@
                                 -41.490403167066695
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5440,10 +5440,6 @@
                     "start": "dc77e619-ce8b-44dc-b3fb-23b40da9ed8a",
                     "end": "5233d81e-88cc-4e23-80e6-c4521a84bfb2",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5530,6 +5526,10 @@
                                 -41.29456279890175
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5538,10 +5538,6 @@
                     "start": "5233d81e-88cc-4e23-80e6-c4521a84bfb2",
                     "end": "8bbba7a8-c003-4e93-8f58-be8305e5ac8c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5608,6 +5604,10 @@
                                 -41.77094627262467
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5616,10 +5616,6 @@
                     "start": "8bbba7a8-c003-4e93-8f58-be8305e5ac8c",
                     "end": "c0d84d00-b046-4777-b67f-7eab3be98904",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5662,6 +5658,10 @@
                                 -41.77094627262467
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5670,10 +5670,6 @@
                     "start": "dc77e619-ce8b-44dc-b3fb-23b40da9ed8a",
                     "end": "17fe5ecd-01af-4fd2-a5e8-009a4d84112c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -5932,6 +5928,10 @@
                                 -45.02472225591944
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -5940,10 +5940,6 @@
                     "start": "17fe5ecd-01af-4fd2-a5e8-009a4d84112c",
                     "end": "8bbba7a8-c003-4e93-8f58-be8305e5ac8c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -6106,6 +6102,10 @@
                                 -42.43522027853015
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -6114,10 +6114,6 @@
                     "start": "5c254edb-cc01-4763-9de6-fa453e636707",
                     "end": "150be523-4ce1-410d-ae3e-8db586b81982",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -6220,6 +6216,10 @@
                                 -46.07816628596682
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -6228,10 +6228,6 @@
                     "start": "856d09d9-1680-4a40-b9e7-2c4eb96a923f",
                     "end": "150be523-4ce1-410d-ae3e-8db586b81982",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -6294,6 +6290,10 @@
                                 -46.07816628596682
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -6302,10 +6302,6 @@
                     "start": "cb1e4c29-aa30-477c-b9aa-cebeec1220cf",
                     "end": "ab29bcc7-bd9d-4039-b9f0-fa6275d86b51",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -6408,6 +6404,10 @@
                                 -45.0946329278213
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -6416,10 +6416,6 @@
                     "start": "150be523-4ce1-410d-ae3e-8db586b81982",
                     "end": "cb1e4c29-aa30-477c-b9aa-cebeec1220cf",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -6690,6 +6686,10 @@
                                 -44.38966566261156
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -6698,10 +6698,6 @@
                     "start": "cb1e4c29-aa30-477c-b9aa-cebeec1220cf",
                     "end": "dcebf96b-704c-4fe3-a690-a0fcd5032150",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -6940,6 +6936,10 @@
                                 -44.48378973974585
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -6948,10 +6948,6 @@
                     "start": "dcebf96b-704c-4fe3-a690-a0fcd5032150",
                     "end": "b223a25f-5590-4e05-ba6b-c040cbecc9da",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -7130,6 +7126,10 @@
                                 -43.42970587711773
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -7138,10 +7138,6 @@
                     "start": "17fe5ecd-01af-4fd2-a5e8-009a4d84112c",
                     "end": "b223a25f-5590-4e05-ba6b-c040cbecc9da",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -7184,6 +7180,10 @@
                                 -43.532592008195344
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -7192,10 +7192,6 @@
                     "start": "b223a25f-5590-4e05-ba6b-c040cbecc9da",
                     "end": "5c05e6e7-3541-4a99-97b0-f4a04cbb0108",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -7458,6 +7454,10 @@
                                 -43.42970587711773
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -7466,10 +7466,6 @@
                     "start": "47f01097-cbb8-454c-bd69-79c3433a7515",
                     "end": "c8377c4c-601d-4bfa-a78e-e6e1782aeb9c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -7504,6 +7500,10 @@
                                 -36.88697437345632
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -7512,10 +7512,6 @@
                     "start": "23dcddf9-8409-4363-9c48-4f5feaf5a9eb",
                     "end": "7ba37f76-e582-4f1e-9bf8-e0981e668083",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -7542,6 +7538,10 @@
                                 -41.28820162157576
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 },
                 {
@@ -7550,10 +7550,6 @@
                     "start": "7ba37f76-e582-4f1e-9bf8-e0981e668083",
                     "end": "31b82dfe-91d7-400d-807c-1ceccb4a62a8",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
-                        "name": "Chorus Limited"
-                    },
                     "networkProviders": [
                         {
                             "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
@@ -7600,6 +7596,10 @@
                                 -41.294653159745266
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                        "name": "Chorus Limited"
                     }
                 }
             ],

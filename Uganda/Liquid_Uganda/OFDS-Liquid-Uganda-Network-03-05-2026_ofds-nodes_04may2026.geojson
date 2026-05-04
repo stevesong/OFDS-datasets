@@ -1,0 +1,365 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5703403212071,
+                    0.330581929673162
+                ]
+            },
+            "properties": {
+                "name": "Kampala",
+                "id": "4410613c-20bf-446a-b692-f9cd6a234ba8",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.25383041389608,
+                    2.236907442602469
+                ]
+            },
+            "properties": {
+                "name": "Karuma",
+                "id": "76230d0a-8c63-4003-9608-8b9e47f3070c",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.74526903616238,
+                    -0.3245867344493615
+                ]
+            },
+            "properties": {
+                "name": "Masaka",
+                "id": "859c0fbf-3e64-447d-b3d9-c233379fc338",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.721221032726927,
+                    1.6838171478443982
+                ]
+            },
+            "properties": {
+                "name": "Masindi",
+                "id": "bbfb78d9-b2d4-4555-b2e6-2d8583f1faf5",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.1814486405025,
+                    1.0780962181075393
+                ]
+            },
+            "properties": {
+                "name": "Mbale",
+                "id": "5d7c2a25-bf48-4cc9-b43b-84e58f8629da",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.632163476096945,
+                    -0.5883172678337367
+                ]
+            },
+            "properties": {
+                "name": "Mbarara",
+                "id": "31a04081-0220-4934-8d29-fd5a0ce48af9",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.06312599748997,
+                    3.5874543003190795
+                ]
+            },
+            "properties": {
+                "name": "Nimule",
+                "id": "6f36d23e-177c-4551-b64f-dd2db06c316e",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.190967894627185,
+                    0.6887443027806713
+                ]
+            },
+            "properties": {
+                "name": "Tororo",
+                "id": "c72b27bb-84f0-468f-a21b-51a1ef21e5fa",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0138547942401,
+                    -1.43475842156401
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "d058ef89-d355-430e-8f58-d194f12209db",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.57458494543321,
+                    4.85914093840235
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "4d74ba9c-ced5-4c45-b54e-215fbc5847c2",
+                "networkProviders": [
+                    {
+                        "id": "8a15ccae-b9da-421a-9af4-ba8fcec6c9d8",
+                        "name": "Liquid Uganda"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a99060cd-a22d-4e59-9e95-8e2938a4e388",
+                    "name": "Liquid Intelligent Technologies"
+                },
+                "network": {
+                    "id": "9bfc8ce9-d1cb-4437-a76b-d5b38344f22f",
+                    "name": "Liquid Uganda Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

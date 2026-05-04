@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Lubango",
                     "id": "05e2f674-5028-43bd-a915-b56452f3596d",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -29,15 +25,15 @@
                             13.505674266540609,
                             -14.91785825689528
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Ondjiva",
                     "id": "eb1a3222-1ef9-4e29-b012-d5f1e1d2bfb0",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -50,15 +46,15 @@
                             15.726306921269728,
                             -17.066626349794504
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Menongue",
                     "id": "1cd951a1-4805-4c4a-b462-c9be5ee9f954",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -71,15 +67,15 @@
                             17.662683820967047,
                             -14.677774092701277
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Namibe",
                     "id": "2a856994-ec5e-4d99-b82b-ae6b988ba714",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -92,15 +88,15 @@
                             12.15837739617372,
                             -15.1847913555235
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Benguela",
                     "id": "97bae945-a04a-4221-ba41-8839358cf51c",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -113,15 +109,15 @@
                             13.40853812675265,
                             -12.57323483462535
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Huambo",
                     "id": "4b44dcb8-49ad-43d8-b003-2e2237efb084",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -134,15 +130,15 @@
                             15.735752432357927,
                             -12.76314269577266
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Kuito",
                     "id": "af1deee8-1869-4973-82d7-43c87f7b507e",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -155,15 +151,15 @@
                             16.939391388225808,
                             -12.393728371508052
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Luena",
                     "id": "06c41fe7-2e4e-4f28-a762-5d673130ed9c",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -176,15 +172,15 @@
                             19.912118394581164,
                             -11.786617622833843
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Saurimo",
                     "id": "74eb3981-b9f2-434c-aae0-4685b709b1bd",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -197,15 +193,15 @@
                             20.40136542249278,
                             -9.66455980337824
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Malange",
                     "id": "edf72187-b688-48a3-957f-34fefaa70e8c",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -218,15 +214,15 @@
                             16.340244924812396,
                             -9.541427610777498
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "N'Dalatando",
                     "id": "b483af94-47d0-4d2c-a319-87e43caa38c3",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -239,15 +235,15 @@
                             14.911105322062962,
                             -9.307575374518805
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Luanda",
                     "id": "d6f045f3-8493-4a30-8c9e-39c69d437475",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -260,15 +256,15 @@
                             13.24116388681911,
                             -8.832831867263721
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Caxito",
                     "id": "aac21f13-b242-4110-b4a8-ff6e9f2d3101",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -281,15 +277,15 @@
                             13.660317925204915,
                             -8.589509496185173
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Uíge",
                     "id": "44f80fd6-c244-4d6b-9d53-1ba03aa9020e",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -302,15 +298,15 @@
                             15.06709935738626,
                             -7.60475253583935
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "M'Banza-Kongo",
                     "id": "860a037f-7de2-4594-8411-e85ae5448585",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -323,15 +319,15 @@
                             14.24205721534173,
                             -6.263365384111476
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Dundo",
                     "id": "4d880119-4375-476b-bf57-fffb255aed5f",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -344,15 +340,15 @@
                             20.8127764438053,
                             -7.414282799964723
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Cabinda",
                     "id": "dade18e8-2fc2-457f-a117-4122c04a7954",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -365,15 +361,15 @@
                             12.1937180477366,
                             -5.557414239480447
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "2ad06b57-4dde-47a3-a9e2-cae118a3b5c6",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -386,15 +382,15 @@
                             22.32360644894774,
                             -10.69613975450191
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "55156316-13a4-4a95-bc06-c9b35a37774d",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -407,15 +403,15 @@
                             17.853912292653103,
                             -8.570369598778147
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "138c5215-87fb-488f-876f-7990643b10a2",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -428,15 +424,15 @@
                             14.444380097673948,
                             -9.69531355153164
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "288b51a6-2c69-40cb-9ccc-9a4e4a2fa806",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -449,15 +445,15 @@
                             16.73709221530699,
                             -12.523939488319876
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "5231cb2e-9c4c-4045-a88c-ba9d923b53d7",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -470,15 +466,15 @@
                             15.89032476621554,
                             -17.39043816755714
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "ede12ce6-c66f-4bcc-bf32-cfcc2de1f86d",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -491,15 +487,15 @@
                             15.115609840713738,
                             -7.605538294994492
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "3f1dca89-75b7-4155-a45c-95529bab772a",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -512,15 +508,15 @@
                             12.35167180677455,
                             -6.14399789894768
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "4351edbb-b58d-44c2-aa8d-1c059ce644af",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -533,15 +529,15 @@
                             13.729070789115209,
                             -14.789467051585852
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "d87c41e7-41f9-4c7f-9af6-aa5c561585e4",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -554,15 +550,15 @@
                             16.939092973430377,
                             -12.331817668981373
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "f9b6c4f0-58af-4892-a1f5-3776dad26df9",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -575,15 +571,15 @@
                             15.24696890633053,
                             -9.266238455633143
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "ce7c7e80-8538-4422-a93b-0e805aa29ff9",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -596,15 +592,15 @@
                             20.66696483983768,
                             -8.469148644436778
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "b16593fe-fcd9-4abb-8f63-afa4be1313c3",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -617,15 +613,15 @@
                             15.5610231676327,
                             -12.848367960950991
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "3a7e1032-4e79-460d-a63c-a2ceccd559f4",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -638,15 +634,15 @@
                             22.07112461263423,
                             -17.89610319484059
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "4f22fecd-3e39-4d1b-8485-3111d6e19d56",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -659,15 +655,15 @@
                             15.935980056327178,
                             -7.388830334217682
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "96fb77eb-dd01-456b-880f-5983cd13580f",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -680,15 +676,15 @@
                             17.906093885190472,
                             -9.442634647388275
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "c716e192-e4c9-400b-be96-44824eb819d4",
-                    "physicalInfrastructureProvider": {
-                        "id": "AngTel-1",
-                        "name": "Angola Telecom"
-                    },
                     "networkProviders": [
                         {
                             "id": "AT-1",
@@ -701,6 +697,10 @@
                             22.186667331475157,
                             -10.725065619281988
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "AngTel-1",
+                        "name": "Angola Telecom"
                     }
                 }
             ],

@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Geneina",
                     "id": "5c79b570-dda8-43ad-83d4-91beb026959d",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -30,15 +26,15 @@
                             22.445826171777586,
                             13.444317711586661
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Nyala",
                     "id": "c7aa2f22-b429-4fe5-b5e1-85a6ae3b5cab",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -52,15 +48,15 @@
                             24.86817276497653,
                             12.04615697853417
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Al Fashir",
                     "id": "3ee7895e-ac61-4491-90ea-785483c673ab",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -74,15 +70,15 @@
                             25.35673735710922,
                             13.6240147908745
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "En Nahud",
                     "id": "fce8df9c-3ed9-44ba-9a2f-5e8b7e19f157",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -96,15 +92,15 @@
                             28.42869210020648,
                             12.69272284620846
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Kadugli",
                     "id": "59430186-5976-45a1-9609-58a2d5ff639b",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -118,15 +114,15 @@
                             29.722672314942745,
                             11.01444569203463
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Al Ubayyid",
                     "id": "bfc4002d-d833-4af1-9921-3f518cfe5273",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -140,15 +136,15 @@
                             30.22038765755847,
                             13.18156331898157
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Er Roseires",
                     "id": "7cb2967e-3c76-4a8a-8b52-a3254f3a3d46",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -162,15 +158,15 @@
                             34.34283563138682,
                             11.858743846086842
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Ad-Damazin",
                     "id": "0748df7a-2b1e-4caa-ae53-aa6ce928c556",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -184,15 +180,15 @@
                             34.34717921344214,
                             11.82104283251992
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Sennar",
                     "id": "66632b8b-93de-4d34-9f29-db70a47f5d86",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -206,15 +202,15 @@
                             33.569006383489125,
                             13.563539536317922
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Kosti",
                     "id": "61b56a59-d824-4bd2-b73b-765671f684cb",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -228,15 +224,15 @@
                             32.6587165085686,
                             13.1387657739671
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Wad Madani",
                     "id": "14b55660-f78f-4a8d-8376-35bfc5e89ba2",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -250,15 +246,15 @@
                             33.53580950513729,
                             14.38106664674679
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Al Gadarif",
                     "id": "e161ada6-488d-4b69-baed-40c47135b6b1",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -272,15 +268,15 @@
                             35.35125796010477,
                             14.03361652692676
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Kashim El Girba",
                     "id": "89461b5c-a1d6-40d5-a4ce-2cf8c950aec9",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -294,15 +290,15 @@
                             35.90056863387996,
                             14.97676573295989
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Kassala",
                     "id": "d7019c82-1131-4d0d-9b85-94d062b94d3b",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -316,15 +312,15 @@
                             36.39304761476172,
                             15.46661139575159
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "New Halfa",
                     "id": "ea63c941-1803-4bc2-b4b9-b73fb38890bf",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -338,15 +334,15 @@
                             35.59798431918011,
                             15.328135236181204
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Port Sudan",
                     "id": "e41366f7-3885-4f1c-8f0b-24ebe0b7b018",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -360,15 +356,15 @@
                             37.22115610490091,
                             19.608199035495502
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Suakin",
                     "id": "af714af5-566e-4e0e-8534-31fea60bed94",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -382,15 +378,15 @@
                             37.30819927895551,
                             19.10483772969049
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Khartoum",
                     "id": "66936345-62e4-42ed-b6a4-4618d93b23b4",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -404,15 +400,15 @@
                             32.53351553794929,
                             15.59427030071071
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Atbara",
                     "id": "ee160b1f-03fd-43df-8c95-26e5a2c9fb49",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -426,15 +422,15 @@
                             33.99890045794935,
                             17.69826377551045
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Merowe",
                     "id": "46a7f1a3-4b0f-43b6-8648-83a0bdfa0fa0",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -448,15 +444,15 @@
                             31.819141416252055,
                             18.466914116095488
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "El Damer",
                     "id": "3fd33db2-1652-49ec-96d4-531ee89b3381",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -470,15 +466,15 @@
                             30.979433010402705,
                             18.06150334221967
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Dongola",
                     "id": "688775e3-eef4-4a2a-a62a-712bddc051d5",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -492,15 +488,15 @@
                             30.47861436362858,
                             19.15700626984714
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Wadi Halfa",
                     "id": "fb99a712-3e49-4bb9-a812-1fa18c9312dc",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -514,15 +510,15 @@
                             31.36885770490566,
                             21.79182096074197
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Chad Border",
                     "id": "46d5b4cb-697a-4e5b-a751-a948ff2f1a9c",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -536,15 +532,15 @@
                             22.23214615729745,
                             13.45642438144521
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "South Sudan Border",
                     "id": "fa3f84a5-958a-4558-b1e3-e6ca20ef1d8d",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -558,15 +554,15 @@
                             29.46189315041978,
                             9.852972855122841
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Ethiopia Border",
                     "id": "9afebef8-96c9-42dc-898f-3a888c4345cc",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -580,15 +576,15 @@
                             36.13922976771549,
                             12.977484504920866
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "f5343ffc-4402-4675-824a-c813a4ea295f",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -602,15 +598,15 @@
                             32.75252059460916,
                             13.16915125192317
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "c0d9b131-14bd-428c-99e3-2b058565fcf1",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -624,15 +620,15 @@
                             32.47787471627851,
                             13.8985029051097
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "bd4d009d-32b5-42f2-b2d0-58c0dfc91c21",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -646,15 +642,15 @@
                             25.31301618192257,
                             13.485647455299125
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "e5ba353f-bf50-4efd-8dc1-e254e9f93a90",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -668,15 +664,15 @@
                             29.662045714505304,
                             11.43877999581257
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "9b3a82d9-176c-41b5-bac2-9bb75f998f2c",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -690,15 +686,15 @@
                             29.75634885537802,
                             12.4323571508823
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "eb0f5ddf-e9bf-4190-9316-04604f3962b4",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -712,15 +708,15 @@
                             28.814953970949386,
                             11.925529810841956
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "1aa6f7ed-47f9-4a0e-b139-96d24bd444ba",
-                    "physicalInfrastructureProvider": {
-                        "id": "SD-1",
-                        "name": "Sudatel"
-                    },
                     "networkProviders": [
                         {
                             "id": "SD-1",
@@ -734,6 +730,10 @@
                             36.33925265033248,
                             15.418373908200131
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "SD-1",
+                        "name": "Sudatel"
                     }
                 }
             ],

@@ -1,1 +1,2237 @@
-{"type": "FeatureCollection", "features": [{"id": "0", "type": "Feature", "properties": {"name": "Jasper", "id": "a1c86554-4ba9-4a8e-8496-d153757124d9", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-118.0521535457077, 52.87826229326075]}}, {"id": "1", "type": "Feature", "properties": {"name": "Edmonton", "id": "2fab9ceb-0945-4819-a674-c466795ce20e", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-113.4912977500628, 53.56084846864427]}}, {"id": "2", "type": "Feature", "properties": {"name": "Fort St. John", "id": "004f8560-776f-4cc9-96f1-5fc9b169d582", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-120.85088366821978, 56.24535743238175]}}, {"id": "3", "type": "Feature", "properties": {"name": "Dawson Creek", "id": "05c9e621-2e09-4875-aade-1360087c27e2", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-120.2384495933719, 55.75829937933707]}}, {"id": "4", "type": "Feature", "properties": {"name": "Prince George", "id": "cfdede9b-26b6-40aa-9806-bd1db23d3c67", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-122.7456843759612, 53.91783922340757]}}, {"id": "5", "type": "Feature", "properties": {"name": "Kamloops", "id": "23c5750f-cd5d-4ccc-893f-23ad51866469", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-120.3271121540856, 50.67668183496679]}}, {"id": "6", "type": "Feature", "properties": {"name": "Campbell River", "id": "02e9c4fe-6621-4cbf-8103-e64b218817b3", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-125.2689792592697, 50.0027511201377]}}, {"id": "7", "type": "Feature", "properties": {"name": "Victoria", "id": "54b72f97-1c36-4bbd-8ee1-d78f3ecf62fb", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-123.3638147429571, 48.4342230901317]}}, {"id": "8", "type": "Feature", "properties": {"name": "Seattle", "id": "696f5791-12f5-4346-9cb0-72a841b2b405", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-122.33473087527881, 47.60703793315559]}}, {"id": "9", "type": "Feature", "properties": {"name": "Kelowna", "id": "8eccfd23-c4fa-41d3-b798-fa150cfca604", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-119.4813203877442, 49.86897861487999]}}, {"id": "10", "type": "Feature", "properties": {"name": "Fort McKay", "id": "cd343034-e35c-4760-b97d-7250e9ede62f", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-111.6273006956827, 57.18287578941705]}}, {"id": "11", "type": "Feature", "properties": {"name": "Fort McMurray", "id": "9c2e542b-034b-4718-ae5b-04983156634d", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-111.36513248311063, 56.73197622578069]}}, {"id": "12", "type": "Feature", "properties": {"name": "Prince Albert", "id": "568e2826-4aee-4e28-a1b9-4117d74affb9", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-105.7619901869317, 53.20327187463604]}}, {"id": "13", "type": "Feature", "properties": {"name": "Saskatoon", "id": "d9ed7a7d-cf2c-4882-bd1b-03456d2c5d9b", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-106.6663621617048, 52.14614303534789]}}, {"id": "14", "type": "Feature", "properties": {"name": "Regina", "id": "0484f5e8-3066-4fce-b837-162e2e165bee", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-104.6045948156966, 50.45404524021107]}}, {"id": "15", "type": "Feature", "properties": {"name": "Calgary", "id": "ae4fed52-d1a5-463c-9b7b-f4fbb364582b", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-114.07129189132631, 51.0507845896581]}}, {"id": "16", "type": "Feature", "properties": {"name": "Sweet Grass", "id": "1a39bcc4-e89e-40bc-a172-71f4e8065596", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-111.96593154307064, 48.99783353573164]}}, {"id": "17", "type": "Feature", "properties": {"name": "North Cutbank", "id": "a7086dd1-9a80-4308-85b4-8ce490d2eb79", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-111.9696471769721, 48.9970210577589]}}, {"id": "18", "type": "Feature", "properties": {"name": "Vancouver", "id": "818071a8-d072-4fbc-a905-ec227c36a000", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-123.1184526461593, 49.27370201274394]}}, {"id": "19", "type": "Feature", "properties": {"name": "Winnipeg", "id": "3066847e-5eeb-4f1d-bcd7-15795b29068c", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-97.13943819585293, 49.89553348611307]}}, {"id": "20", "type": "Feature", "properties": {"name": "Thunder Bay", "id": "c5fa90db-07a5-4b99-8932-689fb8729ca0", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-89.2629314728453, 48.41132360357517]}}, {"id": "21", "type": "Feature", "properties": {"name": "Sault Ste. Marie", "id": "31201b95-01be-4982-950f-5d35fc0396cb", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-84.33204399999998, 46.51370799999999]}}, {"id": "22", "type": "Feature", "properties": {"name": "Minneappolis", "id": "0cfb7be4-3843-4b12-8f49-feb290e86f13", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-93.27370056271153, 44.966174380444855]}}, {"id": "23", "type": "Feature", "properties": {"name": "Milwaukee", "id": "9a38856f-ce0a-487b-bcfb-5c60e0970952", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-87.91073391493605, 43.03292701074115]}}, {"id": "24", "type": "Feature", "properties": {"name": "Chicago", "id": "8041a17e-c006-45e5-a521-eafcaf4ee36f", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-87.61446273838737, 41.83764381327403]}}, {"id": "25", "type": "Feature", "properties": {"name": "Detroit", "id": "7acf0b52-4530-4346-bd65-2ada621f8b84", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-83.08151373719288, 42.32871492542587]}}, {"id": "26", "type": "Feature", "properties": {"name": "London", "id": "e47dcccc-8d12-4f72-b20e-5301525bf686", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-81.240378021574, 42.97837559240737]}}, {"id": "27", "type": "Feature", "properties": {"name": "Ashburn", "id": "ee231eae-9c12-485d-bcca-d6f9179f964d", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-77.48743165819434, 39.04375558027446]}}, {"id": "28", "type": "Feature", "properties": {"name": "New York", "id": "e4f004f3-4e6d-479b-aa69-f6d7d81f3d5d", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-74.00823276050903, 40.714543619977235]}}, {"id": "29", "type": "Feature", "properties": {"name": "Albany", "id": "f913a0d8-2cc6-497b-b0b8-3f1833f17e0c", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-73.75244964766419, 42.650238165270075]}}, {"id": "30", "type": "Feature", "properties": {"name": "Boston", "id": "98037a66-4e32-459e-9a3c-f0421642f003", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-71.05594486514228, 42.35741800401958]}}, {"id": "31", "type": "Feature", "properties": {"name": "Toronto", "id": "716c61bf-fbf2-4dd9-ae0c-d4234e34341f", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-79.84785724507896, 43.26240657176512]}}, {"id": "32", "type": "Feature", "properties": {"name": "Buffalo", "id": "0368e87e-9772-4688-bca4-28d3d980ed84", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-78.87963155646543, 42.902775626952376]}}, {"id": "33", "type": "Feature", "properties": {"name": "Toronto", "id": "eef31002-b15e-4d4a-8638-c503a6ad4ec4", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-79.38904386750245, 43.65764563337889]}}, {"id": "34", "type": "Feature", "properties": {"name": "Washingon, DC", "id": "1216dca3-10af-4900-81b1-176e1335f380", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-77.035521, 38.903359]}}, {"id": "35", "type": "Feature", "properties": {"name": "Sudbury", "id": "29658729-4256-433c-bd83-46ca2f6277c8", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-80.993029, 46.489567]}}, {"id": "36", "type": "Feature", "properties": {"name": "Ottawa", "id": "f49fe9d4-606c-4cf8-ac63-3fb0ddeb5021", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-75.702556, 45.41895299999999]}}, {"id": "37", "type": "Feature", "properties": {"name": "Val d'Or", "id": "922ee420-e102-406e-b349-e076c11ffc20", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-77.79215699999999, 48.104658]}}, {"id": "38", "type": "Feature", "properties": {"name": "Montreal", "id": "086e8dd2-a529-4e39-ba23-7b05754e541d", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-73.567446, 45.509922]}}, {"id": "39", "type": "Feature", "properties": {"name": "Quebec City", "id": "077bf8c4-6df7-4500-896c-dedb88e31ac5", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-71.22680299999999, 46.81727999999998]}}, {"id": "40", "type": "Feature", "properties": {"name": "Fredericton", "id": "e2a69a4e-f21d-4010-b3e3-e885283cd5a4", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-66.64225789876235, 45.964766707360994]}}, {"id": "41", "type": "Feature", "properties": {"name": "St. John", "id": "040face2-4af1-4565-a017-a180afbcde38", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-66.064864, 45.27404400000001]}}, {"id": "42", "type": "Feature", "properties": {"name": "Halifax", "id": "8c727367-bc2b-44b1-8d36-f027ffb0114d", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-63.59553600000001, 44.653203]}}, {"id": "43", "type": "Feature", "properties": {"name": "Moncton", "id": "30fbfb0c-16fc-4f48-8ee5-8c6312ac1b5b", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-64.780084, 46.093366]}}, {"id": "44", "type": "Feature", "properties": {"name": "Corner Brook", "id": "e4cf4f39-d346-48bb-855b-bef3ad8f4866", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-57.91415500000001, 48.95284499999999]}}, {"id": "45", "type": "Feature", "properties": {"name": "St. John's", "id": "155272db-899f-491e-92f6-c44d06fcb768", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-52.74561800000001, 47.555801]}}, {"id": "46", "type": "Feature", "properties": {"name": "Gander", "id": "712a8611-fb99-4913-85f5-e189e6a7e081", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-54.61259399999999, 48.94870900000001]}}, {"id": "51", "type": "Feature", "properties": {"name": "fork", "id": "140b088b-a694-4c27-b13d-3374ce4274a7", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-53.22285259626422, 47.35862047894175]}}, {"id": "60", "type": "Feature", "properties": {"name": "fork", "id": "c855687c-2933-4621-aaf8-a91f9d4f242c", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-63.32154699999999, 45.37885299999999]}}, {"id": "61", "type": "Feature", "properties": {"name": "default-node", "id": "413a28ba-0069-43aa-a679-f4b07f34c2b0", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-60.24770900000001, 46.217257]}}, {"id": "82", "type": "Feature", "properties": {"name": "fork", "id": "37a5638b-7939-45fc-a9e0-66100d2ea5d3", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-93.91530555791975, 48.65950008850336]}}, {"id": "83", "type": "Feature", "properties": {"name": "fork", "id": "12245af0-eefc-4c3c-a71a-5fcd2e4c2441", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-94.22303546465676, 49.785184629779685]}}, {"id": "85", "type": "Feature", "properties": {"name": "default-node", "id": "b22b6d15-61cc-4e32-90e5-f06d0fa1701e", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-106.6488117834941, 52.23806986256812]}}, {"id": "86", "type": "Feature", "properties": {"name": "fork", "id": "a29e4bcc-dd6f-4cde-812a-59860288847d", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-98.04188102925734, 50.03360974751366]}}, {"id": "87", "type": "Feature", "properties": {"name": "default-node", "id": "d327637a-6b43-41a8-a236-f70a697bd7a1", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-106.7502238178358, 52.17906643761054]}}, {"id": "90", "type": "Feature", "properties": {"name": "default-node", "id": "0ed87dbd-4a81-4564-ba9c-d160c4851190", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-111.8973226038663, 49.01283588884677]}}, {"id": "93", "type": "Feature", "properties": {"name": "fork", "id": "aeb4aa88-ddf2-4e07-879d-6e90d754c3f8", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-113.40955504779171, 53.557938958213775]}}, {"id": "98", "type": "Feature", "properties": {"name": "default-node", "id": "67c09c3b-7bdc-4cfb-b77d-18faccacfcc1", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-118.1011177484557, 52.83734924410201]}}, {"id": "101", "type": "Feature", "properties": {"name": "default-node", "id": "493e662a-52f6-4d88-a3da-144418df877d", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-121.2825668395307, 50.71725382991843]}}, {"id": "107", "type": "Feature", "properties": {"name": "default-node", "id": "f0fb7c59-1764-41be-bfbb-c64422abd7e8", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-83.00379679969265, 42.31695529145966]}}, {"id": "110", "type": "Feature", "properties": {"name": "default-node", "id": "2f006461-a981-4d06-ae57-7062b1b75898", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-87.67371697369711, 41.91117926683685]}}, {"id": "114", "type": "Feature", "properties": {"name": "fork", "id": "69830769-8447-4e89-af30-5a5943142aee", "network": {"id": "6e7c5e19-b386-472c-878d-efe94e20e2e0", "name": "Rogers Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "8bd61af6-65e3-43c4-a691-f79e039a2221", "name": "Rogers Communications"}, "networkProviders": [{"id": "0e57f64c-a8e8-4543-9748-1672205140fa", "name": "Rogers Communications"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-72.63557436666964, 42.14310104208461]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.0521535457077,
+                    52.87826229326075
+                ]
+            },
+            "properties": {
+                "name": "Jasper",
+                "id": "a1c86554-4ba9-4a8e-8496-d153757124d9",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4912977500628,
+                    53.56084846864427
+                ]
+            },
+            "properties": {
+                "name": "Edmonton",
+                "id": "2fab9ceb-0945-4819-a674-c466795ce20e",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.85088366821978,
+                    56.24535743238175
+                ]
+            },
+            "properties": {
+                "name": "Fort St. John",
+                "id": "004f8560-776f-4cc9-96f1-5fc9b169d582",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.2384495933719,
+                    55.75829937933707
+                ]
+            },
+            "properties": {
+                "name": "Dawson Creek",
+                "id": "05c9e621-2e09-4875-aade-1360087c27e2",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7456843759612,
+                    53.91783922340757
+                ]
+            },
+            "properties": {
+                "name": "Prince George",
+                "id": "cfdede9b-26b6-40aa-9806-bd1db23d3c67",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.3271121540856,
+                    50.67668183496679
+                ]
+            },
+            "properties": {
+                "name": "Kamloops",
+                "id": "23c5750f-cd5d-4ccc-893f-23ad51866469",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.2689792592697,
+                    50.0027511201377
+                ]
+            },
+            "properties": {
+                "name": "Campbell River",
+                "id": "02e9c4fe-6621-4cbf-8103-e64b218817b3",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.3638147429571,
+                    48.4342230901317
+                ]
+            },
+            "properties": {
+                "name": "Victoria",
+                "id": "54b72f97-1c36-4bbd-8ee1-d78f3ecf62fb",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33473087527881,
+                    47.60703793315559
+                ]
+            },
+            "properties": {
+                "name": "Seattle",
+                "id": "696f5791-12f5-4346-9cb0-72a841b2b405",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4813203877442,
+                    49.86897861487999
+                ]
+            },
+            "properties": {
+                "name": "Kelowna",
+                "id": "8eccfd23-c4fa-41d3-b798-fa150cfca604",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6273006956827,
+                    57.18287578941705
+                ]
+            },
+            "properties": {
+                "name": "Fort McKay",
+                "id": "cd343034-e35c-4760-b97d-7250e9ede62f",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.36513248311063,
+                    56.73197622578069
+                ]
+            },
+            "properties": {
+                "name": "Fort McMurray",
+                "id": "9c2e542b-034b-4718-ae5b-04983156634d",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.7619901869317,
+                    53.20327187463604
+                ]
+            },
+            "properties": {
+                "name": "Prince Albert",
+                "id": "568e2826-4aee-4e28-a1b9-4117d74affb9",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6663621617048,
+                    52.14614303534789
+                ]
+            },
+            "properties": {
+                "name": "Saskatoon",
+                "id": "d9ed7a7d-cf2c-4882-bd1b-03456d2c5d9b",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.6045948156966,
+                    50.45404524021107
+                ]
+            },
+            "properties": {
+                "name": "Regina",
+                "id": "0484f5e8-3066-4fce-b837-162e2e165bee",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.07129189132631,
+                    51.0507845896581
+                ]
+            },
+            "properties": {
+                "name": "Calgary",
+                "id": "ae4fed52-d1a5-463c-9b7b-f4fbb364582b",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.96593154307064,
+                    48.99783353573164
+                ]
+            },
+            "properties": {
+                "name": "Sweet Grass",
+                "id": "1a39bcc4-e89e-40bc-a172-71f4e8065596",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9696471769721,
+                    48.9970210577589
+                ]
+            },
+            "properties": {
+                "name": "North Cutbank",
+                "id": "a7086dd1-9a80-4308-85b4-8ce490d2eb79",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1184526461593,
+                    49.27370201274394
+                ]
+            },
+            "properties": {
+                "name": "Vancouver",
+                "id": "818071a8-d072-4fbc-a905-ec227c36a000",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13943819585293,
+                    49.89553348611307
+                ]
+            },
+            "properties": {
+                "name": "Winnipeg",
+                "id": "3066847e-5eeb-4f1d-bcd7-15795b29068c",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2629314728453,
+                    48.41132360357517
+                ]
+            },
+            "properties": {
+                "name": "Thunder Bay",
+                "id": "c5fa90db-07a5-4b99-8932-689fb8729ca0",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.33204399999998,
+                    46.51370799999999
+                ]
+            },
+            "properties": {
+                "name": "Sault Ste. Marie",
+                "id": "31201b95-01be-4982-950f-5d35fc0396cb",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.27370056271153,
+                    44.966174380444855
+                ]
+            },
+            "properties": {
+                "name": "Minneappolis",
+                "id": "0cfb7be4-3843-4b12-8f49-feb290e86f13",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.91073391493605,
+                    43.03292701074115
+                ]
+            },
+            "properties": {
+                "name": "Milwaukee",
+                "id": "9a38856f-ce0a-487b-bcfb-5c60e0970952",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61446273838737,
+                    41.83764381327403
+                ]
+            },
+            "properties": {
+                "name": "Chicago",
+                "id": "8041a17e-c006-45e5-a521-eafcaf4ee36f",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.08151373719288,
+                    42.32871492542587
+                ]
+            },
+            "properties": {
+                "name": "Detroit",
+                "id": "7acf0b52-4530-4346-bd65-2ada621f8b84",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.240378021574,
+                    42.97837559240737
+                ]
+            },
+            "properties": {
+                "name": "London",
+                "id": "e47dcccc-8d12-4f72-b20e-5301525bf686",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48743165819434,
+                    39.04375558027446
+                ]
+            },
+            "properties": {
+                "name": "Ashburn",
+                "id": "ee231eae-9c12-485d-bcca-d6f9179f964d",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00823276050903,
+                    40.714543619977235
+                ]
+            },
+            "properties": {
+                "name": "New York",
+                "id": "e4f004f3-4e6d-479b-aa69-f6d7d81f3d5d",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75244964766419,
+                    42.650238165270075
+                ]
+            },
+            "properties": {
+                "name": "Albany",
+                "id": "f913a0d8-2cc6-497b-b0b8-3f1833f17e0c",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05594486514228,
+                    42.35741800401958
+                ]
+            },
+            "properties": {
+                "name": "Boston",
+                "id": "98037a66-4e32-459e-9a3c-f0421642f003",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.84785724507896,
+                    43.26240657176512
+                ]
+            },
+            "properties": {
+                "name": "Toronto",
+                "id": "716c61bf-fbf2-4dd9-ae0c-d4234e34341f",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.87963155646543,
+                    42.902775626952376
+                ]
+            },
+            "properties": {
+                "name": "Buffalo",
+                "id": "0368e87e-9772-4688-bca4-28d3d980ed84",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38904386750245,
+                    43.65764563337889
+                ]
+            },
+            "properties": {
+                "name": "Toronto",
+                "id": "eef31002-b15e-4d4a-8638-c503a6ad4ec4",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.035521,
+                    38.903359
+                ]
+            },
+            "properties": {
+                "name": "Washingon, DC",
+                "id": "1216dca3-10af-4900-81b1-176e1335f380",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.993029,
+                    46.489567
+                ]
+            },
+            "properties": {
+                "name": "Sudbury",
+                "id": "29658729-4256-433c-bd83-46ca2f6277c8",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.702556,
+                    45.41895299999999
+                ]
+            },
+            "properties": {
+                "name": "Ottawa",
+                "id": "f49fe9d4-606c-4cf8-ac63-3fb0ddeb5021",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.79215699999999,
+                    48.104658
+                ]
+            },
+            "properties": {
+                "name": "Val d'Or",
+                "id": "922ee420-e102-406e-b349-e076c11ffc20",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.567446,
+                    45.509922
+                ]
+            },
+            "properties": {
+                "name": "Montreal",
+                "id": "086e8dd2-a529-4e39-ba23-7b05754e541d",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22680299999999,
+                    46.81727999999998
+                ]
+            },
+            "properties": {
+                "name": "Quebec City",
+                "id": "077bf8c4-6df7-4500-896c-dedb88e31ac5",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.64225789876235,
+                    45.964766707360994
+                ]
+            },
+            "properties": {
+                "name": "Fredericton",
+                "id": "e2a69a4e-f21d-4010-b3e3-e885283cd5a4",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.064864,
+                    45.27404400000001
+                ]
+            },
+            "properties": {
+                "name": "St. John",
+                "id": "040face2-4af1-4565-a017-a180afbcde38",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.59553600000001,
+                    44.653203
+                ]
+            },
+            "properties": {
+                "name": "Halifax",
+                "id": "8c727367-bc2b-44b1-8d36-f027ffb0114d",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.780084,
+                    46.093366
+                ]
+            },
+            "properties": {
+                "name": "Moncton",
+                "id": "30fbfb0c-16fc-4f48-8ee5-8c6312ac1b5b",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.91415500000001,
+                    48.95284499999999
+                ]
+            },
+            "properties": {
+                "name": "Corner Brook",
+                "id": "e4cf4f39-d346-48bb-855b-bef3ad8f4866",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.74561800000001,
+                    47.555801
+                ]
+            },
+            "properties": {
+                "name": "St. John's",
+                "id": "155272db-899f-491e-92f6-c44d06fcb768",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.61259399999999,
+                    48.94870900000001
+                ]
+            },
+            "properties": {
+                "name": "Gander",
+                "id": "712a8611-fb99-4913-85f5-e189e6a7e081",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.22285259626422,
+                    47.35862047894175
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "140b088b-a694-4c27-b13d-3374ce4274a7",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.32154699999999,
+                    45.37885299999999
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "c855687c-2933-4621-aaf8-a91f9d4f242c",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.24770900000001,
+                    46.217257
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "413a28ba-0069-43aa-a679-f4b07f34c2b0",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.91530555791975,
+                    48.65950008850336
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "37a5638b-7939-45fc-a9e0-66100d2ea5d3",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.22303546465676,
+                    49.785184629779685
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "12245af0-eefc-4c3c-a71a-5fcd2e4c2441",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6488117834941,
+                    52.23806986256812
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "b22b6d15-61cc-4e32-90e5-f06d0fa1701e",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.04188102925734,
+                    50.03360974751366
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "a29e4bcc-dd6f-4cde-812a-59860288847d",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.7502238178358,
+                    52.17906643761054
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "d327637a-6b43-41a8-a236-f70a697bd7a1",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8973226038663,
+                    49.01283588884677
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "0ed87dbd-4a81-4564-ba9c-d160c4851190",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.40955504779171,
+                    53.557938958213775
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "aeb4aa88-ddf2-4e07-879d-6e90d754c3f8",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1011177484557,
+                    52.83734924410201
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "67c09c3b-7bdc-4cfb-b77d-18faccacfcc1",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.2825668395307,
+                    50.71725382991843
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "493e662a-52f6-4d88-a3da-144418df877d",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.00379679969265,
+                    42.31695529145966
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "f0fb7c59-1764-41be-bfbb-c64422abd7e8",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.67371697369711,
+                    41.91117926683685
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "2f006461-a981-4d06-ae57-7062b1b75898",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.63557436666964,
+                    42.14310104208461
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "69830769-8447-4e89-af30-5a5943142aee",
+                "networkProviders": [
+                    {
+                        "id": "0e57f64c-a8e8-4543-9748-1672205140fa",
+                        "name": "Rogers Communications"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "8bd61af6-65e3-43c4-a691-f79e039a2221",
+                    "name": "Rogers Communications"
+                },
+                "network": {
+                    "id": "6e7c5e19-b386-472c-878d-efe94e20e2e0",
+                    "name": "Rogers Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

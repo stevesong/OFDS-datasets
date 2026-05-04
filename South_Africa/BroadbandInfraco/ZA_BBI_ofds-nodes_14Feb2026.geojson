@@ -14,20 +14,20 @@
                 "id": "b0c01e39-9b85-4246-9617-889e139a5d09",
                 "name": "Yzerfontein PoP",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -54,20 +54,20 @@
                 "id": "35ea6d85-9a58-4d2d-b9e0-a1b3eb63f569",
                 "name": "Cape Town PoP",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -94,20 +94,20 @@
                 "id": "98199d3a-1a1f-451b-88a6-5f853c82cb9c",
                 "name": "Aurora",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -134,20 +134,20 @@
                 "id": "81cf97ec-11ab-4c39-9d6e-6b807e39841e",
                 "name": "Juno",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -174,20 +174,20 @@
                 "id": "24a7131c-243b-4caf-aa43-7dd49fdd9921",
                 "name": "Helois Juno T251",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -214,20 +214,20 @@
                 "id": "fae0e4a0-6b17-4d2a-9b23-feeef26bc79a",
                 "name": "Helios",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -254,20 +254,20 @@
                 "id": "ad4aa726-b29a-43e5-b2e4-73d923e824aa",
                 "name": "Uppington BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -294,20 +294,20 @@
                 "id": "91c154ad-1b1b-439f-93ef-2aabdd1f22c5",
                 "name": "Onseepkans",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -334,20 +334,20 @@
                 "id": "3ce623ee-b796-4d08-b80a-192407f1b2a9",
                 "name": "Beaufort West",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -374,20 +374,20 @@
                 "id": "b8db4ac9-afbe-4fb4-8386-142332ed0927",
                 "name": "Carnavon",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -414,20 +414,20 @@
                 "id": "3b490e11-519c-4530-9a6c-d9b294e780bf",
                 "name": "Hutchinson",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -454,20 +454,20 @@
                 "id": "df5521b4-ed97-4834-bb96-391cac52a783",
                 "name": "Kronos",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -494,20 +494,20 @@
                 "id": "09f019b1-47cd-453b-aa4b-cdfef3c1d8e5",
                 "name": "Kimberly",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -534,20 +534,20 @@
                 "id": "8844b92c-973c-45af-bdcf-e91a245a322e",
                 "name": "Warrenton",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -574,20 +574,20 @@
                 "id": "0e51dd8e-5ebe-4e0a-b9e2-ac11616b2025",
                 "name": "Bloemhof",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -614,20 +614,20 @@
                 "id": "8efc7378-2c82-46eb-890d-bcb8735020fc",
                 "name": "Vaalkraal",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -654,20 +654,20 @@
                 "id": "8c68d8b4-db0d-4c7a-a6de-2ae677062415",
                 "name": "Bloemfontein",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -694,20 +694,20 @@
                 "id": "e731b2fa-9cfb-4a0d-9bc3-c2f13e6ac272",
                 "name": "Springfontein",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -734,20 +734,20 @@
                 "id": "59006608-2183-4586-a3e9-b56fe0e937e6",
                 "name": "Colesburg",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -774,20 +774,20 @@
                 "id": "5b004a3a-f2c2-41ab-b2cd-201778a9954f",
                 "name": "Prince Albert",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -814,20 +814,20 @@
                 "id": "30ded3a5-4038-4528-9048-6935796d12d8",
                 "name": "Proteus",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -854,20 +854,20 @@
                 "id": "735f99f9-a4f4-446f-9942-610eb8eea1fe",
                 "name": "Uniondale",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -894,20 +894,20 @@
                 "id": "51724939-c3fa-469a-9c54-966a29da11c3",
                 "name": "Louterwater",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -934,20 +934,20 @@
                 "id": "d8e07b01-7db1-4d46-b7cf-8ff7910d05a5",
                 "name": "Worcester",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -974,20 +974,20 @@
                 "id": "4a4708d2-a45d-450a-9434-a9c59dcb2ba0",
                 "name": "Bacchus",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1014,20 +1014,20 @@
                 "id": "278834b5-1bca-4b08-bd6e-ad4e50c60bf5",
                 "name": "Laingsberg BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1054,20 +1054,20 @@
                 "id": "a11e93f3-a844-43ab-8a3c-7c9ee4b7ad34",
                 "name": "SALT",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1094,20 +1094,20 @@
                 "id": "df0d0fe8-e24b-415c-a5fa-cbe67132e842",
                 "name": "Aurora Juno T25",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1134,20 +1134,20 @@
                 "id": "ac8b27bf-2f2b-4738-a656-5252c87e0881",
                 "name": "Paarl",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1174,20 +1174,20 @@
                 "id": "6a698614-e6bf-4458-8ef3-175e2d9ba4ed",
                 "name": "Riversdale",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1214,20 +1214,20 @@
                 "id": "a2ab3063-6787-4bd6-9aa9-0520d6ab829d",
                 "name": "Bacchus Proteus T251",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1254,20 +1254,20 @@
                 "id": "ffb36191-945b-49b9-8a3f-38de7d974cd3",
                 "name": "Blanco",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1294,20 +1294,20 @@
                 "id": "b2d20f4f-8a22-4b2c-9524-3ce527b72eba",
                 "name": "Melkhout",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1334,20 +1334,20 @@
                 "id": "c5da5335-4aee-415f-bcdf-1dd1e518990e",
                 "name": "North End PoP",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1374,20 +1374,20 @@
                 "id": "541b7b82-44fe-420b-abf3-b107ca8010bc",
                 "name": "Alicedale BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1414,20 +1414,20 @@
                 "id": "6a2ab612-1d46-4b03-9bc5-049679203af5",
                 "name": "Rhodes University",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1454,20 +1454,20 @@
                 "id": "24529055-53b8-4839-87d6-aa448f271f77",
                 "name": "Albany",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1494,20 +1494,20 @@
                 "id": "638ae455-d3ad-477a-aa41-a20748a3a109",
                 "name": "East London",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1534,20 +1534,20 @@
                 "id": "2817c0ef-97ff-449c-9bdc-86c4514cc91b",
                 "name": "Pembroke",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1574,20 +1574,20 @@
                 "id": "cd7f8731-1136-4453-9dce-0809807be413",
                 "name": "Cookhouse",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1614,20 +1614,20 @@
                 "id": "7e66c003-58c0-4431-b55a-5cb90c24f284",
                 "name": "Poseidon",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1654,20 +1654,20 @@
                 "id": "cc9b70ec-f67a-41b4-8698-6bb6da03ac75",
                 "name": "KwaMaqona",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1694,20 +1694,20 @@
                 "id": "eef17265-9853-4fd3-acb4-2f6c17effb59",
                 "name": "Butterworth",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1734,20 +1734,20 @@
                 "id": "dfa608ba-d7a4-46bf-a918-b6531f03a35c",
                 "name": "Craddock",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1774,20 +1774,20 @@
                 "id": "29bd7376-74d8-4fb3-af5c-aa47602ccfa8",
                 "name": "De Aar BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1814,20 +1814,20 @@
                 "id": "39463631-e681-4a3c-8793-3b5ab76dba58",
                 "name": "Nouport",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1854,20 +1854,20 @@
                 "id": "91135afd-aab3-42a5-82ae-e7c1a05a3d7c",
                 "name": "SKA Core site",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1894,20 +1894,20 @@
                 "id": "ea3b5e95-80da-4e8e-b013-167ac32325bb",
                 "name": "Oranjerivier",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1934,20 +1934,20 @@
                 "id": "62dfc49d-d956-49e8-9937-63a9bcc585cf",
                 "name": "Perseus",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -1974,20 +1974,20 @@
                 "id": "7f8363d8-40d4-4be1-89c1-bfa82415c133",
                 "name": "Aries",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2014,20 +2014,20 @@
                 "id": "4b8ee77a-7b47-40ab-b1c8-48e23609c401",
                 "name": "Loop 13",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2054,20 +2054,20 @@
                 "id": "12eb27db-6c9b-4d64-8419-797323a6a972",
                 "name": "Loop 15",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2094,20 +2094,20 @@
                 "id": "04933825-dd7f-4107-be76-48f8f8ae5a85",
                 "name": "Taaipit",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2134,20 +2134,20 @@
                 "id": "1bfa16e3-5b48-4ac2-9a01-1024d28e279a",
                 "name": "Regen 8",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2174,20 +2174,20 @@
                 "id": "aad57372-54af-48bf-bfa1-946991bd9dff",
                 "name": "Skuit Drift",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2214,20 +2214,20 @@
                 "id": "48367a4d-241a-48ee-9fb6-43a5ced2da2a",
                 "name": "Alheit?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2254,20 +2254,20 @@
                 "id": "e4cda4f6-ccda-4921-9715-8f3a09d6c7c6",
                 "name": "Ares Helio T198",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2294,20 +2294,20 @@
                 "id": "9f81a442-c3f8-4f99-8078-b4afaf22bbfb",
                 "name": "Johnniesdale?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2334,20 +2334,20 @@
                 "id": "636195d4-5f9a-4957-aa54-31b16f328aad",
                 "name": "Everest",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2374,20 +2374,20 @@
                 "id": "f5e08645-4f93-4d61-9d0a-95b7fbe67dcf",
                 "name": "Welkom PoP",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2414,20 +2414,20 @@
                 "id": "95c2bc66-d965-4417-b553-53bd36adad24",
                 "name": "Bethlehem",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2454,20 +2454,20 @@
                 "id": "a4436e48-a69d-42d5-a97a-1237ebb07e5e",
                 "name": "Boundry Olien T21",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2494,20 +2494,20 @@
                 "id": "721645d7-fbbd-4d18-bcc1-726f102a6117",
                 "name": "Ovaal",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2534,20 +2534,20 @@
                 "id": "fa3855c5-0c90-490f-9528-87d9c2fb9e6d",
                 "name": "Mooidraal",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2574,20 +2574,20 @@
                 "id": "eb2b4faf-859a-4a6a-961f-86606200cdd4",
                 "name": "Beitbridge",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2614,20 +2614,20 @@
                 "id": "8635e240-8516-4680-9e38-f44b82e52252",
                 "name": "Musina",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2654,20 +2654,20 @@
                 "id": "8be6d72e-3010-4c82-8a71-53a43fe16640",
                 "name": "Soekmekaar",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2694,20 +2694,20 @@
                 "id": "8aa006b1-ec7e-434d-8127-57fc4a605c7e",
                 "name": "Polokwane BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2734,20 +2734,20 @@
                 "id": "369ca57d-3303-483a-a7fe-c2d328c08776",
                 "name": "Tzaneen BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2774,20 +2774,20 @@
                 "id": "ba84ffcc-756d-41e4-a007-b5c628516bff",
                 "name": "Gravellote",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2814,20 +2814,20 @@
                 "id": "196f73c6-e360-4865-ad5d-8aedf8c31345",
                 "name": "Hoedspruit BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2854,20 +2854,20 @@
                 "id": "75bbe7ca-1c50-4f40-b481-ea43cdd1873d",
                 "name": "Hazyview BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2894,20 +2894,20 @@
                 "id": "4f128263-e8d1-45c7-a242-d0746d09014f",
                 "name": "Komatipoort",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2934,20 +2934,20 @@
                 "id": "eb2ee757-d182-4b61-97e6-4204b9c280a0",
                 "name": "Nelspruit BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -2974,20 +2974,20 @@
                 "id": "40f660c8-0ed7-4ce3-abbf-7c71e9b906ff",
                 "name": "Kapmuiden BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3014,20 +3014,20 @@
                 "id": "04d6dcaf-1fc8-4222-bde3-210862129cb9",
                 "name": "Bela Bela",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3054,20 +3054,20 @@
                 "id": "6b366abe-2f55-4337-be49-a55572fdeaf0",
                 "name": "Modimolle",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3094,20 +3094,20 @@
                 "id": "c771cf3d-8f07-48e5-8c57-c4bce1bf76e5",
                 "name": "Mokopane",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3134,20 +3134,20 @@
                 "id": "6518a828-65ad-48c9-b38d-4c61a9a583f3",
                 "name": "NZASM PoP",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3174,20 +3174,20 @@
                 "id": "f449bc55-a9e3-41d4-994c-159f7c0f4461",
                 "name": "Rayton",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3214,20 +3214,20 @@
                 "id": "f091ddfa-309a-4045-ad52-609991d1ab2b",
                 "name": "Middelburg",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3254,20 +3254,20 @@
                 "id": "60c2d6ee-0404-4831-8676-4d874fddda7d",
                 "name": "eMakhazeni",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3294,20 +3294,20 @@
                 "id": "3511aee1-7176-4391-9dd6-37d5713b79cb",
                 "name": "Panorama?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3334,20 +3334,20 @@
                 "id": "e659f091-0139-49c7-bf57-d560de76d4c7",
                 "name": "Ramathlabamba",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3374,20 +3374,20 @@
                 "id": "8c2d3e1a-4098-4a85-89c3-c78b2c346388",
                 "name": "Mafikeng",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3414,20 +3414,20 @@
                 "id": "1d6f565a-75b8-4ca8-9022-8b0322aa80d5",
                 "name": "Lichtenburg",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3454,20 +3454,20 @@
                 "id": "3ef0cbcf-9879-4182-b753-ce6b4b3694f2",
                 "name": "Klerksdorp",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3494,20 +3494,20 @@
                 "id": "a098c404-c99f-4ed8-9879-ad41de588e36",
                 "name": "Ventersdorp",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3534,20 +3534,20 @@
                 "id": "3915be81-760e-4108-a84c-336861b3f5c9",
                 "name": "Makalu",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3574,20 +3574,20 @@
                 "id": "3dc8dbca-7b13-4d55-a79c-b13b645f2478",
                 "name": "Kroonstad",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3614,20 +3614,20 @@
                 "id": "8cdec32b-18a4-4178-9db7-f8cb7138d2bb",
                 "name": "Makalu Everest T194",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3654,20 +3654,20 @@
                 "id": "a994cec8-9083-41d7-9d9b-0baee15dbf88",
                 "name": "Arlington?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3694,20 +3694,20 @@
                 "id": "085350be-9cda-4b14-8822-5f4f3911f434",
                 "name": "Ladysmith",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3734,20 +3734,20 @@
                 "id": "978ac370-319c-4c0a-b827-d182293b7529",
                 "name": "Venus",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3774,20 +3774,20 @@
                 "id": "61b2e029-d92a-41af-acce-a4c2263c4b9e",
                 "name": "Mtunzini",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3814,20 +3814,20 @@
                 "id": "1c7e947d-3a6a-4894-8732-cb3d8c28e077",
                 "name": "Ulundi",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3854,20 +3854,20 @@
                 "id": "33d13c23-2e5e-4b3e-b4b9-8a7cb5103f6c",
                 "name": "Umhlanga Rocks Data Centre (IS Site)",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3894,20 +3894,20 @@
                 "id": "dcd3f9b1-c970-4b82-86a5-adb7e3da191f",
                 "name": "Durban Teraco",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3934,20 +3934,20 @@
                 "id": "42c183c2-623c-4b9a-876c-1bfb5933b876",
                 "name": "Kwa Dukuza",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -3974,20 +3974,20 @@
                 "id": "a3b46936-16be-43d3-9ccb-7b9c36be8976",
                 "name": "Richard's Bay?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4014,20 +4014,20 @@
                 "id": "eef6ecd8-ef3e-4606-961d-75003176b99a",
                 "name": "Newcastle BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4054,20 +4054,20 @@
                 "id": "94eb32fe-d0f6-485a-bec5-1ef149fbf84b",
                 "name": "Chivelson",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4094,20 +4094,20 @@
                 "id": "7b6d12e2-f366-4ab0-baef-aa25be86eb8b",
                 "name": "Carletonville?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4134,20 +4134,20 @@
                 "id": "dd3e5aa4-9511-4b4f-8fa6-41e96f47c3ca",
                 "name": "Nevis",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4174,20 +4174,20 @@
                 "id": "91db113f-1695-4705-8921-948e36ebd174",
                 "name": "Komati?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4214,20 +4214,20 @@
                 "id": "f4bedf9f-1d6a-48d4-8389-a9a905ebac8e",
                 "name": "eMalahleni?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4254,20 +4254,20 @@
                 "id": "0e37b242-44ca-4337-a109-7a7907c14567",
                 "name": "Johannesburg?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4294,20 +4294,20 @@
                 "id": "b372a32f-00f2-4b9c-aadf-9e04e93cb164",
                 "name": "Roodepoort",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4334,20 +4334,20 @@
                 "id": "a076c48f-92d5-4fe2-9475-df2aed4db110",
                 "name": "Oribi",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4374,20 +4374,20 @@
                 "id": "db0b8415-a937-4888-8378-6ed034e32223",
                 "name": "Eros",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4414,20 +4414,20 @@
                 "id": "29cd78e1-d51f-4b13-9c69-99080849aec3",
                 "name": "Pietermaritzburg?",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4454,20 +4454,20 @@
                 "id": "401b0b04-6c1f-45b4-8ad1-7d4d7e951d33",
                 "name": "Mzintlava",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4494,20 +4494,20 @@
                 "id": "fb484341-5eb7-4a87-bae3-2568f1bc7440",
                 "name": "Quno",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4534,20 +4534,20 @@
                 "id": "71e46305-7cff-46b9-97db-5de3e28de407",
                 "name": "Camden",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4574,20 +4574,20 @@
                 "id": "e974398d-8d6d-4de9-9840-aa4eb3154355",
                 "name": "Mahamba",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4614,20 +4614,20 @@
                 "id": "50919479-fdc5-4100-8bdd-bfbeb12724f9",
                 "name": "Heidelberg BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4654,20 +4654,20 @@
                 "id": "24c98bc4-0ef6-4b73-a4cd-e3b404ac7667",
                 "name": "Tugela",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4694,20 +4694,20 @@
                 "id": "9ceaf371-95af-4873-923a-57163f685d5e",
                 "name": "Camden Incandu T239",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4734,20 +4734,20 @@
                 "id": "f8d3e021-2af6-4613-91e2-a8b1adcc9a46",
                 "name": "Maseru BBI",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4774,20 +4774,20 @@
                 "id": "47e773c7-0999-41a7-a170-4a66f5ddef42",
                 "name": "Phalabora",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4814,20 +4814,20 @@
                 "id": "704514a6-dfd8-4276-8031-03611523724e",
                 "name": "network fork",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4854,20 +4854,20 @@
                 "id": "511e2c38-7768-4dac-9eb9-47cc6a6a24a4",
                 "name": "network fork",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],
@@ -4894,20 +4894,20 @@
                 "id": "8ee4d65d-57b1-4094-a425-15ada75770b7",
                 "name": "Auto generated missing node",
                 "status": "operational",
-                "physicalInfrastructureProvider": {
-                    "id": "BBI-1",
-                    "name": "Broadband Infraco"
-                },
                 "networkProviders": [
                     {
                         "id": "BBI-1",
                         "name": "Broadband Infraco"
                     }
                 ],
+                "transmissionMediumOwner": {
+                    "id": "BBI-1",
+                    "name": "Broadband Infraco"
+                },
                 "network": {
                     "links": [
                         {
-                            "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json",
                             "rel": "describedby"
                         }
                     ],

@@ -1,0 +1,4433 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.371177094992936,
+                    5.117009660832498
+                ]
+            },
+            "properties": {
+                "name": "Aba",
+                "id": "dd3aadbe-a7ab-4361-8a26-ed50e31def4b",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3429718183612067,
+                    7.156063337831426
+                ]
+            },
+            "properties": {
+                "name": "Abeokuta",
+                "id": "edefc1a8-a1b6-4b2f-9e60-e43ad0e1f283",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.06654067151997,
+                    5.814500192717119
+                ]
+            },
+            "properties": {
+                "name": "Abraka",
+                "id": "709a54b5-3a6d-421a-b8a6-057e21a33427",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.194300280433049,
+                    6.260958089049694
+                ]
+            },
+            "properties": {
+                "name": "Agbor",
+                "id": "7f322cad-4908-46b4-8b80-f0f6430f16e6",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.64986048794999,
+                    5.06699245686021
+                ]
+            },
+            "properties": {
+                "name": "Ahoada",
+                "id": "1b4f3402-b201-4861-9307-df18bfa57a2a",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.240173848913279,
+                    6.754595056467423
+                ]
+            },
+            "properties": {
+                "name": "Aiye",
+                "id": "c0011f21-2ead-45de-ab68-a121283ac8eb",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.345018820358872,
+                    5.321585871267148
+                ]
+            },
+            "properties": {
+                "name": "Akamkpa",
+                "id": "0ff5e72f-2fb1-407e-ad97-2f90b6c7e3eb",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.661469988895373,
+                    6.415263290616278
+                ]
+            },
+            "properties": {
+                "name": "Akogbe",
+                "id": "13d917d0-686e-473e-bd8e-9903264a89a3",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.400455231188891,
+                    8.90813428205048
+                ]
+            },
+            "properties": {
+                "name": "Akwanga",
+                "id": "a4866388-d1da-4a62-a319-7797d908f259",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391535645881975,
+                    10.619651086009013
+                ]
+            },
+            "properties": {
+                "name": "Anjawa",
+                "id": "42405932-5343-41f2-986e-c658a0901da9",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.613968349106528,
+                    7.401717536105312
+                ]
+            },
+            "properties": {
+                "name": "Ankpa",
+                "id": "d82e98a1-52ef-4342-90e7-1c763858da6f",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.28129914438568,
+                    7.06663011407464
+                ]
+            },
+            "properties": {
+                "name": "Auchi",
+                "id": "b4ccf2fd-ebbd-48d1-88d0-a1c5b7b771a4",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.762345711602116,
+                    11.369439145560362
+                ]
+            },
+            "properties": {
+                "name": "Bama",
+                "id": "02a306d2-5aa6-4608-b343-8c773e4544c7",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.856748825320366,
+                    10.31321367546268
+                ]
+            },
+            "properties": {
+                "name": "Bauchi",
+                "id": "90270670-40d0-44f7-99d6-86d56825d40a",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.617104769750783,
+                    6.3769366081869325
+                ]
+            },
+            "properties": {
+                "name": "Benin City",
+                "id": "60e85191-da11-4505-ae55-2e90f38e5852",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.200978436499297,
+                    12.435195477439086
+                ]
+            },
+            "properties": {
+                "name": "Birnin Kebbi",
+                "id": "c92bc8d8-02bd-4217-8256-cd8dec52f60f",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.479706293165783,
+                    11.456405006241408
+                ]
+            },
+            "properties": {
+                "name": "Birnin Kudu",
+                "id": "7e023322-f3c2-4487-8294-ad4b516e1e23",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.553379372896066,
+                    12.267548998645992
+                ]
+            },
+            "properties": {
+                "name": "Bungundu",
+                "id": "76a1002f-969c-44d6-9b71-22cec65f1224",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.25647506978908,
+                    9.327671426762873
+                ]
+            },
+            "properties": {
+                "name": "Bwari",
+                "id": "66cdd2ac-8650-4e25-8c88-0ca940682b1d",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.32791403294641,
+                    4.97780332407617
+                ]
+            },
+            "properties": {
+                "name": "Calabar",
+                "id": "d1377a04-dce9-495f-be0a-520e562668dd",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.765040865897964,
+                    9.70893274056276
+                ]
+            },
+            "properties": {
+                "name": "Chum",
+                "id": "9463b114-1154-49c7-9c55-4e1346a8fcf3",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.062576139253382,
+                    12.106302106716905
+                ]
+            },
+            "properties": {
+                "name": "Dabi",
+                "id": "b518ef91-7d2f-443c-b2f8-6e4b53c03edd",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.947609003597732,
+                    11.737090852796296
+                ]
+            },
+            "properties": {
+                "name": "Damaturu",
+                "id": "02b20386-4770-4c7d-bfbc-d6ccbeabd1ec",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.379683230395692,
+                    12.892748581971722
+                ]
+            },
+            "properties": {
+                "name": "Daura",
+                "id": "ef69f815-95d8-4c04-8ca7-deffd1649f03",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.740498053875489,
+                    5.773092847551634
+                ]
+            },
+            "properties": {
+                "name": "Ebada",
+                "id": "f4d194bc-97cb-453c-a58a-1d6b260aaedb",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.960235596364936,
+                    7.443276379216188
+                ]
+            },
+            "properties": {
+                "name": "Ejule",
+                "id": "574eee2e-cb1c-4313-a287-3868514ada69",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.939476448100611,
+                    4.659023781495087
+                ]
+            },
+            "properties": {
+                "name": "Eket",
+                "id": "afb85900-16c7-4227-85b6-026d55500766",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.268016892894422,
+                    7.633565892613819
+                ]
+            },
+            "properties": {
+                "name": "Ekiti",
+                "id": "9abfe257-cc3b-4080-a50a-a98c84758da1",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.82415372451683,
+                    5.10443542003945
+                ]
+            },
+            "properties": {
+                "name": "Elele",
+                "id": "56b60b9c-7ab7-44b7-adb0-a2ede4ad3385",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.52411801734035,
+                    6.460899148195646
+                ]
+            },
+            "properties": {
+                "name": "Enugu",
+                "id": "14650284-272f-49e5-8c29-188746222277",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3084011404884786,
+                    11.523931713048773
+                ]
+            },
+            "properties": {
+                "name": "Funtua",
+                "id": "31d63d05-7dc5-48a7-ae06-b5a7a1c99ef7",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.049706353236044,
+                    12.855628067002364
+                ]
+            },
+            "properties": {
+                "name": "Gashua",
+                "id": "e4757e18-a4d3-4e9b-ba58-1ed226a5199f",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.44396392955648,
+                    9.887318837013405
+                ]
+            },
+            "properties": {
+                "name": "Gidan Bahagu",
+                "id": "07c9e6a6-b8a2-4725-a0b4-6699d0768cdd",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.544491851554435,
+                    9.504876458406509
+                ]
+            },
+            "properties": {
+                "name": "Gimi",
+                "id": "3c700b24-bacd-4884-964a-234aff5fc4f9",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.120526510270599,
+                    10.258794661658843
+                ]
+            },
+            "properties": {
+                "name": "Gombe",
+                "id": "8a4b3791-4fcc-4883-93d2-e412f323ffb6",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1396229612855695,
+                    8.992171184882668
+                ]
+            },
+            "properties": {
+                "name": "Gwagwalada",
+                "id": "1b522cf6-a99e-4723-8d1c-4dafcce9a7e5",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.037006116445214,
+                    12.446360620781556
+                ]
+            },
+            "properties": {
+                "name": "Hadejia",
+                "id": "33592388-7538-460b-a047-213ea49b1239",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9093288549068506,
+                    7.3977400373054705
+                ]
+            },
+            "properties": {
+                "name": "Ibadan",
+                "id": "02cebba5-2a19-405f-9092-acf0c3bca492",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.912468428313333,
+                    10.105054064153048
+                ]
+            },
+            "properties": {
+                "name": "idon",
+                "id": "874d3b69-71d8-452d-8c88-1b75c79cc9c0",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0202371184334034,
+                    6.915870998444317
+                ]
+            },
+            "properties": {
+                "name": "Ijana",
+                "id": "191410d9-3a21-4ea1-9bd9-3e4b97772aa2",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.365424470238138,
+                    6.640730996895956
+                ]
+            },
+            "properties": {
+                "name": "Ikeja",
+                "id": "08966e1c-09f0-4f4f-9540-2f1195b69aad",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.93314409815517,
+                    7.438727794904566
+                ]
+            },
+            "properties": {
+                "name": "Ikeji",
+                "id": "c0e10925-6d25-4657-b343-be40c6b3530e",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.503050357257523,
+                    7.78239961084436
+                ]
+            },
+            "properties": {
+                "name": "Ikole",
+                "id": "96442ca4-9a03-42d7-a60a-3ecd73801dbe",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.721406756779144,
+                    5.977478736886615
+                ]
+            },
+            "properties": {
+                "name": "Ikom",
+                "id": "3d3f982e-01d8-4250-b57d-0f9dc0bd9ff3",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.564390453920149,
+                    8.498976737374159
+                ]
+            },
+            "properties": {
+                "name": "Ilorin",
+                "id": "421ced74-5b36-417e-961f-7ddca66f8111",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.214632109882808,
+                    6.747864884008747
+                ]
+            },
+            "properties": {
+                "name": "Irrua",
+                "id": "702e24d2-8702-4111-a0a3-9be875f515d2",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6033648832516647,
+                    7.9661352427698295
+                ]
+            },
+            "properties": {
+                "name": "Iseyin",
+                "id": "a08543c4-94d6-4cd6-8e53-73e2ee0714ec",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.783721283037647,
+                    12.369957776895012
+                ]
+            },
+            "properties": {
+                "name": "Jakusko",
+                "id": "198527e2-7a23-417d-834a-05019f3f5f63",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.317232772225072,
+                    8.916186967067071
+                ]
+            },
+            "properties": {
+                "name": "Jalingo",
+                "id": "be640743-7728-4500-8baa-f9f26926b35c",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828061455176909,
+                    9.115472599484518
+                ]
+            },
+            "properties": {
+                "name": "Jebba",
+                "id": "202e2053-c08e-44e3-b5e9-5e7ed7e3aabf",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.874248943713056,
+                    9.918028313848499
+                ]
+            },
+            "properties": {
+                "name": "Jos",
+                "id": "31e8aeee-925b-4d6f-bceb-82b2d05988eb",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.405056190967195,
+                    10.529913405942427
+                ]
+            },
+            "properties": {
+                "name": "Kaduna",
+                "id": "3dc3875f-b1fd-4e86-be05-de8298f69435",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.298940744011773,
+                    9.590948512726793
+                ]
+            },
+            "properties": {
+                "name": "Kafanchan",
+                "id": "91020cea-a683-4dc9-a2a6-3d7bb8620cbd",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.896771329184039,
+                    9.735080019326416
+                ]
+            },
+            "properties": {
+                "name": "Kaiama",
+                "id": "467fd89a-6f2d-4150-8f8b-50820801f414",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.546424752614872,
+                    11.994385788598361
+                ]
+            },
+            "properties": {
+                "name": "Kano",
+                "id": "8bc7f10d-3eb3-4220-b9b2-2f27350e1ab5",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.55649496650844,
+                    11.243446675075777
+                ]
+            },
+            "properties": {
+                "name": "Kari",
+                "id": "660cd562-ea54-445c-9af0-b95d7a022598",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.609522520111278,
+                    12.97436026084129
+                ]
+            },
+            "properties": {
+                "name": "Katsina",
+                "id": "7cce9d74-43d0-4491-b695-a13f0433aaab",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.286137110721585,
+                    7.164743887537528
+                ]
+            },
+            "properties": {
+                "name": "Katsina Ala",
+                "id": "e35f6d34-8344-41d8-96ca-c9667f272d5a",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.331857424023629,
+                    9.268261888316438
+                ]
+            },
+            "properties": {
+                "name": "Kudu",
+                "id": "6c880825-d262-44ff-aa59-afa44e1dc5d3",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.518834934796917,
+                    8.49861724541487
+                ]
+            },
+            "properties": {
+                "name": "Lafia",
+                "id": "92cac4dd-6145-4f02-986e-598942cc77ea",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.567383404794097,
+                    9.048475752005823
+                ]
+            },
+            "properties": {
+                "name": "Lapai",
+                "id": "9a42d863-378c-4fd7-b9b4-00badc7801a3",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.730768384540299,
+                    7.817033758096941
+                ]
+            },
+            "properties": {
+                "name": "Lokoja",
+                "id": "47f41450-c567-4146-a094-b7cded114f52",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.124407269906735,
+                    11.842207216093401
+                ]
+            },
+            "properties": {
+                "name": "Maiduguri",
+                "id": "4a7a7ab7-6c9c-4566-abb0-133a4b236062",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.546031212134665,
+                    7.73011787760472
+                ]
+            },
+            "properties": {
+                "name": "Makurdi",
+                "id": "abd19a5f-5d18-4347-87d3-b13b5f663595",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.43886235901438,
+                    12.452227709991476
+                ]
+            },
+            "properties": {
+                "name": "Medu",
+                "id": "d2ac3d6c-10de-41e3-8cba-3d5351acc50d",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2588260364046,
+                    10.2604388938949
+                ]
+            },
+            "properties": {
+                "name": "Mubi",
+                "id": "a522608e-1633-4443-9df7-8cbff2751fbd",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.763253037351076,
+                    8.60568461036104
+                ]
+            },
+            "properties": {
+                "name": "Mutim Mbiyu",
+                "id": "6190215f-93f9-42fb-ae09-5fa09631fb49",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2328546135783,
+                    9.3019623728386
+                ]
+            },
+            "properties": {
+                "name": "Ngurore",
+                "id": "025b10fd-30e4-4090-9ea8-fa5e5bf2e71f",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.445794703432298,
+                    12.872022224703072
+                ]
+            },
+            "properties": {
+                "name": "Nguru",
+                "id": "a10dd0dc-df19-44cd-bf77-14924e4f237c",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.243303201045195,
+                    8.128953427587712
+                ]
+            },
+            "properties": {
+                "name": "Ogbomosho",
+                "id": "f5b159df-1288-4d08-a552-2d35b15b875d",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.196242924344059,
+                    7.578676327364678
+                ]
+            },
+            "properties": {
+                "name": "Ogbono",
+                "id": "0456387c-7e8a-48ae-8730-cc88f77e16f4",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.343157587688897,
+                    5.821058660803405
+                ]
+            },
+            "properties": {
+                "name": "Okigwe",
+                "id": "0ab8674a-4813-4f9c-b087-45b982db8851",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681113767961171,
+                    5.92011804213684
+                ]
+            },
+            "properties": {
+                "name": "Okpanku",
+                "id": "fbaa27b7-b99e-408a-858b-02de596d5dc4",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.087958779494934,
+                    8.088907871353097
+                ]
+            },
+            "properties": {
+                "name": "Omu-Aran",
+                "id": "bca4d89d-50c0-44e4-9241-3a3b2d0a4ea3",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.843316698933394,
+                    7.082884849179122
+                ]
+            },
+            "properties": {
+                "name": "Ondo",
+                "id": "b15bda7d-61c8-4da1-8617-e88b6bc4da9b",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.748209261116671,
+                    6.170588165800745
+                ]
+            },
+            "properties": {
+                "name": "Onitsha",
+                "id": "570e4d96-2c62-4965-94d2-553cabdac39d",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.874103814138078,
+                    6.759757059736464
+                ]
+            },
+            "properties": {
+                "name": "Ore",
+                "id": "0e1fed18-8882-422e-8737-e008c895caf6",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873413236049308,
+                    8.236133213560453
+                ]
+            },
+            "properties": {
+                "name": "Oro",
+                "id": "5ee9cf07-e1e3-4f50-beef-8327f0b2313e",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.828622591135927,
+                    8.235487850153897
+                ]
+            },
+            "properties": {
+                "name": "Osenseni",
+                "id": "0a107b6c-922c-4ea4-9d56-0094f57aa4dd",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.229134076893328,
+                    8.068833313005086
+                ]
+            },
+            "properties": {
+                "name": "Osi",
+                "id": "dcf3ab53-e99f-4e30-80da-b879f74ead8e",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.140032771114164,
+                    7.197073972561208
+                ]
+            },
+            "properties": {
+                "name": "Otukpo",
+                "id": "4c589b8a-9c2d-46a2-bbf3-e80c5212bdfa",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670501467641192,
+                    7.135946957914737
+                ]
+            },
+            "properties": {
+                "name": "Otupka",
+                "id": "05e85df2-18ed-4501-a768-a0978bc9aa4f",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.029681579041769,
+                    5.487721905381946
+                ]
+            },
+            "properties": {
+                "name": "Owerri",
+                "id": "7e14abd6-bb87-4f2b-8c77-3bddfc04c254",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.589865677312308,
+                    7.219048151700043
+                ]
+            },
+            "properties": {
+                "name": "Owo",
+                "id": "36a0905b-7ba5-42a9-a839-55fe09fc1ea0",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9179451616341874,
+                    7.83435575401138
+                ]
+            },
+            "properties": {
+                "name": "Oyo",
+                "id": "f1f4125e-039b-4c1c-ad16-c1bcf7a36322",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00611867790566,
+                    4.863654522008615
+                ]
+            },
+            "properties": {
+                "name": "Port Harcourt",
+                "id": "b66d1292-aace-407c-8194-84f9a28b228d",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.078153786393447,
+                    11.708705292695575
+                ]
+            },
+            "properties": {
+                "name": "Potiskum",
+                "id": "f6c8e0c2-7e54-4d20-bc85-e57276472dcd",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.687048785356858,
+                    10.416150175347939
+                ]
+            },
+            "properties": {
+                "name": "Rahama",
+                "id": "abe73307-35e6-495c-9859-be407280a17d",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.929918046036916,
+                    9.118389889246192
+                ]
+            },
+            "properties": {
+                "name": "Sabaku",
+                "id": "5a830f70-6cbb-487e-9520-2f8e7adeef4b",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894602878483611,
+                    12.704945497700683
+                ]
+            },
+            "properties": {
+                "name": "Sainyinan Daji",
+                "id": "194870a9-5e02-4a39-ad20-1b6f667d714e",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4025656850762243,
+                    8.66577089318628
+                ]
+            },
+            "properties": {
+                "name": "Shaki",
+                "id": "6750f3bd-6464-4c54-ac78-cba308fa8c05",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.62207350528556,
+                    9.93073501513115
+                ]
+            },
+            "properties": {
+                "name": "Sigire",
+                "id": "63e79e7f-db07-47b5-b996-167706a295bc",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.221940849391618,
+                    13.034830729845174
+                ]
+            },
+            "properties": {
+                "name": "Sokoto",
+                "id": "da22acce-c3a2-47d7-a185-b888957059e5",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.083255571073657,
+                    12.567098953455195
+                ]
+            },
+            "properties": {
+                "name": "Talata Mafara",
+                "id": "3cffb5d1-f2f6-462e-b8e8-8bcd6a6f7dc2",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.176324983223276,
+                    10.069588451114125
+                ]
+            },
+            "properties": {
+                "name": "Tegina",
+                "id": "3842116a-9952-4ba7-ba04-081170b535c4",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.485438490007137,
+                    11.548689366355143
+                ]
+            },
+            "properties": {
+                "name": "Tungan Ilo",
+                "id": "4288c2c1-4cbc-4cf9-bca9-57fc376547e1",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.076433304804613,
+                    5.806476671819273
+                ]
+            },
+            "properties": {
+                "name": "Ugep",
+                "id": "cdcf8d80-4cf9-4f00-a1ed-b340ec5eeb13",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.931589882739917,
+                    5.025956565628851
+                ]
+            },
+            "properties": {
+                "name": "Uyo",
+                "id": "5312ad5b-183c-406e-8ad1-decbf4398972",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.352895091262987,
+                    11.600719248084133
+                ]
+            },
+            "properties": {
+                "name": "Wak",
+                "id": "38c6fefc-eef8-4f4d-b983-dca22121c86b",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.84738863259401,
+                    5.578476873292766
+                ]
+            },
+            "properties": {
+                "name": "Warri",
+                "id": "a3ec4283-4197-4e75-a056-6493622f7125",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.782659579936073,
+                    7.8769979779786565
+                ]
+            },
+            "properties": {
+                "name": "Wukari",
+                "id": "fc1ac0b6-621f-44f6-966a-f8931f5e102f",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35117187763441,
+                    5.0538932720956
+                ]
+            },
+            "properties": {
+                "name": "Yenagoa",
+                "id": "0c4ae1a8-c665-415e-9e53-94e8b4ffeaaa",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6861258116599975,
+                    11.136164093062531
+                ]
+            },
+            "properties": {
+                "name": "Zaria",
+                "id": "086c6f14-76dd-411e-9f6d-b8973ee22119",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.765360289838463,
+                    12.783482509000033
+                ]
+            },
+            "properties": {
+                "name": "Zurmi",
+                "id": "fcbedc0e-5cca-4330-86b1-4544208205fa",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.407784514990302,
+                    6.424119741272481
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "ed5670f9-78e9-4e20-a1b3-76ec23d7d189",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.795176650369373,
+                    6.133422478075031
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "e71913b8-2e23-4d1e-a4bc-332e4d65714f",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.12140973930321,
+                    9.26928244521424
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "28502dfb-d7ab-42f1-a0fc-ce55c9b5d511",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.513193353361449,
+                    10.695278037211118
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "1f3d6558-fce9-4247-84b8-2f75a2af77cf",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.396912602691359,
+                    6.465590395446381
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "5d357cd5-db06-4b62-8fb4-8e82a6834d9b",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.405105069040485,
+                    10.44610472594682
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "2912628d-4413-4a71-bf75-81b5b2536c7a",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.598763790861007,
+                    9.274423544314997
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "106da173-6aad-4b45-85c1-685fc7243e2c",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.993360685443276,
+                    9.272743282532465
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "516b79bd-2b88-48c2-8d48-d7149453a5d7",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.727980591007926,
+                    11.11334335140586
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "5106d838-f832-4a76-a009-50c56706e5d8",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.915140026962372,
+                    6.803239872157623
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "1133cead-be28-4cbb-a1c9-92a9119c97d4",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5786257484658517,
+                    6.882905582663016
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "e0cc9da4-696d-49e2-beec-127033bea750",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.228750354112633,
+                    9.097609846446565
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "55f4a867-2df5-4ccc-9dc9-f48fd1fba893",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.595618774395412,
+                    6.453792063982633
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "9ca8405c-6478-47cd-b1bf-8a930cb1e2fd",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.068107205961616,
+                    4.855987359123724
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "f3c666cf-e2dc-4adf-88dc-0098d52011ef",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.104749608883457,
+                    6.317410367194337
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "6bd0e804-da04-4af6-878a-ab5a263e3e1a",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9147989039518145,
+                    7.527755117611277
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "11fafff1-63c2-43a0-bf93-c9b79ea36fdc",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.053494678027061,
+                    9.289026028197124
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "c3537342-a56f-4eee-9b47-15247cad1006",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.322767563587545,
+                    5.272127656093546
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "8bb0dd2f-f2a0-477e-8212-c025901fd5af",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542990805546384,
+                    7.529167375714875
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "f09b6e50-be10-48c2-a679-7a7dfa92b1e1",
+                "networkProviders": [
+                    {
+                        "id": "108c7881-64d7-4f64-b204-6d223eb47fdb",
+                        "name": "MTN Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "52ea4cb4-4a86-4394-b6fe-c6463737b6b6",
+                    "name": "Bayobab Africa"
+                },
+                "network": {
+                    "id": "89e85bfc-dc69-4009-b7f9-c8f293582d45",
+                    "name": "MTN Nigeria Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

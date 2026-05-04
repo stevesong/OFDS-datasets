@@ -1,0 +1,1265 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.21988918699916,
+                    -2.357073986216925
+                ]
+            },
+            "properties": {
+                "name": "Gasenyi",
+                "id": "f9a6d5cb-a09f-4afc-bd1d-41a309e667f8",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.10885316707022,
+                    -2.570332728961079
+                ]
+            },
+            "properties": {
+                "name": "Kirundo",
+                "id": "dc4a5767-79f1-47b7-b51a-06d76acf7513",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.40705028962984,
+                    -2.654130375783645
+                ]
+            },
+            "properties": {
+                "name": "Kobero",
+                "id": "a3839d33-ea1a-4848-b4a0-23adc0b542bd",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.358118681954775,
+                    -2.801192282013271
+                ]
+            },
+            "properties": {
+                "name": "Muyinga",
+                "id": "81e8a50b-872f-47c7-8a7a-b201ea4f4658",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1411719090034,
+                    -3.090321225937227
+                ]
+            },
+            "properties": {
+                "name": "Karuzi",
+                "id": "c1a2337e-4e23-4846-b6b0-b4d0e1865d2b",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.84216725484634,
+                    -2.913730599922696
+                ]
+            },
+            "properties": {
+                "name": "Ngozi",
+                "id": "6cc4158f-57b8-4d3f-b449-ca2415325b3d",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.630231584118135,
+                    -2.9302143201522357
+                ]
+            },
+            "properties": {
+                "name": "Kayanza",
+                "id": "c2238e07-fd90-4de8-ae8e-74e6583b6ecd",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.129472688511548,
+                    -2.887833689369506
+                ]
+            },
+            "properties": {
+                "name": "Cibitoke",
+                "id": "8784dbcb-5a14-4e7f-a623-f9f8d94d5fd8",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.395766666896762,
+                    -3.0859779631519717
+                ]
+            },
+            "properties": {
+                "name": "Bubanza",
+                "id": "057f55c6-9d41-4e20-9b47-6465c46a27de",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.61787187851368,
+                    -3.267536910903535
+                ]
+            },
+            "properties": {
+                "name": "Muramvya",
+                "id": "7cf9c2f1-47d9-42e8-95ca-94a6a8f26537",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.24618379285637,
+                    -3.466731350116496
+                ]
+            },
+            "properties": {
+                "name": "Ruyigi",
+                "id": "3adf105c-e685-4dc6-a8d8-7618fad1f346",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.704207675394198,
+                    -3.5142797502752643
+                ]
+            },
+            "properties": {
+                "name": "Mwaro",
+                "id": "297d3570-ada5-46ef-accb-e8ad5dbdad3c",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.347781470649217,
+                    -3.366602094189234
+                ]
+            },
+            "properties": {
+                "name": "Bujumbura",
+                "id": "4798773b-583b-4382-a38e-2754691eeb39",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.925400738228586,
+                    -3.4265376659969333
+                ]
+            },
+            "properties": {
+                "name": "Gitega",
+                "id": "4d213035-0087-4c2c-ab47-bb5cd45f748d",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.582566478523923,
+                    -3.6617259425272923
+                ]
+            },
+            "properties": {
+                "name": "Mugamba",
+                "id": "4ef6fe8d-6782-47e3-9bfb-467db82aa8a5",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6888348008974,
+                    -3.769027024248509
+                ]
+            },
+            "properties": {
+                "name": "Matana",
+                "id": "fa1e58ac-d958-4c4a-aaba-bd1b629dce60",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.402078579687622,
+                    -3.913650227060979
+                ]
+            },
+            "properties": {
+                "name": "Rumonge",
+                "id": "fe885e33-240b-40cc-9e37-a8084b89d9aa",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.25244210607748,
+                    -3.3371082758501514
+                ]
+            },
+            "properties": {
+                "name": "Gatumba",
+                "id": "82e38a67-8920-492e-9d42-2019c8a01126",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.985454728895125,
+                    -3.926162992615712
+                ]
+            },
+            "properties": {
+                "name": "Rutana",
+                "id": "7c1eacac-4bba-4c0d-85b1-990e64e5343a",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.791898968513433,
+                    -4.1986604312115885
+                ]
+            },
+            "properties": {
+                "name": "Makamba",
+                "id": "db0e311c-9c9e-4aaa-859d-28235962d00a",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.603570032747193,
+                    -4.338528376274334
+                ]
+            },
+            "properties": {
+                "name": "Nyanza-Lac",
+                "id": "070cb210-5e9b-46d0-80c7-518ed6b6e164",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.50814692165079,
+                    -3.256503311368667
+                ]
+            },
+            "properties": {
+                "name": "Cankuzo",
+                "id": "88a0da34-d395-4931-bee6-8d693eade002",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.76390587668227,
+                    -4.438298449177466
+                ]
+            },
+            "properties": {
+                "name": "Tanzania Border",
+                "id": "d15376b4-27aa-492c-ae03-6dda0dc229df",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66511344387719,
+                    -2.792141717112644
+                ]
+            },
+            "properties": {
+                "name": "Cendajuru",
+                "id": "38c28d47-2ac9-47e0-b551-0271bba278e4",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.04242397723285,
+                    -2.731711714020041
+                ]
+            },
+            "properties": {
+                "name": "Rukana",
+                "id": "09c25010-17db-4648-808c-b0274f58f0bb",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.21594368458504,
+                    -3.339306312454398
+                ]
+            },
+            "properties": {
+                "name": "DRC Border",
+                "id": "433688fc-8bc8-44f7-a12b-3aa6484ed1a9",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.099823025513576,
+                    -2.8106304081494025
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "08d50977-b379-4b6d-a2a5-93c86114ff41",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.33109303213167,
+                    -2.859929807779792
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "32919844-5313-4615-92c1-4053e825499d",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.54587559894754,
+                    -3.2907293952916734
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "31e36c14-0d74-47c0-bc7e-d5acf8def869",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.95327089834989,
+                    -3.466307733799284
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "54dfbdd6-9652-4312-83e7-72bb2610b6aa",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.57145714728446,
+                    -3.288306459728859
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "56597cee-667f-497f-9a72-2d871a7b6ddf",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.597028588834487,
+                    -3.5267251765062197
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "705773bf-1da9-4897-9b81-e96e0d7f82cb",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.77613932670141,
+                    -4.270411151250022
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "84873223-8a9c-4714-a68c-1da12b855a1f",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.45357984990318,
+                    -4.0056105331292
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "053b5392-e1ef-4d34-941b-13c887beb183",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.766181974301286,
+                    -3.8209568261995583
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "8f403a2b-c921-4098-9bd0-51fbf93adcad",
+                "networkProviders": [
+                    {
+                        "id": "a9458a66-ff96-4007-a31f-1a42c31e21fc",
+                        "name": "Burundi Backbone System"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "41ff0063-ccd3-488a-97c3-a09ae1cc3d22",
+                    "name": "Burundi Backbone System"
+                },
+                "network": {
+                    "id": "a0d74439-9420-4917-bddf-1acd883926c6",
+                    "name": "Burundi Backbone System",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

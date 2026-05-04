@@ -1,1 +1,1013 @@
-{"type": "FeatureCollection", "features": [{"id": "0", "type": "Feature", "properties": {"name": "Alice Springs", "id": "e46bd164-0da7-4f7b-9678-f939e55ed11b", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [133.8670397777191, -23.70050363107261]}}, {"id": "1", "type": "Feature", "properties": {"name": "Darwin", "id": "5ec40bdf-2109-401f-9641-ce0bd7d6b05d", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [130.8546290597786, -12.46057354470299]}}, {"id": "2", "type": "Feature", "properties": {"name": "Townsville", "id": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [146.8096768880376, -19.27438362704894]}}, {"id": "3", "type": "Feature", "properties": {"name": "Cairns", "id": "a18d1f4c-665a-42f8-849a-8f775ef92803", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [145.77588641898973, -16.92196840865122]}}, {"id": "4", "type": "Feature", "properties": {"name": "Brisbane", "id": "617cd2a3-b9f4-4133-a33a-251304fff2b9", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [153.02493938572238, -27.456491158921164]}}, {"id": "5", "type": "Feature", "properties": {"name": "Sydney", "id": "153d37bb-49b8-4b47-9af9-274d100069dc", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [151.20584142829176, -33.894289593417504]}}, {"id": "6", "type": "Feature", "properties": {"name": "Canberra", "id": "9a8a8f1a-0a39-4faa-aef8-89fc40a47781", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [149.1311281500221, -35.3178545488283]}}, {"id": "7", "type": "Feature", "properties": {"name": "Melbourne", "id": "a379aa02-edf1-4e86-a9e8-857e8eec56eb", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [144.95840968636398, -37.80047111397962]}}, {"id": "8", "type": "Feature", "properties": {"name": "Hobart", "id": "681036bb-808b-4291-bf5b-a6a4ebaf21cd", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [147.33068887391158, -42.871937067559344]}}, {"id": "9", "type": "Feature", "properties": {"name": "Adelaide", "id": "8af7483e-d617-4547-990c-a006cffa3d59", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [138.6084443959521, -34.92571343078614]}}, {"id": "10", "type": "Feature", "properties": {"name": "Perth", "id": "d96ab91a-5134-417c-88da-b0d5d29e1070", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [115.8617873109558, -31.949555456513]}}, {"id": "11", "type": "Feature", "properties": {"name": "Geraldton", "id": "2c1c503e-ad87-42f5-b5f5-34e5fc72222a", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [114.6336335883842, -28.78298608863611]}}, {"id": "12", "type": "Feature", "properties": {"name": "Port Hedland", "id": "91a00cdf-cb04-4d46-be43-c6416a2d857d", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [118.6530131886539, -20.34794203497606]}}, {"id": "13", "type": "Feature", "properties": {"name": "fork", "id": "c89492fa-3e55-4288-b916-6774bea809a7", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [135.87192884376972, -31.097198895014063]}}, {"id": "14", "type": "Feature", "properties": {"name": "Boat Harbour Landing point", "id": "3f9df1cc-3cbf-4ce2-9f90-ecc3e4490cbf", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [145.619330571283, -40.93156754984238]}}, {"id": "15", "type": "Feature", "properties": {"name": "fork", "id": "3410f35c-ad55-4842-9a36-da75f351215f", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [148.07800839457792, -34.87887088268435]}}, {"id": "16", "type": "Feature", "properties": {"name": "Newcastle", "id": "3613c11d-d4ca-493f-949f-7556dd76bf1c", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [151.74925240522273, -32.87141050713831]}}, {"id": "17", "type": "Feature", "properties": {"name": "fork", "id": "7bdc7cef-deb8-4771-824b-d5f91f85bdcc", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [151.35112155717258, -27.955898961257105]}}, {"id": "18", "type": "Feature", "properties": {"name": "Broken Hill", "id": "0503ed55-a53d-4dfd-8da2-85d4d18938e7", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [141.495676712855, -31.96663649510846]}}, {"id": "23", "type": "Feature", "properties": {"name": "fork", "id": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [142.16142779892104, -34.20345571021855]}}, {"id": "29", "type": "Feature", "properties": {"name": "default-node", "id": "9f30eef1-e8b1-4b1e-9966-0b2abafb0d60", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [145.0549050022202, -37.79275025578396]}}, {"id": "31", "type": "Feature", "properties": {"name": "default-node", "id": "6f77b598-bdd5-45e4-845d-078f6e94dd1a", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [145.0169673217945, -37.86077105623412]}}, {"id": "35", "type": "Feature", "properties": {"name": "default-node", "id": "e84e0c9c-4725-4f25-a048-4ca856df17ab", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [151.2875541316366, -33.85798177722424]}}, {"id": "37", "type": "Feature", "properties": {"name": "default-node", "id": "2a374634-55e3-48c0-9a34-a2b3c16c23a4", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [151.236060415804, -33.83084355465002]}}, {"id": "40", "type": "Feature", "properties": {"name": "fork", "id": "055a4eae-c71f-48c6-b4c3-c73e7e069db4", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [151.36670704058812, -27.940059851120246]}}, {"id": "41", "type": "Feature", "properties": {"name": "fork", "id": "0572cb5a-9805-441b-a36b-d33835d2b310", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [142.9243244527931, -20.733807861031107]}}, {"id": "42", "type": "Feature", "properties": {"name": "fork", "id": "9c748640-9707-46a4-8c1e-4b9f80016d3c", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [134.2289527239986, -19.45281044030402]}}, {"id": "43", "type": "Feature", "properties": {"name": "fork", "id": "bd4253e3-33c8-488b-866f-f1bfd38fd491", "network": {"id": "0ebbf242-db7c-4b22-b223-10befc69088d", "name": "Vocus National Network", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "1053c8ce-294c-406a-be39-5cbf60a6cd62", "name": "Vocus Group Limited"}, "networkProviders": [{"id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d", "name": "Vocus"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [145.22258088735026, -36.80260608846167]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8670397777191,
+                    -23.70050363107261
+                ]
+            },
+            "properties": {
+                "name": "Alice Springs",
+                "id": "e46bd164-0da7-4f7b-9678-f939e55ed11b",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.8546290597786,
+                    -12.46057354470299
+                ]
+            },
+            "properties": {
+                "name": "Darwin",
+                "id": "5ec40bdf-2109-401f-9641-ce0bd7d6b05d",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.8096768880376,
+                    -19.27438362704894
+                ]
+            },
+            "properties": {
+                "name": "Townsville",
+                "id": "5f0a4226-bd6d-4659-b4c4-e90683bdb9ab",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.77588641898973,
+                    -16.92196840865122
+                ]
+            },
+            "properties": {
+                "name": "Cairns",
+                "id": "a18d1f4c-665a-42f8-849a-8f775ef92803",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.02493938572238,
+                    -27.456491158921164
+                ]
+            },
+            "properties": {
+                "name": "Brisbane",
+                "id": "617cd2a3-b9f4-4133-a33a-251304fff2b9",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.20584142829176,
+                    -33.894289593417504
+                ]
+            },
+            "properties": {
+                "name": "Sydney",
+                "id": "153d37bb-49b8-4b47-9af9-274d100069dc",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.1311281500221,
+                    -35.3178545488283
+                ]
+            },
+            "properties": {
+                "name": "Canberra",
+                "id": "9a8a8f1a-0a39-4faa-aef8-89fc40a47781",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.95840968636398,
+                    -37.80047111397962
+                ]
+            },
+            "properties": {
+                "name": "Melbourne",
+                "id": "a379aa02-edf1-4e86-a9e8-857e8eec56eb",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.33068887391158,
+                    -42.871937067559344
+                ]
+            },
+            "properties": {
+                "name": "Hobart",
+                "id": "681036bb-808b-4291-bf5b-a6a4ebaf21cd",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6084443959521,
+                    -34.92571343078614
+                ]
+            },
+            "properties": {
+                "name": "Adelaide",
+                "id": "8af7483e-d617-4547-990c-a006cffa3d59",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8617873109558,
+                    -31.949555456513
+                ]
+            },
+            "properties": {
+                "name": "Perth",
+                "id": "d96ab91a-5134-417c-88da-b0d5d29e1070",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.6336335883842,
+                    -28.78298608863611
+                ]
+            },
+            "properties": {
+                "name": "Geraldton",
+                "id": "2c1c503e-ad87-42f5-b5f5-34e5fc72222a",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.6530131886539,
+                    -20.34794203497606
+                ]
+            },
+            "properties": {
+                "name": "Port Hedland",
+                "id": "91a00cdf-cb04-4d46-be43-c6416a2d857d",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.87192884376972,
+                    -31.097198895014063
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "c89492fa-3e55-4288-b916-6774bea809a7",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.619330571283,
+                    -40.93156754984238
+                ]
+            },
+            "properties": {
+                "name": "Boat Harbour Landing point",
+                "id": "3f9df1cc-3cbf-4ce2-9f90-ecc3e4490cbf",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.07800839457792,
+                    -34.87887088268435
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "3410f35c-ad55-4842-9a36-da75f351215f",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.74925240522273,
+                    -32.87141050713831
+                ]
+            },
+            "properties": {
+                "name": "Newcastle",
+                "id": "3613c11d-d4ca-493f-949f-7556dd76bf1c",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.35112155717258,
+                    -27.955898961257105
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "7bdc7cef-deb8-4771-824b-d5f91f85bdcc",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.495676712855,
+                    -31.96663649510846
+                ]
+            },
+            "properties": {
+                "name": "Broken Hill",
+                "id": "0503ed55-a53d-4dfd-8da2-85d4d18938e7",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.16142779892104,
+                    -34.20345571021855
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "301fbf1d-b68f-4b91-92fa-f723dd6a5b4c",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0549050022202,
+                    -37.79275025578396
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "9f30eef1-e8b1-4b1e-9966-0b2abafb0d60",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0169673217945,
+                    -37.86077105623412
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "6f77b598-bdd5-45e4-845d-078f6e94dd1a",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2875541316366,
+                    -33.85798177722424
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "e84e0c9c-4725-4f25-a048-4ca856df17ab",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.236060415804,
+                    -33.83084355465002
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "2a374634-55e3-48c0-9a34-a2b3c16c23a4",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.36670704058812,
+                    -27.940059851120246
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "055a4eae-c71f-48c6-b4c3-c73e7e069db4",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.9243244527931,
+                    -20.733807861031107
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "0572cb5a-9805-441b-a36b-d33835d2b310",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.2289527239986,
+                    -19.45281044030402
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "9c748640-9707-46a4-8c1e-4b9f80016d3c",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.22258088735026,
+                    -36.80260608846167
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "bd4253e3-33c8-488b-866f-f1bfd38fd491",
+                "networkProviders": [
+                    {
+                        "id": "27b2a448-cfbd-4684-ab81-aa3e0f30436d",
+                        "name": "Vocus"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "1053c8ce-294c-406a-be39-5cbf60a6cd62",
+                    "name": "Vocus Group Limited"
+                },
+                "network": {
+                    "id": "0ebbf242-db7c-4b22-b223-10befc69088d",
+                    "name": "Vocus National Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

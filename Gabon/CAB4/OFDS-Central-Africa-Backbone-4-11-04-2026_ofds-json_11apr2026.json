@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Franceville",
                     "id": "f6c5f4fc-6a82-4a96-92e3-a70291ad4954",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -29,15 +25,15 @@
                             13.602309181354853,
                             -1.626874645997027
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Congo-Gabon Border",
                     "id": "a52c53a1-70af-4ef1-90d0-ea80ab8d3ee5",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -50,15 +46,15 @@
                             12.89474,
                             -2.06929
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Moanda",
                     "id": "1087713a-25f5-4f76-acf0-226f943b3481",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -71,15 +67,15 @@
                             13.21995,
                             -1.54875
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Kango",
                     "id": "21a2b774-e869-4377-b2e4-5330f5abe4fd",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -92,15 +88,15 @@
                             10.115572771938371,
                             0.17571263564947276
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Ndjolé",
                     "id": "7fff5d48-3804-4bf1-8bd7-7077cfd31c5c",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -113,15 +109,15 @@
                             10.76142,
                             -0.1885
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Lekoni",
                     "id": "fb9ad08b-e607-457f-98ef-1fdb450d0a62",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -134,15 +130,15 @@
                             14.26564,
                             -1.58421
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Bakoumba",
                     "id": "b7a5325b-3d2e-450c-a9e6-9b9a2d1441ff",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -155,15 +151,15 @@
                             13.012218695947585,
                             -1.8276494918709052
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Owendo",
                     "id": "270117a1-6d7e-4191-8f87-1209e445ab11",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -176,15 +172,15 @@
                             9.50587,
                             0.28861
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Bongoville",
                     "id": "66642e9b-d97c-44c8-8b00-a3fdc3872b43",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -197,15 +193,15 @@
                             13.863576000000002,
                             -1.6422439999999987
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Lastourville",
                     "id": "c2c389b8-f7b2-4d9d-9a71-e5b7a7492a6b",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -218,15 +214,15 @@
                             12.73203,
                             -0.8094799999999999
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Libreville",
                     "id": "d24506a0-7137-4571-bfde-5b2b6cfeb17e",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -239,15 +235,15 @@
                             9.440311045006997,
                             0.40776462849054823
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Ntoum",
                     "id": "279b9d90-6a3b-4975-8c98-95e4d0ac73c5",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -260,15 +256,15 @@
                             9.77279066062323,
                             0.3872247461756374
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Lekoko",
                     "id": "d44024fc-c0df-4f3b-9175-5ea82a11b68e",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -281,15 +277,15 @@
                             12.907277398244824,
                             -2.0496061656134956
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Booué",
                     "id": "c7a96a26-09e8-4920-ad78-e341b60fcf71",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -302,15 +298,15 @@
                             11.94834093166921,
                             -0.09604978162191159
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Koulamoutou",
                     "id": "affc8632-b41e-47a1-8383-3b74de9b0b0f",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -323,6 +319,10 @@
                             12.46177,
                             -1.13403
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 }
             ],
@@ -333,10 +333,6 @@
                     "start": "270117a1-6d7e-4191-8f87-1209e445ab11",
                     "end": "d24506a0-7137-4571-bfde-5b2b6cfeb17e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -1618,6 +1614,10 @@
                                 0.40769921163152256
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -1626,10 +1626,6 @@
                     "start": "d24506a0-7137-4571-bfde-5b2b6cfeb17e",
                     "end": "279b9d90-6a3b-4975-8c98-95e4d0ac73c5",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -3955,6 +3951,10 @@
                                 0.3872271243463033
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -3963,10 +3963,6 @@
                     "start": "279b9d90-6a3b-4975-8c98-95e4d0ac73c5",
                     "end": "21a2b774-e869-4377-b2e4-5330f5abe4fd",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -5716,6 +5712,10 @@
                                 0.17578668145118423
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -5724,10 +5724,6 @@
                     "start": "21a2b774-e869-4377-b2e4-5330f5abe4fd",
                     "end": "7fff5d48-3804-4bf1-8bd7-7077cfd31c5c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -17837,6 +17833,10 @@
                                 -0.1884029755358743
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -17845,10 +17845,6 @@
                     "start": "c2c389b8-f7b2-4d9d-9a71-e5b7a7492a6b",
                     "end": "c7a96a26-09e8-4920-ad78-e341b60fcf71",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -17950,6 +17946,10 @@
                                 -0.09606977975795408
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -17958,10 +17958,6 @@
                     "start": "c7a96a26-09e8-4920-ad78-e341b60fcf71",
                     "end": "7fff5d48-3804-4bf1-8bd7-7077cfd31c5c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -18047,6 +18043,10 @@
                                 -0.1885
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -18055,10 +18055,6 @@
                     "start": "a52c53a1-70af-4ef1-90d0-ea80ab8d3ee5",
                     "end": "d44024fc-c0df-4f3b-9175-5ea82a11b68e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -18100,6 +18096,10 @@
                                 -2.0496950690464475
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -18108,10 +18108,6 @@
                     "start": "d44024fc-c0df-4f3b-9175-5ea82a11b68e",
                     "end": "b7a5325b-3d2e-450c-a9e6-9b9a2d1441ff",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -21809,6 +21805,10 @@
                                 -1.8277254353470216
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -21817,10 +21817,6 @@
                     "start": "f6c5f4fc-6a82-4a96-92e3-a70291ad4954",
                     "end": "66642e9b-d97c-44c8-8b00-a3fdc3872b43",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -24894,6 +24890,10 @@
                                 -1.6423147106781169
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -24902,10 +24902,6 @@
                     "start": "66642e9b-d97c-44c8-8b00-a3fdc3872b43",
                     "end": "fb9ad08b-e607-457f-98ef-1fdb450d0a62",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -27371,6 +27367,10 @@
                                 -1.5842602059660122
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -27379,10 +27379,6 @@
                     "start": "1087713a-25f5-4f76-acf0-226f943b3481",
                     "end": "c2c389b8-f7b2-4d9d-9a71-e5b7a7492a6b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -36776,6 +36772,10 @@
                                 -0.8095047381002722
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -36784,10 +36784,6 @@
                     "start": "c2c389b8-f7b2-4d9d-9a71-e5b7a7492a6b",
                     "end": "affc8632-b41e-47a1-8383-3b74de9b0b0f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -40377,6 +40373,10 @@
                                 -1.1339644114669702
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -40385,10 +40385,6 @@
                     "start": "b7a5325b-3d2e-450c-a9e6-9b9a2d1441ff",
                     "end": "1087713a-25f5-4f76-acf0-226f943b3481",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -45230,6 +45226,10 @@
                                 -1.54875
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -45238,10 +45238,6 @@
                     "start": "1087713a-25f5-4f76-acf0-226f943b3481",
                     "end": "f6c5f4fc-6a82-4a96-92e3-a70291ad4954",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11"
@@ -49371,6 +49367,10 @@
                                 -1.626842620230502
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                        "name": "CAB4"
                     }
                 }
             ],

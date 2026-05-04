@@ -1,1 +1,149 @@
-{"type": "FeatureCollection", "features": [{"id": "0", "type": "Feature", "properties": {"name": "Dawson City", "id": "9873744c-9968-40c1-81cf-c573bd1f5ae2", "network": {"id": "e915bec4-6e3e-4f57-89c6-021864b585d6", "name": "Dempster Fibre Line", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "c00844d0-77d1-484f-a914-420c1a911bc7", "name": "Dempster Fibre Line"}, "networkProviders": [{"id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f", "name": "Dempster Fibre Line"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-139.43080007518242, 64.06011728267492]}}, {"id": "1", "type": "Feature", "properties": {"name": "Fort McPherson", "id": "ebaac5d6-5989-4d37-b1f1-0d959990d004", "network": {"id": "e915bec4-6e3e-4f57-89c6-021864b585d6", "name": "Dempster Fibre Line", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "c00844d0-77d1-484f-a914-420c1a911bc7", "name": "Dempster Fibre Line"}, "networkProviders": [{"id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f", "name": "Dempster Fibre Line"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-134.880838, 67.43518]}}, {"id": "2", "type": "Feature", "properties": {"name": "Inuvik", "id": "07b38a27-5591-4a85-9dda-da689a0b9d4f", "network": {"id": "e915bec4-6e3e-4f57-89c6-021864b585d6", "name": "Dempster Fibre Line", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "c00844d0-77d1-484f-a914-420c1a911bc7", "name": "Dempster Fibre Line"}, "networkProviders": [{"id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f", "name": "Dempster Fibre Line"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-133.72946364023892, 68.35927921216967]}}, {"id": "3", "type": "Feature", "properties": {"name": "Tsiigehtchic", "id": "514c6894-c023-498b-b15d-03c5a153e775", "network": {"id": "e915bec4-6e3e-4f57-89c6-021864b585d6", "name": "Dempster Fibre Line", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "c00844d0-77d1-484f-a914-420c1a911bc7", "name": "Dempster Fibre Line"}, "networkProviders": [{"id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f", "name": "Dempster Fibre Line"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [-133.744003, 67.442684]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139.43080007518242,
+                    64.06011728267492
+                ]
+            },
+            "properties": {
+                "name": "Dawson City",
+                "id": "9873744c-9968-40c1-81cf-c573bd1f5ae2",
+                "networkProviders": [
+                    {
+                        "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
+                        "name": "Dempster Fibre Line"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                    "name": "Dempster Fibre Line"
+                },
+                "network": {
+                    "id": "e915bec4-6e3e-4f57-89c6-021864b585d6",
+                    "name": "Dempster Fibre Line",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.880838,
+                    67.43518
+                ]
+            },
+            "properties": {
+                "name": "Fort McPherson",
+                "id": "ebaac5d6-5989-4d37-b1f1-0d959990d004",
+                "networkProviders": [
+                    {
+                        "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
+                        "name": "Dempster Fibre Line"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                    "name": "Dempster Fibre Line"
+                },
+                "network": {
+                    "id": "e915bec4-6e3e-4f57-89c6-021864b585d6",
+                    "name": "Dempster Fibre Line",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -133.72946364023892,
+                    68.35927921216967
+                ]
+            },
+            "properties": {
+                "name": "Inuvik",
+                "id": "07b38a27-5591-4a85-9dda-da689a0b9d4f",
+                "networkProviders": [
+                    {
+                        "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
+                        "name": "Dempster Fibre Line"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                    "name": "Dempster Fibre Line"
+                },
+                "network": {
+                    "id": "e915bec4-6e3e-4f57-89c6-021864b585d6",
+                    "name": "Dempster Fibre Line",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -133.744003,
+                    67.442684
+                ]
+            },
+            "properties": {
+                "name": "Tsiigehtchic",
+                "id": "514c6894-c023-498b-b15d-03c5a153e775",
+                "networkProviders": [
+                    {
+                        "id": "6abb65e0-fa3b-418d-96c7-ac341f775a6f",
+                        "name": "Dempster Fibre Line"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c00844d0-77d1-484f-a914-420c1a911bc7",
+                    "name": "Dempster Fibre Line"
+                },
+                "network": {
+                    "id": "e915bec4-6e3e-4f57-89c6-021864b585d6",
+                    "name": "Dempster Fibre Line",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

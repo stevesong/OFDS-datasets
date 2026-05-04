@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Carcross",
                     "id": "07e3e710-1ad1-4d3d-a845-420b102c2406",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -30,15 +26,15 @@
                             -134.70620144011576,
                             60.16791986506099
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Carmacks",
                     "id": "1ed066be-21a3-4565-8a87-2f8ad3e65644",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -52,15 +48,15 @@
                             -136.2919738058901,
                             62.08766806959566
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Dawson City",
                     "id": "db3bd6a0-6bdf-4e4f-b950-13d9064fd13d",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -74,15 +70,15 @@
                             -139.436879,
                             64.060255
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Dawson Creek",
                     "id": "c3b5d486-fbc4-44d1-9fe3-e20edf765a8a",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -96,15 +92,15 @@
                             -120.246932,
                             55.764392
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Fort Resolution",
                     "id": "bfd4c46d-5d97-42a4-b370-65f186d9ee44",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -118,15 +114,15 @@
                             -113.67373,
                             61.171388
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Fort Smith",
                     "id": "e77c44cc-3627-4988-845e-6bcd4b05218f",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -140,15 +136,15 @@
                             -111.906402,
                             60.009944
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Haines Junction",
                     "id": "5cfe9c92-10fa-4674-a40a-ea74b36f61f6",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -162,15 +158,15 @@
                             -137.510492,
                             60.753065
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "High Level",
                     "id": "fd6b7178-adcd-4b52-a612-d6565d91c3e5",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -184,15 +180,15 @@
                             -117.115636,
                             58.524136
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Marsh Lake",
                     "id": "4413d971-f940-410a-8770-65d7d741d633",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -206,15 +202,15 @@
                             -134.33021,
                             60.515647
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Pelly Crossing",
                     "id": "922cc56d-463f-4365-bd20-f291204223db",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -228,15 +224,15 @@
                             -136.569347,
                             62.818611
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Stewart Crossing",
                     "id": "5a8a13bd-7018-4b59-ab14-ea912a7f466e",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -250,15 +246,15 @@
                             -136.678592,
                             63.374774
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Swift River",
                     "id": "570e5254-9f63-4605-9e70-498cb558ac7a",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -272,15 +268,15 @@
                             -131.05745449441557,
                             60.03057538035059
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Tagish",
                     "id": "75967388-6d90-46b9-970d-30e1463d2f96",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -294,15 +290,15 @@
                             -134.2723059584305,
                             60.31317065594058
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Teslin",
                     "id": "120035bc-34aa-4390-9aeb-0cda7fadf53a",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -316,15 +312,15 @@
                             -132.72468901093882,
                             60.1659714846186
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Toad River",
                     "id": "e12eba66-4098-4a66-9c28-36a4673b624b",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -338,15 +334,15 @@
                             -125.233594,
                             58.84762700000001
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Upper Liard",
                     "id": "81a20039-e224-4284-94b9-90b5dcad1d75",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -360,15 +356,15 @@
                             -128.90066797262403,
                             60.049918840188084
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Watson Lake",
                     "id": "fb3fd8a8-121a-4089-a1d6-d5c8b7f2b185",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -382,15 +378,15 @@
                             -128.7162301016737,
                             60.062955080980515
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Whitehorse",
                     "id": "c9451109-3b16-48b5-9469-4e3e4c154fe6",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -404,15 +400,15 @@
                             -135.057466,
                             60.720521
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Yellowknife",
                     "id": "84635f2a-4317-47e0-a061-76ee162263d2",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -426,15 +422,15 @@
                             -114.371288,
                             62.45489300000001
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "Fort Nelson",
                     "id": "1dab5a51-a67a-4590-a427-e4c625c03ef1",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -448,15 +444,15 @@
                             -122.68163138018717,
                             58.80257791832702
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "62180cef-ffa2-412f-b686-21633c66885d",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -470,15 +466,15 @@
                             -135.20518568650218,
                             60.81044602031931
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "a3f71b79-43d4-4be4-924f-dda4bf89b0d0",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -492,15 +488,15 @@
                             -134.87754761633076,
                             60.59948798921358
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "ceab33f2-2c70-4712-afd5-de85ef11769b",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -514,15 +510,15 @@
                             -133.98496242400324,
                             60.33967554645755
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "191a1c80-c98e-45c6-b7ed-8f81f8b5a3b7",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -536,15 +532,15 @@
                             -122.7425319686124,
                             58.804245143895706
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "2d995c0a-6314-408f-bda6-302e10b3572c",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -558,15 +554,15 @@
                             -116.139613,
                             60.558469
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "2679448a-734e-42fc-a1df-9688f9239e22",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -580,15 +576,15 @@
                             -114.82121537263035,
                             60.74034774731152
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "7dc220c7-3714-43f4-a0eb-0ee9dd3c8840",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -602,6 +598,10 @@
                             -117.50106146327117,
                             61.07364430519396
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 }
             ],
@@ -612,10 +612,6 @@
                     "start": "922cc56d-463f-4365-bd20-f291204223db",
                     "end": "1ed066be-21a3-4565-8a87-2f8ad3e65644",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -3434,6 +3430,10 @@
                                 62.087658063994134
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -3442,10 +3442,6 @@
                     "start": "120035bc-34aa-4390-9aeb-0cda7fadf53a",
                     "end": "570e5254-9f63-4605-9e70-498cb558ac7a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -5100,6 +5096,10 @@
                                 60.0305353796638
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -5108,10 +5108,6 @@
                     "start": "570e5254-9f63-4605-9e70-498cb558ac7a",
                     "end": "81a20039-e224-4284-94b9-90b5dcad1d75",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -7866,6 +7862,10 @@
                                 60.04992106117883
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -7874,10 +7874,6 @@
                     "start": "81a20039-e224-4284-94b9-90b5dcad1d75",
                     "end": "fb3fd8a8-121a-4089-a1d6-d5c8b7f2b185",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -8196,6 +8192,10 @@
                                 60.06296583017577
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -8204,10 +8204,6 @@
                     "start": "fb3fd8a8-121a-4089-a1d6-d5c8b7f2b185",
                     "end": "e12eba66-4098-4a66-9c28-36a4673b624b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -14362,6 +14358,10 @@
                                 58.84764823919801
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -14370,10 +14370,6 @@
                     "start": "07e3e710-1ad1-4d3d-a845-420b102c2406",
                     "end": "75967388-6d90-46b9-970d-30e1463d2f96",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -15240,6 +15236,10 @@
                                 60.313071854362796
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -15248,10 +15248,6 @@
                     "start": "db3bd6a0-6bdf-4e4f-b950-13d9064fd13d",
                     "end": "5a8a13bd-7018-4b59-ab14-ea912a7f466e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -20402,6 +20398,10 @@
                                 63.37477427096664
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -20410,10 +20410,6 @@
                     "start": "5a8a13bd-7018-4b59-ab14-ea912a7f466e",
                     "end": "922cc56d-463f-4365-bd20-f291204223db",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -22224,6 +22220,10 @@
                                 62.818611
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -22232,10 +22232,6 @@
                     "start": "1dab5a51-a67a-4590-a427-e4c625c03ef1",
                     "end": "c3b5d486-fbc4-44d1-9fe3-e20edf765a8a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -28722,6 +28718,10 @@
                                 55.76441824804327
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -28730,10 +28730,6 @@
                     "start": "62180cef-ffa2-412f-b686-21633c66885d",
                     "end": "5cfe9c92-10fa-4674-a40a-ea74b36f61f6",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -30256,6 +30252,10 @@
                                 60.75314538850433
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -30264,10 +30264,6 @@
                     "start": "1ed066be-21a3-4565-8a87-2f8ad3e65644",
                     "end": "62180cef-ffa2-412f-b686-21633c66885d",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -34254,6 +34250,10 @@
                                 60.81044602031931
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -34262,10 +34262,6 @@
                     "start": "62180cef-ffa2-412f-b686-21633c66885d",
                     "end": "c9451109-3b16-48b5-9469-4e3e4c154fe6",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -34988,6 +34984,10 @@
                                 60.72060120030787
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -34996,10 +34996,6 @@
                     "start": "a3f71b79-43d4-4be4-924f-dda4bf89b0d0",
                     "end": "07e3e710-1ad1-4d3d-a845-420b102c2406",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -36542,6 +36538,10 @@
                                 60.16782390219245
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -36550,10 +36550,6 @@
                     "start": "c9451109-3b16-48b5-9469-4e3e4c154fe6",
                     "end": "a3f71b79-43d4-4be4-924f-dda4bf89b0d0",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -37272,6 +37268,10 @@
                                 60.59948798921358
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -37280,10 +37280,6 @@
                     "start": "a3f71b79-43d4-4be4-924f-dda4bf89b0d0",
                     "end": "4413d971-f940-410a-8770-65d7d741d633",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -38058,6 +38054,10 @@
                                 60.51572070575609
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -38066,10 +38066,6 @@
                     "start": "75967388-6d90-46b9-970d-30e1463d2f96",
                     "end": "ceab33f2-2c70-4712-afd5-de85ef11769b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -38628,6 +38624,10 @@
                                 60.33967554645755
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -38636,10 +38636,6 @@
                     "start": "4413d971-f940-410a-8770-65d7d741d633",
                     "end": "ceab33f2-2c70-4712-afd5-de85ef11769b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -38926,6 +38922,10 @@
                                 60.33967554645755
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -38934,10 +38934,6 @@
                     "start": "ceab33f2-2c70-4712-afd5-de85ef11769b",
                     "end": "120035bc-34aa-4390-9aeb-0cda7fadf53a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -41036,6 +41032,10 @@
                                 60.165975454307414
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -41044,10 +41044,6 @@
                     "start": "e12eba66-4098-4a66-9c28-36a4673b624b",
                     "end": "191a1c80-c98e-45c6-b7ed-8f81f8b5a3b7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -45066,6 +45062,10 @@
                                 58.804245143895706
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -45074,10 +45074,6 @@
                     "start": "191a1c80-c98e-45c6-b7ed-8f81f8b5a3b7",
                     "end": "1dab5a51-a67a-4590-a427-e4c625c03ef1",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -45244,6 +45240,10 @@
                                 58.80259331946093
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -45252,10 +45252,6 @@
                     "start": "2d995c0a-6314-408f-bda6-302e10b3572c",
                     "end": "fd6b7178-adcd-4b52-a612-d6565d91c3e5",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -48270,6 +48266,10 @@
                                 58.52419580849156
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -48278,10 +48278,6 @@
                     "start": "e77c44cc-3627-4988-845e-6bcd4b05218f",
                     "end": "2679448a-734e-42fc-a1df-9688f9239e22",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -50220,6 +50216,10 @@
                                 60.74034774731152
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -50228,10 +50228,6 @@
                     "start": "bfd4c46d-5d97-42a4-b370-65f186d9ee44",
                     "end": "2679448a-734e-42fc-a1df-9688f9239e22",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -51446,6 +51442,10 @@
                                 60.74034774731152
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -51454,10 +51454,6 @@
                     "start": "2679448a-734e-42fc-a1df-9688f9239e22",
                     "end": "2d995c0a-6314-408f-bda6-302e10b3572c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -53588,6 +53584,10 @@
                                 60.558469
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -53596,10 +53596,6 @@
                     "start": "7dc220c7-3714-43f4-a0eb-0ee9dd3c8840",
                     "end": "84635f2a-4317-47e0-a061-76ee162263d2",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -58726,6 +58722,10 @@
                                 62.454935348301525
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -58734,10 +58734,6 @@
                     "start": "2d995c0a-6314-408f-bda6-302e10b3572c",
                     "end": "7dc220c7-3714-43f4-a0eb-0ee9dd3c8840",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -68060,6 +68056,10 @@
                                 58.804245143895706
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 },
                 {
@@ -68068,10 +68068,6 @@
                     "start": "7dc220c7-3714-43f4-a0eb-0ee9dd3c8840",
                     "end": "191a1c80-c98e-45c6-b7ed-8f81f8b5a3b7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
-                        "name": "NorthWestTel"
-                    },
                     "networkProviders": [
                         {
                             "id": "9c5c522a-db6f-4294-96f3-6dc6c5f765f2",
@@ -69978,6 +69974,10 @@
                                 61.07364430519396
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "5c38619c-0295-4a8e-8f63-9032e5259096",
+                        "name": "NorthWestTel"
                     }
                 }
             ],

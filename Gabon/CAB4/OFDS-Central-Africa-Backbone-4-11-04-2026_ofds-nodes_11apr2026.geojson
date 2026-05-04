@@ -1,1 +1,545 @@
-{"type": "FeatureCollection", "features": [{"id": "0", "type": "Feature", "properties": {"name": "Franceville", "id": "f6c5f4fc-6a82-4a96-92e3-a70291ad4954", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [13.602309181354853, -1.626874645997027]}}, {"id": "1", "type": "Feature", "properties": {"name": "Congo-Gabon Border", "id": "a52c53a1-70af-4ef1-90d0-ea80ab8d3ee5", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [12.89474, -2.06929]}}, {"id": "2", "type": "Feature", "properties": {"name": "Moanda", "id": "1087713a-25f5-4f76-acf0-226f943b3481", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [13.21995, -1.54875]}}, {"id": "3", "type": "Feature", "properties": {"name": "Kango", "id": "21a2b774-e869-4377-b2e4-5330f5abe4fd", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [10.115572771938371, 0.17571263564947276]}}, {"id": "4", "type": "Feature", "properties": {"name": "Ndjol\u00e9", "id": "7fff5d48-3804-4bf1-8bd7-7077cfd31c5c", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [10.76142, -0.1885]}}, {"id": "5", "type": "Feature", "properties": {"name": "Lekoni", "id": "fb9ad08b-e607-457f-98ef-1fdb450d0a62", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [14.26564, -1.58421]}}, {"id": "6", "type": "Feature", "properties": {"name": "Bakoumba", "id": "b7a5325b-3d2e-450c-a9e6-9b9a2d1441ff", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [13.012218695947585, -1.8276494918709052]}}, {"id": "7", "type": "Feature", "properties": {"name": "Owendo", "id": "270117a1-6d7e-4191-8f87-1209e445ab11", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [9.50587, 0.28861]}}, {"id": "8", "type": "Feature", "properties": {"name": "Bongoville", "id": "66642e9b-d97c-44c8-8b00-a3fdc3872b43", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [13.863576000000002, -1.6422439999999987]}}, {"id": "9", "type": "Feature", "properties": {"name": "Lastourville", "id": "c2c389b8-f7b2-4d9d-9a71-e5b7a7492a6b", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [12.73203, -0.8094799999999999]}}, {"id": "10", "type": "Feature", "properties": {"name": "Libreville", "id": "d24506a0-7137-4571-bfde-5b2b6cfeb17e", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [9.440311045006997, 0.40776462849054823]}}, {"id": "11", "type": "Feature", "properties": {"name": "Ntoum", "id": "279b9d90-6a3b-4975-8c98-95e4d0ac73c5", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [9.77279066062323, 0.3872247461756374]}}, {"id": "12", "type": "Feature", "properties": {"name": "Lekoko", "id": "d44024fc-c0df-4f3b-9175-5ea82a11b68e", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [12.907277398244824, -2.0496061656134956]}}, {"id": "13", "type": "Feature", "properties": {"name": "Boou\u00e9", "id": "c7a96a26-09e8-4920-ad78-e341b60fcf71", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [11.94834093166921, -0.09604978162191159]}}, {"id": "14", "type": "Feature", "properties": {"name": "Koulamoutou", "id": "affc8632-b41e-47a1-8383-3b74de9b0b0f", "network": {"id": "c62a267b-5908-4c73-9c80-948b9f057832", "name": "Central Africa Backbone 4", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "a5321cc5-b840-4465-a79c-3061466c16a2", "name": "CAB4"}, "networkProviders": [{"id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11", "name": ""}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [12.46177, -1.13403]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.602309181354853,
+                    -1.626874645997027
+                ]
+            },
+            "properties": {
+                "name": "Franceville",
+                "id": "f6c5f4fc-6a82-4a96-92e3-a70291ad4954",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89474,
+                    -2.06929
+                ]
+            },
+            "properties": {
+                "name": "Congo-Gabon Border",
+                "id": "a52c53a1-70af-4ef1-90d0-ea80ab8d3ee5",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21995,
+                    -1.54875
+                ]
+            },
+            "properties": {
+                "name": "Moanda",
+                "id": "1087713a-25f5-4f76-acf0-226f943b3481",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.115572771938371,
+                    0.17571263564947276
+                ]
+            },
+            "properties": {
+                "name": "Kango",
+                "id": "21a2b774-e869-4377-b2e4-5330f5abe4fd",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76142,
+                    -0.1885
+                ]
+            },
+            "properties": {
+                "name": "Ndjolé",
+                "id": "7fff5d48-3804-4bf1-8bd7-7077cfd31c5c",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26564,
+                    -1.58421
+                ]
+            },
+            "properties": {
+                "name": "Lekoni",
+                "id": "fb9ad08b-e607-457f-98ef-1fdb450d0a62",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.012218695947585,
+                    -1.8276494918709052
+                ]
+            },
+            "properties": {
+                "name": "Bakoumba",
+                "id": "b7a5325b-3d2e-450c-a9e6-9b9a2d1441ff",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.50587,
+                    0.28861
+                ]
+            },
+            "properties": {
+                "name": "Owendo",
+                "id": "270117a1-6d7e-4191-8f87-1209e445ab11",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.863576000000002,
+                    -1.6422439999999987
+                ]
+            },
+            "properties": {
+                "name": "Bongoville",
+                "id": "66642e9b-d97c-44c8-8b00-a3fdc3872b43",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73203,
+                    -0.8094799999999999
+                ]
+            },
+            "properties": {
+                "name": "Lastourville",
+                "id": "c2c389b8-f7b2-4d9d-9a71-e5b7a7492a6b",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.440311045006997,
+                    0.40776462849054823
+                ]
+            },
+            "properties": {
+                "name": "Libreville",
+                "id": "d24506a0-7137-4571-bfde-5b2b6cfeb17e",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.77279066062323,
+                    0.3872247461756374
+                ]
+            },
+            "properties": {
+                "name": "Ntoum",
+                "id": "279b9d90-6a3b-4975-8c98-95e4d0ac73c5",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.907277398244824,
+                    -2.0496061656134956
+                ]
+            },
+            "properties": {
+                "name": "Lekoko",
+                "id": "d44024fc-c0df-4f3b-9175-5ea82a11b68e",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94834093166921,
+                    -0.09604978162191159
+                ]
+            },
+            "properties": {
+                "name": "Booué",
+                "id": "c7a96a26-09e8-4920-ad78-e341b60fcf71",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.46177,
+                    -1.13403
+                ]
+            },
+            "properties": {
+                "name": "Koulamoutou",
+                "id": "affc8632-b41e-47a1-8383-3b74de9b0b0f",
+                "networkProviders": [
+                    {
+                        "id": "b7be8df8-9d1c-4002-8594-14a9e2fbcb11",
+                        "name": ""
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "a5321cc5-b840-4465-a79c-3061466c16a2",
+                    "name": "CAB4"
+                },
+                "network": {
+                    "id": "c62a267b-5908-4c73-9c80-948b9f057832",
+                    "name": "Central Africa Backbone 4",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

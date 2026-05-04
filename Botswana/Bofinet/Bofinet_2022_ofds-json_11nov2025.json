@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Charles Hill",
                     "id": "61bfcd1f-a363-46fa-85da-de672a3b4172",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -29,15 +25,15 @@
                             20.072128997070784,
                             -22.27250268636598
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Ghanzi",
                     "id": "75a1a199-135e-49ed-9901-e21079932177",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -50,15 +46,15 @@
                             21.66342739242362,
                             -21.705907578622753
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "cc137219-98ad-4c43-83de-c2e0e07ca008",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -71,15 +67,15 @@
                             21.54061093096132,
                             -22.053573858079737
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Sehitwa",
                     "id": "aa7a6277-273c-4501-99d7-2a1f126a0af3",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -92,15 +88,15 @@
                             22.7016685847155,
                             -20.4647217844744
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Gumare",
                     "id": "5b4ca9af-93d3-4ffc-8e08-b47a7deb2fb4",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -113,15 +109,15 @@
                             22.164857410985007,
                             -19.35964888918674
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Shakawe",
                     "id": "94514ba2-a1ef-4991-aac5-280b9db6ecc1",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -134,15 +130,15 @@
                             21.833509914355282,
                             -18.372674708157724
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Sepupa",
                     "id": "28abec94-1cd5-4718-a542-f41066441f34",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -155,15 +151,15 @@
                             22.17285826634368,
                             -18.736828692485386
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Gudingwa",
                     "id": "9a823762-4ae6-40f4-8395-f2d9187d1531",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -176,15 +172,15 @@
                             22.910950652882704,
                             -18.595819059695913
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Maun",
                     "id": "31034c3b-c9cc-4fa5-8551-5eef6692305a",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -197,15 +193,15 @@
                             23.435878994968235,
                             -20.007251255318344
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Mohembo",
                     "id": "0c89e4e5-0e7f-42e7-897b-7834678d7bc2",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -218,15 +214,15 @@
                             21.7956845375526,
                             -18.2667849904008
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Motopi",
                     "id": "95fac988-8495-4ba8-921b-617ceac99d77",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -239,15 +235,15 @@
                             24.137265661245607,
                             -20.213223907586933
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Mopipi",
                     "id": "9aa66201-ea4f-4593-aece-eaf8eda979aa",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -260,15 +256,15 @@
                             24.871936526219752,
                             -21.214236058566957
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "05937147-5a20-4d5d-87ff-c21dfd049f54",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -281,15 +277,15 @@
                             25.42776011309655,
                             -21.327561949395463
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Kasane",
                     "id": "9e0e36a4-ad67-4610-be3e-ac4ff38141fc",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -302,15 +298,15 @@
                             25.170755604201563,
                             -17.808575528833327
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Ngoma",
                     "id": "c1858d10-c62b-47e1-8e62-b084ec38fa10",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -323,15 +319,15 @@
                             24.7326854756381,
                             -17.9386731085849
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Kazangula",
                     "id": "c5d4a242-258a-470a-9e09-38add61ef147",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -344,15 +340,15 @@
                             25.281417706326,
                             -17.7786196252848
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Pandamatenga",
                     "id": "9e961ea8-3ef1-4875-929b-d8739c83d30e",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -365,15 +361,15 @@
                             25.615690633830127,
                             -18.521785054292817
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Nata",
                     "id": "35f695c0-6f7f-46ea-8dfc-aeec6182a827",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -386,15 +382,15 @@
                             26.184196261427,
                             -20.2079867388177
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Francistown",
                     "id": "4ab371b4-2802-406e-8ecd-0b3e871c4b11",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -407,15 +403,15 @@
                             27.5052593526441,
                             -21.1773041939132
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Ramokwebana",
                     "id": "a65aaf3c-3b4c-4c1c-b426-e75283844a99",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -428,15 +424,15 @@
                             27.646586532491778,
                             -20.59012640781988
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Zimbabwe border",
                     "id": "9a071a53-0435-40fb-93a3-ed607c952a99",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -449,15 +445,15 @@
                             27.7125325378522,
                             -20.5441001045223
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Serule",
                     "id": "5b710fe5-5ede-4a42-b829-980345afcca9",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -470,15 +466,15 @@
                             27.3227292525652,
                             -21.9191983741452
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Tonota",
                     "id": "21f9725e-1acb-4a57-8c8d-41290ae94311",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -491,15 +487,15 @@
                             27.444330246949086,
                             -21.42297726470668
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Mamuno",
                     "id": "ec224969-1dd7-4324-9f26-764a29519b21",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -512,15 +508,15 @@
                             20.0073629599624,
                             -22.2801556504974
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Kenye",
                     "id": "f0054397-99df-4bef-8bfd-ffdbddc50e7b",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -533,15 +529,15 @@
                             25.344423537861537,
                             -24.982054690670694
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Sekoma",
                     "id": "92315104-a05c-4de1-9ca0-529c66755973",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -554,15 +550,15 @@
                             23.91953019370225,
                             -24.512477988272572
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Motokwe",
                     "id": "5f0de8ec-b835-4ace-8985-dc26be8513da",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -575,15 +571,15 @@
                             23.095072224782093,
                             -24.091523942475852
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Kang",
                     "id": "353488c3-5b0e-42c5-b7d0-324bf2c8c5eb",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -596,15 +592,15 @@
                             22.756239937160224,
                             -23.67789906771843
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Struizenham",
                     "id": "d7ea7b57-42c9-4be0-8614-13d066a27e65",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -617,15 +613,15 @@
                             20.6707138523078,
                             -26.6588705410205
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Bokspits",
                     "id": "00a7e8a1-bcc0-421a-857c-a590f2fc2169",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -638,15 +634,15 @@
                             20.727286052581682,
                             -26.863106593729807
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Middlepits",
                     "id": "4ae6bb64-3615-4742-88b2-66987aaf9c5a",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -659,15 +655,15 @@
                             21.988948177695267,
                             -26.63514845758287
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Tsabong",
                     "id": "cb7aa3df-2cf1-485d-8a3d-d2dd424e5dfb",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -680,15 +676,15 @@
                             22.400364009512636,
                             -26.030058191690333
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Weruda",
                     "id": "c07d5af4-66a4-45f1-8b63-bfc4c89901e6",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -701,15 +697,15 @@
                             23.30833705758433,
                             -25.256838234298268
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Orapa",
                     "id": "ddf55b2b-eb97-459d-8618-7c105d1cad53",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -722,15 +718,15 @@
                             25.373846555600977,
                             -21.329403132750766
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Letlhakane",
                     "id": "9287577b-cabc-4cc4-ac08-55c48bab1fdf",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -743,15 +739,15 @@
                             25.554289726089717,
                             -21.413544959017933
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Palapaye",
                     "id": "ceca45df-b9e9-4518-8647-604d10f8c397",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -764,15 +760,15 @@
                             27.0987424363709,
                             -22.5241392621791
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Serowe",
                     "id": "3b42eaf7-5f9a-497b-81b2-be4adb54b87b",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -785,15 +781,15 @@
                             26.744464221330905,
                             -22.422287272958894
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Shoshong",
                     "id": "07043260-7752-480a-8c2b-f5b9aa658648",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -806,15 +802,15 @@
                             26.505508768998695,
                             -23.032150934468767
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Mahalapye",
                     "id": "aba8fb24-65ee-4c9f-8059-666a99e1eca3",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -827,15 +823,15 @@
                             26.846461317754567,
                             -23.11027017323304
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Machaneng",
                     "id": "15d5b5c8-43d9-4bef-ae6b-3ba152fe95f8",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -848,15 +844,15 @@
                             27.5138472450672,
                             -23.1886262817524
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Selebi Phikwe",
                     "id": "3b4dca3e-365c-4237-bb6e-ad8594a27797",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -869,15 +865,15 @@
                             27.8409191650491,
                             -21.974440198084
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Sefhophe",
                     "id": "2aac715b-b07a-4918-a92d-e17dd6dd4a91",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -890,15 +886,15 @@
                             27.9800121135469,
                             -22.1897905080173
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Tseysebjwe",
                     "id": "1827d95f-c4ec-42ed-81f9-592b9d1c87f2",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -911,15 +907,15 @@
                             28.3970717877704,
                             -22.4282324383268
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Bobonong",
                     "id": "0ea4e46b-72cb-4a1c-93c7-6dfcf3cabdb9",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -932,15 +928,15 @@
                             28.420502106547,
                             -21.9842612109431
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Mathathane",
                     "id": "12b936ff-f5bc-4983-99d6-b25606ee88a0",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -953,15 +949,15 @@
                             28.7598663165347,
                             -22.254564527983
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Gaborone",
                     "id": "8ca3188a-4a69-4455-a4c6-4c032b89ff5b",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -974,15 +970,15 @@
                             25.8792539592682,
                             -24.6309189343447
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Mochudi",
                     "id": "2c278d57-4068-40dd-8f68-d1e0f46c2b9d",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -995,15 +991,15 @@
                             26.16937635637,
                             -24.40095782142791
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "fork",
                     "id": "c5a5cec7-f542-451a-8564-c2dbd1e39bd1",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1016,15 +1012,15 @@
                             26.077508210570528,
                             -24.367169411877374
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Ramotswa",
                     "id": "ca7004a1-c2b6-4a63-9a5a-c38fe73a9fba",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1037,15 +1033,15 @@
                             25.8124380078676,
                             -24.868431810479915
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Lobatse",
                     "id": "beaffb24-440e-4b51-a72b-4d98d2d301b2",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1058,15 +1054,15 @@
                             25.7010042926997,
                             -25.206404899056
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Ramatlabama",
                     "id": "f325768e-d425-4935-9eb3-37ab3bad20b1",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1079,15 +1075,15 @@
                             25.5733228122148,
                             -25.6178426081959
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Letlhakeng",
                     "id": "465ea240-7837-4be1-ade2-a3b5d3cd69e2",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1100,15 +1096,15 @@
                             25.066747416234392,
                             -24.115765871387968
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Takatokwane",
                     "id": "2097a14b-0db4-4998-964f-4ff5bf25a61a",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1121,15 +1117,15 @@
                             24.3097865828841,
                             -24.0161049295254
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Molepolole",
                     "id": "11138b21-cbd3-4b28-ab30-0abd2a56822a",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1142,15 +1138,15 @@
                             25.49766571782243,
                             -24.397391674654802
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Dibete",
                     "id": "7eac79be-e7b6-40ff-a0f3-ba0e7e904b91",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1163,15 +1159,15 @@
                             26.486218532843747,
                             -23.753011125143555
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Martin's Drift",
                     "id": "b14b6777-b7d2-4c0a-8a3d-50c954006323",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1184,15 +1180,15 @@
                             27.9350957101042,
                             -22.9979572054341
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "4f49074b-97ce-4155-a2cd-8b7d3eb7a122",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1205,15 +1201,15 @@
                             22.7545596352421,
                             -20.4230610004618
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "1819faf3-6134-487c-b791-d3641c3ab443",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1226,15 +1222,15 @@
                             28.0190626448412,
                             -22.1579675427095
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "70403dd4-708e-482e-ba7a-c79c082d7cf1",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1247,15 +1243,15 @@
                             25.9215651238963,
                             -24.6028936465512
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "67e092a9-4bbd-43c1-ac62-c78f5c384f99",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1268,15 +1264,15 @@
                             25.8823091244044,
                             -24.6810850704361
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "8ce53946-be66-41a7-844c-2eee0728792f",
-                    "physicalInfrastructureProvider": {
-                        "id": "GovBotswana-1",
-                        "name": "Government of Botswana"
-                    },
                     "networkProviders": [
                         {
                             "id": "Bofinet-1",
@@ -1289,6 +1285,10 @@
                             27.5330733407811,
                             -21.140088138121
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "GovBotswana-1",
+                        "name": "Government of Botswana"
                     }
                 }
             ],

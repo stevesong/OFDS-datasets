@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Pointe-Noire",
                     "id": "9610dc7a-15f2-405c-b63d-9295307b2c13",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -29,15 +25,15 @@
                             11.86622,
                             -4.76924
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Binlinga",
                     "id": "300d9eae-1766-42a7-adcc-28bc9b8ab1a2",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -50,15 +46,15 @@
                             12.111736284023669,
                             -4.459763881656805
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Dolisle",
                     "id": "a8067146-cb21-407a-a525-500820267210",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -71,15 +67,15 @@
                             12.65614,
                             -4.15687
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Makabana",
                     "id": "f708180d-9df6-4423-a26f-b8ac4ff68797",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -92,15 +88,15 @@
                             12.587999653210732,
                             -3.5082120651758655
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Mossendjo",
                     "id": "60bb536c-d957-48d0-a97f-7c0f2f0d66bc",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -113,15 +109,15 @@
                             12.71769966966719,
                             -2.946102554463622
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
                     "name": "Gabon-Congo Border",
                     "id": "cc46320b-b1ce-4206-bd77-08b5470b3ad8",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -134,6 +130,10 @@
                             12.89437,
                             -2.06982
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 }
             ],
@@ -144,10 +144,6 @@
                     "start": "9610dc7a-15f2-405c-b63d-9295307b2c13",
                     "end": "300d9eae-1766-42a7-adcc-28bc9b8ab1a2",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -4257,6 +4253,10 @@
                                 -4.459829493439866
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -4265,10 +4265,6 @@
                     "start": "300d9eae-1766-42a7-adcc-28bc9b8ab1a2",
                     "end": "a8067146-cb21-407a-a525-500820267210",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -13286,6 +13282,10 @@
                                 -4.156843927585602
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -13294,10 +13294,6 @@
                     "start": "a8067146-cb21-407a-a525-500820267210",
                     "end": "f708180d-9df6-4423-a26f-b8ac4ff68797",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -15395,6 +15391,10 @@
                                 -3.5082745266319186
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -15403,10 +15403,6 @@
                     "start": "f708180d-9df6-4423-a26f-b8ac4ff68797",
                     "end": "60bb536c-d957-48d0-a97f-7c0f2f0d66bc",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -17240,6 +17236,10 @@
                                 -2.9461052780871753
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 },
                 {
@@ -17248,10 +17248,6 @@
                     "start": "60bb536c-d957-48d0-a97f-7c0f2f0d66bc",
                     "end": "cc46320b-b1ce-4206-bd77-08b5470b3ad8",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
-                        "name": "CAB4"
-                    },
                     "networkProviders": [
                         {
                             "id": "ee8393e5-9939-429e-bd08-ea1ab7f57bab"
@@ -27317,6 +27313,10 @@
                                 -2.0699016591973107
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "402fbe40-93c2-4012-83c3-9cfdedb200bd",
+                        "name": "CAB4"
                     }
                 }
             ],

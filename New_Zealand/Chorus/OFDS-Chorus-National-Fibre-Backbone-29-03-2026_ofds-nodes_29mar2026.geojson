@@ -1,1 +1,1625 @@
-{"type": "FeatureCollection", "features": [{"id": "0", "type": "Feature", "properties": {"name": "Auckland", "id": "b9ed44fa-3b16-4978-9004-59868c0a4c36", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.7595446192833, -36.85894054433111]}}, {"id": "1", "type": "Feature", "properties": {"name": "Blenheim", "id": "7e20f16b-b9d0-4430-9708-97cb3b583187", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [173.95540823136216, -41.5136114564148]}}, {"id": "2", "type": "Feature", "properties": {"name": "Christchurch", "id": "5c05e6e7-3541-4a99-97b0-f4a04cbb0108", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [172.6312234185049, -43.53261254479296]}}, {"id": "3", "type": "Feature", "properties": {"name": "Dunedin", "id": "5c254edb-cc01-4763-9de6-fa453e636707", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [170.4997024091791, -45.87870952184011]}}, {"id": "4", "type": "Feature", "properties": {"name": "Forrest Hill", "id": "d27c3d8a-062b-4ae1-a30d-18db761efcc6", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.7445126186977, -36.76714203847091]}}, {"id": "5", "type": "Feature", "properties": {"name": "Invercargill", "id": "856d09d9-1680-4a40-b9e7-2c4eb96a923f", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [168.3524300282912, -46.40871823946832]}}, {"id": "6", "type": "Feature", "properties": {"name": "Kaik\u014dura", "id": "cee8e0fc-f53b-4d2e-a7fd-59d0b9d2507f", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [173.669569878921, -42.38731136634846]}}, {"id": "7", "type": "Feature", "properties": {"name": "Levin", "id": "23dcddf9-8409-4363-9c48-4f5feaf5a9eb", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.2915227124586, -40.62672034985619]}}, {"id": "8", "type": "Feature", "properties": {"name": "Massey", "id": "9b1c4802-1c74-4d35-b917-55cfbdc90b51", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.6228157018869, -36.83380991514012]}}, {"id": "9", "type": "Feature", "properties": {"name": "Masterton", "id": "ff067332-70cc-4923-a8fd-eb58a627987b", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.66295617728147, -40.94709241808441]}}, {"id": "10", "type": "Feature", "properties": {"name": "Mount Eden", "id": "c8377c4c-601d-4bfa-a78e-e6e1782aeb9c", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.74746785198036, -36.88697437345632]}}, {"id": "11", "type": "Feature", "properties": {"name": "Napier", "id": "a86174d2-046f-4bc7-aa0e-a7e4de4ec50d", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [176.9245269570814, -39.48703238692762]}}, {"id": "12", "type": "Feature", "properties": {"name": "Nelson", "id": "5233d81e-88cc-4e23-80e6-c4521a84bfb2", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [173.24114242728882, -41.29462641674272]}}, {"id": "13", "type": "Feature", "properties": {"name": "New Plymouth", "id": "ba3d2654-f851-4c67-9f92-efb4ab8201d1", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.07648321101607, -39.06063358466076]}}, {"id": "14", "type": "Feature", "properties": {"name": "Oamaru", "id": "ab29bcc7-bd9d-4039-b9f0-fa6275d86b51", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [170.97105254151964, -45.0946329278213]}}, {"id": "15", "type": "Feature", "properties": {"name": "Palmerston", "id": "39848c77-0983-446f-a83a-011f1b70a951", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.6257598338883, -40.35316092276442]}}, {"id": "16", "type": "Feature", "properties": {"name": "Queenstown", "id": "c0d84d00-b046-4777-b67f-7eab3be98904", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [168.6664154467994, -45.02477782893599]}}, {"id": "17", "type": "Feature", "properties": {"name": "Rotorua", "id": "ca1a1127-e177-47ff-afaa-d1639c34ee0b", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [176.241207542702, -38.14636296857985]}}, {"id": "18", "type": "Feature", "properties": {"name": "Taupo", "id": "9bb79186-968b-4f78-b677-f9a50691a751", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [176.11835089814733, -38.70667721301774]}}, {"id": "19", "type": "Feature", "properties": {"name": "Tauranga", "id": "2a1b8459-51b6-4e3a-8646-2594e5c088ee", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [176.163478049455, -37.68119345278]}}, {"id": "20", "type": "Feature", "properties": {"name": "Timaru", "id": "dcebf96b-704c-4fe3-a690-a0fcd5032150", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [171.2372006290442, -44.38966566261156]}}, {"id": "21", "type": "Feature", "properties": {"name": "Warkworth", "id": "b34b99eb-2ba8-4fe5-b649-0765342cb01b", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.6591395133619, -36.39700481911049]}}, {"id": "22", "type": "Feature", "properties": {"name": "Wellington", "id": "7ba37f76-e582-4f1e-9bf8-e0981e668083", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.780100420583, -41.28820162157576]}}, {"id": "23", "type": "Feature", "properties": {"name": "Whanganui", "id": "c6c9b35d-b5a9-4d1f-8f15-2fcdfd360e60", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.03627935820182, -39.92199560316056]}}, {"id": "24", "type": "Feature", "properties": {"name": "Whang\u0101rei", "id": "d28b8663-3e7d-42db-9d4e-97cae7a679e9", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.3153504148453, -35.72636635895687]}}, {"id": "25", "type": "Feature", "properties": {"name": "Hamilton", "id": "a101a2d1-ef2d-45e1-9b92-8dd62729d52e", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.2534580879171, -37.78295585001229]}}, {"id": "26", "type": "Feature", "properties": {"name": "Fighting Bay Landing Station", "id": "acc409cc-82d3-4732-8d2d-660654efbb54", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.2013822113485, -41.30773190394847]}}, {"id": "27", "type": "Feature", "properties": {"name": "Oteranga Bay Landing Station", "id": "31b82dfe-91d7-400d-807c-1ceccb4a62a8", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.6294659956969, -41.29464788834841]}}, {"id": "32", "type": "Feature", "properties": {"name": "fork", "id": "8d500042-f2ad-490c-84bb-67bb9d75b893", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.1650351986814, -38.30111823066492]}}, {"id": "35", "type": "Feature", "properties": {"name": "fork", "id": "0a55097d-228c-4e98-ab69-228de385d1cb", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.20567958307703, -35.756213263806096]}}, {"id": "38", "type": "Feature", "properties": {"name": "fork", "id": "47f01097-cbb8-454c-bd69-79c3433a7515", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [174.95355568150785, -37.11096583763377]}}, {"id": "40", "type": "Feature", "properties": {"name": "fork", "id": "d5a59a4a-6d80-4057-bd36-4902290ff7cb", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.2115512474362, -37.73757340580632]}}, {"id": "42", "type": "Feature", "properties": {"name": "fork", "id": "a86587da-ada8-46c0-b1bb-3b0dccf9cf97", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.65447506927848, -37.3786023120548]}}, {"id": "43", "type": "Feature", "properties": {"name": "fork", "id": "b4fcd2ba-1fec-4f2b-918c-d2ba036afdf7", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [176.40576833548198, -37.81185276955505]}}, {"id": "44", "type": "Feature", "properties": {"name": "fork", "id": "51396aa2-394f-4849-bba4-4c3a29aff486", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [176.87300603238424, -39.39031139819292]}}, {"id": "47", "type": "Feature", "properties": {"name": "fork", "id": "3c3ff9ee-cd2a-4943-b6b3-b4229c2878a0", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.38082409992177, -40.17838091599337]}}, {"id": "48", "type": "Feature", "properties": {"name": "fork", "id": "534d0bdb-3aa6-4d08-a3b1-9483e02d9a3b", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.3869140321109, -39.173513929861834]}}, {"id": "49", "type": "Feature", "properties": {"name": "fork", "id": "2d3cdbac-84e9-4c97-bf5e-bda40263272c", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [175.85617450079576, -40.334438163479646]}}, {"id": "54", "type": "Feature", "properties": {"name": "fork", "id": "7ea4db65-b94f-4f0f-95e6-b706d8064553", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [172.76819767097146, -43.058012939614564]}}, {"id": "55", "type": "Feature", "properties": {"name": "fork", "id": "dc77e619-ce8b-44dc-b3fb-23b40da9ed8a", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [173.82050550043485, -41.490403167066695]}}, {"id": "58", "type": "Feature", "properties": {"name": "fork", "id": "8bbba7a8-c003-4e93-8f58-be8305e5ac8c", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [172.9341600784228, -41.77094627262467]}}, {"id": "61", "type": "Feature", "properties": {"name": "fork", "id": "17fe5ecd-01af-4fd2-a5e8-009a4d84112c", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [171.34798278965417, -42.43522027853015]}}, {"id": "63", "type": "Feature", "properties": {"name": "fork", "id": "150be523-4ce1-410d-ae3e-8db586b81982", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [168.99723445062014, -46.07816628596682]}}, {"id": "66", "type": "Feature", "properties": {"name": "fork", "id": "cb1e4c29-aa30-477c-b9aa-cebeec1220cf", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [169.96810304225946, -44.48378973974585]}}, {"id": "68", "type": "Feature", "properties": {"name": "fork", "id": "b223a25f-5590-4e05-ba6b-c040cbecc9da", "network": {"id": "b67de754-2c1f-4d19-8276-16a8b9482d00", "name": "Chorus National Fibre Backbone", "links": [{"rel": "describedby", "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"}]}, "physicalInfrastructureProvider": {"id": "4c66e5a8-9171-408f-9819-5e3627438260", "name": "Chorus Limited"}, "networkProviders": [{"id": "9883a416-7959-4d98-94bc-dac687b71c3e", "name": "Chorus Limited"}], "featureType": "node", "status": "operational"}, "geometry": {"type": "Point", "coordinates": [172.13443285745166, -43.42970587711773]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7595446192833,
+                    -36.85894054433111
+                ]
+            },
+            "properties": {
+                "name": "Auckland",
+                "id": "b9ed44fa-3b16-4978-9004-59868c0a4c36",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.95540823136216,
+                    -41.5136114564148
+                ]
+            },
+            "properties": {
+                "name": "Blenheim",
+                "id": "7e20f16b-b9d0-4430-9708-97cb3b583187",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6312234185049,
+                    -43.53261254479296
+                ]
+            },
+            "properties": {
+                "name": "Christchurch",
+                "id": "5c05e6e7-3541-4a99-97b0-f4a04cbb0108",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.4997024091791,
+                    -45.87870952184011
+                ]
+            },
+            "properties": {
+                "name": "Dunedin",
+                "id": "5c254edb-cc01-4763-9de6-fa453e636707",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7445126186977,
+                    -36.76714203847091
+                ]
+            },
+            "properties": {
+                "name": "Forrest Hill",
+                "id": "d27c3d8a-062b-4ae1-a30d-18db761efcc6",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.3524300282912,
+                    -46.40871823946832
+                ]
+            },
+            "properties": {
+                "name": "Invercargill",
+                "id": "856d09d9-1680-4a40-b9e7-2c4eb96a923f",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.669569878921,
+                    -42.38731136634846
+                ]
+            },
+            "properties": {
+                "name": "Kaikōura",
+                "id": "cee8e0fc-f53b-4d2e-a7fd-59d0b9d2507f",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.2915227124586,
+                    -40.62672034985619
+                ]
+            },
+            "properties": {
+                "name": "Levin",
+                "id": "23dcddf9-8409-4363-9c48-4f5feaf5a9eb",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6228157018869,
+                    -36.83380991514012
+                ]
+            },
+            "properties": {
+                "name": "Massey",
+                "id": "9b1c4802-1c74-4d35-b917-55cfbdc90b51",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.66295617728147,
+                    -40.94709241808441
+                ]
+            },
+            "properties": {
+                "name": "Masterton",
+                "id": "ff067332-70cc-4923-a8fd-eb58a627987b",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.74746785198036,
+                    -36.88697437345632
+                ]
+            },
+            "properties": {
+                "name": "Mount Eden",
+                "id": "c8377c4c-601d-4bfa-a78e-e6e1782aeb9c",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.9245269570814,
+                    -39.48703238692762
+                ]
+            },
+            "properties": {
+                "name": "Napier",
+                "id": "a86174d2-046f-4bc7-aa0e-a7e4de4ec50d",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.24114242728882,
+                    -41.29462641674272
+                ]
+            },
+            "properties": {
+                "name": "Nelson",
+                "id": "5233d81e-88cc-4e23-80e6-c4521a84bfb2",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.07648321101607,
+                    -39.06063358466076
+                ]
+            },
+            "properties": {
+                "name": "New Plymouth",
+                "id": "ba3d2654-f851-4c67-9f92-efb4ab8201d1",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.97105254151964,
+                    -45.0946329278213
+                ]
+            },
+            "properties": {
+                "name": "Oamaru",
+                "id": "ab29bcc7-bd9d-4039-b9f0-fa6275d86b51",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.6257598338883,
+                    -40.35316092276442
+                ]
+            },
+            "properties": {
+                "name": "Palmerston",
+                "id": "39848c77-0983-446f-a83a-011f1b70a951",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.6664154467994,
+                    -45.02477782893599
+                ]
+            },
+            "properties": {
+                "name": "Queenstown",
+                "id": "c0d84d00-b046-4777-b67f-7eab3be98904",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.241207542702,
+                    -38.14636296857985
+                ]
+            },
+            "properties": {
+                "name": "Rotorua",
+                "id": "ca1a1127-e177-47ff-afaa-d1639c34ee0b",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.11835089814733,
+                    -38.70667721301774
+                ]
+            },
+            "properties": {
+                "name": "Taupo",
+                "id": "9bb79186-968b-4f78-b677-f9a50691a751",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.163478049455,
+                    -37.68119345278
+                ]
+            },
+            "properties": {
+                "name": "Tauranga",
+                "id": "2a1b8459-51b6-4e3a-8646-2594e5c088ee",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.2372006290442,
+                    -44.38966566261156
+                ]
+            },
+            "properties": {
+                "name": "Timaru",
+                "id": "dcebf96b-704c-4fe3-a690-a0fcd5032150",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6591395133619,
+                    -36.39700481911049
+                ]
+            },
+            "properties": {
+                "name": "Warkworth",
+                "id": "b34b99eb-2ba8-4fe5-b649-0765342cb01b",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.780100420583,
+                    -41.28820162157576
+                ]
+            },
+            "properties": {
+                "name": "Wellington",
+                "id": "7ba37f76-e582-4f1e-9bf8-e0981e668083",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.03627935820182,
+                    -39.92199560316056
+                ]
+            },
+            "properties": {
+                "name": "Whanganui",
+                "id": "c6c9b35d-b5a9-4d1f-8f15-2fcdfd360e60",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.3153504148453,
+                    -35.72636635895687
+                ]
+            },
+            "properties": {
+                "name": "Whangārei",
+                "id": "d28b8663-3e7d-42db-9d4e-97cae7a679e9",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.2534580879171,
+                    -37.78295585001229
+                ]
+            },
+            "properties": {
+                "name": "Hamilton",
+                "id": "a101a2d1-ef2d-45e1-9b92-8dd62729d52e",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.2013822113485,
+                    -41.30773190394847
+                ]
+            },
+            "properties": {
+                "name": "Fighting Bay Landing Station",
+                "id": "acc409cc-82d3-4732-8d2d-660654efbb54",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6294659956969,
+                    -41.29464788834841
+                ]
+            },
+            "properties": {
+                "name": "Oteranga Bay Landing Station",
+                "id": "31b82dfe-91d7-400d-807c-1ceccb4a62a8",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.1650351986814,
+                    -38.30111823066492
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "8d500042-f2ad-490c-84bb-67bb9d75b893",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.20567958307703,
+                    -35.756213263806096
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "0a55097d-228c-4e98-ab69-228de385d1cb",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.95355568150785,
+                    -37.11096583763377
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "47f01097-cbb8-454c-bd69-79c3433a7515",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.2115512474362,
+                    -37.73757340580632
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "d5a59a4a-6d80-4057-bd36-4902290ff7cb",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.65447506927848,
+                    -37.3786023120548
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "a86587da-ada8-46c0-b1bb-3b0dccf9cf97",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.40576833548198,
+                    -37.81185276955505
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "b4fcd2ba-1fec-4f2b-918c-d2ba036afdf7",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.87300603238424,
+                    -39.39031139819292
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "51396aa2-394f-4849-bba4-4c3a29aff486",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.38082409992177,
+                    -40.17838091599337
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "3c3ff9ee-cd2a-4943-b6b3-b4229c2878a0",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.3869140321109,
+                    -39.173513929861834
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "534d0bdb-3aa6-4d08-a3b1-9483e02d9a3b",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.85617450079576,
+                    -40.334438163479646
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "2d3cdbac-84e9-4c97-bf5e-bda40263272c",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.76819767097146,
+                    -43.058012939614564
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "7ea4db65-b94f-4f0f-95e6-b706d8064553",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.82050550043485,
+                    -41.490403167066695
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "dc77e619-ce8b-44dc-b3fb-23b40da9ed8a",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.9341600784228,
+                    -41.77094627262467
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "8bbba7a8-c003-4e93-8f58-be8305e5ac8c",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.34798278965417,
+                    -42.43522027853015
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "17fe5ecd-01af-4fd2-a5e8-009a4d84112c",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.99723445062014,
+                    -46.07816628596682
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "150be523-4ce1-410d-ae3e-8db586b81982",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.96810304225946,
+                    -44.48378973974585
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "cb1e4c29-aa30-477c-b9aa-cebeec1220cf",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.13443285745166,
+                    -43.42970587711773
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "b223a25f-5590-4e05-ba6b-c040cbecc9da",
+                "networkProviders": [
+                    {
+                        "id": "9883a416-7959-4d98-94bc-dac687b71c3e",
+                        "name": "Chorus Limited"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "4c66e5a8-9171-408f-9819-5e3627438260",
+                    "name": "Chorus Limited"
+                },
+                "network": {
+                    "id": "b67de754-2c1f-4d19-8276-16a8b9482d00",
+                    "name": "Chorus National Fibre Backbone",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

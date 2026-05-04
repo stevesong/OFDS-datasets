@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Lichinga",
                     "id": "34ec3582-3f61-437e-b479-9c649a25c399",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -29,15 +25,15 @@
                             35.24409243083488,
                             -13.31647436288908
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Majune",
                     "id": "1b253c17-16fa-4c22-9bc2-85ad98c87ab3",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -50,15 +46,15 @@
                             36.135180125359234,
                             -13.483688658311182
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Marrupa",
                     "id": "bed71b6a-5d58-4368-87b0-77ee7c9e9956",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -71,15 +67,15 @@
                             37.50327335504782,
                             -13.196529063354284
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Mocimboa da Praia",
                     "id": "5bc692b4-d76d-432d-86c5-a995815fdf9a",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -92,15 +88,15 @@
                             40.34871616010913,
                             -11.352066743334596
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Pemba",
                     "id": "dc9254bb-0298-4e5b-803e-6ebb88b5319d",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -113,15 +109,15 @@
                             40.525652630228336,
                             -12.99454322577397
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Macomia",
                     "id": "1bf1d61f-f8c8-4859-8971-f8edd7382c7a",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -134,15 +130,15 @@
                             40.14982286411975,
                             -12.232017423684283
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Montepuez",
                     "id": "76868ea5-9321-4ad7-92d8-f1414b52fa60",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -155,15 +151,15 @@
                             39.00256472229566,
                             -13.140992350977536
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Metoro",
                     "id": "74c489b4-469c-4c4f-8e89-72501d18c8d0",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -176,15 +172,15 @@
                             39.871581899083715,
                             -13.108809057615534
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Chiure",
                     "id": "c314e15c-f00b-42ce-947b-99e3f06ec3c6",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -197,15 +193,15 @@
                             39.80537039904727,
                             -13.313193967334838
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Namapa",
                     "id": "7d06846e-15ec-4004-b5e6-365610958fa3",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -218,15 +214,15 @@
                             39.835610912674454,
                             -13.712761650009098
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Nacaroa",
                     "id": "2c2d2cc0-f442-4a92-83be-e3659b7c93ec",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -239,15 +235,15 @@
                             39.912089004578334,
                             -14.371810607483665
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Namialo",
                     "id": "8c9b9b2b-d723-4c00-9fb4-b28048e74c6a",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -260,15 +256,15 @@
                             39.9810151403745,
                             -14.92342750837422
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Monapo",
                     "id": "ad2d2b55-7dbc-4c30-89ab-2a013f3a3f92",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -281,15 +277,15 @@
                             40.30665616356222,
                             -14.88945235488703
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Nacala",
                     "id": "6309860a-c465-4c5c-8644-35878e6dbb46",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -302,15 +298,15 @@
                             40.67880764086948,
                             -14.564171417973833
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Nampula",
                     "id": "f2ae58cf-7fb7-4c0c-8003-b517ab8a02b9",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -323,15 +319,15 @@
                             39.302527230716336,
                             -15.114624906734223
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Lapala",
                     "id": "39b28fbc-81e7-4397-ad98-346b385ebda8",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -344,15 +340,15 @@
                             38.03839600640922,
                             -14.977887018209028
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Cuamba",
                     "id": "1c678446-74f2-4065-b2b5-9fd4de2baa07",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -365,15 +361,15 @@
                             36.53113987975042,
                             -14.79940093777997
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Mandimba",
                     "id": "19d2452f-1f9e-4a47-843c-3fef818083b8",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -386,15 +382,15 @@
                             35.65569257195414,
                             -14.351231874817193
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Massangulo",
                     "id": "607bcd41-2556-43c9-b471-7f274cf5c5e3",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -407,15 +403,15 @@
                             35.4213818905686,
                             -13.902632973980594
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Gurue",
                     "id": "ffb2f383-7344-45f7-a069-59554448f696",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -428,15 +424,15 @@
                             36.9812875927329,
                             -15.465727925148348
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Nampevo",
                     "id": "c5b486c8-a170-4fae-b8ed-354ac8352e08",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -449,15 +445,15 @@
                             37.216075390733685,
                             -16.31318615560162
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Ile",
                     "id": "11f0e07d-7bd9-4fa7-8b7e-0bd4a0299200",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -470,15 +466,15 @@
                             37.16273710841953,
                             -16.053057126823667
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Mugeba",
                     "id": "8d7cde93-bc8c-4318-ab46-40413c7311ba",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -491,15 +487,15 @@
                             37.17675156839844,
                             -16.545125112358697
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Nicoadala",
                     "id": "fdcc0993-b8b8-4f6e-9a00-c7701d4e4840",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -512,15 +508,15 @@
                             36.81848661760368,
                             -17.603460072894197
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Quelimane",
                     "id": "37757048-b510-477d-8eb7-e2e52ed604bf",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -533,15 +529,15 @@
                             36.89584714821595,
                             -17.85464752519376
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Caia",
                     "id": "b4277dde-5fd1-4d15-a1a0-91f930d1a16c",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -554,15 +550,15 @@
                             35.340455022271186,
                             -17.829256883252018
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Morrumbala",
                     "id": "8337b18d-d40c-4620-bea7-94649ba259f8",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -575,15 +571,15 @@
                             35.59115134313566,
                             -17.334141094054132
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Inhaminga",
                     "id": "e1ae891e-c70d-4115-bf90-7d326c153bc3",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -596,15 +592,15 @@
                             35.024527101371866,
                             -18.413263106404216
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Gorongosa",
                     "id": "78bfba04-354f-4c06-a5a7-4c998ce08cd7",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -617,15 +613,15 @@
                             34.07175996791005,
                             -18.685829491586407
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Muanza",
                     "id": "544f08f3-9b08-44a0-a282-66e8aa98178d",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -638,15 +634,15 @@
                             34.7935049079582,
                             -18.90921303950312
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Beira",
                     "id": "2fb7da82-fd40-4ff0-8696-fd158fa310f7",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -659,15 +655,15 @@
                             34.8491410393134,
                             -19.82082254152085
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Savane",
                     "id": "652235cc-1ea6-4603-a0bc-a2628cd7cc2a",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -680,15 +676,15 @@
                             34.706459253537766,
                             -19.390494422098158
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Dondo",
                     "id": "fddcbde4-2d0e-4992-bef5-45c4045ea718",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -701,15 +697,15 @@
                             34.740096534786055,
                             -19.616667703726858
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Nhamatanda",
                     "id": "ff81b457-378c-480a-9152-aa0c112561ca",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -722,15 +718,15 @@
                             34.21117745683117,
                             -19.270990810268348
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Inchope",
                     "id": "f74cd4b0-1f0f-4666-9af0-f921870e7434",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -743,15 +739,15 @@
                             33.93225244727689,
                             -19.20975340692131
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Gondola",
                     "id": "3ff6c51d-766a-4859-9471-9690f9d95e5c",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -764,15 +760,15 @@
                             33.64267638442034,
                             -19.079706191162003
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Chimoio",
                     "id": "4c08507f-ec36-4d79-a534-7a8db67403a0",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -785,15 +781,15 @@
                             33.43105662820298,
                             -19.10398746276089
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Manica",
                     "id": "bb5bdb4e-c340-4279-9c91-6be13982ef82",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -806,15 +802,15 @@
                             32.8754998162198,
                             -18.931957667082514
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Machipanda",
                     "id": "87fd8172-a9aa-4a97-ae4b-46387c050803",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -827,15 +823,15 @@
                             32.72600303825355,
                             -19.00205675871879
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Guro",
                     "id": "d915380f-bce3-48b1-8503-a35710be5962",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -848,15 +844,15 @@
                             33.35277561764275,
                             -17.426977904516104
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Catandica",
                     "id": "14173d66-6295-4b13-bd9b-c6bafdd32cb1",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -869,15 +865,15 @@
                             33.175060677103616,
                             -18.055277222208755
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Tete",
                     "id": "f8428e9b-ecdf-46e7-a007-db7c823fb3f3",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -890,15 +886,15 @@
                             33.59876937692595,
                             -16.161630909822023
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Luenha",
                     "id": "cefd911b-ee99-499b-a78c-881ee84ae9fd",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -911,15 +907,15 @@
                             33.271669056759436,
                             -16.869700172177772
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Songo",
                     "id": "f12c464f-cfc2-4f8e-8fea-20e17e3792cc",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -932,15 +928,15 @@
                             32.78003213744696,
                             -15.577814434402844
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Zobue",
                     "id": "f03c160d-38ba-4d61-a798-af8067793862",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -953,15 +949,15 @@
                             34.26338450550882,
                             -15.79721565776943
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Doa",
                     "id": "8e077ea0-486c-49ce-98f7-47412cc3469c",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -974,15 +970,15 @@
                             34.687270467403145,
                             -16.64819896298622
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Dombe",
                     "id": "aa8ef37e-1114-4e78-8284-17c913ede836",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -995,15 +991,15 @@
                             33.39507659068639,
                             -19.97666139224545
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Sussundenga",
                     "id": "b60918ea-6a94-4d09-8f17-261c458034e9",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1016,15 +1012,15 @@
                             33.30660674362245,
                             -19.416495251151556
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Espungabera",
                     "id": "09d11f4e-5763-4ae2-8f08-75dc7a646dad",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1037,15 +1033,15 @@
                             32.76849630248189,
                             -20.454230076216795
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Chitobe",
                     "id": "d527065a-cc46-4b6c-bb96-c116fd09a8d0",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1058,15 +1054,15 @@
                             33.388403773360494,
                             -20.812304822626203
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Save",
                     "id": "63ced356-f169-4920-813b-b82e28a2798e",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1079,15 +1075,15 @@
                             34.566794573706474,
                             -21.140371667921166
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Massangena",
                     "id": "91630260-0985-48f9-9f55-f8f13747b231",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1100,15 +1096,15 @@
                             32.94258322365687,
                             -21.565488177458153
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Posto Save",
                     "id": "d4db54e3-f3d4-45d9-81c9-11bf232ca707",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1121,15 +1117,15 @@
                             33.2796784806238,
                             -21.31851094172024
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Mabote",
                     "id": "c107470a-b1a1-4774-967b-8de672c5960f",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1142,15 +1138,15 @@
                             34.13218461133546,
                             -22.04375271436752
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Zimane",
                     "id": "3ffc398c-a0db-4c47-9ddb-da3a1f7793b8",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1163,15 +1159,15 @@
                             33.53181424218934,
                             -22.141352862561607
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Mapinhane",
                     "id": "457d0b45-9137-4ee9-9043-015577c8e963",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1184,15 +1180,15 @@
                             35.1126487593693,
                             -22.260665198069077
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Vilankulos",
                     "id": "d6150a5b-4d38-441f-97ce-5efb1f4949d8",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1205,15 +1201,15 @@
                             35.29867573993577,
                             -21.99751471360329
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Massinga",
                     "id": "f1a45971-1c12-45ad-875d-a4a3271adcd8",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1226,15 +1222,15 @@
                             35.37668345346508,
                             -23.322130238731397
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Funhalouro",
                     "id": "020a03ef-c9af-40ec-bd08-85a97a37b75b",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1247,15 +1243,15 @@
                             34.37548240757516,
                             -23.098657917087248
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Mavume",
                     "id": "45055aad-715a-47e6-a7cf-198879c44145",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1268,15 +1264,15 @@
                             34.49951799395412,
                             -23.435472192393256
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Inhambane",
                     "id": "ae66991a-3316-452a-9cf3-27bc9ab9a69e",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1289,15 +1285,15 @@
                             35.38254503722663,
                             -23.87327924936465
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Homoine",
                     "id": "6560887d-1ca1-450e-b0d0-620325ec194c",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1310,15 +1306,15 @@
                             35.154538118867805,
                             -23.887105077783865
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Panda",
                     "id": "5144fa33-986b-4bfc-bb05-f4d2f2b327cf",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1331,15 +1327,15 @@
                             34.730583442348305,
                             -24.061608560256765
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Maxixe",
                     "id": "0528edb2-dae7-43e1-9a3e-1720c4eb72bb",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1352,15 +1348,15 @@
                             35.34398989277946,
                             -23.859858987000845
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Chibuto",
                     "id": "fb0edb16-653a-4784-9339-df6ec7984a1a",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1373,15 +1369,15 @@
                             33.53761702874882,
                             -24.692821282481265
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Xai-Xai",
                     "id": "cf77152c-3016-494e-8198-ba08b60aa5cd",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1394,15 +1390,15 @@
                             33.70229662398927,
                             -25.05293620414836
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Maputo",
                     "id": "a5df95cf-e83d-4eae-90a4-aff97c5c8286",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1415,15 +1411,15 @@
                             32.560411706125024,
                             -25.901799857460585
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Magude",
                     "id": "682627d4-2e26-4215-af02-48c70ea07651",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1436,15 +1432,15 @@
                             32.6588799656639,
                             -25.02620166404577
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Massingir",
                     "id": "c94bd7f8-8d39-43a9-803b-06f800a8cbde",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1457,15 +1453,15 @@
                             32.19230879423741,
                             -23.89450961287026
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Chokwe",
                     "id": "ebdd985a-f7cd-4452-8bea-7edd45c18bbc",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1478,15 +1474,15 @@
                             32.99354235444515,
                             -24.534592525396757
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "Eswatini border",
                     "id": "d67144fe-e149-480d-bd22-9066dc6b525f",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1499,15 +1495,15 @@
                             32.04042197511479,
                             -25.98751551985517
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "8bbed9e6-7c1c-4c1d-877d-56855e8c550c",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1520,15 +1516,15 @@
                             37.012048362000364,
                             -14.88143952323467
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "27027b8b-8965-4258-a699-18e2ca88d075",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1541,15 +1537,15 @@
                             39.23162688138171,
                             -15.110006883428513
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "a90c3965-308b-41e2-92d9-03b614edd59d",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1562,15 +1558,15 @@
                             35.066234933532044,
                             -17.434558406773075
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "855f267a-ec5d-4079-a49c-903c18d25226",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1583,15 +1579,15 @@
                             36.75339577966163,
                             -15.32301262935579
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "167b26e1-1860-412f-a9f0-0faa1995a65c",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1604,15 +1600,15 @@
                             39.9772378373335,
                             -13.111093293651097
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "8915bdbc-a955-48da-be61-506d43a22c2f",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1625,15 +1621,15 @@
                             33.940210435249384,
                             -20.39081857283083
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "a682cf83-72bd-482e-9e07-981000b55faf",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1646,15 +1642,15 @@
                             35.31744605786324,
                             -23.680300764182217
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "ba5210fd-8660-47c4-80a5-a219bf8749d4",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1667,15 +1663,15 @@
                             32.50825474775793,
                             -25.930531505104927
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "de2c2094-8c77-4ed0-8e65-617a56333353",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1688,15 +1684,15 @@
                             33.88439988533692,
                             -24.712173985834355
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "404619c5-601b-4729-9257-c00a877627d5",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1709,15 +1705,15 @@
                             33.09984511136808,
                             -25.027776283468768
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "4b5adf5c-2d76-45ff-b0d6-cbd0cf4af93c",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1730,15 +1726,15 @@
                             35.108456120704695,
                             -23.62840514443112
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "64e39bb0-5761-425e-a42f-7923e6a10b07",
-                    "physicalInfrastructureProvider": {
-                        "id": "MOZ-1",
-                        "name": "Telecomunicações de Moçambique"
-                    },
                     "networkProviders": [
                         {
                             "id": "TDM-1",
@@ -1751,6 +1747,10 @@
                             35.14941868818424,
                             -22.00247082685752
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "MOZ-1",
+                        "name": "Telecomunicações de Moçambique"
                     }
                 }
             ],

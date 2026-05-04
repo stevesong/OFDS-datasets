@@ -1,0 +1,1841 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.95622216081787,
+                    11.933717221550973
+                ]
+            },
+            "properties": {
+                "name": "Granada",
+                "id": "cee182a7-bb6e-4eea-9a9b-1b9fb3ad9ae0",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.04623837249672,
+                    11.763006767459869
+                ]
+            },
+            "properties": {
+                "name": "Nandaime",
+                "id": "c0b40805-c50e-4bac-a247-c76d639b5f5e",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.82342797709596,
+                    11.44074888955008
+                ]
+            },
+            "properties": {
+                "name": "Rivas",
+                "id": "d9abaa5b-ed7c-4d71-8860-e72ee3904d72",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.86464100186834,
+                    11.25820988668258
+                ]
+            },
+            "properties": {
+                "name": "San Juan del Sur",
+                "id": "45eee30b-4952-4d04-9611-c7a604ef6937",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.61395914783748,
+                    11.2195282632728
+                ]
+            },
+            "properties": {
+                "name": "Bena Blanca",
+                "id": "bc4f8888-c4aa-4128-a4c0-f9b0ce85a432",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.19968557228576,
+                    11.852710233170844
+                ]
+            },
+            "properties": {
+                "name": "Jinotepe",
+                "id": "f41026ef-0789-4516-b702-1250adcb1af1",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5158351091369,
+                    11.78487040682834
+                ]
+            },
+            "properties": {
+                "name": "Pochomil",
+                "id": "b2a20569-c218-4cea-aa22-0f2d53674267",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.26825870894044,
+                    12.14282807561254
+                ]
+            },
+            "properties": {
+                "name": "Managua",
+                "id": "9f2fe714-4624-49a9-a3b9-e8114d09e161",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.87471069115736,
+                    12.43751015701555
+                ]
+            },
+            "properties": {
+                "name": "Leon",
+                "id": "3e346623-7356-4f94-94b5-7e8cb53073ef",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.17621065527236,
+                    12.4862851311158
+                ]
+            },
+            "properties": {
+                "name": "Corinto",
+                "id": "65938920-2e53-4963-aa67-b7087fe4e764",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.12000191317532,
+                    12.63324253422065
+                ]
+            },
+            "properties": {
+                "name": "Chinandega",
+                "id": "192dfb2e-f8f5-465d-b97a-675047e784d7",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.94531318402089,
+                    13.06061881188658
+                ]
+            },
+            "properties": {
+                "name": "Guasaule",
+                "id": "d4c656a3-53ad-4bd0-b199-75013e33aef7",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.35125566504301,
+                    13.099505304425517
+                ]
+            },
+            "properties": {
+                "name": "Esteli",
+                "id": "7afcbfcf-ac77-4aed-a6e1-602743adfa02",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.91584887078923,
+                    12.93913344105069
+                ]
+            },
+            "properties": {
+                "name": "Matagalpa",
+                "id": "ddf5a55c-951f-49d6-834e-c858e223759e",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.99265240000942,
+                    13.093555633255084
+                ]
+            },
+            "properties": {
+                "name": "Jinotega",
+                "id": "f88f519f-cf3d-46a0-9723-73349b6bbafa",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.58284483527596,
+                    13.481876263118544
+                ]
+            },
+            "properties": {
+                "name": "Somoto",
+                "id": "3c5f8409-9323-4614-9102-6751de89952b",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4773656056726,
+                    13.635169232702168
+                ]
+            },
+            "properties": {
+                "name": "Ocotal",
+                "id": "524b677c-2ae4-40f8-83a6-f798f960750c",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.57017180583745,
+                    13.7925294944789
+                ]
+            },
+            "properties": {
+                "name": "Las Manos",
+                "id": "62470948-71cd-4362-a8dd-7a8259e87231",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2285954307847,
+                    12.92703218557882
+                ]
+            },
+            "properties": {
+                "name": "Rio Blanco",
+                "id": "ad94e98f-07d6-4761-9f5d-9933e77cbc97",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.66079394693179,
+                    12.4722172485908
+                ]
+            },
+            "properties": {
+                "name": "Boaco",
+                "id": "626ef8b2-3288-40c5-ba6a-ad25da8a711f",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.37235473922871,
+                    12.112360114605073
+                ]
+            },
+            "properties": {
+                "name": "Juigalpa",
+                "id": "9246529c-a4dd-4811-a0ee-48fb4600040c",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45529420367939,
+                    11.693236964232673
+                ]
+            },
+            "properties": {
+                "name": "Nueva Guinea",
+                "id": "c6aecd62-ff7f-4ff3-9aea-ad10c15befc3",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.77099171564636,
+                    12.01124749959019
+                ]
+            },
+            "properties": {
+                "name": "Bluefields",
+                "id": "bae65cb8-d793-4520-a069-3978cf132530",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2209450365802,
+                    12.162708310885813
+                ]
+            },
+            "properties": {
+                "name": "El Rama",
+                "id": "cb13d3b5-8128-4197-99ee-9f298d3fb099",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.75670011624428,
+                    11.37259761800264
+                ]
+            },
+            "properties": {
+                "name": "La Virgen",
+                "id": "9b321056-330a-45f3-9444-ade63ad271a3",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7187323454054,
+                    11.0640137798575
+                ]
+            },
+            "properties": {
+                "name": "Los Chiles",
+                "id": "6a353545-ed83-4464-93c3-012a17bb3ce4",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.88039021056859,
+                    10.96678152530585
+                ]
+            },
+            "properties": {
+                "name": "Border",
+                "id": "aeff35f0-a249-4a60-aaca-d2d5ff5af461",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.98071870624543,
+                    11.83422301144221
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "8f9f9777-4891-4c1a-96c3-fb58ba34fe68",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.30528903144494,
+                    11.971952544432238
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "6b11dce9-720a-4f1a-abef-bbff662448d8",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.40722494166035,
+                    11.87445684468255
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "20b8a6a6-1327-4cf0-bfc1-804e331ece3c",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.40848893704809,
+                    11.83885184295728
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "5d54dfc3-5b2f-485c-ac43-03f69e23af43",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.49248121035066,
+                    11.809715594330822
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "d8b54ee8-d633-4b1c-9303-ec26d24471a4",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3125641656262,
+                    12.107668690585971
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "9b627e90-8718-4afe-975c-2a01e3559b42",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.02388437168705,
+                    12.59147288126869
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "69c249d8-2fdf-433e-ab31-76e1903e3e66",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.04197371664995,
+                    12.53043369740603
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "9c5af438-1342-443b-962c-7cb321084381",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.49896672017303,
+                    13.490732954636467
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "349aecb1-1934-4a30-af9b-91e19eaec147",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.10511114472973,
+                    11.992958844462873
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "575b0fdc-0da9-4c2e-baaf-9fe36381adab",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.09777823717853,
+                    12.191066621746183
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "32989c5e-d455-4ecb-a470-bc527c32f97e",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.10275902078794,
+                    12.859283848743472
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "90d84593-aa88-4bd4-93a6-7f277e3f6fa7",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.05444065496218,
+                    12.313966491462184
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "2452a414-f88a-4331-874e-a5ba7cddc473",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.62737878321161,
+                    12.770394257631128
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "e586018b-7a9c-4c8d-8dac-e3db871fd00a",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.8249054225332,
+                    12.86435185419055
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "ae92774d-832d-4a5b-9972-97faf145f40e",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7114488987146,
+                    12.533223252715484
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "ac86b4be-7d07-40eb-b660-d5f869df70fa",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.73526724850016,
+                    12.431368658688164
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "69c89aae-14e8-41e3-b440-3f68fc6a17d6",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.75058731379063,
+                    12.41967637356645
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "51f17f2d-80a7-4c53-9cd7-fe91b823c5f1",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.76420682174401,
+                    11.140718994987289
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "ac4cfdb0-a7ba-4fdb-9991-634bcb0f3e1e",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.16482047073339,
+                    12.00421552415721
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "e70732a0-f225-4937-90cf-d137b2dbbb0f",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.76175353711697,
+                    12.000367716807173
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "579f9a0d-3ccb-45d0-9813-f399f0acc54f",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.84270001356178,
+                    11.589353540506504
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "6114b88f-4b85-49a4-8840-52e5ea05b833",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.606127683742,
+                    11.790978719713195
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "94acc607-463a-4961-93c8-60339dd1fce9",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.79113199213288,
+                    11.45231688924947
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "4b869395-b33e-46a6-842d-eb8e3e3e365b",
+                "networkProviders": [
+                    {
+                        "id": "93035769-15a4-406d-a8c0-65988cf702bc",
+                        "name": "Ufinet Nicaragua"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "6b015833-fdbe-4285-b304-2ce08199485d",
+                    "name": "Ufinet"
+                },
+                "network": {
+                    "id": "0ba58667-8e55-41c3-9ca9-663db511f652",
+                    "name": "UFINET Nicaragua",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

@@ -6,17 +6,13 @@
             "links": [
                 {
                     "rel": "describedby",
-                    "href": "https://raw.githubusercontent.com/Open-Telecoms-Data/open-fibre-data-standard/0__3__0/schema/network-schema.json"
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
                 }
             ],
             "nodes": [
                 {
                     "name": "Unifet_Liberia",
                     "id": "bd61ff89-cb2c-4481-9efd-545c0d80bf2e",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -30,15 +26,15 @@
                             -85.44482663103001,
                             10.628555561361075
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Penas_Blancas",
                     "id": "ea96bfdf-d6d8-4020-ac94-f0c8fc9d485f",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -52,15 +48,15 @@
                             -85.61130558292622,
                             11.211469790289389
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "La Cruz",
                     "id": "894f9bcd-e963-4ff5-863b-0956b8b108e1",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -74,15 +70,15 @@
                             -85.62974443899962,
                             11.07309468401351
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "San Jose",
                     "id": "aa172da5-82e0-4070-9508-12188d7cc5d1",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -96,15 +92,15 @@
                             -84.09280393455228,
                             9.936807888543807
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Puntarenas",
                     "id": "e53f11fc-404c-4770-b560-03fed49a8e4a",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -118,15 +114,15 @@
                             -84.83263548078055,
                             9.979454134082697
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "PuertoLimon",
                     "id": "a7016349-d52d-4cec-9c4a-3c50a6f10c58",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -140,15 +136,15 @@
                             -83.03633590343273,
                             9.989471123596498
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Esterillos",
                     "id": "e51dfbce-dcfd-4d6b-adb2-9bd7d18b572d",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -162,15 +158,15 @@
                             -84.4858779835729,
                             9.536342409655765
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Perez Zeledon",
                     "id": "d58c60a0-83f9-408b-b14d-0090eda95382",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -184,15 +180,15 @@
                             -83.70324786995958,
                             9.379198873036323
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Paso Real",
                     "id": "8132218d-b9cf-4649-a539-6eb2ee47f40c",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -206,15 +202,15 @@
                             -83.22226402850119,
                             9.01729110333352
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Palmar Norte",
                     "id": "c555fc9c-8221-4571-98d7-172363584b5a",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -228,15 +224,15 @@
                             -83.59915930095102,
                             9.28237840596278
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Dominical",
                     "id": "111d00a6-cca3-4e80-bb9c-5588ee404c36",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -250,15 +246,15 @@
                             -83.86275341146465,
                             9.257899658054036
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Rio Sereno",
                     "id": "6d4deba0-e6b3-43a4-b510-deb0c2559545",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -272,15 +268,15 @@
                             -82.8863956033505,
                             8.8194548784328
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Los Chiles",
                     "id": "d6ab5777-9f64-49d3-bc39-4f42b82df886",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -294,15 +290,15 @@
                             -84.69577730773425,
                             11.063807398814388
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "San Carlos",
                     "id": "169ead25-be7e-4476-846a-7bdd3b0a5c8b",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -316,15 +312,15 @@
                             -84.94972764014216,
                             10.80377409455626
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Paso Canoas",
                     "id": "3fb035d4-e7fe-4d43-9387-23742aa1eee7",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -338,15 +334,15 @@
                             -82.83757423705168,
                             8.527260515765017
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Punta Banco",
                     "id": "370fda29-890e-4c7b-bd15-715c1186aafd",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -360,15 +356,15 @@
                             -83.13064296803067,
                             8.365784731625167
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "6477b975-4e25-4a89-97f0-31a4c35d3a52",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -382,15 +378,15 @@
                             -82.9388498508402,
                             8.644733510565182
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "1162f893-b7a9-45f3-80ad-28b4a5f916be",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -404,15 +400,15 @@
                             -84.38918859957695,
                             9.53794019298074
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "b6bc93d8-41e0-4f0a-b6de-e6547fd9934b",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -426,15 +422,15 @@
                             -82.97463588921404,
                             8.821634440882862
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "5e8236e9-889b-4a75-8ca2-d603b8dd5460",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -448,15 +444,15 @@
                             -83.25158507245406,
                             8.795734346648851
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "8de11245-5ea4-4156-a11d-1aeb61508624",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -470,15 +466,15 @@
                             -83.30402405418029,
                             8.538152679725174
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "c09984b0-a9cc-464e-8032-e501b3edfe2c",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -492,15 +488,15 @@
                             -83.47136123265463,
                             8.663538159529715
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "65b46b2a-de2c-47da-b119-92a26f52d74f",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -514,15 +510,15 @@
                             -83.67275293329034,
                             8.617088625100305
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "ea2ce2a3-656f-464e-afb2-200ece1d3d95",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -536,15 +532,15 @@
                             -84.69193694113288,
                             11.002840765956451
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "a29ad91f-a1bb-4c32-827c-77c4b235dfce",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -558,15 +554,15 @@
                             -84.77905648826679,
                             10.62215232931988
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "7f8ff6d2-9252-45a5-a28c-0b01f5c64d1c",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -580,15 +576,15 @@
                             -85.20317084482612,
                             9.712302505087242
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "d99c2553-1991-494b-a831-be06f046680c",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -602,15 +598,15 @@
                             -85.34794264692101,
                             10.106915792626962
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "efd881ca-895e-4bd5-96fd-1edd96f9c4d4",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -624,15 +620,15 @@
                             -85.0236090990617,
                             10.264592621376613
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "d050f503-4682-4b10-bcab-49b875cc1696",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -646,15 +642,15 @@
                             -85.44259546672787,
                             10.158367104222759
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "e51a1642-bcf0-4b4c-8312-49a8e9cf0cae",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -668,15 +664,15 @@
                             -85.48978688106877,
                             9.915249968580751
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "77d6c568-f3d5-4128-81bc-c63227cf4b23",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -690,15 +686,15 @@
                             -85.58900396500114,
                             10.272137581342696
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "610cefa7-f465-4d27-be2e-3e969b7ef05c",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -712,15 +708,15 @@
                             -85.58658095000825,
                             10.403195803919033
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "ff6b9097-84f1-4603-8a48-84b1c76a48b9",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -734,15 +730,15 @@
                             -85.5869936079806,
                             10.563852943696942
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "3d3e3fd6-3999-429b-b910-632bce120019",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -756,15 +752,15 @@
                             -85.58757090539265,
                             10.54606469043489
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "Auto generated missing node",
                     "id": "158243f2-aceb-438c-a676-f88981008e87",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -778,15 +774,15 @@
                             -82.65999829572974,
                             9.626525207808848
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "12b27f25-b269-429d-b66c-c0ba49dd5b26",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -800,15 +796,15 @@
                             -83.065359848578,
                             8.678606649097873
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "fb483e84-2972-46f1-9795-dde6dd5b0cda",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -822,15 +818,15 @@
                             -83.1682035843747,
                             8.733221589972091
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "d38f6e88-4ab2-4db4-96a8-4ca3e8cf00bf",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -844,15 +840,15 @@
                             -85.08818723206741,
                             10.41004380180119
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
                     "name": "network fork",
                     "id": "c138c6bf-c04f-438a-9a41-aa5430cbc569",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -866,6 +862,10 @@
                             -83.52997309597306,
                             10.09863820056451
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 }
             ],
@@ -876,10 +876,6 @@
                     "start": "370fda29-890e-4c7b-bd15-715c1186aafd",
                     "end": "3fb035d4-e7fe-4d43-9387-23742aa1eee7",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -1030,6 +1026,10 @@
                                 8.527260514795442
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -1038,10 +1038,6 @@
                     "start": "8132218d-b9cf-4649-a539-6eb2ee47f40c",
                     "end": "c555fc9c-8221-4571-98d7-172363584b5a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -1092,6 +1088,10 @@
                                 9.282378405931638
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -1100,10 +1100,6 @@
                     "start": "c555fc9c-8221-4571-98d7-172363584b5a",
                     "end": "d58c60a0-83f9-408b-b14d-0090eda95382",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -1134,6 +1130,10 @@
                                 9.379198873879036
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -1142,10 +1142,6 @@
                     "start": "d58c60a0-83f9-408b-b14d-0090eda95382",
                     "end": "111d00a6-cca3-4e80-bb9c-5588ee404c36",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -1176,6 +1172,10 @@
                                 9.257899658054036
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -1184,10 +1184,6 @@
                     "start": "bd61ff89-cb2c-4481-9efd-545c0d80bf2e",
                     "end": "894f9bcd-e963-4ff5-863b-0956b8b108e1",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -1302,6 +1298,10 @@
                                 11.07244423017781
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -1310,10 +1310,6 @@
                     "start": "aa172da5-82e0-4070-9508-12188d7cc5d1",
                     "end": "e53f11fc-404c-4770-b560-03fed49a8e4a",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -1896,6 +1892,10 @@
                                 9.979454134094954
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -1904,10 +1904,6 @@
                     "start": "894f9bcd-e963-4ff5-863b-0956b8b108e1",
                     "end": "ea96bfdf-d6d8-4020-ac94-f0c8fc9d485f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2102,6 +2098,10 @@
                                 11.211469789290271
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2110,10 +2110,6 @@
                     "start": "169ead25-be7e-4476-846a-7bdd3b0a5c8b",
                     "end": "a29ad91f-a1bb-4c32-827c-77c4b235dfce",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2176,6 +2172,10 @@
                                 10.62215232931988
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2184,10 +2184,6 @@
                     "start": "a7016349-d52d-4cec-9c4a-3c50a6f10c58",
                     "end": "158243f2-aceb-438c-a676-f88981008e87",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2314,6 +2310,10 @@
                                 9.626525207808848
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2322,10 +2322,6 @@
                     "start": "3fb035d4-e7fe-4d43-9387-23742aa1eee7",
                     "end": "6477b975-4e25-4a89-97f0-31a4c35d3a52",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2380,6 +2376,10 @@
                                 8.644733510565182
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2388,10 +2388,6 @@
                     "start": "111d00a6-cca3-4e80-bb9c-5588ee404c36",
                     "end": "1162f893-b7a9-45f3-80ad-28b4a5f916be",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2458,6 +2454,10 @@
                                 9.53794019298074
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2466,10 +2466,6 @@
                     "start": "e51dfbce-dcfd-4d6b-adb2-9bd7d18b572d",
                     "end": "1162f893-b7a9-45f3-80ad-28b4a5f916be",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2504,6 +2500,10 @@
                                 9.53794019298074
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2512,10 +2512,6 @@
                     "start": "1162f893-b7a9-45f3-80ad-28b4a5f916be",
                     "end": "aa172da5-82e0-4070-9508-12188d7cc5d1",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2810,6 +2806,10 @@
                                 9.936807888543807
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2818,10 +2818,6 @@
                     "start": "b6bc93d8-41e0-4f0a-b6de-e6547fd9934b",
                     "end": "6d4deba0-e6b3-43a4-b510-deb0c2559545",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2872,6 +2868,10 @@
                                 8.819454879039093
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2880,10 +2880,6 @@
                     "start": "6477b975-4e25-4a89-97f0-31a4c35d3a52",
                     "end": "b6bc93d8-41e0-4f0a-b6de-e6547fd9934b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2926,6 +2922,10 @@
                                 9.017291102668409
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2934,10 +2934,6 @@
                     "start": "b6bc93d8-41e0-4f0a-b6de-e6547fd9934b",
                     "end": "8132218d-b9cf-4649-a539-6eb2ee47f40c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -2972,6 +2968,10 @@
                                 8.821634440882862
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -2980,10 +2980,6 @@
                     "start": "6477b975-4e25-4a89-97f0-31a4c35d3a52",
                     "end": "5e8236e9-889b-4a75-8ca2-d603b8dd5460",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -3130,6 +3126,10 @@
                                 9.257899657384266
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -3138,10 +3138,6 @@
                     "start": "c09984b0-a9cc-464e-8032-e501b3edfe2c",
                     "end": "65b46b2a-de2c-47da-b119-92a26f52d74f",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -3216,6 +3212,10 @@
                                 8.617088625100305
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -3224,10 +3224,6 @@
                     "start": "5e8236e9-889b-4a75-8ca2-d603b8dd5460",
                     "end": "c09984b0-a9cc-464e-8032-e501b3edfe2c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -3282,6 +3278,10 @@
                                 8.538152679725174
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -3290,10 +3290,6 @@
                     "start": "c09984b0-a9cc-464e-8032-e501b3edfe2c",
                     "end": "8de11245-5ea4-4156-a11d-1aeb61508624",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -3408,6 +3404,10 @@
                                 8.663538159529715
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -3416,10 +3416,6 @@
                     "start": "aa172da5-82e0-4070-9508-12188d7cc5d1",
                     "end": "ea2ce2a3-656f-464e-afb2-200ece1d3d95",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -3558,6 +3554,10 @@
                                 11.002840765956451
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -3566,10 +3566,6 @@
                     "start": "ea2ce2a3-656f-464e-afb2-200ece1d3d95",
                     "end": "d6ab5777-9f64-49d3-bc39-4f42b82df886",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -3596,6 +3592,10 @@
                                 11.063807398020176
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -3604,10 +3604,6 @@
                     "start": "d99c2553-1991-494b-a831-be06f046680c",
                     "end": "7f8ff6d2-9252-45a5-a28c-0b01f5c64d1c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -3858,6 +3854,10 @@
                                 9.712302505087242
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -3866,10 +3866,6 @@
                     "start": "d99c2553-1991-494b-a831-be06f046680c",
                     "end": "efd881ca-895e-4bd5-96fd-1edd96f9c4d4",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4032,6 +4028,10 @@
                                 10.264592621376613
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4040,10 +4040,6 @@
                     "start": "e53f11fc-404c-4770-b560-03fed49a8e4a",
                     "end": "efd881ca-895e-4bd5-96fd-1edd96f9c4d4",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4170,6 +4166,10 @@
                                 10.264592621376613
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4178,10 +4178,6 @@
                     "start": "d050f503-4682-4b10-bcab-49b875cc1696",
                     "end": "e51a1642-bcf0-4b4c-8312-49a8e9cf0cae",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4240,6 +4236,10 @@
                                 9.915249968580751
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4248,10 +4248,6 @@
                     "start": "d050f503-4682-4b10-bcab-49b875cc1696",
                     "end": "d99c2553-1991-494b-a831-be06f046680c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4286,6 +4282,10 @@
                                 10.106915792626962
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4294,10 +4294,6 @@
                     "start": "77d6c568-f3d5-4128-81bc-c63227cf4b23",
                     "end": "d050f503-4682-4b10-bcab-49b875cc1696",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4344,6 +4340,10 @@
                                 10.158367104222759
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4352,10 +4352,6 @@
                     "start": "77d6c568-f3d5-4128-81bc-c63227cf4b23",
                     "end": "610cefa7-f465-4d27-be2e-3e969b7ef05c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4522,6 +4518,10 @@
                                 10.403195803919033
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4530,10 +4530,6 @@
                     "start": "bd61ff89-cb2c-4481-9efd-545c0d80bf2e",
                     "end": "ff6b9097-84f1-4603-8a48-84b1c76a48b9",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4576,6 +4572,10 @@
                                 10.563852943696942
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4584,10 +4584,6 @@
                     "start": "ff6b9097-84f1-4603-8a48-84b1c76a48b9",
                     "end": "3d3e3fd6-3999-429b-b910-632bce120019",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4714,6 +4710,10 @@
                                 10.54606469043489
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4722,10 +4722,6 @@
                     "start": "3d3e3fd6-3999-429b-b910-632bce120019",
                     "end": "610cefa7-f465-4d27-be2e-3e969b7ef05c",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4756,6 +4752,10 @@
                                 10.54606469043489
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4764,10 +4764,6 @@
                     "start": "12b27f25-b269-429d-b66c-c0ba49dd5b26",
                     "end": "111d00a6-cca3-4e80-bb9c-5588ee404c36",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4806,6 +4802,10 @@
                                 8.678606649097873
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4814,10 +4814,6 @@
                     "start": "12b27f25-b269-429d-b66c-c0ba49dd5b26",
                     "end": "fb483e84-2972-46f1-9795-dde6dd5b0cda",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4896,6 +4892,10 @@
                                 8.733221589972091
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4904,10 +4904,6 @@
                     "start": "5e8236e9-889b-4a75-8ca2-d603b8dd5460",
                     "end": "fb483e84-2972-46f1-9795-dde6dd5b0cda",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -4938,6 +4934,10 @@
                                 8.795734346648851
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -4946,10 +4946,6 @@
                     "start": "efd881ca-895e-4bd5-96fd-1edd96f9c4d4",
                     "end": "d38f6e88-4ab2-4db4-96a8-4ca3e8cf00bf",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -5004,6 +5000,10 @@
                                 10.41004380180119
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -5012,10 +5012,6 @@
                     "start": "d38f6e88-4ab2-4db4-96a8-4ca3e8cf00bf",
                     "end": "bd61ff89-cb2c-4481-9efd-545c0d80bf2e",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -5110,6 +5106,10 @@
                                 10.628555561361075
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -5118,10 +5118,6 @@
                     "start": "d38f6e88-4ab2-4db4-96a8-4ca3e8cf00bf",
                     "end": "c138c6bf-c04f-438a-9a41-aa5430cbc569",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -5380,6 +5376,10 @@
                                 10.09863820056451
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -5388,10 +5388,6 @@
                     "start": "a7016349-d52d-4cec-9c4a-3c50a6f10c58",
                     "end": "c138c6bf-c04f-438a-9a41-aa5430cbc569",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -5546,6 +5542,10 @@
                                 10.09863820056451
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -5554,10 +5554,6 @@
                     "start": "c138c6bf-c04f-438a-9a41-aa5430cbc569",
                     "end": "aa172da5-82e0-4070-9508-12188d7cc5d1",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -5736,6 +5732,10 @@
                                 9.936807888241992
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -5744,10 +5744,6 @@
                     "start": "894f9bcd-e963-4ff5-863b-0956b8b108e1",
                     "end": "169ead25-be7e-4476-846a-7bdd3b0a5c8b",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -5826,6 +5822,10 @@
                                 10.80377409455626
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 },
                 {
@@ -5834,10 +5834,6 @@
                     "start": "169ead25-be7e-4476-846a-7bdd3b0a5c8b",
                     "end": "ea2ce2a3-656f-464e-afb2-200ece1d3d95",
                     "status": "operational",
-                    "physicalInfrastructureProvider": {
-                        "id": "UFINET",
-                        "name": "Ufinet"
-                    },
                     "networkProviders": [
                         {
                             "id": "UFINET-CR",
@@ -5932,6 +5928,10 @@
                                 11.002840765956451
                             ]
                         ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "UFINET",
+                        "name": "Ufinet"
                     }
                 }
             ],

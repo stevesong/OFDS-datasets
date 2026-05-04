@@ -1,0 +1,3353 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.34753229799198,
+                    6.495177845772431
+                ]
+            },
+            "properties": {
+                "name": "Surulere",
+                "id": "bb2eb003-5cca-4fab-b586-b1e20556aa42",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.33573877946437,
+                    7.1131928338173
+                ]
+            },
+            "properties": {
+                "name": "Abeokuta",
+                "id": "55d6dee4-1ea6-4caa-b9bc-b5239cc115ca",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.85699415954376,
+                    7.37316924609507
+                ]
+            },
+            "properties": {
+                "name": "Ibadan",
+                "id": "5d616773-23d8-4e9c-a669-1a8eef939d11",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.57823367496414,
+                    7.800781373759041
+                ]
+            },
+            "properties": {
+                "name": "Oshogbo",
+                "id": "dfd1ec7c-dc03-4dbc-84d3-6c7be30134eb",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.82189307525336,
+                    9.16752213643528
+                ]
+            },
+            "properties": {
+                "name": "Jebba",
+                "id": "aedcd1a6-8eef-415d-a7e3-b3472db1d1f3",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.662555888743665,
+                    8.19053156264527
+                ]
+            },
+            "properties": {
+                "name": "Offa",
+                "id": "dbf13fd4-3656-4285-bc5c-2cd8826eb729",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.82978323980178,
+                    9.97254907274367
+                ]
+            },
+            "properties": {
+                "name": "Shiroro",
+                "id": "a3785941-2b6b-4f8a-9d6f-2152f0520eb9",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.190482460636658,
+                    9.221223400097779
+                ]
+            },
+            "properties": {
+                "name": "Suleja",
+                "id": "21aef2ef-e7cb-47d7-a329-21a97517b63f",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.20882095505291,
+                    9.19834447911893
+                ]
+            },
+            "properties": {
+                "name": "Katampe",
+                "id": "7974beca-ad38-4f03-9fa7-758a7e814441",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.163794259383849,
+                    7.258391222907997
+                ]
+            },
+            "properties": {
+                "name": "Akure",
+                "id": "bdf0be04-5793-4e85-9d4e-9e05ce297354",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63457140102455,
+                    6.294586523607501
+                ]
+            },
+            "properties": {
+                "name": "Benin",
+                "id": "a8c440f7-d565-4e6e-85a2-f203cebf5f39",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.80277176346895,
+                    6.116358900723811
+                ]
+            },
+            "properties": {
+                "name": "Onitsha",
+                "id": "a921b952-2ea0-4c02-8047-0bd65005ab96",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.35545057430515,
+                    5.09994011090037
+                ]
+            },
+            "properties": {
+                "name": "Aba",
+                "id": "6b9ae389-ac22-4d36-b206-9e811ef84846",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.035098909778819,
+                    4.83207768627546
+                ]
+            },
+            "properties": {
+                "name": "Portharcourt",
+                "id": "affc806b-bf94-407b-9a19-ea339705da8a",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.369420472448545,
+                    6.572856979746293
+                ]
+            },
+            "properties": {
+                "name": "Maryland",
+                "id": "caff026e-89d2-48b8-afcc-2a55c6a3eb42",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.24944804256076,
+                    6.602331052666219
+                ]
+            },
+            "properties": {
+                "name": "Ikeja West",
+                "id": "6ac48bef-a6f9-4551-8772-8a29670bca7c",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.61591014955634,
+                    6.56600968562406
+                ]
+            },
+            "properties": {
+                "name": "Egbin",
+                "id": "6b8b8324-a816-48aa-82f5-53e509bcb408",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.42206062806794,
+                    6.46273772134824
+                ]
+            },
+            "properties": {
+                "name": "VI",
+                "id": "7cf622d9-1fbe-4605-95aa-ea7d1538ea94",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.524588622222883,
+                    11.991119417519375
+                ]
+            },
+            "properties": {
+                "name": "Kano",
+                "id": "2213aeae-bb69-409b-9513-2a1c8b67f1c0",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.71188785398543,
+                    11.126797848734
+                ]
+            },
+            "properties": {
+                "name": "Zaria",
+                "id": "cec661b6-b72b-4ca6-a439-b50621dae6f9",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.371827352623928,
+                    10.566818964201282
+                ]
+            },
+            "properties": {
+                "name": "Kaduna",
+                "id": "f715df8c-9a60-4969-8467-416e174daa55",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.617921766809026,
+                    12.968955192245465
+                ]
+            },
+            "properties": {
+                "name": "Katsina",
+                "id": "56af8ee1-5643-456f-ba42-2fe0a459ae0c",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.84660118932969,
+                    9.9873213966767
+                ]
+            },
+            "properties": {
+                "name": "Jos",
+                "id": "797adc31-cfdd-4f80-8785-2cec61ac25b4",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.58263147982573,
+                    8.500369198352441
+                ]
+            },
+            "properties": {
+                "name": "Lafia",
+                "id": "abf7fd70-38a1-4b9b-8e9c-a061380bd8f5",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53777852853705,
+                    6.45715047860647
+                ]
+            },
+            "properties": {
+                "name": "Enugu",
+                "id": "bb9b9da9-64fb-4ea5-a872-96baedbfe81b",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.571273912429993,
+                    7.626948548296478
+                ]
+            },
+            "properties": {
+                "name": "Makurdi",
+                "id": "df86974a-d038-43a0-989f-c554a04e770b",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.31788229249161,
+                    5.05567857241355
+                ]
+            },
+            "properties": {
+                "name": "Calabar",
+                "id": "73c7eb1c-741d-4210-a077-f8907b526a61",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.068255070663887,
+                    5.487717170557391
+                ]
+            },
+            "properties": {
+                "name": "Owerri",
+                "id": "11905cf7-bacd-433c-ab08-25e7298f0d31",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1969558744055,
+                    12.437685262319894
+                ]
+            },
+            "properties": {
+                "name": "Birnin Kebbi",
+                "id": "e689c93a-8846-4062-8f6d-ab8d109cdfae",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.20647767592094,
+                    13.0283283012544
+                ]
+            },
+            "properties": {
+                "name": "Sokoto",
+                "id": "bd371fcc-3580-4a11-8d72-d05392cef0d5",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.61367437538715,
+                    9.86071860723085
+                ]
+            },
+            "properties": {
+                "name": "Kainji",
+                "id": "671a78bd-a256-477d-b27c-d68a4433c506",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.84992981346477,
+                    10.2850202171577
+                ]
+            },
+            "properties": {
+                "name": "Bauchi",
+                "id": "71eecfe0-8b20-4fd2-840b-9094c2f9b821",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1370912323509,
+                    10.3200195437574
+                ]
+            },
+            "properties": {
+                "name": "Gombe",
+                "id": "8b627ce5-81a5-4d8f-8e68-b7c3fc43c748",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.383767182645157,
+                    8.969629708422511
+                ]
+            },
+            "properties": {
+                "name": "Jalingo",
+                "id": "3c2a2910-94bb-477f-8f32-4134ebd2a0bd",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3930251999094,
+                    9.27140354738128
+                ]
+            },
+            "properties": {
+                "name": "Yola",
+                "id": "54733272-fa41-42d7-a63b-a19cef44474f",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.035781541339505,
+                    11.723924123252905
+                ]
+            },
+            "properties": {
+                "name": "Damatru",
+                "id": "cfad776a-71ed-4716-b089-0db88c78e81b",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.083639703600603,
+                    11.739356903435297
+                ]
+            },
+            "properties": {
+                "name": "Maiduguri",
+                "id": "e03a742b-7ccd-40c9-b95a-ce2d50a763a5",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1855714271816,
+                    10.6324619968189
+                ]
+            },
+            "properties": {
+                "name": "Biu",
+                "id": "4c809161-4fa8-442e-b34d-5bd5b567b09f",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.759460208520352,
+                    11.153739420941315
+                ]
+            },
+            "properties": {
+                "name": "Damboa",
+                "id": "70c3cfbb-bc24-4404-b6ed-14e9d7ec1885",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.018253092959403,
+                    12.47005130896792
+                ]
+            },
+            "properties": {
+                "name": "Hadejia",
+                "id": "9fb9abac-beee-47fb-9544-d17084e76ccd",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.34902251879107,
+                    11.6901480302238
+                ]
+            },
+            "properties": {
+                "name": "Dutse",
+                "id": "61bbe49b-5a69-461e-b8a2-79b8c6ef3f3d",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18340032527053,
+                    13.0430096405967
+                ]
+            },
+            "properties": {
+                "name": "Dosso",
+                "id": "ae59d2e9-4717-4b31-807a-2563239e7dae",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.89616168104663,
+                    13.50591007261135
+                ]
+            },
+            "properties": {
+                "name": "Gazaoua",
+                "id": "c6dd1eed-b86b-4e86-91b4-b11f7fb63653",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.50576605668368,
+                    6.62503439805549
+                ]
+            },
+            "properties": {
+                "name": "Ikorodu",
+                "id": "1241ae9e-62c5-4d43-b2d4-6485c2b2efaf",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.64874289341679,
+                    6.739412829229119
+                ]
+            },
+            "properties": {
+                "name": "Sakete",
+                "id": "55d79189-246e-4bf8-9feb-0667e964adae",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.490657394162162,
+                    9.06576108983875
+                ]
+            },
+            "properties": {
+                "name": "Nitel",
+                "id": "38633ec9-f169-4aa3-a32d-abb031f0b995",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.49047697236209,
+                    9.06551584348189
+                ]
+            },
+            "properties": {
+                "name": "Kenaz",
+                "id": "f06554a3-eef2-4f35-a408-929fa948bd7a",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.49242465890305,
+                    9.06234103467502
+                ]
+            },
+            "properties": {
+                "name": "Abuja",
+                "id": "01961628-5289-4d1d-972c-e4196c597cce",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.505346862184351,
+                    9.089487712435947
+                ]
+            },
+            "properties": {
+                "name": "HQ",
+                "id": "ca409579-8b26-49f4-bd8d-bac442dbb248",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.50403676302569,
+                    9.101383126356094
+                ]
+            },
+            "properties": {
+                "name": "Gurara",
+                "id": "66c1ccd2-f9d7-49c9-9d40-3e3457f0d116",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08379918648352,
+                    6.5050536476658225
+                ]
+            },
+            "properties": {
+                "name": "Agbara",
+                "id": "993d65ba-86e4-41e3-aa45-63749c947291",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2058518840098187,
+                    6.899036568212066
+                ]
+            },
+            "properties": {
+                "name": "Papalanto",
+                "id": "79e8f4bc-1de2-4949-a420-28879c3f46bc",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67997956196541,
+                    5.15397807929474
+                ]
+            },
+            "properties": {
+                "name": "Ikot Ekpene",
+                "id": "a306b907-45fc-442e-a786-f4238d352fe7",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.62935396625265,
+                    7.82369869743844
+                ]
+            },
+            "properties": {
+                "name": "Lokoja",
+                "id": "1954faaa-1350-4bc7-8096-94d79b77ade4",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6534666697277,
+                    7.470589618212979
+                ]
+            },
+            "properties": {
+                "name": "Ajaokuta",
+                "id": "12df0184-a253-479b-a13b-adb10a0d0b4b",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.071704662754,
+                    8.97746160263215
+                ]
+            },
+            "properties": {
+                "name": "Gwagwalada",
+                "id": "8a52d782-250a-4fa8-93a2-7b5b14fc6ec2",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.49045684866971,
+                    9.00180032219353
+                ]
+            },
+            "properties": {
+                "name": "Apo",
+                "id": "d341c231-088c-46e2-882d-485114913f07",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.44187402579298,
+                    9.02485636770411
+                ]
+            },
+            "properties": {
+                "name": "Kukwaba",
+                "id": "9cb7d2d0-38ff-4d51-94e0-a9492407f9be",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31844962247292,
+                    6.69435413785881
+                ]
+            },
+            "properties": {
+                "name": "Oke Aro",
+                "id": "81a08a22-f024-4dcd-b8a0-ae14d9037b10",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.57103200684864,
+                    6.47112536235809
+                ]
+            },
+            "properties": {
+                "name": "Ajah",
+                "id": "7c16f666-3bb6-48e6-9b21-63e61aaf40d8",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.50293449804714,
+                    6.43518336421095
+                ]
+            },
+            "properties": {
+                "name": "Lekki",
+                "id": "fa3e9474-6671-448a-91e5-8725819e88df",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.36557014519584,
+                    6.45419181836297
+                ]
+            },
+            "properties": {
+                "name": "Apapa",
+                "id": "ff00d45d-6e62-4e4c-877d-6fd0e824564f",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.54226102899466,
+                    9.58707145652226
+                ]
+            },
+            "properties": {
+                "name": "Minna",
+                "id": "b7106f1b-cdc0-4c8f-849a-f0537d4f5450",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.03100831623203,
+                    9.479664196295676
+                ]
+            },
+            "properties": {
+                "name": "Lemu",
+                "id": "59c6b7a9-cd45-4478-881e-dbb82ae0df62",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.92259929418702,
+                    4.65203096512535
+                ]
+            },
+            "properties": {
+                "name": "Eket",
+                "id": "8415d5d3-bdcf-483a-bbbc-c13fa437acf5",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.56880409238724,
+                    4.56405914240959
+                ]
+            },
+            "properties": {
+                "name": "Ikot Aba",
+                "id": "ca091780-9774-429a-b367-e68a93f149df",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.144378482692648,
+                    7.1717920825863715
+                ]
+            },
+            "properties": {
+                "name": "Otukpo",
+                "id": "f87e5dbd-25bb-42dc-b36c-41f6d8fc5c2a",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.86360186882669,
+                    8.80561726666954
+                ]
+            },
+            "properties": {
+                "name": "Keffi",
+                "id": "80dd84a6-39aa-431a-af09-564f672756e1",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20938340824211,
+                    6.65473428356317
+                ]
+            },
+            "properties": {
+                "name": "Otta",
+                "id": "c646ba9f-0f20-4a94-abc5-37b7b969de93",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.61729787386522,
+                    6.8147758523487
+                ]
+            },
+            "properties": {
+                "name": "Sagamu",
+                "id": "45f49615-7747-4d73-a08c-20d354ec5b1b",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.39701714715654,
+                    8.89922682052846
+                ]
+            },
+            "properties": {
+                "name": "Akwanga",
+                "id": "353b2e4a-29e7-4142-9db0-a1a1f560cfd4",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.852510041755871,
+                    5.60760474651599
+                ]
+            },
+            "properties": {
+                "name": "Warri",
+                "id": "b7e757de-a8d6-4963-ba90-a12518a63152",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.438674871105782,
+                    5.034988904475917
+                ]
+            },
+            "properties": {
+                "name": "Yenagoa",
+                "id": "7ca712e8-6977-4324-a5bd-4c6183c3b59b",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70153933938465,
+                    8.39282935449112
+                ]
+            },
+            "properties": {
+                "name": "Illorin",
+                "id": "993dc7d4-985c-432f-a013-ae7ac8f82b0d",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.38781059899756,
+                    6.41245397138356
+                ]
+            },
+            "properties": {
+                "name": "Saka",
+                "id": "39ce4048-c68a-4769-aa1e-85078a03e03a",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.035098909778819,
+                    4.83174361719172
+                ]
+            },
+            "properties": {
+                "name": "Dline",
+                "id": "f9ee4b36-c686-40cf-8816-f30b431d23a9",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1667490066467,
+                    11.6853887578615
+                ]
+            },
+            "properties": {
+                "name": "Azare",
+                "id": "b03c5186-7eb8-4856-a30d-a14a813ac818",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.59161366298381,
+                    9.33150922373097
+                ]
+            },
+            "properties": {
+                "name": "Parakou",
+                "id": "5ba9a3e9-2802-485b-807b-7123d3214936",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.437754864607802,
+                    5.51097455265857
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "8d641831-f004-4e35-a34a-a5c200be6b37",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.756810694321002,
+                    10.811178960838982
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "958901b9-3f1a-484e-88d9-9a22dab769f6",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1396872935677,
+                    11.8561440850007
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "c0f9a195-54a9-45fb-8aba-2d0ce1e3b9c4",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.99501074096423,
+                    5.16284271375634
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "50d3e5a6-a775-4a3c-93d3-55debc6b41f9",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.729064278465612,
+                    6.3665173655902825
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "5fdd7a47-3cfb-4cf7-979c-511a8d8cbefd",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.992153027988,
+                    6.7632818226101
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "88efc7a7-5841-4861-8ac5-a33785376b72",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4594598316619,
+                    10.8051497311463
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "37d2f750-fe80-46f4-8d3e-86b875be1e37",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.27466534776487,
+                    5.19150862576316
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "342d9f22-1b8a-4ee3-975a-1aed4305f75c",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5000644928301,
+                    10.2993768608085
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "1c4f5146-0162-4831-a234-e0143f5dc4ce",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.495754039119317,
+                    10.293312507866514
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "5b736539-792a-42c8-b4ca-fbe44a628b08",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.271647723846976,
+                    6.457247288575531
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "beb8f9c7-462c-4462-9db2-6a6959059bdf",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.47560065632149,
+                    11.4582551085206
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "79a131cb-fc51-491b-8673-e6d16e6ba39c",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0043226961491,
+                    4.54187797954019
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "5fe85c3e-3440-4383-82ca-f0ea2bdff630",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.527727366194595,
+                    8.81889621659878
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "e72ea440-e11c-474e-9ea4-82a1bf86861b",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.72783738247183,
+                    12.168155546816266
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "0826ff88-d36c-4866-907a-bab4cd8e031f",
+                "networkProviders": [
+                    {
+                        "id": "b8cd9094-c1e2-42c1-8708-a3cf7bca392f",
+                        "name": "Phase3 Nigeria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "65975f7f-3f5b-4ede-812b-731bf694cd14",
+                    "name": "Phase3 Nigeria"
+                },
+                "network": {
+                    "id": "03701143-7542-4909-a462-25c81e812623",
+                    "name": "Phase3 Nigeria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
